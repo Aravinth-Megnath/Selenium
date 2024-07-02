@@ -1,0 +1,451 @@
+,Names,Bus_fare,Ratings,Seats,Bus_types,Starting_time,Duration,Ending_time,Starting_point
+0,Kyros Connect,INR 250,4.1,,Bharat Benz A/C Semi Sleeper (2+2),12:15,02h 10m,14:25,
+1,Kyros Connect,INR 250,4.1,,Bharat Benz A/C Semi Sleeper (2+2),12:15,03h 25m,15:40,
+2,Cochin Express,INR 800,4.0,,A/C Sleeper (2+1),02:30,02h 15m,04:45,
+3,Deer Bus LLP,INR 700,4.0,,VE A/C Semi Sleeper (2+2),08:00,02h 00m,10:00,
+4,Cochin Express,INR 800,3.2,,A/C Sleeper (2+1),02:30,02h 45m,05:15,
+5,Kallada Travels (Suresh Kallada),INR 500,4.0,,A/C Sleeper (2+1),03:30,01h 15m,04:45,
+6,Cochin Express,INR 667,4.0,,Volvo Multi-Axle B9R A/c Semi Sleeper (2+2),02:20,02h 25m,04:45,
+7,LIYAS TOURS,1199,4.0,,Bharat Benz A/C Sleeper (2+1),03:55,01h 40m,05:35,
+8,Cochin Express,INR 667,3.0,,Volvo Multi-Axle B9R A/c Semi Sleeper (2+2),02:20,02h 25m,04:45,
+9,RAVINA TRAVELS,INR 1199,,,A/C Sleeper (2+1),14:35,02h 40m,17:15,
+10,MMK Travels,INR 950,4.5,16 Seats available,A/C Sleeper (2+1),22:15,07h 15m,05:30,Majestic
+11,NS Transports,INR 1200,4.4,9 Seats available,A/C Sleeper (2+1),22:15,07h 20m,05:35,Kalasipalyam
+12,Kalpaka Travels,INR 1100,4.4,13 Seats available,A/C Sleeper (2+1),22:10,06h 50m,05:00,Kalasipalyam
+13,AdSAAM BUS,832,4.3,24 Seats available,Bharat Benz A/C Sleeper (2+1),19:55,08h 50m,04:45,8th Mail Signal (Pickup Van/Bus)
+14,Ashoka Travel and Logistics,900,4.3,4 Seats available,A/C Sleeper (2+1),21:45,07h 45m,05:30,Kalasipalyam
+15,GOLDEN TRAVEL AGENCIES,INR 1000,4.3,18 Seats available,Volvo A/C Semi Sleeper (2+2),22:45,05h 45m,04:30,Kalasipalyam
+16,Ashoka Travel and Logistics,INR 800,4.1,5 Seats available,NON A/C Semi Sleeper (2+2),09:00,08h 30m,17:30,Kalasipalyam
+17,GOLDEN TRAVEL AGENCIES,INR 900,4.1,17 Seats available,NON A/C Sleeper (2+1),22:30,06h 15m,04:45,Kalasipalyam
+18,NS Transports,INR 800,3.9,20 Seats available,Non A/C Seater / Sleeper (2+1),22:00,08h 00m,06:00,Kalasipalyam
+19,Ashoka Travel and Logistics,800,4.0,19 Seats available,A/C Semi Sleeper (2+2),22:30,07h 15m,05:45,Madiwala
+20,Sugama Tourist,INR 800,4.0,13 Seats available,A/C Sleeper (2+1),22:00,07h 30m,05:30,Kalasipalyam
+21,GOLDEN TRAVEL AGENCIES,INR 899,4.0,28 Seats available,A/C Sleeper (2+1),21:45,07h 40m,05:25,Mathikere
+22,P K Travels,INR 900,3.9,17 Seats available,A/C Seater / Sleeper (2+1),19:15,10h 15m,05:30,Kalasipalyam
+23,GOLDEN TRAVEL AGENCIES,INR 749,3.9,11 Seats available,Non AC Seater (2+2),22:15,06h 45m,05:00,Kalasipalyam
+24,NS Transports,INR 899,4.2,27 Seats available,NON A/C Sleeper (2+1),22:45,06h 35m,05:20,Kalasipalyam
+25,P K Travels,INR 799,4.0,32 Seats available,NON A/C Semi Sleeper (2+2),21:45,07h 15m,05:00,Kalasipalyam
+26,Ashoka Travel and Logistics,700,3.4,26 Seats available,NON A/C Semi Sleeper (2+2),22:00,07h 30m,05:30,Kalasipalyam
+27,National travels and logistics,549,3.9,28 Seats available,Non A/C Seater / Sleeper (2+1),22:40,07h 05m,05:45,Kalasipalyam
+28,Kalpaka Travels,INR 800,3.5,23 Seats available,NON A/C Seater/ Sleeper (2+1),21:45,07h 35m,05:20,Madiwala
+29,Yathra Logistics,INR 799,3.6,30 Seats available,A/C Sleeper (2+1),22:10,08h 15m,06:25,Kengeri
+30,Arya Travels,INR 849,3.0,32 Seats available,Volvo A/C Semi Sleeper (2+2),22:15,06h 25m,04:40,Kalasipalyam
+31,Kalpaka Travels,INR 800,3.1,31 Seats available,NON A/C Seater/ Sleeper (2+1),22:00,07h 40m,05:40,Kalasipalyam
+32,Kalpaka Travels,INR 800,3.7,18 Seats available,NON A/C Semi Sleeper (2+2),21:30,08h 15m,05:45,White Field
+33,Arya Travels,INR 945,2.8,19 Seats available,A/C Sleeper (2+1),19:45,09h 25m,05:10,Kalasipalyam
+34,Kalpaka Travels,INR 800,3.9,28 Seats available,NON A/C Seater/ Sleeper (2+1),22:00,07h 00m,05:00,Kalasipalyam
+35,Sam Tourist,INR 999,3.0,21 Seats available,A/C Sleeper (2+1),22:35,07h 30m,06:05,Kalasipalyam
+36,National travels and logistics,INR 799,,,Bharat Benz A/C Sleeper (2+1),22:45,07h 05m,05:50,
+37,Surya Connect,INR 630,4.3,31 Seats available,Volvo A/C Semi Sleeper (2+2),23:20,02h 50m,02:10,Thrissur Town
+38,Madhavi Travels,INR 549,4.1,26 Seats available,A/C Semi Sleeper (2+2),23:20,02h 55m,02:15,Paliyekkara Toll
+39,Madhavi Travels,INR 649,4.1,28 Seats available,A/C Semi Sleeper (2+2),23:59,03h 36m,03:35,Amala Hospital
+40,Madhavi Travels,INR 999,4.1,2 Seats available,A/C Sleeper (2+1),02:00,23h 45m,01:45,KSRTC Bus Stand
+41,Madhavi Travels,INR 899,4.1,25 Seats available,A/C Sleeper (2+1),23:45,02h 50m,02:35,KSRTC Bus Stand
+42,Madhavi Travels,INR 549,4.1,14 Seats available,A/C Semi Sleeper (2+2),23:59,03h 36m,03:35,Paliyekkara Toll
+43,Madhavi Travels,INR 799,4.1,22 Seats available,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),02:05,02h 45m,04:50,Paliyekkara Toll
+44,Madhavi Travels,INR 899,4.1,21 Seats available,A/C Sleeper (2+1),23:55,02h 50m,02:45,Thrissur
+45,Cochin Express,INR 900,4.0,49 Seats available,A/C Sleeper (2+1),23:40,02h 50m,02:30,Thrissur
+46,UFO Bus,648,4.0,36 Seats available,Volvo Multi-Axle B9R A/c Semi Sleeper (2+2),23:55,01h 55m,01:50,KSRTC Bus Stand
+47,Adrin Travels,INR 1000,4.0,36 Seats available,A/C Seater/Sleeper (2+1),22:35,02h 50m,01:25,Thrissur
+48,Kalpaka Travels 1,INR 600,4.0,22 Seats available,A/C Semi Sleeper (2+2),23:55,03h 05m,03:00,Thrissur
+49,Ubc travels,INR 900,3.9,41 Seats available,A/C Seater/Sleeper (2+1),23:20,03h 40m,03:00,Thrissur
+50,Ubc travels,INR 700,3.9,22 Seats available,A/C Semi Sleeper (2+2),22:30,02h 30m,01:00,Sakthan Thamburan Bus Stand
+51,Kallada Travels (Suresh Kallada),INR 900,3.2,24 Seats available,A/C Sleeper (2+1),01:15,02h 15m,03:30,Sakthan Thamburan Bus Stand
+52,Kallada Travels (Suresh Kallada),INR 1000,3.2,23 Seats available,A/C Sleeper (2+1),23:55,02h 55m,02:50,KSRTC Bus Stand
+53,Kallada Travels (Suresh Kallada),INR 1100,3.2,30 Seats available,A/C Sleeper (2+1),22:31,02h 54m,01:25,Thrissur
+54,Arya Travels,INR 899,3.1,23 Seats available,A/C Sleeper (2+1),23:59,03h 16m,03:15,Pudukkad Jn
+55,Kudla Travels ( ST MARIA ),INR 1500,3.1,35 Seats available,A/C Sleeper (2+1),22:35,01h 24m,23:59,Thrissur
+56,EMERALD TRAVELS,INR 1100,3.1,46 Seats available,A/C Sleeper (2+1),02:15,02h 10m,04:25,Thrissur
+57,Galaxy Tours,INR 800,2.9,19 Seats available,A/C Semi Sleeper (2+2),02:45,03h 15m,06:00,Thrissur
+58,Galaxy Tours,INR 650,2.9,45 Seats available,2+1 Air Suspension A/C Seater / Sleeper,02:45,03h 15m,06:00,KSRTC Bus Stand
+59,Madhavi Travels,INR 699,4.1,39 Seats available,A/C Semi Sleeper (2+2),02:05,02h 45m,04:50,KSRTC Bus Stand
+60,UFO Bus,630,4.0,22 Seats available,Volvo Multi-Axle B9R A/c Semi Sleeper (2+2),23:40,03h 05m,02:45,
+61,LIYAS TOURS,1149,4.0,32 Seats available,Bharat Benz A/C Sleeper (2+1),23:47,04h 08m,03:55,
+62,UFO Bus,603,4.0,41 Seats available,Volvo A/C Semi Sleeper (2+2),23:55,02h 45m,02:40,
+63,Cochin Express,INR 700,4.0,36 Seats available,Volvo Multi-Axle B9R A/c Semi Sleeper (2+2),23:30,02h 50m,02:20,
+64,Kalpaka Travels 1,INR 800,4.0,,A/C Sleeper (2+1),23:40,02h 50m,02:30,
+65,Arya Travels,INR 595,3.1,,Volvo A/C Semi Sleeper (2+2),23:59,03h 31m,03:30,
+66,Arya Travels,INR 645,3.1,,Volvo Multi-Axle A/C Semi Sleeper (2+2),23:59,03h 12m,03:11,
+67,EMERALD TRAVELS,INR 700,3.1,,Bharat Benz A/C Semi Sleeper (2+2),02:30,02h 00m,04:30,
+68,Shama Transport,INR 850,,,VE A/C Sleeper (2+1),21:05,02h 50m,23:55,
+69,A1 Travels,INR 700,2.5,39 Seats available,A/C Seater / Sleeper (2+1),20:05,06h 55m,03:00,Calicut
+70,Ubc travels,INR 900,3.9,32 Seats available,A/C Seater/Sleeper (2+1),01:45,06h 15m,08:00,Kozhikode
+71,Ubc travels,INR 700,3.9,35 Seats available,A/C Semi Sleeper (2+2),00:25,07h 25m,07:50,Kozhikode
+72,Sonia Travels,INR 750,3.8,,A/C Seater/Sleeper (2+1),23:30,06h 55m,06:25,
+73,EMERALD TRAVELS,INR 800,3.2,,Bharat Benz A/C Semi Sleeper (2+2),21:55,05h 35m,03:30,
+74,Holy Maria Travels,INR 800,2.9,,A/C Semi Sleeper (2+2),00:10,06h 40m,06:50,
+75,KSRTC (Kerala) - 900,INR 103,3.6,37 Seats available,SUPER DELUXE AIR BUS,11:00,03h 15m,14:15,"Thiruvalluvar b s, gandhipuram"
+76,KSRTC (Kerala) - 808,INR 103,4.2,,Super Fast Non AC Seater (2+3),21:00,03h 25m,00:25,
+77,KSRTC (Kerala) - 966,INR 103,2.6,,SUPER DELUXE AIR BUS,19:00,02h 30m,21:30,
+78,Kyros Connect,INR 799,4.3,19 Seats available,Bharat Benz A/C Semi Sleeper (2+2),13:55,07h 05m,21:00,Kalpetta
+79,MMK Travels,INR 850,4.4,17 Seats available,VE A/C Seater / Sleeper (2+1),23:45,06h 15m,06:00,Vythiri
+80,DLT BUS,INR 899,4.0,23 Seats available,A/C Sleeper (2+1),23:45,06h 45m,06:30,Kalpetta
+81,Silver Line Travels,INR 599,4.3,19 Seats available,NON A/C Semi Sleeper (2+2),22:45,07h 00m,05:45,KALPETTA
+82,CHANCHALAS TOURS AND TRAVELS,759,4.6,21 Seats available,A/C Semi Sleeper (2+2),17:30,06h 10m,23:40,Vythiri
+83,Kyros Connect,INR 799,3.7,20 Seats available,Bharat Benz A/C Semi Sleeper (2+2),13:57,07h 03m,21:00,KALPETTA
+84,MMK Travels,INR 850,4.6,23 Seats available,VE A/C Seater / Sleeper (2+1),23:45,06h 15m,06:00,Kalpetta
+85,SURAJ TRAVEL HOUSE,INR 700,3.8,25 Seats available,VE A/C Seater / Sleeper (2+1),22:30,07h 30m,06:00,kalpatta
+86,Deer Bus LLP,INR 700,3.9,25 Seats available,VE A/C Semi Sleeper (2+2),10:00,07h 00m,17:00,Wayanad
+87,Suraj Holidays,INR 950,3.8,25 Seats available,VE A/C Sleeper (2+1),23:58,07h 17m,07:15,Kalpetta
+88,P K Travels,INR 1100,4.0,16 Seats available,A/C Sleeper (2+1),23:35,06h 55m,06:30,Kalpetta
+89,DA Transports,INR 849,3.5,15 Seats available,A/C Sleeper (2+1),23:50,06h 55m,06:45,Kalpetta
+90,CHANCHALAS TOURS AND TRAVELS,INR 799,3.9,28 Seats available,A/C Semi Sleeper (2+2),17:35,06h 05m,23:40,KALPETTA
+91,SKS Tourist Corporation (REGD),INR 999,3.5,17 Seats available,A/C Sleeper (2+1),23:50,06h 40m,06:30,Kalpetta
+92,DA Transports,INR 849,4.6,25 Seats available,A/C Sleeper (2+1),23:50,06h 55m,06:45,Vythiri
+93,Kallada Travels (Suresh Kallada),INR 899,3.5,17 Seats available,A/C Sleeper (2+1),23:30,07h 45m,07:15,Kalpetta
+94,DLT BUS,INR 899,5.0,,A/C Sleeper (2+1),23:59,06h 31m,06:30,
+95,Suraj Holidays,INR 950,3.2,,VE A/C Sleeper (2+1),23:59,07h 16m,07:15,
+96,SURAJ TRAVEL HOUSE,665,3.2,,VE A/C Seater / Sleeper (2+1),23:00,07h 00m,06:00,
+97,Kyros Connect,INR 555,2.7,,A/C Semi Sleeper (2+2),17:05,06h 10m,23:15,
+98,Kyros Connect,INR 555,2.9,,A/C Semi Sleeper (2+2),17:00,06h 15m,23:15,
+99,A1 Travels,INR 700,2.4,,NON AC Seater / Sleeper 2+1,23:10,07h 20m,06:30,
+100,Orange Tours And Travels,INR 1800,3.1,,Bharat Benz A/C Sleeper (2+1),16:45,06h 45m,23:30,
+101,Orange Tours And Travels,INR 1900,1.2,,Bharat Benz A/C Sleeper (2+1),16:30,07h 00m,23:30,
+102,SKS Tourist Corporation (REGD),INR 999,1.9,,A/C Sleeper (2+1),23:55,06h 35m,06:30,
+103,Bharathi Travels,INR 1290,3.0,,A/C Sleeper (2+1),17:20,06h 10m,23:30,
+104,Bharathi Travels,INR 1290,,,A/C Sleeper (2+1),17:00,06h 30m,23:30,
+105,RAVINA TRAVELS,INR 1199,,,A/C Sleeper (2+1),16:50,05h 40m,22:30,
+106,MMK Travels,INR 800,4.4,15 Seats available,VE A/C Seater / Sleeper (2+1),22:30,09h 00m,07:30,Kalasipalyam
+107,Silver Line Travels,INR 699,4.4,33 Seats available,NON A/C Semi Sleeper (2+2),19:45,10h 25m,06:10,Chandapura
+108,NS Transports,INR 1100,4.4,12 Seats available,VE A/C Sleeper (2+1),22:45,08h 45m,07:30,Kalasipalyam
+109,AdDA Transports,INR 899,3.5,27 Seats available,A/C Sleeper (2+1),21:45,09h 15m,07:00,Madiwala
+110,NS Transports,INR 800,4.3,21 Seats available,Non A/C Seater / Sleeper (2+1),21:45,08h 25m,06:10,Kalasipalyam
+111,DLT BUS,INR 1299,4.1,7 Seats available,A/C Sleeper (2+1),22:30,09h 00m,07:30,Madiwala
+112,Suraj Holidays,INR 1100,4.0,17 Seats available,VE A/C Sleeper (2+1),22:30,09h 00m,07:30,Madiwala
+113,NS Transports,INR 800,4.1,15 Seats available,Non A/C Seater / Sleeper (2+1),22:15,08h 15m,06:30,Kalasipalyam
+114,Kyros Connect,INR 799,3.9,36 Seats available,Bharat Benz A/C Semi Sleeper (2+2),23:00,10h 00m,09:00,Madiwala
+115,Kallada Travels (Suresh Kallada),INR 899,4.0,6 Seats available,A/C Sleeper (2+1),22:00,09h 05m,07:05,Madiwala
+116,P K Travels,INR 1149,4.0,18 Seats available,A/C Sleeper (2+1),21:30,09h 00m,06:30,Kalasipalyam
+117,National travels and logistics,649,3.9,18 Seats available,NON A/C Sleeper (2+1),22:30,08h 00m,06:30,Kalasipalyam
+118,SKS Tourist Corporation (REGD),INR 999,3.8,27 Seats available,A/C Sleeper (2+1),21:00,08h 30m,05:30,Kalasipalyam
+119,P K Travels,INR 1100,3.6,24 Seats available,A/C Sleeper (2+1),21:45,08h 45m,06:30,Kalasipalyam
+120,Suraj Holidays,INR 800,3.6,24 Seats available,NON AC Seater / Sleeper 2+1,20:30,09h 30m,06:00,Madiwala
+121,A1 Travels,INR 550,3.6,35 Seats available,NON AC Seater / Sleeper 2+1,21:00,09h 45m,06:45,Madiwala
+122,Kalpaka Travels,INR 800,3.7,28 Seats available,NON A/C Semi Sleeper (2+2),22:00,08h 30m,06:30,Kalasipalyam
+123,SKS Tourist Corporation (Regd),INR 899,4.4,24 Seats available,A/C Sleeper (2+1),21:15,08h 31m,05:46,Kalasipalyam
+124,Suraj Holidays,INR 900,3.3,22 Seats available,A/C Sleeper (2+1),22:00,08h 45m,06:45,Madiwala
+125,SAAM BUS,924,3.8,24 Seats available,Bharat Benz A/C Sleeper (2+1),19:55,10h 50m,06:45,8th Mail Signal (Pickup Van/Bus)
+126,SURAJ TRAVEL HOUSE,665,4.0,19 Seats available,VE A/C Seater / Sleeper (2+1),21:00,10h 30m,07:30,JAYANAGARA 4 BLOCK
+127,Deer Bus LLP,INR 700,5.0,16 Seats available,VE A/C Semi Sleeper (2+2),08:00,09h 00m,17:00,Kalasipalyam
+128,SRS Travels,INR 900,2.4,18 Seats available,A/C Sleeper (2+1),21:45,08h 55m,06:40,Madiwala
+129,Deer Bus LLP,INR 700,4.5,36 Seats available,VE A/C Semi Sleeper (2+2),20:00,09h 15m,05:15,Madiwala
+130,Orange Tours And Travels,INR 1200,2.6,40 Seats available,Bharat Benz A/C Sleeper (2+1),02:30,07h 30m,10:00,Madiwala
+131,A1 Travels,INR 800,3.4,39 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),19:45,10h 00m,05:45,Kalasipalyam
+132,A1 Travels,INR 850,3.1,26 Seats available,A/C Seater / Sleeper (2+1),21:45,09h 15m,07:00,Madiwala
+133,Bharathi Travels,INR 890,2.8,26 Seats available,A/C Sleeper (2+1),03:00,07h 30m,10:30,Kalasipalyam
+134,Sam Tourist,INR 799,2.9,35 Seats available,NON AC Seater / Sleeper 2+1,22:05,09h 00m,07:05,Chandapura
+135,Suraj Holidays,INR 750,3.5,28 Seats available,Non A/C Seater / Sleeper (2+1),21:30,08h 15m,05:45,Kalasipalyam
+136,RAVINA TRAVELS,899,3.0,36 Seats available,A/C Sleeper (2+1),02:45,08h 15m,11:00,Chandapura
+137,NS Transports,INR 899,4.3,44 Seats available,NON A/C Sleeper (2+1),23:00,09h 00m,08:00,Electronic City
+138,Maaruti Travels,INR 1099,3.0,46 Seats available,NON A/C Semi Sleeper / Sleeper (2+1),19:00,10h 15m,05:15,Electronic City
+139,Sam Tourist,INR 1699,2.8,21 Seats available,A/C Sleeper (2+1),20:00,08h 30m,04:30,Madiwala
+140,Vijay Lines,INR 5000,1.9,28 Seats available,NON A/C Sleeper (2+1),20:45,10h 45m,07:30,Madiwala
+141,Kingfisher Connect,INR 900,2.4,23 Seats available,Non A/C Seater / Sleeper (2+1),21:00,10h 15m,07:15,Madiwala
+142,Jai Vishnu Travels,INR 1500,,28 Seats available,NON A/C Seater/ Sleeper (2+1),22:00,10h 15m,08:15,Madiwala
+143,Kallada Travels (Suresh Kallada),INR 1600,,,A/C Sleeper (2+1),20:00,04h 20m,00:20,
+144,Kallada Travels (Suresh Kallada),INR 800,,,NON A/C Semi Sleeper / Sleeper (2+1),21:30,09h 15m,06:45,
+145,MMK Travels,INR 850,,,A/C Sleeper (2+1),22:00,08h 30m,06:30,
+146,Kallada Travels (Suresh Kallada),INR 1600,,,A/C Sleeper (2+1),19:30,07h 55m,03:25,
+147,Madhavi Travels,INR 599,4.1,35 Seats available,A/C Semi Sleeper (2+2),00:15,03h 45m,04:00,Kozhikode
+148,Madhavi Travels,INR 799,4.1,26 Seats available,A/C Sleeper (2+1),00:25,03h 20m,03:45,Calicut P KABEER TRAVELS MM...
+149,Ubc travels,INR 700,3.9,25 Seats available,A/C Semi Sleeper (2+2),00:25,02h 35m,03:00,M.M Ali Road Calicut
+150,Madhavi Travels,INR 899,4.1,24 Seats available,A/C Sleeper (2+1),01:00,02h 50m,03:50,Kallada Tours & Travels M M A...
+151,Kallada Travels (Suresh Kallada),INR 1000,3.2,33 Seats available,A/C Sleeper (2+1),01:00,02h 30m,03:30,M.M Ali Road Calicut
+152,Adrin Travels,INR 850,4.0,29 Seats available,A/C Seater/Sleeper (2+1),01:20,03h 00m,04:20,Calicut
+153,Ubc travels,INR 900,3.9,15 Seats available,A/C Seater/Sleeper (2+1),01:45,02h 00m,03:45,M.M Ali Road Calicut
+154,EMERALD TRAVELS,INR 762,3.1,31 Seats available,Bharat Benz A/C Semi Sleeper (2+2),21:55,02h 35m,00:30,Calicut
+155,BLM Transports,903,3.9,41 Seats available,A/C Sleeper (2+1),22:00,03h 00m,01:00,Calicut
+156,Madhavi Travels,INR 999,4.1,16 Seats available,A/C Sleeper (2+1),22:20,02h 50m,01:10,Calicut
+157,Kallada Travels (Suresh Kallada),INR 850,3.2,19 Seats available,A/C Sleeper (2+1),23:15,02h 25m,01:40,Kozhikode
+158,Madhavi Travels,INR 899,4.1,35 Seats available,Volvo A/C Semi Sleeper (2+2),23:30,01h 40m,01:10,Calicut
+159,A1 Travels,INR 1200,3.8,26 Seats available,Bharat Benz A/C Sleeper (2+1),23:30,02h 00m,01:30,MM Ali Road
+160,Madhavi Travels,INR 699,4.1,49 Seats available,A/C Semi Sleeper (2+2),23:30,01h 40m,01:10,Calicut
+161,Surya Connect,INR 630,4.3,34 Seats available,Volvo A/C Semi Sleeper (2+2),23:55,03h 40m,03:35,MM Ali road
+162,Cochin Express,INR 600,4.0,36 Seats available,A/C Seater Push Back (2+2),23:55,03h 40m,03:35,MM Ali Road
+163,Cochin Express,INR 850,4.0,38 Seats available,A/C Sleeper (2+1),23:59,03h 31m,03:30,Palayam
+164,Arya Travels,INR 849,3.1,27 Seats available,A/C Sleeper (2+1),23:59,03h 16m,03:15,
+165,Cochin Express,INR 700,4.0,39 Seats available,Volvo Multi-Axle B9R A/c Semi Sleeper (2+2),23:59,03h 31m,03:30,
+166,Kalpaka Travels 1,INR 800,4.0,,A/C Sleeper (2+1),23:59,03h 46m,03:45,
+167,Cochin Express,INR 666,4.0,,Bharat Benz A/C Seater (2+2),23:59,04h 01m,04:00,
+168,Arya Travels,INR 645,3.1,,Volvo Multi-Axle A/C Semi Sleeper (2+2),23:59,03h 46m,03:45,
+169,Kalpaka Travels 1,INR 600,4.0,,A/C Semi Sleeper (2+2),23:59,03h 41m,03:40,
+170,UFO Bus,612,4.0,,Volvo Multi-Axle B9R A/c Semi Sleeper (2+2),00:05,03h 25m,03:30,
+171,UFO Bus,599,4.0,,A/C Seater Push Back (2+2),00:20,03h 10m,03:30,
+172,Galaxy Tours,INR 650,2.9,,2+1 Air Suspension A/C Seater / Sleeper,21:45,03h 00m,00:45,
+173,Galaxy Tours,INR 800,2.9,,A/C Semi Sleeper (2+2),21:45,01h 59m,23:44,
+174,Madhavi Travels,INR 799,4.1,9 Seats available,A/C Sleeper (2+1),00:25,05h 45m,06:10,Calicut
+175,Madhavi Travels,INR 599,4.5,19 Seats available,A/C Semi Sleeper (2+2),00:15,06h 00m,06:15,Calicut
+176,A1 Travels,INR 700,3.0,35 Seats available,A/C Seater / Sleeper (2+1),20:05,03h 54m,23:59,Calicut
+177,Cochin Express,INR 850,3.7,40 Seats available,A/C Sleeper (2+1),23:59,05h 46m,05:45,Kozhikode
+178,Cochin Express,INR 700,3.7,19 Seats available,Volvo Multi-Axle B9R A/c Semi Sleeper (2+2),23:59,05h 51m,05:50,Calicut P KABEER TRAVELS MM...
+179,A1 Travels,INR 450,3.5,25 Seats available,NON A/C Semi Sleeper (2+2),21:00,04h 30m,01:30,MM Ali Road
+180,UFO Bus,612,3.7,36 Seats available,Volvo Multi-Axle B9R A/c Semi Sleeper (2+2),00:05,05h 25m,05:30,Kallada Tours & Travels M M A...
+181,Adrin Travels,INR 850,4.4,24 Seats available,A/C Seater/Sleeper (2+1),01:20,04h 30m,05:50,MM Ali Road Palayam
+182,Arya Travels,INR 849,3.8,11 Seats available,A/C Sleeper (2+1),23:59,05h 31m,05:30,M.M Ali Road Calicut
+183,BLM Transports,903,3.5,13 Seats available,A/C Sleeper (2+1),22:00,04h 45m,02:45,Calicut
+184,Kallada Travels (Suresh Kallada),INR 1000,3.5,28 Seats available,A/C Sleeper (2+1),01:00,04h 00m,05:00,Calicut
+185,Kalpaka Travels 1,INR 600,2.7,26 Seats available,A/C Semi Sleeper (2+2),23:59,05h 01m,05:00,MM Ali Road
+186,Ubc travels,INR 900,2.8,26 Seats available,A/C Seater/Sleeper (2+1),01:45,03h 55m,05:40,Kozhikode
+187,Kallada Travels (Suresh Kallada),INR 850,1.8,18 Seats available,A/C Sleeper (2+1),23:15,03h 55m,03:10,Calicut
+188,LIYAS TOURS,1099,2.8,20 Seats available,Bharat Benz A/C Sleeper (2+1),23:05,04h 10m,03:15,Calicut
+189,Madhavi Travels,INR 999,4.0,29 Seats available,A/C Sleeper (2+1),22:20,04h 15m,02:35,MM Ali road
+190,Madhavi Travels,INR 899,4.0,33 Seats available,A/C Sleeper (2+1),01:00,05h 00m,06:00,Calicut
+191,Surya Connect,INR 630,4.5,34 Seats available,Volvo A/C Semi Sleeper (2+2),23:55,05h 20m,05:15,Kozhikode
+192,UFO Bus,599,3.8,34 Seats available,A/C Seater Push Back (2+2),00:20,05h 10m,05:30,Kozhikode
+193,A1 Travels,INR 800,4.3,35 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),22:30,02h 59m,01:29,Palayam
+194,Kalpaka Travels 1,INR 800,4.5,11 Seats available,A/C Sleeper (2+1),23:59,06h 01m,06:00,M.M Ali Road Calicut
+195,Sonia Travels,INR 700,4.1,39 Seats available,A/C Seater/Sleeper (2+1),23:30,04h 00m,03:30,M.M Ali Road Calicut
+196,A1 Travels,INR 1200,3.3,15 Seats available,Bharat Benz A/C Sleeper (2+1),23:30,03h 45m,03:15,Palayam
+197,A1 Travels,INR 800,3.3,33 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),22:15,03h 30m,01:45,
+198,Arya Travels,INR 645,2.3,31 Seats available,Volvo Multi-Axle A/C Semi Sleeper (2+2),23:59,05h 01m,05:00,
+199,Shajees Motors,INR 630,2.6,,A/C Semi Sleeper (2+2),22:30,04h 35m,03:05,
+200,EMERALD TRAVELS,INR 700,2.7,,Bharat Benz A/C Semi Sleeper (2+2),21:55,04h 45m,02:40,
+201,SERA TRAVELS,INR 599,4.2,,A/C Seater (2+2),22:30,04h 35m,03:05,
+202,Galaxy Tours,INR 650,2.9,,2+1 Air Suspension A/C Seater / Sleeper,21:45,04h 15m,02:00,
+203,Ubc travels,INR 700,2.8,,A/C Semi Sleeper (2+2),00:25,04h 15m,04:40,
+204,Madhavi Travels,INR 699,4.0,,A/C Semi Sleeper (2+2),23:30,03h 05m,02:35,
+205,Madhavi Travels,INR 899,4.0,,Volvo A/C Semi Sleeper (2+2),23:30,03h 05m,02:35,
+206,Holy Maria Travels,INR 700,2.9,,A/C Semi Sleeper (2+2),00:10,04h 00m,04:10,
+207,Galaxy Tours,INR 800,2.9,,A/C Semi Sleeper (2+2),21:45,04h 16m,02:01,
+208,A1 Travels,INR 700,1.9,41 Seats available,A/C Seater / Sleeper (2+1),23:59,07h 01m,07:00,Kottayam
+209,Ubc travels,INR 900,3.9,22 Seats available,A/C Seater/Sleeper (2+1),18:00,09h 00m,03:00,Nagampadam Bus Stand
+210,Ubc travels,INR 700,3.9,22 Seats available,A/C Semi Sleeper (2+2),17:30,07h 30m,01:00,Nagampadam Bus Stand
+211,Sonia Travels,INR 750,3.7,25 Seats available,A/C Seater/Sleeper (2+1),18:10,08h 04m,02:14,Nagampadam
+212,EMERALD TRAVELS,INR 800,2.1,25 Seats available,Bharat Benz A/C Semi Sleeper (2+2),23:00,05h 30m,04:30,Baker Junction
+213,Kallada Travels (Suresh Kallada),INR 1100,3.2,24 Seats available,A/C Sleeper (2+1),18:15,07h 10m,01:25,Kallada Travels
+214,Holy Maria Travels,INR 800,2.9,38 Seats available,A/C Semi Sleeper (2+2),18:20,07h 50m,02:10,Kottayam
+215,Kyros Connect,INR 250,3.1,,Bharat Benz A/C Semi Sleeper (2+2),07:30,01h 30m,09:00,
+216,Cochin Express,INR 700,4.0,,Volvo Multi-Axle B9R A/c Semi Sleeper (2+2),22:25,01h 34m,23:59,
+217,Cochin Express,INR 850,4.0,,A/C Sleeper (2+1),22:30,01h 29m,23:59,
+218,Kyros Connect,INR 250,4.0,,Bharat Benz A/C Semi Sleeper (2+2),06:32,02h 28m,09:00,
+219,Deer Bus LLP,INR 700,4.0,,VE A/C Semi Sleeper (2+2),14:45,02h 15m,17:00,
+220,Cochin Express,INR 850,4.0,,A/C Sleeper (2+1),22:30,01h 29m,23:59,
+221,Cochin Express,INR 700,3.8,,Volvo Multi-Axle B9R A/c Semi Sleeper (2+2),22:25,01h 34m,23:59,
+222,A1 Travels,INR 799,3.0,,Bharat Benz A/C Sleeper (2+1),21:00,02h 30m,23:30,
+223,RAVINA TRAVELS,INR 999,4.0,,A/C Sleeper (2+1),08:40,02h 20m,11:00,
+224,Cochin Express,INR 650,4.0,,A/C Seater Push Back (2+2),22:30,01h 25m,23:55,
+225,Cochin Express,INR 650,4.0,,A/C Seater Push Back (2+2),22:30,01h 25m,23:55,
+226,Cochin Express,INR 600,4.0,,Bharat Benz A/C Seater (2+2),22:25,01h 34m,23:59,
+227,Cochin Express,INR 600,3.7,,Bharat Benz A/C Seater (2+2),22:20,01h 39m,23:59,
+228,Sonia Travels,INR 450,3.7,,A/C Seater/Sleeper (2+1),21:30,01h 55m,23:25,
+229,Sonia Travels,INR 450,2.4,,A/C Seater/Sleeper (2+1),19:30,03h 55m,23:25,
+230,DHANUNJAYA TRAVELS,INR 2700,,,Bharat Benz A/C Sleeper (2+1),07:00,06h 30m,13:30,
+231,Shajees Motors,INR 600,3.1,17 Seats available,A/C Semi Sleeper (2+2),19:30,05h 10m,00:40,Kaloor
+232,Ubc travels,INR 700,4.6,23 Seats available,A/C Semi Sleeper (2+2),20:40,04h 20m,01:00,Vyttila
+233,Ubc travels,INR 900,4.0,20 Seats available,A/C Seater/Sleeper (2+1),20:45,06h 15m,03:00,Vyttila
+234,Kalpaka Travels 1,INR 800,5.0,22 Seats available,A/C Sleeper (2+1),20:55,05h 35m,02:30,Thrippuithra
+235,Sonia Travels,INR 700,3.8,28 Seats available,A/C Seater/Sleeper (2+1),21:10,05h 04m,02:14,Vyttila
+236,Cochin Express,INR 700,3.9,32 Seats available,Volvo Multi-Axle B9R A/c Semi Sleeper (2+2),21:15,05h 05m,02:20,Vytila Junction for packages ...
+237,Cochin Express,INR 900,4.4,12 Seats available,A/C Sleeper (2+1),21:30,05h 00m,02:30,Vytila Junction
+238,Madhavi Travels,INR 549,4.5,26 Seats available,A/C Semi Sleeper (2+2),21:30,04h 45m,02:15,South Railway Station
+239,UFO Bus,630,4.4,43 Seats available,Volvo Multi-Axle B9R A/c Semi Sleeper (2+2),21:30,05h 15m,02:45,South Railway Station
+240,Madhavi Travels,INR 899,4.2,25 Seats available,A/C Sleeper (2+1),21:40,04h 55m,02:35,South Railway Station
+241,UFO Bus,670,3.7,49 Seats available,Volvo Multi-Axle B9R A/c Semi Sleeper (2+2),21:45,08h 55m,06:40,South Railway Station
+242,Arya Travels,INR 899,3.1,18 Seats available,A/C Sleeper (2+1),21:45,05h 30m,03:15,South Railway Station
+243,UFO Bus,603,3.7,41 Seats available,Volvo A/C Semi Sleeper (2+2),21:45,04h 55m,02:40,South Railway Station
+244,Arya Travels,INR 645,3.1,41 Seats available,Volvo Multi-Axle A/C Semi Sleeper (2+2),21:50,05h 21m,03:11,South Railway Station
+245,Surya Connect,INR 630,3.2,30 Seats available,Volvo A/C Semi Sleeper (2+2),22:00,04h 10m,02:10,Ernakulam
+246,Kalpaka Travels 1,INR 600,4.2,25 Seats available,A/C Semi Sleeper (2+2),22:00,05h 00m,03:00,Ernakulam South
+247,Arya Travels,INR 595,3.1,32 Seats available,Volvo A/C Semi Sleeper (2+2),22:00,05h 30m,03:30,South Railway Station
+248,Madhavi Travels,INR 899,4.8,22 Seats available,A/C Sleeper (2+1),22:00,04h 45m,02:45,South Railway Station
+249,Madhavi Travels,INR 649,3.0,28 Seats available,A/C Semi Sleeper (2+2),22:10,05h 25m,03:35,South Railway Station
+250,Madhavi Travels,INR 549,3.9,13 Seats available,A/C Semi Sleeper (2+2),22:10,05h 25m,03:35,South Railway Station
+251,A1 Travels,INR 900,3.1,40 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),23:59,05h 31m,05:30,Vytila Junction(pickup At 1am)
+252,Madhavi Travels,INR 899,4.4,40 Seats available,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),23:59,04h 51m,04:50,Aroor Toll
+253,Madhavi Travels,INR 899,4.2,16 Seats available,A/C Semi Sleeper (2+2),23:59,04h 51m,04:50,Aroor Toll
+254,A1 Travels,INR 650,1.7,40 Seats available,A/C Seater / Sleeper (2+1),01:30,05h 30m,07:00,Vyttila
+255,Shama Transport,INR 850,2.9,27 Seats available,VE A/C Sleeper (2+1),19:50,04h 05m,23:55,Ettumanoor
+256,Holy Maria Travels,INR 700,2.4,29 Seats available,A/C Semi Sleeper (2+2),20:50,05h 20m,02:10,Vytilla Junction
+257,EMERALD TRAVELS,INR 700,2.5,24 Seats available,Bharat Benz A/C Semi Sleeper (2+2),23:30,05h 00m,04:30,Vyttila
+258,Shama Transport,INR 850,2.7,39 Seats available,VE A/C Sleeper (2+1),23:50,04h 05m,03:55,Vytila Junction
+259,Kallada Travels (Suresh Kallada),INR 900,2.0,31 Seats available,A/C Sleeper (2+1),23:59,03h 31m,03:30,Edapally
+260,A1 Travels,INR 800,2.0,23 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),23:59,05h 01m,05:00,Aroor Toll
+261,Galaxy Tours,INR 650,4.9,25 Seats available,2+1 Air Suspension A/C Seater / Sleeper,01:15,04h 45m,06:00,Aroor Toll
+262,Galaxy Tours,INR 800,3.1,18 Seats available,A/C Semi Sleeper (2+2),01:15,04h 45m,06:00,Vyttila
+263,Adrin Travels,INR 1000,4.4,17 Seats available,A/C Seater/Sleeper (2+1),21:00,04h 25m,01:25,Vytila Junction
+264,Kudla Travels ( ST MARIA ),INR 1500,3.1,22 Seats available,A/C Sleeper (2+1),21:00,02h 59m,23:59,
+265,LIYAS TOURS,1149,2.4,30 Seats available,Bharat Benz A/C Sleeper (2+1),22:55,05h 00m,03:55,
+266,Madhavi Travels,INR 999,2.5,30 Seats available,A/C Sleeper (2+1),23:59,04h 31m,04:30,
+267,BLM Transports,1036,2.9,,A/C Sleeper (2+1),00:55,04h 05m,05:00,
+268,Kallada Travels (Suresh Kallada),INR 1000,2.4,,A/C Sleeper (2+1),22:10,04h 41m,02:51,
+269,A1 Travels,INR 1100,,,Bharat Benz A/C Sleeper (2+1),23:45,04h 15m,04:00,
+270,EMERALD TRAVELS,INR 1100,,,A/C Sleeper (2+1),00:40,03h 45m,04:25,
+271,Ashoka Travel and Logistics,INR 1100,4.6,3 Seats available,A/C Sleeper (2+1),21:15,08h 15m,05:30,Kannur
+272,MMK Travels,INR 999,4.6,14 Seats available,A/C Sleeper (2+1),21:30,08h 30m,06:00,Kannur
+273,NS Transports,1050,4.5,6 Seats available,A/C Sleeper (2+1),21:15,08h 15m,05:30,Kannur
+274,AdSAAM BUS,785,4.4,22 Seats available,Bharat Benz A/C Sleeper (2+1),21:40,08h 20m,06:00,Dharmasala
+275,Golden Travels,INR 999,4.4,8 Seats available,Volvo A/C Seater Semi Sleeper (2+2),21:45,07h 15m,05:00,Fort Road
+276,Golden Travels,INR 1099,4.3,5 Seats available,A/C Sleeper (2+1),21:45,07h 15m,05:00,Fort Road
+277,Kalpaka Travels 1,INR 1100,4.2,17 Seats available,A/C Sleeper (2+1),21:45,07h 15m,05:00,Fort Road
+278,Ashoka Travel and Logistics,INR 800,4.3,3 Seats available,NON A/C Semi Sleeper (2+2),08:00,09h 30m,17:30,Kannur
+279,NS Transports,INR 750,4.1,23 Seats available,Non A/C Seater / Sleeper (2+1),20:30,08h 50m,05:20,Kannur
+280,Ashoka Travel and Logistics,INR 900,4.0,8 Seats available,A/C Semi Sleeper (2+2),21:00,08h 15m,05:15,KSRTC Caltex
+281,Sugama Tourist,INR 800,3.9,11 Seats available,A/C Sleeper (2+1),22:00,07h 30m,05:30,Fort Road
+282,Golden Travels,INR 899,3.9,27 Seats available,NON A/C Sleeper (2+1),21:30,07h 40m,05:10,Kannur
+283,Ashoka Travel and Logistics,INR 800,3.9,20 Seats available,NON A/C Semi Sleeper (2+2),21:30,07h 30m,05:00,Kannur
+284,P K Travels,INR 900,3.6,21 Seats available,A/C Seater / Sleeper (2+1),20:45,08h 15m,05:00,KANNUR
+285,Yathra Logistics,INR 799,4.2,7 Seats available,A/C Sleeper (2+1),21:45,09h 00m,06:45,Kannur
+286,NS Transports,INR 850,3.9,16 Seats available,NON A/C Sleeper (2+1),21:45,08h 00m,05:45,Kannur
+287,P K Travels,INR 799,3.8,24 Seats available,NON A/C Semi Sleeper (2+2),20:30,09h 45m,06:15,Kannur Arya Travels
+288,Arya Travels,INR 845,3.0,28 Seats available,A/C Sleeper (2+1),21:25,08h 05m,05:30,Kannur
+289,National travels and logistics,549,4.0,14 Seats available,Non A/C Seater / Sleeper (2+1),21:15,08h 15m,05:30,Fort Road
+290,Golden Travels,INR 749,4.0,25 Seats available,NON A/C Seater Semi Sleeper (2+2),21:15,07h 45m,05:00,Fort Road
+291,Kalpaka Travels 1,INR 800,4.0,1 Seat available,NON A/C Seater/ Sleeper (2+1),21:00,08h 00m,05:00,Fort Road
+292,Golden Travels,INR 800,3.5,21 Seats available,NON A/C Seater Semi Sleeper (2+2),21:00,08h 00m,05:00,Fort Road
+293,Kalpaka Travels 1,INR 800,3.9,25 Seats available,NON A/C Seater/ Sleeper (2+1),21:30,07h 30m,05:00,Kannur
+294,Sam Tourist,INR 899,2.7,31 Seats available,A/C Sleeper (2+1),21:30,08h 00m,05:30,Kannur
+295,National travels and logistics,INR 1890,,,Bharat Benz A/C Sleeper (2+1),22:00,07h 45m,05:45,
+296,NS Transports,INR 749,4.2,27 Seats available,NON A/C Sleeper (2+1),00:10,07h 50m,08:00,Colombia Asia Hospital
+297,Suraj Holidays,INR 850,3.3,36 Seats available,A/C Sleeper (2+1),00:20,06h 25m,06:45,Mysore
+298,MMK Travels,648,3.9,31 Seats available,VE A/C Seater / Sleeper (2+1),00:30,07h 00m,07:30,Near Bus stand
+299,DA Transports,INR 700,3.6,25 Seats available,A/C Sleeper (2+1),00:35,06h 25m,07:00,Suburban Bus Stand
+300,Kyros Connect,INR 599,4.5,20 Seats available,Bharat Benz A/C Semi Sleeper (2+2),04:00,05h 00m,09:00,Suburban Bus Stand
+301,LIYAS TOURS,649,4.1,39 Seats available,Bharat Benz A/C Sleeper (2+1),17:25,05h 40m,23:05,Mysore
+302,Kallada Travels (Suresh Kallada),INR 600,3.5,34 Seats available,A/C Sleeper (2+1),17:30,05h 46m,23:16,MYSORE
+303,Suraj Holidays,INR 800,3.3,26 Seats available,NON AC Seater / Sleeper 2+1,23:00,07h 00m,06:00,Mysore
+304,A1 Travels,INR 700,3.9,30 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),23:30,06h 15m,05:45,Mysore
+305,NS Transports,INR 800,4.2,47 Seats available,Non A/C Seater / Sleeper (2+1),00:10,06h 00m,06:10,Mysore
+306,NS Transports,INR 800,4.2,25 Seats available,Non A/C Seater / Sleeper (2+1),00:30,06h 00m,06:30,mysore manipal hospital near
+307,National travels and logistics,649,3.6,25 Seats available,NON A/C Sleeper (2+1),00:40,05h 50m,06:30,
+308,Sam Tourist,INR 799,4.0,12 Seats available,NON AC Seater / Sleeper 2+1,00:45,06h 20m,07:05,
+309,Deer Bus LLP,INR 700,2.3,36 Seats available,VE A/C Semi Sleeper (2+2),11:15,05h 45m,17:00,
+310,Deer Bus LLP,INR 700,3.0,21 Seats available,VE A/C Semi Sleeper (2+2),23:15,06h 00m,05:15,
+311,SRS Travels,INR 800,3.2,28 Seats available,A/C Sleeper (2+1),23:55,06h 45m,06:40,
+312,RAVINA TRAVELS,899,3.0,44 Seats available,A/C Sleeper (2+1),05:00,06h 00m,11:00,
+313,Orange Tours And Travels,INR 1100,3.0,,Bharat Benz A/C Sleeper (2+1),05:30,04h 30m,10:00,
+314,Bharathi Travels,INR 1890,4.0,,A/C Sleeper (2+1),05:30,05h 00m,10:30,
+315,A1 Travels,INR 899,3.0,,Bharat Benz A/C Sleeper (2+1),17:30,06h 00m,23:30,
+316,Sam Tourist,INR 1699,3.6,,A/C Sleeper (2+1),22:30,06h 00m,04:30,
+317,Maaruti Travels,INR 1099,4.2,,NON A/C Semi Sleeper / Sleeper (2+1),23:15,06h 45m,06:00,
+318,SKS Tourist Corporation (Regd),INR 899,1.5,,A/C Sleeper (2+1),23:50,05h 50m,05:40,
+319,SAAM BUS,924,,,Bharat Benz A/C Sleeper (2+1),00:30,06h 15m,06:45,
+320,NS Transports,INR 1100,,,VE A/C Sleeper (2+1),00:45,06h 45m,07:30,
+321,Jai Vishnu Travels,INR 1500,,,NON A/C Seater/ Sleeper (2+1),00:55,07h 20m,08:15,
+322,Kallada Travels (Suresh Kallada),INR 1600,,,A/C Sleeper (2+1),22:00,05h 25m,03:25,
+323,Kallada Travels (Suresh Kallada),INR 1600,,,A/C Sleeper (2+1),22:30,01h 50m,00:20,
+324,SKS Tourist Corporation (REGD),INR 999,,,A/C Sleeper (2+1),23:55,05h 35m,05:30,
+325,Kingfisher Connect,INR 900,,,Non A/C Seater / Sleeper (2+1),23:55,07h 20m,07:15,
+326,Madhavi Travels,INR 999,3.9,14 Seats available,A/C Sleeper (2+1),22:20,08h 40m,07:00,M.M Ali Road Calicut
+327,A1 Travels,INR 600,3.7,35 Seats available,NON A/C Semi Sleeper (2+2),21:00,09h 00m,06:00,Calicut
+328,BLM Transports,903,3.4,18 Seats available,A/C Sleeper (2+1),22:00,09h 00m,07:00,Calicut P KABEER TRAVELS MM...
+329,A1 Travels,INR 700,3.3,36 Seats available,A/C Seater / Sleeper (2+1),20:05,09h 25m,05:30,Calicut
+330,LIYAS TOURS,1099,4.2,11 Seats available,Bharat Benz A/C Sleeper (2+1),23:05,08h 35m,07:40,MM Ali Road Palayam
+331,Kallada Travels (Suresh Kallada),INR 1000,3.1,22 Seats available,A/C Sleeper (2+1),23:15,08h 00m,07:15,Kallada Tours & Travels M M A...
+332,A1 Travels,INR 1200,3.2,29 Seats available,Bharat Benz A/C Sleeper (2+1),23:30,08h 30m,08:00,Calicut
+333,Galaxy Tours,INR 650,2.6,22 Seats available,2+1 Air Suspension A/C Seater / Sleeper,21:45,08h 45m,06:30,Palayam
+334,Kallada Travels (Suresh Kallada),INR 1200,2.1,33 Seats available,A/C Sleeper (2+1),01:00,08h 35m,09:35,Calicut
+335,A1 Travels,INR 800,2.8,26 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),22:15,07h 30m,05:45,Calicut
+336,A1 Travels,INR 800,3.2,26 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),22:30,07h 30m,06:00,Kozhikode
+337,EMERALD TRAVELS,INR 800,2.4,15 Seats available,Bharat Benz A/C Semi Sleeper (2+2),21:55,08h 35m,06:30,M.M Ali Road Calicut
+338,Madhavi Travels,INR 849,3.7,31 Seats available,A/C Semi Sleeper (2+2),23:30,08h 00m,07:30,M.M Ali Road Calicut
+339,Madhavi Travels,INR 899,3.7,31 Seats available,Volvo A/C Semi Sleeper (2+2),23:30,08h 00m,07:30,Palayam
+340,Galaxy Tours,INR 800,2.6,,A/C Semi Sleeper (2+2),21:45,08h 45m,06:30,
+341,DLT BUS,INR 1299,4.0,7 Seats available,A/C Sleeper (2+1),22:30,07h 00m,05:30,Madiwala
+342,MMK Travels,INR 800,4.6,15 Seats available,VE A/C Seater / Sleeper (2+1),22:30,07h 00m,05:30,Kalasipalyam
+343,Kyros Connect,INR 799,4.0,36 Seats available,Bharat Benz A/C Semi Sleeper (2+2),23:00,08h 30m,07:30,Madiwala
+344,Kyros Connect,INR 799,4.2,36 Seats available,Bharat Benz A/C Semi Sleeper (2+2),23:00,08h 20m,07:20,Madiwala
+345,MMK Travels,INR 800,4.2,15 Seats available,VE A/C Seater / Sleeper (2+1),22:30,07h 15m,05:45,Kalasipalyam
+346,Suraj Holidays,INR 1100,4.3,17 Seats available,VE A/C Sleeper (2+1),22:30,07h 45m,06:15,Madiwala
+347,Kallada Travels (Suresh Kallada),INR 899,4.1,5 Seats available,A/C Sleeper (2+1),22:00,07h 25m,05:25,Madiwala
+348,DLT BUS,INR 1299,4.1,7 Seats available,A/C Sleeper (2+1),22:30,06h 50m,05:20,Madiwala
+349,Deer Bus LLP,INR 700,4.3,33 Seats available,VE A/C Semi Sleeper (2+2),08:00,06h 45m,14:45,Chandapura
+350,Silver Line Travels,INR 699,3.9,27 Seats available,NON A/C Semi Sleeper (2+2),19:45,08h 35m,04:20,Madiwala
+351,DA Transports,INR 899,4.2,17 Seats available,A/C Sleeper (2+1),21:45,06h 30m,04:15,Madiwala
+352,Suraj Holidays,INR 1100,4.5,25 Seats available,VE A/C Sleeper (2+1),22:30,07h 45m,06:15,Kalasipalyam
+353,CHANCHALAS TOURS AND TRAVELS,INR 599,3.8,35 Seats available,A/C Semi Sleeper (2+2),06:00,06h 30m,12:30,Madiwala
+354,P K Travels,INR 1100,3.9,9 Seats available,A/C Sleeper (2+1),21:45,06h 45m,04:30,Kalasipalyam
+355,CHANCHALAS TOURS AND TRAVELS,INR 599,3.3,16 Seats available,A/C Semi Sleeper (2+2),06:00,06h 25m,12:25,Kalasipalyam
+356,Kyros Connect,INR 555,3.6,28 Seats available,A/C Semi Sleeper (2+2),07:00,06h 00m,13:00,Kalasipalyam
+357,A1 Travels,INR 550,3.0,19 Seats available,NON AC Seater / Sleeper 2+1,21:00,08h 00m,05:00,JAYANAGARA 4 BLOCK
+358,SRS Travels,INR 900,3.2,34 Seats available,A/C Sleeper (2+1),21:45,07h 30m,05:15,Kalasipalyam
+359,SRS Travels,INR 900,3.3,37 Seats available,A/C Sleeper (2+1),21:45,07h 10m,04:55,Kalasipalyam
+360,SKS Tourist Corporation (REGD),INR 999,3.4,40 Seats available,A/C Sleeper (2+1),21:00,07h 45m,04:45,Kalasipalyam
+361,Kyros Connect,INR 555,3.5,30 Seats available,A/C Semi Sleeper (2+2),07:00,06h 05m,13:05,Kalasipalyam
+362,SURAJ TRAVEL HOUSE,665,2.3,30 Seats available,VE A/C Seater / Sleeper (2+1),21:00,08h 15m,05:15,Kalasipalyam
+363,Bharathi Travels,INR 890,2.2,28 Seats available,A/C Sleeper (2+1),03:00,07h 00m,10:00,Madiwala
+364,SKS Tourist Corporation (REGD),INR 999,1.3,,A/C Sleeper (2+1),21:00,07h 20m,04:20,
+365,Orange Tours And Travels,INR 1000,3.6,,Bharat Benz A/C Sleeper (2+1),02:30,05h 15m,07:45,
+366,SKS Tourist Corporation (REGD),INR 849,3.2,,Non A/C Seater / Sleeper (2+1),21:15,07h 10m,04:25,
+367,SKS Tourist Corporation (REGD),INR 849,3.0,,Non A/C Seater / Sleeper (2+1),21:15,07h 05m,04:20,
+368,RAVINA TRAVELS,INR 999,3.1,,A/C Sleeper (2+1),02:45,05h 55m,08:40,
+369,Sam Tourist,INR 1699,2.8,,A/C Sleeper (2+1),20:00,07h 00m,03:00,
+370,Sam Tourist,INR 1699,,,A/C Sleeper (2+1),20:00,07h 05m,03:05,
+371,Kallada Travels (Suresh Kallada),INR 1600,,,A/C Sleeper (2+1),20:00,02h 00m,22:00,
+372,Kallada Travels (Suresh Kallada),INR 800,,,NON A/C Semi Sleeper / Sleeper (2+1),21:30,07h 25m,04:55,
+373,MMK Travels,INR 850,4.4,18 Seats available,VE A/C Seater / Sleeper (2+1),21:30,08h 30m,06:00,M.M Ali Road
+374,NS Transports,INR 850,4.4,13 Seats available,Non A/C Seater / Sleeper (2+1),20:30,10h 05m,06:35,Calicut
+375,Kyros Connect,INR 799,4.4,19 Seats available,Bharat Benz A/C Semi Sleeper (2+2),12:15,08h 45m,21:00,SKS TOURIST CORPORATION (REGD...
+376,AdSKS Tourist Corporation (Regd),INR 899,3.7,20 Seats available,A/C Sleeper (2+1),21:00,09h 00m,06:00,M M ALI ROAD
+377,Silver Line Travels,INR 599,4.2,18 Seats available,NON A/C Semi Sleeper (2+2),20:30,09h 15m,05:45,Calicut/Kozhikode
+378,P K Travels,INR 1100,4.2,10 Seats available,A/C Sleeper (2+1),20:00,10h 00m,06:00,Calicut
+379,NS Transports,INR 1050,4.2,16 Seats available,VE A/C Sleeper (2+1),21:45,08h 45m,06:30,Calicut
+380,AdSuraj Holidays,INR 950,3.8,13 Seats available,VE A/C Sleeper (2+1),22:00,09h 15m,07:15,MM Ali road
+381,DLT BUS,INR 899,4.0,8 Seats available,A/C Sleeper (2+1),21:45,08h 45m,06:30,Calicut/Kozhikode
+382,P K Travels,INR 1100,3.9,17 Seats available,A/C Sleeper (2+1),21:30,09h 00m,06:30,Calicut
+383,National travels and logistics,649,3.9,22 Seats available,NON A/C Sleeper (2+1),20:45,09h 30m,06:15,MM Ali Road
+384,Deer Bus LLP,INR 700,3.7,25 Seats available,VE A/C Semi Sleeper (2+2),08:00,09h 00m,17:00,A.S Travels m m aliroad
+385,Deer Bus LLP,INR 700,3.8,1 Seat available,VE A/C Semi Sleeper (2+2),20:00,09h 00m,05:00,Calicut
+386,DA Transports,INR 849,3.8,12 Seats available,A/C Sleeper (2+1),21:50,08h 55m,06:45,MM Ali Road
+387,NS Transports,850,3.4,12 Seats available,Non A/C Seater / Sleeper (2+1),19:30,09h 00m,04:30,Kallada Tours & Travels M M A...
+388,SKS Tourist Corporation (REGD),INR 999,3.7,22 Seats available,A/C Sleeper (2+1),21:30,09h 00m,06:30,Calicut
+389,Kallada Travels (Suresh Kallada),INR 899,3.3,20 Seats available,A/C Sleeper (2+1),21:10,10h 05m,07:15,Calicut
+390,A1 Travels,INR 700,3.6,14 Seats available,NON AC Seater / Sleeper 2+1,21:30,09h 00m,06:30,Calicut Univercity
+391,Suraj Holidays,INR 850,4.2,16 Seats available,A/C Sleeper (2+1),21:15,09h 00m,06:15,M M Ali Road (Calicut)
+392,Suraj Holidays,INR 750,4.3,3 Seats available,NON AC Seater / Sleeper 2+1,20:15,09h 40m,05:55,Thondayad
+393,SURAJ TRAVEL HOUSE,665,3.4,18 Seats available,VE A/C Seater / Sleeper (2+1),20:45,09h 15m,06:00,Calicut
+394,SAAM BUS,902,2.8,21 Seats available,Bharat Benz A/C Sleeper (2+1),20:30,09h 45m,06:15,Calicut
+395,A1 Travels,INR 1100,2.9,20 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),21:15,10h 00m,07:15,Calicut
+396,Bharathi Travels,INR 1290,3.1,30 Seats available,A/C Sleeper (2+1),15:00,08h 30m,23:30,Kozhikode
+397,Orange Tours And Travels,INR 1900,4.2,28 Seats available,Bharat Benz A/C Sleeper (2+1),14:00,09h 30m,23:30,MM Ali Road
+398,Sam Tourist,INR 699,3.1,35 Seats available,NON AC Seater / Sleeper 2+1,21:00,09h 30m,06:30,Calicut
+399,NS Transports,INR 799,3.0,44 Seats available,NON A/C Sleeper (2+1),21:15,09h 20m,06:35,Calicut
+400,Sam Tourist,INR 1999,,44 Seats available,A/C Sleeper (2+1),23:59,08h 01m,08:00,Calicut
+401,RAVINA TRAVELS,1079,,22 Seats available,A/C Sleeper (2+1),14:35,07h 55m,22:30,Kallada Tours & Travels M M A...
+402,Shama Transport,INR 899,,,VE A/C Sleeper (2+1),23:55,07h 30m,07:25,
+403,Maaruti Travels,INR 999,,,NON A/C Semi Sleeper / Sleeper (2+1),23:45,08h 15m,08:00,
+404,Kingfisher Connect,INR 3000,,,Non A/C Seater / Sleeper (2+1),21:00,10h 15m,07:15,
+405,Loyal Travels,INR 3000,,,Non A/C Seater / Sleeper (2+1),21:00,09h 00m,06:00,
+406,Kallada Travels (Suresh Kallada),INR 800,,,NON A/C Semi Sleeper / Sleeper (2+1),22:25,09h 20m,07:45,
+407,Madhavi Travels,INR 999,4.4,16 Seats available,A/C Sleeper (2+1),19:50,08h 40m,04:30,PALAYAM
+408,Madhavi Travels,INR 899,4.6,40 Seats available,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),20:45,08h 05m,04:50,Thampanoor
+409,BLM Transports,931,4.0,13 Seats available,A/C Sleeper (2+1),20:15,08h 45m,05:00,Aristo Junction
+410,A1 Travels,INR 800,3.4,34 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),20:30,08h 30m,05:00,Aristo Junction
+411,A1 Travels,INR 600,3.4,31 Seats available,NON A/C Semi Sleeper (2+2),21:00,09h 30m,06:30,Aristo Junction
+412,A1 Travels,INR 700,3.0,41 Seats available,A/C Seater / Sleeper (2+1),21:35,09h 25m,07:00,Pattam
+413,Galaxy Tours,INR 650,4.1,30 Seats available,2+1 Air Suspension A/C Seater / Sleeper,21:00,09h 00m,06:00,Thampanoor
+414,Kallada Travels (Suresh Kallada),INR 1000,3.4,20 Seats available,A/C Sleeper (2+1),18:01,09h 59m,04:00,Thycaud Music Colleage
+415,A1 Travels,INR 900,3.6,40 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),20:15,09h 15m,05:30,Aristo Junction
+416,A1 Travels,INR 1100,3.1,28 Seats available,Bharat Benz A/C Sleeper (2+1),19:00,09h 00m,04:00,Aristo Junction
+417,Galaxy Tours,INR 800,3.8,20 Seats available,A/C Semi Sleeper (2+2),21:00,09h 00m,06:00,Thampanoor
+418,Kallada Travels (Suresh Kallada),INR 1200,2.2,19 Seats available,A/C Sleeper (2+1),16:00,10h 51m,02:51,TRIVANDRUM MEGHATRAVELS
+419,EMERALD TRAVELS,INR 800,1.9,24 Seats available,Bharat Benz A/C Semi Sleeper (2+2),19:30,09h 00m,04:30,Near South Indian Bank
+420,Madhavi Travels,INR 899,4.4,16 Seats available,A/C Semi Sleeper (2+2),20:45,08h 05m,04:50,Thampanoor
+421,LIYAS TOURS,1099,4.0,17 Seats available,Bharat Benz A/C Sleeper (2+1),17:15,10h 40m,03:55,Model School
+422,EMERALD TRAVELS,INR 1100,1.9,23 Seats available,A/C Sleeper (2+1),19:30,08h 55m,04:25,Near South Indian Bank
+423,Shama Transport,INR 1100,,29 Seats available,VE A/C Sleeper (2+1),20:00,07h 55m,03:55,Kazhakootam
+424,Kallada Travels (Suresh Kallada),INR 1100,,23 Seats available,A/C Sleeper (2+1),19:00,10h 51m,05:51,TRIVANDRUM MEGHATRAVELS
+425,Shama Transport,INR 1100,,,VE A/C Sleeper (2+1),16:00,07h 55m,23:55,
+426,Kyros Connect,INR 599,4.4,17 Seats available,Bharat Benz A/C Semi Sleeper (2+2),12:15,06h 30m,18:45,Calicut
+427,Suraj Holidays,INR 950,4.7,28 Seats available,VE A/C Sleeper (2+1),22:00,07h 00m,05:00,A.S Travels m m aliroad
+428,A1 Travels,INR 500,3.5,21 Seats available,Bharat Benz A/C Sleeper (2+1),04:00,04h 15m,08:15,MM Ali Road
+429,Kallada Travels (Suresh Kallada),INR 600,3.0,17 Seats available,A/C Sleeper (2+1),03:30,04h 30m,08:00,Calicut
+430,DA Transports,INR 849,4.1,22 Seats available,A/C Sleeper (2+1),21:50,06h 40m,04:30,Calicut
+431,Orange Tours And Travels,INR 1300,3.4,32 Seats available,Bharat Benz A/C Sleeper (2+1),14:00,06h 30m,20:30,Calicut
+432,Deer Bus LLP,INR 700,2.7,32 Seats available,VE A/C Semi Sleeper (2+2),20:00,06h 15m,02:15,Kozhikode
+433,Deer Bus LLP,INR 700,4.7,27 Seats available,VE A/C Semi Sleeper (2+2),08:00,06h 00m,14:00,SKS TOURIST CORPORATION (REGD...
+434,National travels and logistics,649,4.7,17 Seats available,NON A/C Sleeper (2+1),20:45,07h 15m,04:00,MM Ali Road
+435,Suraj Holidays,INR 850,4.2,20 Seats available,A/C Sleeper (2+1),21:15,06h 45m,04:00,Calicut
+436,Suraj Holidays,INR 750,4.0,25 Seats available,NON AC Seater / Sleeper 2+1,21:00,06h 00m,03:00,Calicut
+437,NS Transports,INR 1050,3.6,21 Seats available,VE A/C Sleeper (2+1),21:46,05h 44m,03:30,Kozhikode
+438,SKS Tourist Corporation (Regd),INR 899,3.3,30 Seats available,A/C Sleeper (2+1),21:00,07h 00m,04:00,Kozhikode
+439,SKS Tourist Corporation (REGD),INR 999,3.3,44 Seats available,A/C Sleeper (2+1),21:30,07h 15m,04:45,Calicut
+440,A1 Travels,INR 1100,3.3,35 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),21:15,07h 15m,04:30,Calicut
+441,A1 Travels,INR 700,3.1,44 Seats available,NON AC Seater / Sleeper 2+1,21:30,06h 30m,04:00,Calicut
+442,LIYAS TOURS,549,3.0,,Bharat Benz A/C Sleeper (2+1),03:55,04h 15m,08:10,
+443,Sam Tourist,INR 699,3.1,,NON AC Seater / Sleeper 2+1,21:00,07h 00m,04:00,
+444,Bharathi Travels,INR 1290,3.0,,A/C Sleeper (2+1),15:00,06h 00m,21:00,
+445,Sam Tourist,INR 1999,,,A/C Sleeper (2+1),23:59,05h 01m,05:00,
+446,RAVINA TRAVELS,1079,,,A/C Sleeper (2+1),14:35,05h 25m,20:00,
+447,Kingfisher Connect,INR 3000,,,Non A/C Seater / Sleeper (2+1),21:00,06h 20m,03:20,
+448,Maaruti Travels,INR 999,,,NON A/C Semi Sleeper / Sleeper (2+1),23:45,06h 15m,06:00,
+449,Loyal Travels,INR 3000,,,Non A/C Seater / Sleeper (2+1),21:00,06h 30m,03:30,

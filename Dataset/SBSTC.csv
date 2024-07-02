@@ -1,0 +1,914 @@
+,Names,Bus_fare,Ratings,Seats,Bus_types,Starting_time,Duration,Ending_time,Starting_point
+0,Basu Travels,INR 499,2.9,20 Seats available,A/C Seater Push Back (2+3),23:30,03h 25m,02:55,Esplanade
+1,Basu Travels,INR 599,2.9,34 Seats available,A/C Seater / Sleeper (2+2),23:59,03h 01m,03:00,Esplanade
+2,Basu Travels,INR 469,2.9,21 Seats available,A/C Seater Push Back (2+3),23:55,02h 50m,02:45,Esplanade
+3,WBTC (CTC) KOLKATA -BOLPUR - SURI (AC-VOLVO) - 104|14:30,INR 435,3.9,,Volvo AC Seater (2+2),14:30,04h 10m,18:40,
+4,Gogol City Service,143,4.3,,AC Seater (2+3),13:30,02h 45m,16:15,
+5,Diamond City Service,149,4.3,,A/C Executive (2+3),15:10,03h 45m,18:55,
+6,Gogol City Service,148,4.2,,AC Seater (2+3),12:50,02h 45m,15:35,
+7,KRISHNAKALI,INR 165,3.1,,A/C Seater (2+3),14:45,02h 45m,17:30,
+8,Droupadi Paribahan,INR 160,3.7,,A/C Seater (2+3),14:10,02h 48m,16:58,
+9,Droupadi City Service,INR 160,3.2,,A/C Seater (2+3),15:20,02h 50m,18:10,
+10,Droupadi Bus Service,INR 133,3.2,,Non AC Seater (2+3),16:20,02h 50m,19:10,
+11,Satadal Travels,171,3.5,,A/C Seater (2+2),14:55,03h 20m,18:15,
+12,Santosh Bus Service,279,3.8,61 Seats available,A/C Seater Push Back (2+3),13:30,03h 40m,17:10,Esplanade
+13,Bengal Surface Transport,INR 419,3.0,25 Seats available,A/C Seater Push Back (2+3),23:20,02h 55m,02:15,Esplanade
+14,Bengal Surface Transport,INR 550,3.0,20 Seats available,A/C Seater / Sleeper (2+2),23:55,02h 50m,02:45,Esplanade
+15,Basu Travels,INR 399,2.9,34 Seats available,A/C Seater Push Back (2+3),14:25,02h 55m,17:20,Esplanade
+16,Basu Travels,INR 499,2.9,20 Seats available,A/C Seater Push Back (2+3),23:30,03h 00m,02:30,Esplanade
+17,Basu Travels,INR 599,2.9,21 Seats available,A/C Seater / Sleeper (2+2),23:59,02h 46m,02:45,Esplanade
+18,Santosh Bus Service,166,3.8,,NON A/C Seater Pushback (2+3),20:05,03h 40m,23:45,
+19,Bengal Surface Transport,INR 399,3.0,,A/C Seater Push Back (2+3),23:59,02h 31m,02:30,
+20,Bengal Surface Transport,INR 379,3.0,,A/C Seater Push Back (2+3),14:29,02h 51m,17:20,
+21,Basu Travels,INR 390,2.9,,A/C Seater Push Back (2+3),14:32,02h 38m,17:10,
+22,Basu Travels,INR 469,2.9,,A/C Seater Push Back (2+3),23:55,02h 25m,02:20,
+23,EASY RIDE,INR 1700,4.7,25 Seats available,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:30,12h 55m,07:25,Siliguri Junction Bus Stand
+24,Greenline,INR 1300,4.6,32 Seats available,Volvo 9600 A/C Seater/Sleeper (2+1),19:15,13h 15m,08:30,Tenzing Norgay Bus Terminus
+25,Shyamoli Paribahan Pvt Ltd,INR 1600,4.5,15 Seats available,Volvo Multi-Axle A/C seater/sleeper (2+1),18:30,12h 50m,07:20,Siliguri
+26,AdShyamoli Paribahan Pvt Ltd,INR 1800,4.6,20 Seats available,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:00,12h 05m,06:05,Siliguri
+27,Lokenath Bus Service,INR 1600,4.6,30 Seats available,Volvo 9600 Multi-Axle A/C Sleeper (2+1),19:15,12h 30m,07:45,Siliguri Junction bus stand
+28,Aitiana Airwings,INR 1500,4.6,20 Seats available,Volvo Multi-Axle Sleeper A/C (2+1),18:30,13h 00m,07:30,Tenzing Norgay Bus Terminus (...
+29,Express Line,INR 1499,4.5,28 Seats available,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),18:30,12h 40m,07:10,SILIGURI
+30,AdExpress Line,INR 1499,4.4,16 Seats available,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),19:00,12h 50m,07:50,SILIGURI
+31,Express Line,INR 1199,4.5,43 Seats available,Volvo 9600 A/C Seater/Sleeper (2+1),19:30,12h 30m,08:00,SILIGURI
+32,Greenline,INR 1600,4.5,18 Seats available,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:30,13h 00m,07:30,Tenzing Norgay Bus Terminus
+33,Rubi Paribahan  ,INR 1599,4.5,28 Seats available,Volvo 9600 Multi-Axle A/C Sleeper (2+1),19:00,12h 30m,07:30,Tenzing Norgey Junction Bus S...
+34,Shyamoli Paribahan Pvt Ltd,INR 1300,4.3,25 Seats available,Volvo Multi-Axle A/C seater/sleeper (2+1),19:00,12h 20m,07:20,Siliguri
+35,Shyamoli Paribahan Pvt Ltd,INR 1300,4.4,32 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),20:30,12h 30m,09:00,Siliguri
+36,Lokenath Bus Service,INR 1200,4.2,41 Seats available,Volvo Multi-Axle A/C Seater/Sleeper (2+1),18:45,12h 00m,06:45,Siliguri Junction bus stand
+37,Shyamoli Paribahan Pvt Ltd,INR 1200,4.3,38 Seats available,Volvo Multi-Axle A/C Semi Sleeper (2+2),20:00,12h 50m,08:50,Siliguri
+38,Rubi Paribahan  ,INR 1299,4.0,41 Seats available,Volvo Multi Axle B11R AC Seater\Sleeper (2+1),18:30,12h 45m,07:15,Tenzing Norgey Junction Bus S...
+39,Lokenath Bus Service,INR 1200,4.1,36 Seats available,Volvo Multi Axle B11R AC Seater\Sleeper (2+1),20:30,12h 00m,08:30,Siliguri Junction bus stand
+40,Royal Cruiser,1166,3.9,26 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),17:35,13h 00m,06:35,Tenzing Norgey Bus Stand-Gupt...
+41,Poulami Paribahan,INR 1500,4.1,20 Seats available,Volvo Multi-Axle A/C seater/sleeper (2+1),19:15,12h 15m,07:30,Tenzing Norgay Bus Terminus
+42,Modern Travels,INR 975,3.6,31 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),19:00,12h 30m,07:30,Siliguri
+43,Aitiana Airwings,INR 1600,4.0,13 Seats available,Benz A/C Sleeper (2+1),18:00,14h 00m,08:00,Tenzing Norgay Bus Terminus (...
+44,Greenline,INR 1500,4.9,29 Seats available,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:00,12h 45m,06:45,Tenzing Norgay Bus Terminus
+45,Lokenath Bus Service,INR 950,3.9,27 Seats available,A/C Seater / Sleeper (2+1),18:15,12h 30m,06:45,Siliguri Junction bus stand
+46,Annesha Travels,INR 500,2.0,43 Seats available,NON A/C Seater / Sleeper (2+2),18:00,13h 00m,07:00,Tenzing Norgay Central Bus Stand
+47,Aradhana Bus Service,665,3.1,31 Seats available,NON A/C Seater / Sleeper (2+2),14:30,16h 00m,06:30,Siliguri Bus Stand
+48,Maa Durga Bus Service,INR 600,2.6,8 Seats available,NON A/C Seater / Sleeper (2+2),18:00,14h 00m,08:00,Tenzing Norgay Bus Terminus (...
+49,Shantanu Bus Service,INR 600,2.3,31 Seats available,NON A/C Seater / Sleeper (2+2),18:00,15h 00m,09:00,Tenzing Norgay Central Bus Stand
+50,Maulik Paribahan,INR 1399,1.8,50 Seats available,A/C Seater / Sleeper (2+2),18:30,11h 30m,06:00,Siliguri Bus Stand
+51,Sanghita Bus Service (Shantanu),INR 1200,3.5,47 Seats available,A/C Seater / Sleeper (2+2),19:00,15h 00m,10:00,Tenzing Norgay Bus Terminus
+52,WBTC (CTC) Habra-Midnapur - 194|15:40,INR 105,4.3,,Non AC Seater (2+3),15:40,02h 45m,18:25,
+53,SBSTC-BERHAMPUR - DURGAPUR - VIA - SURI - 07:00 (BRP DEP - 1021,INR 91,4.0,47 Seats available,Non AC Seater (2+3),07:00,17h 00m,00:00,BERHAMPUR
+54,SBSTC-BERHAMPUR - DURGAPUR - VIA - SURI - 10:20 - 1023,INR 91,4.0,52 Seats available,Non AC Seater (2+3),10:20,13h 40m,00:00,BERHAMPUR
+55,SBSTC-BERHAMPUR - DURGAPUR - VIA - SURI - 14:30 - 1029,INR 91,4.0,52 Seats available,Non AC Seater (2+3),14:30,09h 30m,00:00,BERHAMPUR
+56,SBSTC-BERHAMPUR - DURGAPUR - VIA - SURI - 15:20 - 1030,INR 91,4.0,51 Seats available,Non AC Seater (2+3),15:20,08h 40m,00:00,BERHAMPUR
+57,SBSTC-BERHAMPUR - DURGAPUR - VIA - SURI - 09:25 (DGP) - 1126,INR 91,4.0,52 Seats available,Non AC Seater (2+3),09:25,14h 35m,00:00,BERHAMPUR
+58,SBSTC-BERHAMPUR - PURULIA - VIA - BANKURA - 08:50 (PRL D - 1087,INR 91,4.0,52 Seats available,Non AC Seater (2+3),08:50,15h 10m,00:00,BERHAMPUR
+59,SBSTC-BERHAMPUR - SURI - 13:15 (Suri Depot) - 2241,INR 91,4.0,52 Seats available,Non AC Seater (2+3),13:15,10h 45m,00:00,BERHAMPUR
+60,SBSTC-BERHAMPUR - DURGAPUR - VIA - SURI - 08:00 (BRP DEP - 1022,INR 91,4.0,51 Seats available,Non AC Seater (2+3),08:00,16h 00m,00:00,BERHAMPUR
+61,SBSTC-BERHAMPUR - MIDNAPUR - VIA - SURI / BNK - 08:30 (M - 1084,INR 91,4.0,52 Seats available,Non AC Seater (2+3),08:30,15h 30m,00:00,BERHAMPUR
+62,SBSTC-BERHAMPUR - DURGAPUR - VIA - SURI - 11:20 - 1024,INR 91,4.0,52 Seats available,Non AC Seater (2+3),11:20,12h 40m,00:00,BERHAMPUR
+63,SBSTC-BERHAMPUR - DURGAPUR - VIA - SURI - 12:20 - 3887,INR 91,4.0,52 Seats available,Non AC Seater (2+3),12:20,11h 40m,00:00,BERHAMPUR
+64,SBSTC-BARUIPUR - DIGHA - 06:00 (DIGHA DEPOT) - 549,INR 108,3.9,35 Seats available,Non AC Seater (2+3),06:50,17h 10m,00:00,Garia
+65,SBSTC-KHARDAH - DIGHA - VIA - BELGHORIA - 06.30 - 901,INR 99,3.9,51 Seats available,Non AC Seater (2+3),07:00,17h 00m,00:00,Belgharia
+66,SBSTC-KOLKATA - DIGHA - 07:00 (HWH DEPOT) - 614,INR 96,3.9,51 Seats available,Non AC Seater (2+3),07:00,17h 00m,00:00,Esplanade
+67,SBSTC-KARUNAMOYEE - DIGHA - VIA DUNLOP - 07:15 (BEL) - 1445,INR 110,3.9,39 Seats available,Non AC Seater (2+3),07:15,16h 45m,00:00,Karunamoyee
+68,SBSTC-KOLKATA - DIGHA - 07:30 (HWH DEPOT) - 616,INR 96,3.9,52 Seats available,Non AC Seater (2+3),07:30,16h 30m,00:00,Esplanade
+69,SBSTC-BELGHARIA - DIGHA - 07:45 (BEL DEPOT) - 947,INR 99,3.9,44 Seats available,Non AC Seater (2+3),07:45,16h 15m,00:00,Belgharia
+70,SBSTC-FALTA - DIGHA - VIA - KOLKATA - 05:00 (FALTA DEPOT - 1404,INR 96,3.9,52 Seats available,Non AC Seater (2+3),07:50,16h 10m,00:00,Esplanade
+71,SBSTC-KOLKATA - DIGHA - 08:30 (MID DEPOT) - 3360,INR 96,3.9,51 Seats available,Non AC Seater (2+3),08:30,15h 30m,00:00,Esplanade
+72,SBSTC-KOLKATA - DIGHA - 09:00 (KALNA DEPOT) - 3645,INR 96,3.9,52 Seats available,Non AC Seater (2+3),09:00,15h 00m,00:00,Esplanade
+73,SBSTC-FALTA - DIGHA - VIA - KOLKATA - 06:00 (FALTA DEPOT - 3488,INR 96,3.9,50 Seats available,Non AC Seater (2+3),09:15,14h 45m,00:00,Esplanade
+74,SBSTC-KOLKATA - DIGHA - 10:00 (KHIRPAI DEPOT) - 3506,INR 96,3.9,52 Seats available,Non AC Seater (2+3),10:00,14h 00m,00:00,Esplanade
+75,SBSTC-FALTA - DIGHA - VIA - KOLKATA - 07:00 (FALTA DEPOT - 547,INR 96,3.9,52 Seats available,Non AC Seater (2+3),10:15,13h 45m,00:00,Esplanade
+76,SBSTC-KOLKATA - DIGHA - 10:30 (MID DEPOT) - 3363,INR 96,3.9,51 Seats available,Non AC Seater (2+3),10:30,13h 30m,00:00,Esplanade
+77,SBSTC-ARAMBAG - DIGHA - VIA - KOLKATA - 07:40 - 1307,INR 96,3.9,51 Seats available,Non AC Seater (2+3),10:45,13h 15m,00:00,Esplanade
+78,SBSTC-KOLKATA - DIGHA - 11:45 (KALNA DEPOT) - 3822,INR 96,3.9,50 Seats available,Non AC Seater (2+3),11:45,12h 15m,00:00,Esplanade
+79,SBSTC-KOLKATA - DIGHA - 13:45 (MID DEPOT) - 971,INR 96,3.9,39 Seats available,Non AC Seater (2+3),13:45,10h 15m,00:00,Esplanade
+80,SBSTC-KOLKATA - PURUNIA - 14:30 (MID DEPOT) - 1636,INR 96,3.9,52 Seats available,Non AC Seater (2+3),14:30,09h 30m,00:00,Esplanade
+81,SBSTC-KARUNAMOYEE - DIGHA - VIA DUNLOP - 14:30 (DIGHA) - 3836,INR 110,3.9,49 Seats available,Non AC Seater (2+3),14:30,09h 30m,00:00,Karunamoyee
+82,SBSTC-GARIA - DIGHA - 15:15 (DIGHA DEPOT) - 543,INR 108,4.5,50 Seats available,Non AC Seater (2+3),15:15,08h 45m,00:00,Garia
+83,SBSTC-KOLKATA - DIGHA - 16:00 (ARM DEPOT) - 410,INR 96,3.9,45 Seats available,Non AC Seater (2+3),16:00,08h 00m,00:00,Esplanade
+84,SBSTC-GARIA - DIGHA - 22:30 (DIGHA DEPOT) - 3745,INR 96,3.9,16 Seats available,Non AC Seater (2+3),23:45,00h 15m,00:00,Esplanade
+85,NORTH BENGAL STATE TRANSPORT CORPORATION,INR 197,3.7,32 Seats available,Non AC Seater (2+3),07:15,10h 00m,17:15,Siliguri
+86,New Das Paribahan,INR 500,3.2,14 Seats available,NON A/C Seater / Sleeper (2+2),15:40,06h 20m,22:00,Tenzing Norgay Bus Terminus (...
+87,Guru Nanak (Inter City),INR 500,3.5,20 Seats available,NON A/C Seater / Sleeper (2+2),17:30,05h 40m,23:10,Siliguri
+88,Royal Cruiser,601,4.1,33 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),17:35,05h 40m,23:15,Siliguri
+89,Guru Nanak (Inter City),INR 600,3.3,15 Seats available,A/C Seater / Sleeper (2+2),18:00,05h 15m,23:15,Siliguri
+90,Lokenath Bus Service,INR 650,4.0,26 Seats available,A/C Seater / Sleeper (2+1),18:15,05h 30m,23:45,Siliguri
+91,Modern Travels,INR 975,3.6,32 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),19:00,04h 55m,23:55,Siliguri Junction bus stand
+92,Aradhana Travels,855,3.5,32 Seats available,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),21:30,05h 30m,03:00,Siliguri
+93,Aradhana Bus Service,665,2.3,42 Seats available,NON A/C Seater / Sleeper (2+2),14:30,07h 00m,21:30,Siliguri Junction bus stand
+94,Maa Durga Bus Service,INR 600,2.4,50 Seats available,Non AC Seater (2+2),18:00,07h 30m,01:30,Siliguri Bus Stand
+95,Aradhana Travels,713,2.4,,A/C Seater / Sleeper (2+1),19:05,05h 45m,00:50,
+96,Aradhana Travels,475,1.3,,NON A/C Seater / Sleeper (2+2),22:00,08h 00m,06:00,
+97,Shyamoli Paribahan Pvt Ltd,INR 1800,4.5,,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:00,05h 15m,23:15,
+98,Shyamoli Paribahan Pvt Ltd,INR 1200,4.6,,Volvo Multi-Axle A/C Semi Sleeper (2+2),18:20,05h 00m,23:20,
+99,Shyamoli Paribahan Pvt Ltd,INR 1600,4.3,,Volvo Multi-Axle A/C seater/sleeper (2+1),18:30,05h 40m,00:10,
+100,Express Line,INR 1499,3.4,,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),18:30,05h 15m,23:45,
+101,EASY RIDE,INR 1700,4.7,,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:30,05h 10m,23:40,
+102,Lokenath Bus Service,INR 1200,3.8,,Volvo Multi-Axle A/C Seater/Sleeper (2+1),18:45,05h 10m,23:55,
+103,Greenline,INR 1450,5.0,,Volvo Multi-Axle A/C Sleeper (2+1),19:00,04h 59m,23:59,
+104,Shyamoli Paribahan Pvt Ltd,INR 1300,4.0,,Volvo Multi-Axle A/C Seater/Sleeper (2+1),19:00,05h 10m,00:10,
+105,Express Line,INR 1499,3.4,,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),19:00,04h 55m,23:55,
+106,Lokenath Bus Service,INR 1600,4.0,,Volvo 9600 Multi-Axle A/C Sleeper (2+1),19:15,05h 15m,00:30,
+107,Shyamoli Paribahan Pvt Ltd,INR 1300,4.5,,Scania Multi-Axle AC Semi Sleeper (2+2),20:30,05h 40m,02:10,
+108,Lokenath Bus Service,INR 1200,4.0,,Volvo Multi Axle B11R AC Seater\Sleeper (2+1),20:30,04h 50m,01:20,
+109,Maulik Paribahan,INR 1399,2.5,,A/C Seater / Sleeper (2+2),18:30,05h 41m,00:11,
+110,SBSTC-BERHAMPUR - DURGAPUR - VIA - SURI - 15:20 - 1030,INR 163,4.6,,Non AC Seater (2+3),15:20,04h 00m,19:20,
+111,SBSTC-BERHAMPUR - DURGAPUR - VIA - BOLPUR - 13:10 - 1091,INR 143,4.2,,Non AC Seater (2+3),13:10,04h 00m,17:10,
+112,SBSTC-BERHAMPUR - DURGAPUR - VIA - SURI - 10:20 - 1023,INR 163,2.9,,Non AC Seater (2+3),10:20,04h 00m,14:20,
+113,SBSTC-BERHAMPUR - DURGAPUR - VIA - SURI - 14:30 - 1029,INR 163,2.7,,Non AC Seater (2+3),14:30,04h 00m,18:30,
+114,SBSTC-BERHAMPUR - DURGAPUR - VIA - SURI - 12:20 - 3887,INR 163,3.7,,Non AC Seater (2+3),12:20,04h 00m,16:20,
+115,SBSTC-BERHAMPUR - DURGAPUR - VIA - SURI - 09:25 (DGP) - 1126,INR 163,3.7,,Non AC Seater (2+3),09:25,04h 00m,13:25,
+116,SBSTC-BERHAMPUR - PURULIA - VIA - BANKURA - 08:50 (PRL D - 1087,INR 159,3.7,,Non AC Seater (2+3),08:50,05h 25m,14:15,
+117,SBSTC-BERHAMPUR - DURGAPUR - VIA - SURI - 07:00 (BRP DEP - 1021,INR 159,3.7,,Non AC Seater (2+3),07:00,04h 00m,11:00,
+118,SBSTC-BERHAMPUR - DURGAPUR - VIA - SURI - 08:00 (BRP DEP - 1022,INR 159,3.7,,Non AC Seater (2+3),08:00,04h 00m,12:00,
+119,SBSTC-BERHAMPUR - MIDNAPUR - VIA - SURI / BNK - 08:30 (M - 1084,INR 159,3.7,,Non AC Seater (2+3),08:30,05h 30m,14:00,
+120,SBSTC-BERHAMPUR - DURGAPUR - VIA - SURI - 11:20 - 1024,INR 159,3.7,,Non AC Seater (2+3),11:20,04h 00m,15:20,
+121,WBTC (CTC) KOLKATA - ASANSOL - PURULIA (AC VOLVO) Banglashree Express - 133|13:45,INR 430,3.2,27 Seats available,Volvo AC Seater (2+2),13:45,03h 55m,17:40,Esplanade
+122,Shyamoli Paribahan Pvt Ltd,INR 524,4.4,36 Seats available,Volvo A/C Seater (2+2),06:45,03h 30m,10:15,Babughat
+123,SHYAMOLI Pvt. Ltd.(Karunamoyee),INR 524,4.3,54 Seats available,Volvo A/C Seater (2+2),06:45,03h 45m,10:30,Babughat
+124,Greenline,INR 524,4.4,25 Seats available,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),07:40,05h 00m,12:40,Babughat
+125,Greenline (Karunamoyee),INR 524,4.4,21 Seats available,Volvo A/C Seater (2+2),07:45,05h 00m,12:45,Babughat
+126,Shyamoli Paribahan Pvt Ltd,INR 524,4.0,,Volvo A/C Seater (2+2),08:15,05h 00m,13:15,
+127,SHYAMOLI Pvt. Ltd.(Karunamoyee),INR 524,4.0,,Volvo A/C Seater (2+2),08:30,05h 00m,13:30,
+128,Greenline,INR 524,3.9,,Volvo A/C Seater (2+2),08:45,05h 00m,13:45,
+129,Shyamoli Paribahan Pvt Ltd,INR 524,4.3,,Volvo A/C Seater (2+2),09:15,05h 00m,14:15,
+130,Greenline (Karunamoyee),INR 524,4.4,,Volvo A/C Seater (2+2),09:15,05h 00m,14:15,
+131,Greenline,INR 524,4.5,,Volvo A/C Seater (2+2),09:50,05h 00m,14:50,
+132,Greenline (Karunamoyee),INR 524,4.3,,Volvo A/C Seater (2+2),11:00,05h 00m,16:00,
+133,Shyamoli Paribahan Pvt Ltd,INR 524,4.3,,Volvo A/C Seater (2+2),11:00,05h 00m,16:00,
+134,Greenline,INR 524,3.6,,Scania Multi-Axle AC Semi Sleeper (2+2),11:30,05h 00m,16:30,
+135,Shyamoli Paribahan Pvt Ltd,INR 524,3.9,,Volvo A/C Seater (2+2),12:00,05h 00m,17:00,
+136,SHYAMOLI Pvt. Ltd.(Karunamoyee),INR 524,4.1,,Volvo A/C Seater (2+2),12:00,05h 00m,17:00,
+137,Greenline,INR 524,4.5,,Volvo 9600 A/C Semi Sleeper (2+2),12:30,05h 00m,17:30,
+138,Shyamoli Paribahan Pvt Ltd,INR 524,4.0,,Volvo A/C Seater (2+2),13:00,05h 00m,18:00,
+139,Greenline (Karunamoyee),INR 524,4.4,,Scania Multi-Axle AC Semi Sleeper (2+2),13:00,05h 00m,18:00,
+140,Express Line,INR 524,4.5,,Volvo A/C Seater (2+2),13:30,05h 00m,18:30,
+141,Shyamoli Paribahan Pvt Ltd,INR 524,4.2,,Volvo A/C Seater (2+2),14:00,05h 00m,19:00,
+142,SHYAMOLI Pvt. Ltd.(Karunamoyee),INR 524,4.3,,Volvo A/C Seater (2+2),14:00,05h 00m,19:00,
+143,Greenline,INR 524,3.7,,Volvo A/C Seater (2+2),14:30,05h 00m,19:30,
+144,Greenline (Karunamoyee),INR 524,4.6,,Volvo A/C Seater (2+2),15:00,05h 00m,20:00,
+145,Express Line,INR 524,4.1,,Volvo 9600 A/C Semi Sleeper (2+2),15:30,04h 10m,19:40,
+146,Shyamoli Paribahan Pvt Ltd,INR 524,4.3,,Volvo A/C Seater (2+2),16:40,05h 00m,21:40,
+147,Greenline (Karunamoyee),INR 524,4.5,,Volvo A/C Seater (2+2),16:45,05h 00m,21:45,
+148,Express Line,INR 524,4.5,,Volvo 9600 Multi Axle Semi-Sleeper (2+2),17:20,05h 00m,22:20,
+149,Greenline,INR 524,4.7,,Volvo A/C Seater (2+2),18:05,05h 00m,23:05,
+150,Shyamoli Paribahan Pvt Ltd,INR 524,4.0,,Volvo A/C Seater (2+2),18:40,04h 45m,23:25,
+151,Express Line (Karunamoyee),INR 524,4.9,,Scania Multi-Axle AC Semi Sleeper (2+2),06:45,04h 15m,11:00,
+152,SHYAMOLI Pvt. Ltd.(Karunamoyee),INR 524,4.4,,Volvo A/C Seater (2+2),07:00,04h 30m,11:30,
+153,SHYAMOLI Pvt. Ltd.(Karunamoyee),INR 524,3.8,,Volvo A/C Seater (2+2),10:00,05h 00m,15:00,
+154,Tulsi Travel,INR 899,3.2,,NON A/C Seater / Sleeper (2+2),14:45,02h 05m,16:50,
+155,Shyamoli Paribahan Pvt Ltd,INR 524,3.9,,Scania Multi-Axle AC Semi Sleeper (2+2),15:00,04h 00m,19:00,
+156,Express Line (Karunamoyee),INR 524,4.9,,Volvo 9600 A/C Semi Sleeper (2+2),15:45,05h 00m,20:45,
+157,SHYAMOLI Pvt. Ltd.(Karunamoyee),INR 524,4.3,,Volvo A/C Seater (2+2),16:00,05h 00m,21:00,
+158,Greenline,INR 524,4.2,,Volvo 9600 Multi Axle Semi-Sleeper (2+2),16:00,04h 00m,20:00,
+159,SHYAMOLI Pvt. Ltd.(Karunamoyee),INR 524,4.6,,Volvo A/C Seater (2+2),17:30,05h 00m,22:30,
+160,Royal Cruiser,INR 550,4.0,,Scania Multi-Axle AC Semi Sleeper (2+2),19:30,04h 45m,00:15,
+161,Beauty Travels,INR 380,3.0,,NON A/C Seater / Sleeper (2+2),20:20,04h 10m,00:30,
+162,Express Line (Karunamoyee),INR 524,2.9,,Volvo A/C Seater (2+2),08:15,05h 00m,13:15,
+163,Pariwartan Bus Service,INR 500,1.7,,NON A/C Seater / Sleeper (2+2),18:30,06h 00m,00:30,
+164,Sana Travels,INR 500,2.5,,NON AC Seater / Sleeper 2+1,20:30,04h 30m,01:00,
+165,Maharani Travels,INR 800,,,A/C Seater / Sleeper (2+1),21:05,04h 55m,02:00,
+166,Royal Cruiser,INR 499,3.9,,Volvo A/C Seater (2+2),06:45,01h 30m,08:15,
+167,SBSTC-PURULIA - BERHAMPUR - 07:30 (PRL DEPOT) - 862,INR 112,3.4,,Non AC Seater (2+3),07:30,03h 50m,11:20,
+168,SBSTC-PURULIA - KOLKATA - VIA - ASN - 09:15 (PRL DEPOT) - 204,INR 112,3.2,,Non AC Seater (2+3),09:15,04h 15m,13:30,
+169,Arman Travels,INR 130,1.7,,Non AC Seater (2+3),06:50,03h 55m,10:45,
+170,SBSTC-KHARDAH - DIGHA - VIA - BELGHORIA - 06.30 - 901,INR 81,4.2,51 Seats available,Non AC Seater (2+3),07:00,17h 00m,00:00,Belgharia
+171,SBSTC-KOLKATA - DIGHA - 07:00 (HWH DEPOT) - 614,INR 80,4.2,51 Seats available,Non AC Seater (2+3),07:00,17h 00m,00:00,Esplanade
+172,SBSTC-KARUNAMOYEE - DIGHA - VIA DUNLOP - 07:15 (BEL) - 1445,INR 95,3.5,39 Seats available,Non AC Seater (2+3),07:15,16h 45m,00:00,Karunamoyee
+173,SBSTC-KOLKATA - DIGHA - 07:30 (HWH DEPOT) - 616,INR 80,4.2,52 Seats available,Non AC Seater (2+3),07:30,16h 30m,00:00,Esplanade
+174,SBSTC-KOLKATA - HALDIA - 07:45 (Haldia Depot) - 699,INR 80,4.3,45 Seats available,Non AC Seater (2+3),07:45,16h 15m,00:00,Esplanade
+175,SBSTC-BELGHARIA - DIGHA - 07:45 (BEL DEPOT) - 947,INR 81,4.6,44 Seats available,Non AC Seater (2+3),07:45,16h 15m,00:00,Belgharia
+176,SBSTC-FALTA - DIGHA - VIA - KOLKATA - 05:00 (FALTA DEPOT - 1404,INR 78,4.2,52 Seats available,Non AC Seater (2+3),07:50,16h 10m,00:00,Esplanade
+177,SBSTC-KOLKATA - DIGHA - 08:30 (MID DEPOT) - 3360,INR 80,3.9,51 Seats available,Non AC Seater (2+3),08:30,15h 30m,00:00,Esplanade
+178,SBSTC-KOLKATA - DIGHA - 09:00 (KALNA DEPOT) - 3645,INR 80,4.6,52 Seats available,Non AC Seater (2+3),09:00,15h 00m,00:00,Esplanade
+179,SBSTC-FALTA - DIGHA - VIA - KOLKATA - 06:00 (FALTA DEPOT - 3488,INR 78,3.4,50 Seats available,Non AC Seater (2+3),09:15,14h 45m,00:00,Esplanade
+180,SBSTC-KOLKATA - DIGHA - 10:00 (KHIRPAI DEPOT) - 3506,INR 80,5.0,52 Seats available,Non AC Seater (2+3),10:00,14h 00m,00:00,Esplanade
+181,SBSTC-FALTA - DIGHA - VIA - KOLKATA - 07:00 (FALTA DEPOT - 547,INR 78,4.2,52 Seats available,Non AC Seater (2+3),10:15,13h 45m,00:00,Esplanade
+182,SBSTC-KOLKATA - DIGHA - 10:30 (MID DEPOT) - 3363,INR 80,4.2,51 Seats available,Non AC Seater (2+3),10:30,13h 30m,00:00,Esplanade
+183,SBSTC-KOLKATA - HALDIA - 10:30 (Haldia Depot) - 1078,INR 80,3.3,52 Seats available,Non AC Seater (2+3),10:30,13h 30m,00:00,Esplanade
+184,SBSTC-ARAMBAG - DIGHA - VIA - KOLKATA - 07:40 - 1307,INR 78,4.2,51 Seats available,Non AC Seater (2+3),10:45,13h 15m,00:00,Esplanade
+185,SBSTC-KOLKATA - HALDIA - 11:15 (Haldia Depot) - 698,INR 80,4.1,51 Seats available,Non AC Seater (2+3),11:15,12h 45m,00:00,Esplanade
+186,SBSTC-KOLKATA - DIGHA - 11:45 (KALNA DEPOT) - 3822,INR 80,4.2,50 Seats available,Non AC Seater (2+3),11:45,12h 15m,00:00,Esplanade
+187,SBSTC-KOLKATA - HALDIA - 12.00 (HALDIA DEPOT) - 561,INR 80,4.2,52 Seats available,Non AC Seater (2+3),12:00,12h 00m,00:00,Esplanade
+188,SBSTC-CHITTARANJAN - HALDIA - VIA - KOLKATA - 05:40 - 199,INR 78,4.2,39 Seats available,Non AC Seater (2+3),12:30,01h 30m,14:00,Esplanade
+189,SBSTC-KOLKATA - DIGHA - 13:45 (MID DEPOT) - 971,INR 80,4.2,52 Seats available,Non AC Seater (2+3),13:45,10h 15m,00:00,Esplanade
+190,SBSTC-KOLKATA - HALDIA - SPL - 14:05 (Haldia Depot) - 3015,INR 80,4.2,49 Seats available,Non AC Seater (2+3),14:05,09h 55m,00:00,Karunamoyee
+191,SBSTC-KARUNAMOYEE - DIGHA - VIA DUNLOP - 14:30 (DIGHA) - 3836,INR 95,4.2,52 Seats available,Non AC Seater (2+3),14:30,09h 30m,00:00,Esplanade
+192,SBSTC-KOLKATA - PURUNIA - 14:30 (MID DEPOT) - 1636,INR 78,4.2,50 Seats available,Non AC Seater (2+3),14:30,09h 30m,00:00,Esplanade
+193,SBSTC-ASANSOL - HALDIA - VIA - KOLKATA - 08:05 (HLD DEPO - 744,INR 78,4.4,50 Seats available,Non AC Seater (2+3),14:45,09h 15m,00:00,Garia
+194,SBSTC-GARIA - DIGHA - 15:15 (DIGHA DEPOT) - 543,INR 90,4.0,45 Seats available,Non AC Seater (2+3),15:15,08h 45m,00:00,Esplanade
+195,SBSTC-KOLKATA - DIGHA - 16:00 (ARM DEPOT) - 410,INR 80,4.6,50 Seats available,Non AC Seater (2+3),16:00,08h 00m,00:00,Esplanade
+196,SBSTC-KOLKATA - HALDIA - 17:000 (Haldia Depot) - 3017,INR 80,4.3,50 Seats available,Non AC Seater (2+3),17:00,07h 00m,00:00,Esplanade
+197,SBSTC-KOLKATA - HALDIA - 17.30 (HALDIA DEPOT) - 565,INR 80,4.5,45 Seats available,Non AC Seater (2+3),17:30,06h 30m,00:00,Esplanade
+198,SBSTC-KOLKATA - HALDIA - 18.15 (HALDIA DEPOT) - 566,INR 80,4.6,16 Seats available,Non AC Seater (2+3),18:15,05h 45m,00:00,Esplanade
+199,SBSTC-GARIA - DIGHA - 22:30 (DIGHA DEPOT) - 3745,INR 78,4.2,30 Seats available,Non AC Seater (2+3),23:45,00h 15m,00:00,Belgharia
+200,SBSTC-BARRACKPORE - HALDIA - VIA - BELGHARIA - 06:40 - 902,INR 82,2.4,,Non AC Seater (2+3),07:15,16h 45m,00:00,
+201,SHYAMOLI Pvt. Ltd.(Karunamoyee),INR 429,4.6,,Volvo A/C Seater (2+2),07:00,02h 15m,09:15,
+202,SHYAMOLI Pvt. Ltd.(Karunamoyee),INR 429,4.6,,Volvo A/C Seater (2+2),08:30,02h 15m,10:45,
+203,SHYAMOLI Pvt. Ltd.(Karunamoyee),INR 429,4.5,,Volvo A/C Seater (2+2),17:30,02h 30m,20:00,
+204,SHYAMOLI Pvt. Ltd.(Karunamoyee),INR 429,4.7,,Volvo A/C Seater (2+2),16:00,02h 30m,18:30,
+205,SHYAMOLI Pvt. Ltd.(Karunamoyee),INR 429,4.6,,Volvo A/C Seater (2+2),06:45,01h 30m,08:15,
+206,Shyamoli Paribahan Pvt Ltd,INR 429,4.7,,Volvo A/C Seater (2+2),09:15,02h 00m,11:15,
+207,Greenline (Karunamoyee),INR 429,4.2,,Volvo A/C Seater (2+2),07:45,02h 30m,10:15,
+208,Shyamoli Paribahan Pvt Ltd,INR 429,4.6,,Volvo A/C Seater (2+2),08:15,02h 15m,10:30,
+209,Shyamoli Paribahan Pvt Ltd,INR 429,4.6,,Volvo A/C Seater (2+2),06:45,01h 15m,08:00,
+210,Express Line (Karunamoyee),INR 429,4.9,,Volvo 9600 A/C Semi Sleeper (2+2),15:45,02h 15m,18:00,
+211,Greenline (Karunamoyee),INR 429,4.3,,Volvo A/C Seater (2+2),09:15,02h 30m,11:45,
+212,SHYAMOLI Pvt. Ltd.(Karunamoyee),INR 429,4.7,,Volvo A/C Seater (2+2),14:00,02h 20m,16:20,
+213,Greenline,INR 429,4.7,,Volvo 9600 Multi Axle Semi-Sleeper (2+2),16:00,01h 50m,17:50,
+214,Greenline,INR 429,4.5,,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),07:40,02h 30m,10:10,
+215,SHYAMOLI Pvt. Ltd.(Karunamoyee),INR 429,4.3,,Volvo A/C Seater (2+2),10:00,02h 45m,12:45,
+216,Greenline (Karunamoyee),INR 429,4.6,,Volvo A/C Seater (2+2),11:00,02h 30m,13:30,
+217,Greenline (Karunamoyee),INR 429,4.1,,Volvo A/C Seater (2+2),15:00,02h 35m,17:35,
+218,Shyamoli Paribahan Pvt Ltd,INR 429,4.8,,Volvo A/C Seater (2+2),16:40,02h 15m,18:55,
+219,Greenline,INR 429,5.0,,Volvo A/C Seater (2+2),09:50,02h 30m,12:20,
+220,Express Line (Karunamoyee),INR 429,4.3,,Volvo A/C Seater (2+2),08:15,02h 15m,10:30,
+221,Shyamoli Paribahan Pvt Ltd,INR 429,4.6,,Volvo A/C Seater (2+2),18:40,02h 00m,20:40,
+222,SHYAMOLI Pvt. Ltd.(Karunamoyee),INR 429,3.9,,Volvo A/C Seater (2+2),12:00,02h 15m,14:15,
+223,Greenline,INR 429,5.0,,Scania Multi-Axle AC Semi Sleeper (2+2),11:30,02h 30m,14:00,
+224,Greenline,INR 429,4.9,,Volvo A/C Seater (2+2),08:45,02h 30m,11:15,
+225,Greenline (Karunamoyee),INR 429,3.6,,Volvo A/C Seater (2+2),16:45,02h 35m,19:20,
+226,Greenline (Karunamoyee),INR 429,4.0,,Scania Multi-Axle AC Semi Sleeper (2+2),13:00,02h 30m,15:30,
+227,Express Line,INR 429,4.1,,Volvo A/C Seater (2+2),13:30,02h 10m,15:40,
+228,Greenline,INR 429,4.2,,Volvo A/C Seater (2+2),18:05,02h 40m,20:45,
+229,Express Line,INR 429,3.1,,Volvo 9600 Multi Axle Semi-Sleeper (2+2),17:20,02h 10m,19:30,
+230,Shyamoli Paribahan Pvt Ltd,INR 429,3.6,,Volvo A/C Seater (2+2),12:00,02h 00m,14:00,
+231,Shyamoli Paribahan Pvt Ltd,INR 429,3.5,,Volvo A/C Seater (2+2),11:00,02h 15m,13:15,
+232,Express Line (Karunamoyee),INR 429,4.6,,Scania Multi-Axle AC Semi Sleeper (2+2),06:45,01h 45m,08:30,
+233,Shyamoli Paribahan Pvt Ltd,INR 429,3.8,,Volvo A/C Seater (2+2),13:00,02h 15m,15:15,
+234,Shyamoli Paribahan Pvt Ltd,INR 429,2.8,,Volvo A/C Seater (2+2),14:00,02h 00m,16:00,
+235,Express Line,INR 429,4.3,,Volvo 9600 A/C Semi Sleeper (2+2),15:30,01h 30m,17:00,
+236,Greenline,INR 429,4.3,,Volvo 9600 A/C Semi Sleeper (2+2),12:30,02h 35m,15:05,
+237,Royal Cruiser,INR 400,3.9,,Scania Multi-Axle AC Semi Sleeper (2+2),19:30,02h 45m,22:15,
+238,Pammi Travels,INR 650,3.7,,Non A/C Seater / Sleeper (2+1),21:00,02h 59m,23:59,
+239,Pammi Travels,INR 1200,3.7,,A/C Sleeper (2+1),21:00,02h 59m,23:59,
+240,Greenline,INR 429,3.5,,Volvo A/C Seater (2+2),14:30,02h 15m,16:45,
+241,Shyamoli Yatri Paribahan (Karunamoyee),INR 450,3.9,,Volvo AC Seater Pushback 2+2,15:30,02h 00m,17:30,
+242,Suman sabir,INR 111,1.2,,Non AC Seater (2+3),10:00,03h 00m,13:00,
+243,Suman sabir,INR 111,1.2,,Non AC Seater (2+3),21:00,02h 59m,23:59,
+244,Pariwartan Bus Service,INR 500,,,NON A/C Seater / Sleeper (2+2),18:30,03h 00m,21:30,
+245,Shyamoli Paribahan Pvt Ltd,INR 1050,4.2,42 Seats available,Volvo Multi-Axle A/C Semi Sleeper (2+2),19:30,05h 20m,00:50,City Center Durgapur
+246,Greenline,INR 1450,3.9,22 Seats available,Volvo Multi-Axle A/C Sleeper (2+1),19:45,05h 30m,01:15,City Center Durgapur
+247,Express Line,INR 749,4.5,45 Seats available,Volvo 9600 A/C Seater/Sleeper (2+1),19:40,05h 30m,01:10,City Center Durgapur
+248,Mangaldeep,INR 600,3.4,26 Seats available,NON A/C Seater / Sleeper (2+2),17:30,07h 00m,00:30,City Center
+249,Guru Nanak (Inter City),INR 450,3.6,10 Seats available,NON A/C Seater / Sleeper (2+2),18:30,05h 40m,00:10,City Center Durgapur
+250,Guru Nanak (Inter City),INR 800,3.1,37 Seats available,Volvo A/C Seater (2+2),19:30,05h 50m,01:20,City Center Durgapur
+251,Basu Travels,INR 599,2.9,34 Seats available,A/C Seater / Sleeper (2+2),23:59,02h 01m,02:00,Esplanade
+252,Basu Travels,INR 499,2.9,20 Seats available,A/C Seater Push Back (2+3),23:30,02h 15m,01:45,Esplanade
+253,Basu Travels,INR 469,2.9,21 Seats available,A/C Seater Push Back (2+3),23:55,02h 20m,02:15,Esplanade
+254,SBSTC-DIGHA - ASANSOL - VIA - MEDINIPUR-DURGAPUR - 21:30 - 1553,INR 267,3.3,35 Seats available,Non AC Seater (2+3),21:30,09h 40m,07:10,Bus Stand
+255,ISHIKA TRADERS,INR 700,3.8,,A/C Seater / Sleeper (2+2),10:10,09h 10m,19:20,
+256,ISHIKA TRADERS,INR 600,3.2,,A/C Seater / Sleeper (2+2),10:10,08h 10m,18:20,
+257,SBSTC-KHARDAH - DIGHA - VIA - BELGHORIA - 06.30 - 901,INR 71,4.2,51 Seats available,Non AC Seater (2+3),07:00,17h 00m,00:00,Belgharia
+258,SBSTC-KOLKATA - DIGHA - 07:00 (HWH DEPOT) - 614,INR 68,4.2,51 Seats available,Non AC Seater (2+3),07:00,17h 00m,00:00,Esplanade
+259,SBSTC-GARIA - DIGHA - A/C - 07:15 (DIG DEPOT) - 1138,INR 135,4.1,19 Seats available,AC Seater (2+2),07:15,16h 45m,00:00,Garia
+260,SBSTC-KARUNAMOYEE - DIGHA - VIA DUNLOP - 07:15 (BEL) - 1445,INR 85,4.0,39 Seats available,Non AC Seater (2+3),07:15,16h 45m,00:00,Karunamoyee
+261,SBSTC-BARRACKPORE - HALDIA - VIA - BELGHARIA - 06:40 - 902,INR 70,4.2,29 Seats available,Non AC Seater (2+3),07:15,16h 45m,00:00,Belgharia
+262,SBSTC-KOLKATA - DIGHA - A/C - 07:20 (HWH DEPOT) - 1903,INR 125,4.2,33 Seats available,AC Seater (2+2),07:20,16h 40m,00:00,Esplanade
+263,SBSTC-KOLKATA - DIGHA - 07:30 (HWH DEPOT) - 616,INR 68,4.2,52 Seats available,Non AC Seater (2+3),07:30,16h 30m,00:00,Esplanade
+264,SBSTC-KOLKATA - HALDIA - 07:45 (Haldia Depot) - 699,INR 68,4.2,45 Seats available,Non AC Seater (2+3),07:45,16h 15m,00:00,Esplanade
+265,SBSTC-BELGHARIA - DIGHA - 07:45 (BEL DEPOT) - 947,INR 71,4.2,44 Seats available,Non AC Seater (2+3),07:45,16h 15m,00:00,Belgharia
+266,SBSTC-FALTA - DIGHA - VIA - KOLKATA - 05:00 (FALTA DEPOT - 1404,INR 68,4.2,52 Seats available,Non AC Seater (2+3),07:50,16h 10m,00:00,Esplanade
+267,SBSTC-KOLKATA - DIGHA - 08:30 (MID DEPOT) - 3360,INR 68,4.2,51 Seats available,Non AC Seater (2+3),08:30,15h 30m,00:00,Esplanade
+268,SBSTC-KOLKATA - DIGHA - 09:00 (KALNA DEPOT) - 3645,INR 68,4.2,52 Seats available,Non AC Seater (2+3),09:00,15h 00m,00:00,Esplanade
+269,SBSTC-FALTA - DIGHA - VIA - KOLKATA - 06:00 (FALTA DEPOT - 3488,INR 68,4.2,50 Seats available,Non AC Seater (2+3),09:15,14h 45m,00:00,Esplanade
+270,SBSTC-KOLKATA - DIGHA - 10:00 (KHIRPAI DEPOT) - 3506,INR 68,4.2,52 Seats available,Non AC Seater (2+3),10:00,14h 00m,00:00,Esplanade
+271,SBSTC-FALTA - DIGHA - VIA - KOLKATA - 07:00 (FALTA DEPOT - 547,INR 68,4.2,52 Seats available,Non AC Seater (2+3),10:15,13h 45m,00:00,Esplanade
+272,SBSTC-KOLKATA - HALDIA - 10:30 (Haldia Depot) - 1078,INR 68,4.2,52 Seats available,Non AC Seater (2+3),10:30,13h 30m,00:00,Esplanade
+273,SBSTC-KOLKATA - DIGHA - 10:30 (MID DEPOT) - 3363,INR 68,4.2,51 Seats available,Non AC Seater (2+3),10:30,13h 30m,00:00,Esplanade
+274,SBSTC-ARAMBAG - DIGHA - VIA - KOLKATA - 07:40 - 1307,INR 68,4.2,51 Seats available,Non AC Seater (2+3),10:45,13h 15m,00:00,Esplanade
+275,SBSTC-KOLKATA - HALDIA - 11:15 (Haldia Depot) - 698,INR 68,4.6,51 Seats available,Non AC Seater (2+3),11:15,12h 45m,00:00,Esplanade
+276,SBSTC-KOLKATA - DIGHA - 11:45 (KALNA DEPOT) - 3822,INR 68,4.2,50 Seats available,Non AC Seater (2+3),11:45,12h 15m,00:00,Esplanade
+277,SBSTC-KOLKATA - HALDIA - 12.00 (HALDIA DEPOT) - 561,INR 68,4.2,52 Seats available,Non AC Seater (2+3),12:00,12h 00m,00:00,Esplanade
+278,SBSTC-CHITTARANJAN - HALDIA - VIA - KOLKATA - 05:40 - 199,INR 68,4.2,52 Seats available,Non AC Seater (2+3),12:30,11h 30m,00:00,Esplanade
+279,SBSTC-KOLKATA - DIGHA - 13:45 (MID DEPOT) - 971,INR 68,4.2,39 Seats available,Non AC Seater (2+3),13:45,10h 15m,00:00,Esplanade
+280,SBSTC-KOLKATA - HALDIA - SPL - 14:05 (Haldia Depot) - 3015,INR 68,5.0,52 Seats available,Non AC Seater (2+3),14:05,09h 55m,00:00,Esplanade
+281,SBSTC-KARUNAMOYEE - DIGHA - VIA DUNLOP - 14:30 (DIGHA) - 3836,INR 85,4.2,49 Seats available,Non AC Seater (2+3),14:30,09h 30m,00:00,Karunamoyee
+282,SBSTC-KOLKATA - HALDIA - A/C - 14:30 (Haldia Depot) - 980,INR 125,3.5,37 Seats available,AC Seater (2+2),14:30,09h 30m,00:00,Esplanade
+283,SBSTC-KOLKATA - PURUNIA - 14:30 (MID DEPOT) - 1636,INR 68,4.2,52 Seats available,Non AC Seater (2+3),14:30,09h 30m,00:00,Esplanade
+284,SBSTC-ASANSOL - HALDIA - VIA - KOLKATA - 08:05 (HLD DEPO - 744,INR 68,4.2,50 Seats available,Non AC Seater (2+3),14:45,09h 15m,00:00,Esplanade
+285,SBSTC-GARIA - DIGHA - 15:15 (DIGHA DEPOT) - 543,INR 80,4.2,50 Seats available,Non AC Seater (2+3),15:15,08h 45m,00:00,Garia
+286,SBSTC-KOLKATA - DIGHA - 16:00 (ARM DEPOT) - 410,INR 68,4.2,45 Seats available,Non AC Seater (2+3),16:00,08h 00m,00:00,Esplanade
+287,SBSTC-KOLKATA - HALDIA - A/C - 16:05 (Haldia Depot) - 1527,INR 125,5.0,37 Seats available,AC Seater (2+2),16:05,07h 55m,00:00,Esplanade
+288,SBSTC-KOLKATA - HALDIA - 17:000 (Haldia Depot) - 3017,INR 68,5.0,50 Seats available,Non AC Seater (2+3),17:00,07h 00m,00:00,Esplanade
+289,SBSTC-KOLKATA - HALDIA - 17.30 (HALDIA DEPOT) - 565,INR 68,3.8,50 Seats available,Non AC Seater (2+3),17:30,06h 30m,00:00,Esplanade
+290,SBSTC-KOLKATA - HALDIA - 18.15 (HALDIA DEPOT) - 566,INR 68,3.9,45 Seats available,Non AC Seater (2+3),18:15,05h 45m,00:00,Esplanade
+291,SBSTC-GARIA - DIGHA - 22:30 (DIGHA DEPOT) - 3745,INR 68,4.2,16 Seats available,Non AC Seater (2+3),23:45,00h 15m,00:00,Esplanade
+292,SBSTC-KOLKATA - LABPUR - VIA KIRNAHAR - 07:25 (HWH DEPOT - 1118,INR 140,3.8,45 Seats available,Non AC Seater (2+3),07:25,16h 35m,00:00,Esplanade
+293,SBSTC-KOLKATA - TARAPITH - VIA - FUTISANKO - 09:30 (FALT - 2889,INR 140,3.3,50 Seats available,Non AC Seater (2+3),09:30,14h 30m,00:00,Esplanade
+294,SBSTC-KOLKATA - RAMPURHAT - VIA - TARAPITH - 12:20 - 3010,INR 140,3.8,52 Seats available,Non AC Seater (2+3),12:20,11h 40m,00:00,Esplanade
+295,SBSTC-KOLKATA - RAMPURHAT - VIA - TARAPITH - 14:00 - 2912,INR 140,3.4,52 Seats available,Non AC Seater (2+3),14:00,10h 00m,00:00,Esplanade
+296,SBSTC-KOLKATA - KIRNAHAR - 14:35 (BWN DEPOT) - 1047,INR 140,4.9,52 Seats available,Non AC Seater (2+3),14:35,09h 25m,00:00,Esplanade
+297,SBSTC-KOLKATA - RAMPURHAT - VIA - TARAPITH - 15:10 - 2494,INR 140,3.8,52 Seats available,Non AC Seater (2+3),15:10,08h 50m,00:00,Esplanade
+298,SBSTC-KOLKATA - LANGALHATA - 15:15 (BWN DEPOT) - 1849,INR 140,4.2,48 Seats available,Non AC Seater (2+3),15:15,08h 45m,00:00,Esplanade
+299,SBSTC-KOLKATA - KANDI - VIA - FUTISANKO - 16:25 (BWN D - 3968,INR 140,3.8,52 Seats available,Non AC Seater (2+3),16:25,07h 35m,00:00,Esplanade
+300,SBSTC-KOLKATA - LABPUR - 16:35 (HWH DEPOT) - 3238,INR 140,4.4,49 Seats available,Non AC Seater (2+3),16:35,07h 25m,00:00,Esplanade
+301,SBSTC-KOLKATA - KANDRA - 17:00 (BWN DEPOT) - 689,INR 140,3.6,52 Seats available,Non AC Seater (2+3),17:00,07h 00m,00:00,Esplanade
+302,SBSTC-KOLKATA - ARAMBAG - NON STOP - 07:30 - 574,INR 95,4.1,,Non AC Seater (2+3),07:30,02h 30m,10:00,
+303,SBSTC-KOLKATA - ARAMBAG - NON STOP - 08:30 - 575,INR 95,4.2,,Non AC Seater (2+3),08:30,02h 30m,11:00,
+304,SBSTC-KOLKATA - ARAMBAG - 09:30 (ARM DEPOT) - 1909,INR 95,3.8,,Non AC Seater (2+3),09:30,02h 30m,12:00,
+305,SBSTC-KOLKATA - ARAMBAG - 10:30 (ARM DEPOT) - 1310,INR 95,4.1,,Non AC Seater (2+3),10:30,02h 30m,13:00,
+306,SBSTC-KOLKATA - ARAMBAG - NON STOP - 11:30 - 579,INR 95,4.4,,Non AC Seater (2+3),11:30,02h 30m,14:00,
+307,SBSTC-KOLKATA - ARAMBAG - NON STOP - 14:30 - 582,INR 95,3.8,,Non AC Seater (2+3),14:30,02h 30m,17:00,
+308,SBSTC-KOLKATA - ARAMBAG - NON STOP - 15:30 - 583,INR 95,4.1,,Non AC Seater (2+3),15:30,02h 30m,18:00,
+309,SBSTC-KOLKATA-ARAMBAG-17:30 - 585,INR 95,4.0,,Non AC Seater (2+3),17:30,02h 30m,20:00,
+310,WBTC (CTC) Habra-Midnapur - 194|15:40,INR 120,4.3,,Non AC Seater (2+3),15:40,03h 15m,18:55,
+311,SBSTC-DURGAPUR - BERHAMPUR - VIA - BOLPUR - 11:45 - 1114,INR 139,3.3,,Non AC Seater (2+3),12:15,04h 00m,16:15,
+312,SBSTC-DURGAPUR - BERHAMPUR - VIA - SURI - 07:45 - 1104,INR 163,2.5,,Non AC Seater (2+3),07:45,04h 00m,11:45,
+313,SBSTC-DURGAPUR - BERHAMPUR - VIA - BOLPUR - 06:50 (DGP D - 1113,INR 139,3.4,,Non AC Seater (2+3),07:20,04h 00m,11:20,
+314,SBSTC-DURGAPUR - BERHAMPUR - VIA - SURI - 08:30 - 1105,INR 163,3.1,,Non AC Seater (2+3),08:30,04h 00m,12:30,
+315,SBSTC-PURULIA - BERHAMPUR - 07:30 (PRL DEPOT) - 862,INR 159,2.0,,Non AC Seater (2+3),11:20,04h 00m,15:20,
+316,SBSTC-DURGAPUR - BERHAMPUR - VIA - SURI - 13:05 (BRP DEP - 1106,INR 163,2.6,,Non AC Seater (2+3),13:05,04h 00m,17:05,
+317,SBSTC-DURGAPUR - BERHAMPUR - VIA - SURI - 14:05 (BRP DEP - 1107,INR 163,2.6,,Non AC Seater (2+3),14:05,04h 00m,18:05,
+318,SBSTC-DURGAPUR - BERHAMPUR - VIA - SURI - 15:40 (BRP DEP - 1109,INR 163,2.6,,Non AC Seater (2+3),15:40,04h 00m,19:40,
+319,SBSTC-PURULIA - BERHAMPUR - 05:30 (PRL DEPOT) - 907,INR 159,2.6,,Non AC Seater (2+3),09:30,04h 00m,13:30,
+320,SBSTC-MIDNAPUR - BERHAMPUR - 07:00 (MID DEPOT) - 994,INR 159,2.6,,Non AC Seater (2+3),11:50,04h 00m,15:50,
+321,SBSTC-DURGAPUR - BERHAMPUR - VIA - SURI - 10:20 (DGP DEP - 3603,INR 163,2.6,,Non AC Seater (2+3),10:20,04h 00m,14:20,
+322,City Queen Bus Service,INR 285,2.2,18 Seats available,Non AC Seater (2+2),21:30,06h 00m,03:30,Esplanade
+323,City Queen Bus Service,INR 250,2.2,13 Seats available,Non AC Seater (2+2),20:50,05h 10m,02:00,Esplanade
+324,Express Line (Karunamoyee),INR 429,4.6,,Volvo 9600 A/C Semi Sleeper (2+2),07:15,02h 05m,09:20,
+325,Greenline,INR 429,4.3,,Scania Multi-Axle AC Semi Sleeper (2+2),07:35,02h 10m,09:45,
+326,SHYAMOLI Pvt. Ltd.(Karunamoyee),INR 429,3.4,,Volvo Multi-Axle A/C Semi Sleeper (2+2),07:40,02h 20m,10:00,
+327,Greenline (Karunamoyee),INR 429,4.1,,Scania Multi-Axle AC Semi Sleeper (2+2),07:55,02h 20m,10:15,
+328,Express Line,INR 429,4.0,,Volvo A/C Seater (2+2),08:05,01h 55m,10:00,
+329,Greenline (Karunamoyee),INR 429,4.9,,Volvo A/C Seater (2+2),08:50,03h 00m,11:50,
+330,Shyamoli Paribahan Pvt Ltd,INR 429,4.2,,Volvo A/C Seater (2+2),09:00,02h 30m,11:30,
+331,Express Line (Karunamoyee),INR 429,4.5,,Volvo 9600 A/C Semi Sleeper (2+2),09:40,02h 50m,12:30,
+332,SHYAMOLI Pvt. Ltd.(Karunamoyee),INR 429,4.2,,Volvo A/C Seater (2+2),09:45,03h 00m,12:45,
+333,Shyamoli Paribahan Pvt Ltd,INR 429,4.3,,Volvo A/C Seater (2+2),10:40,02h 50m,13:30,
+334,SHYAMOLI Pvt. Ltd.(Karunamoyee),INR 429,3.7,,Volvo B11R Multi Axle Seater (2+2),10:45,03h 00m,13:45,
+335,Greenline (Karunamoyee),INR 429,4.7,,Volvo A/C Seater (2+2),11:00,03h 00m,14:00,
+336,Express Line,INR 429,4.8,,Volvo 9600 Multi Axle Semi-Sleeper (2+2),11:40,02h 50m,14:30,
+337,SHYAMOLI Pvt. Ltd.(Karunamoyee),INR 429,3.3,,Volvo B11R Multi Axle Seater (2+2),12:05,02h 55m,15:00,
+338,Shyamoli Paribahan Pvt Ltd,INR 429,3.7,,Volvo B11R Multi Axle Seater (2+2),12:10,02h 50m,15:00,
+339,Greenline,INR 429,4.5,,Volvo A/C Seater (2+2),12:30,03h 00m,15:30,
+340,Greenline (Karunamoyee),INR 429,4.4,,Volvo A/C Seater (2+2),13:00,02h 50m,15:50,
+341,SHYAMOLI Pvt. Ltd.(Karunamoyee),INR 429,4.6,,Volvo A/C Seater (2+2),13:45,02h 45m,16:30,
+342,Shyamoli Paribahan Pvt Ltd,INR 429,4.6,,Volvo A/C Seater (2+2),14:05,02h 40m,16:45,
+343,Greenline (Karunamoyee),INR 429,5.0,,Volvo A/C Seater (2+2),14:10,03h 00m,17:10,
+344,Greenline,INR 429,4.8,,Volvo A/C Seater (2+2),14:25,02h 55m,17:20,
+345,SHYAMOLI Pvt. Ltd.(Karunamoyee),INR 429,4.5,,Volvo A/C Seater (2+2),14:55,02h 50m,17:45,
+346,Express Line (Karunamoyee),INR 429,4.7,,Scania Multi-Axle AC Semi Sleeper (2+2),15:20,02h 50m,18:10,
+347,Shyamoli Paribahan Pvt Ltd,INR 429,4.4,,Volvo A/C Seater (2+2),15:20,02h 40m,18:00,
+348,Express Line,INR 429,4.1,,Scania Multi-Axle AC Semi Sleeper (2+2),15:30,03h 00m,18:30,
+349,Greenline,INR 429,4.3,,Volvo A/C Seater (2+2),16:00,02h 50m,18:50,
+350,Express Line,INR 429,4.3,,Volvo A/C Seater (2+2),16:10,02h 50m,19:00,
+351,Shyamoli Paribahan Pvt Ltd,INR 429,4.0,,Volvo A/C Seater (2+2),16:30,02h 50m,19:20,
+352,Greenline (Karunamoyee),INR 429,3.7,,Volvo A/C Seater (2+2),16:40,02h 50m,19:30,
+353,Greenline,INR 429,4.1,,Volvo A/C Seater (2+2),17:00,02h 50m,19:50,
+354,SHYAMOLI Pvt. Ltd.(Karunamoyee),INR 429,3.4,,Volvo A/C Seater (2+2),17:00,03h 00m,20:00,
+355,Express Line (Karunamoyee),INR 429,4.5,,Volvo A/C Seater (2+2),17:30,02h 55m,20:25,
+356,Shyamoli Paribahan Pvt Ltd,INR 429,3.8,,Volvo A/C Seater (2+2),17:40,02h 50m,20:30,
+357,Greenline (Karunamoyee),INR 429,4.1,,Volvo A/C Seater (2+2),18:30,02h 50m,21:20,
+358,SHYAMOLI Pvt. Ltd.(Karunamoyee),INR 429,3.3,,Volvo A/C Seater (2+2),18:55,02h 40m,21:35,
+359,Express Line,INR 429,3.6,,Volvo 9600 Multi Axle Semi-Sleeper (2+2),19:40,03h 10m,22:50,
+360,SHYAMOLI Pvt. Ltd.(Karunamoyee),INR 429,2.7,,Volvo A/C Seater (2+2),07:00,02h 20m,09:20,
+361,SHYAMOLI Pvt. Ltd.(Karunamoyee),INR 429,2.4,,Volvo A/C Seater (2+2),08:25,02h 15m,10:40,
+362,Suman sabir,INR 111,1.2,,Non AC Seater (2+3),13:15,02h 45m,16:00,
+363,Suman sabir,INR 111,1.2,,Non AC Seater (2+3),13:30,02h 30m,16:00,
+364,SHYAMOLI Pvt. Ltd.(Karunamoyee),INR 429,2.7,,Volvo A/C Seater (2+2),17:45,03h 00m,20:45,
+365,Greenline,INR 429,2.3,,Volvo A/C Seater (2+2),18:10,02h 50m,21:00,
+366,Shyamoli Paribahan Pvt Ltd,INR 429,2.7,,Volvo A/C Seater (2+2),19:15,02h 45m,22:00,
+367,SBSTC-KOLKATA - LABPUR - VIA KIRNAHAR - 07:25 (HWH DEPOT - 1118,INR 150,4.2,,Non AC Seater (2+3),07:25,05h 30m,12:55,
+368,SBSTC-KOLKATA - KIRNAHAR - 14:35 (BWN DEPOT) - 1047,INR 150,4.5,,Non AC Seater (2+3),14:35,05h 30m,20:05,
+369,SBSTC-KOLKATA - LANGALHATA - 15:15 (BWN DEPOT) - 1849,INR 150,3.6,,Non AC Seater (2+3),15:15,05h 30m,20:45,
+370,SBSTC-KOLKATA - LABPUR - 16:35 (HWH DEPOT) - 3238,INR 150,3.3,,Non AC Seater (2+3),16:35,05h 30m,22:05,
+371,SHYAMOLI Pvt. Ltd.(Karunamoyee),INR 486,4.7,13 Seats available,Volvo A/C Seater (2+2),08:45,04h 00m,12:45,City Center Durgapur
+372,Greenline (Karunamoyee),INR 486,4.7,38 Seats available,Volvo A/C Seater (2+2),12:00,03h 50m,15:50,City Center Durgapur
+373,Express Line,INR 486,4.6,,Volvo A/C Seater (2+2),15:10,03h 50m,19:00,
+374,Express Line,INR 486,4.7,,Volvo 9600 Multi Axle Semi-Sleeper (2+2),10:30,04h 00m,14:30,
+375,Express Line (Karunamoyee),INR 486,4.8,,Scania Multi-Axle AC Semi Sleeper (2+2),14:20,03h 50m,18:10,
+376,Greenline (Karunamoyee),INR 486,4.6,,Volvo A/C Seater (2+2),07:50,04h 00m,11:50,
+377,Greenline (Karunamoyee),INR 486,4.6,,Volvo A/C Seater (2+2),10:00,04h 00m,14:00,
+378,Express Line,INR 486,4.5,,Volvo A/C Seater (2+2),06:50,03h 10m,10:00,
+379,Shyamoli Paribahan Pvt Ltd,INR 486,4.5,,Scania Multi-Axle AC Semi Sleeper (2+2),08:30,02h 40m,11:10,
+380,Shyamoli Paribahan Pvt Ltd,INR 486,4.4,,Volvo A/C Seater (2+2),12:55,03h 50m,16:45,
+381,Greenline,INR 486,4.5,,Volvo 9600 A/C Semi Sleeper (2+2),08:10,02h 50m,11:00,
+382,SHYAMOLI Pvt. Ltd.(Karunamoyee),INR 486,4.3,,Volvo A/C Seater (2+2),13:45,04h 00m,17:45,
+383,SHYAMOLI Pvt. Ltd.(Karunamoyee),INR 486,4.3,,Volvo A/C Seater (2+2),17:50,03h 45m,21:35,
+384,SHYAMOLI Pvt. Ltd.(Karunamoyee),INR 486,4.2,,Volvo A/C Seater (2+2),16:00,04h 00m,20:00,
+385,SHYAMOLI Pvt. Ltd.(Karunamoyee),INR 486,4.4,,Volvo B11R Multi Axle Seater (2+2),09:45,04h 00m,13:45,
+386,Express Line,INR 486,4.5,,Volvo 9600 Multi Axle Semi-Sleeper (2+2),18:30,04h 20m,22:50,
+387,Greenline (Karunamoyee),INR 486,4.3,,Scania Multi-Axle AC Semi Sleeper (2+2),07:00,03h 15m,10:15,
+388,Greenline (Karunamoyee),INR 486,4.2,,Volvo A/C Seater (2+2),15:30,04h 00m,19:30,
+389,SHYAMOLI Pvt. Ltd.(Karunamoyee),INR 486,4.2,,Volvo A/C Seater (2+2),12:30,04h 00m,16:30,
+390,Shyamoli Paribahan Pvt Ltd,INR 486,4.2,,Volvo A/C Seater (2+2),14:10,03h 50m,18:00,
+391,Shyamoli Paribahan Pvt Ltd,INR 486,4.2,,Volvo A/C Seater (2+2),15:30,03h 50m,19:20,
+392,SHYAMOLI Pvt. Ltd.(Karunamoyee),INR 486,4.1,,Volvo A/C Seater (2+2),16:45,04h 00m,20:45,
+393,Greenline (Karunamoyee),INR 486,4.1,,Volvo A/C Seater (2+2),17:30,03h 50m,21:20,
+394,Greenline (Karunamoyee),INR 486,4.1,,Volvo A/C Seater (2+2),13:10,04h 00m,17:10,
+395,Greenline,INR 486,4.1,,Volvo A/C Seater (2+2),16:00,03h 50m,19:50,
+396,Shyamoli Paribahan Pvt Ltd,INR 486,4.1,,Volvo A/C Seater (2+2),09:30,04h 00m,13:30,
+397,Greenline,INR 486,4.0,,Volvo A/C Seater (2+2),11:30,04h 00m,15:30,
+398,Shyamoli Paribahan Pvt Ltd,INR 486,4.0,,Volvo A/C Seater (2+2),16:30,04h 00m,20:30,
+399,SHYAMOLI Pvt. Ltd.(Karunamoyee),INR 486,3.8,,Volvo A/C Seater (2+2),07:25,27h 15m,10:40,
+400,Greenline,INR 486,3.9,,Volvo A/C Seater (2+2),14:50,04h 00m,18:50,
+401,Shyamoli Paribahan Pvt Ltd,INR 486,4.1,,Volvo A/C Seater (2+2),07:30,03h 15m,10:45,
+402,Shyamoli Paribahan Pvt Ltd,INR 486,4.3,,Volvo A/C Seater (2+2),08:00,03h 30m,11:30,
+403,Greenline,INR 486,3.7,,Volvo A/C Seater (2+2),17:10,03h 50m,21:00,
+404,Greenline,INR 486,4.3,,Volvo A/C Seater (2+2),13:30,03h 50m,17:20,
+405,Express Line (Karunamoyee),INR 486,5.0,,Volvo 9600 A/C Semi Sleeper (2+2),08:30,04h 00m,12:30,
+406,Shyamoli Paribahan Pvt Ltd,INR 486,3.5,,Volvo A/C Seater (2+2),18:15,03h 45m,22:00,
+407,SHYAMOLI Pvt. Ltd.(Karunamoyee),INR 486,3.8,,Volvo B11R Multi Axle Seater (2+2),11:00,04h 00m,15:00,
+408,Express Line (Karunamoyee),INR 486,4.0,,Volvo A/C Seater (2+2),16:20,28h 05m,20:25,
+409,Shyamoli Paribahan Pvt Ltd,INR 486,3.2,,Volvo B11R Multi Axle Seater (2+2),11:00,04h 00m,15:00,
+410,Express Line,INR 486,4.6,,Scania Multi-Axle AC Semi Sleeper (2+2),14:30,04h 00m,18:30,
+411,SBSTC-DURGAPUR - DIGHA - VIA - MIDNAPUR - 2/2 - 20:00 (D - 3807,INR 238,4.1,8 Seats available,Non AC Seater (2+2),20:00,08h 45m,04:45,DURGAPUR CITY CENTER
+412,New Eureka Travels,INR 600,2.6,32 Seats available,A/C Seater / Sleeper (2+2),21:15,07h 45m,05:00,City Center Durgapur
+413,Express Line,INR 499,4.5,14 Seats available,Volvo A/C Seater (2+2),10:25,04h 55m,15:20,Bus Stand
+414,Express Line,INR 349,4.6,45 Seats available,Volvo 9600 Multi Axle Semi-Sleeper (2+2),13:45,04h 30m,18:15,Bus Stand
+415,Greenline,INR 400,4.4,26 Seats available,Volvo A/C Seater (2+2),13:40,04h 45m,18:25,Bus Stand
+416,Shyamoli Paribahan Pvt Ltd,INR 400,4.2,10 Seats available,Volvo A/C Seater (2+2),13:45,04h 30m,18:15,New Digha
+417,Shyamoli Paribahan Pvt Ltd,INR 400,4.2,20 Seats available,Volvo A/C Seater (2+2),13:15,04h 30m,17:45,New Digha
+418,Shyamoli Paribahan Pvt Ltd,INR 400,4.1,26 Seats available,Volvo A/C Seater (2+2),09:50,04h 50m,14:40,Digha
+419,Shyamoli Paribahan Pvt Ltd,INR 400,4.1,16 Seats available,Volvo B11R Multi Axle Seater (2+2),13:30,04h 30m,18:00,Bus Stand
+420,Mayuri Express,333,4.2,46 Seats available,AC Seater (2+2),10:30,05h 00m,15:30,Digha
+421,Greenline,INR 400,4.1,21 Seats available,Volvo A/C Seater (2+2),13:30,04h 45m,18:15,Bus Stand
+422,Shyamoli Paribahan Pvt Ltd,INR 400,3.5,45 Seats available,VE A/C Seater (2+2),10:30,04h 30m,15:00,Bus Stand
+423,Rubi Paribahan  ,INR 399,4.3,68 Seats available,Volvo 9600 A/C Seater/Sleeper (2+1),12:50,05h 00m,17:50,Old Digha Contact-
+424,Samanta Travels,285,3.7,25 Seats available,A/C Seater (2+3),14:30,04h 50m,19:20,Bus Stand
+425,Monikanchan Bus Service,356,4.1,5 Seats available,A/C Seater (2+3),13:30,04h 15m,17:45,Digha Bus Stand
+426,Snemita Parisheba(SANTOSH),399,3.4,10 Seats available,A/C Seater / Sleeper (2+2),12:05,04h 35m,16:40,Digha
+427,Snemita Parisheba(SNEHA GOLD),352,3.6,,AC Seater (2+3),16:40,04h 30m,21:10,
+428,Snemita Pariseba(Samanta),257,3.1,,A/C Seater Push Back (2+3),14:45,04h 35m,19:20,
+429,Snemita Paribahan(Shinjini),INR 370,3.3,,A/C Seater (2+3),22:45,05h 25m,04:10,
+430,Mayuri Express,278,4.5,,A/C Seater (2+3),11:15,04h 45m,16:00,
+431,Ankita Paribahan(Atithi),342,3.6,,A/C Seater Push Back (2+3),12:15,04h 30m,16:45,
+432,Maa Chandi Travels,370,3.7,,A/C Seater / Sleeper (2+2),14:30,04h 40m,19:10,
+433,Snemita Parisheba(Santosh),352,4.0,,A/C Seater Push Back (2+3),23:30,05h 00m,04:30,
+434,Snemita Paribahan,INR 370,3.3,,AC Seater (2+3),11:10,04h 25m,15:35,
+435,City Express (Shinjini),INR 370,3.7,,AC Seater (2+3),22:45,05h 25m,04:10,
+436,Snemita Paribahan,INR 230,3.7,,Non AC Seater (2+3),10:30,04h 30m,15:00,
+437,Maa Chandi Travels,370,3.8,,A/C Seater / Sleeper (2+2),16:30,05h 00m,21:30,
+438,Snemita Paribahan,INR 370,4.0,,AC Seater (2+3),12:15,04h 25m,16:40,
+439,Royal Cruiser,INR 499,3.5,,Volvo A/C Seater (2+2),13:00,04h 30m,17:30,
+440,Santosh Bus Service,315,4.0,,A/C Seater Push Back (2+3),11:25,04h 15m,15:40,
+441,Haimanti Bus Service,INR 270,4.1,,AC Seater (2+3),09:50,05h 25m,15:15,
+442,Ankita Paribahan (Maity Motor),342,3.2,,A/C Seater Push Back (2+3),13:05,04h 25m,17:30,
+443,Bengal Surface Transport,INR 319,3.4,,A/C Seater / Sleeper (2+2),10:55,05h 00m,15:55,
+444,Parameswar Travels,285,2.8,,A/C Seater Push Back (2+3),09:30,04h 45m,14:15,
+445,City Express (Angel),INR 370,4.3,,AC Seater (2+3),13:50,04h 40m,18:30,
+446,Snemita Paribahan,INR 370,3.0,,AC Seater (2+3),11:35,04h 50m,16:25,
+447,Snemita Parisheba(Santosh),352,3.6,,AC Seater (2+3),11:30,04h 40m,16:10,
+448,Snemita Paribahan (SHINJINI),INR 370,3.5,,A/C Seater (2+3),11:15,04h 30m,15:45,
+449,Snemita Paribahan(Jackson),INR 420,3.4,,AC Seater (2+2),13:40,04h 50m,18:30,
+450,City Express,INR 370,3.6,,AC Seater (2+3),11:35,04h 50m,16:25,
+451,Snemita Paribahan (Angel),INR 370,3.9,,AC Seater (2+3),13:50,04h 40m,18:30,
+452,Snemita Parisheba,352,3.0,,AC Seater (2+3),10:50,04h 30m,15:20,
+453,Samanta Travels,285,3.2,,A/C Seater (2+3),12:40,04h 50m,17:30,
+454,City Express (Snemita),INR 370,3.5,,AC Seater (2+3),11:10,04h 20m,15:30,
+455,Parameswar Travels,285,2.5,,A/C Seater Push Back (2+2),10:20,04h 50m,15:10,
+456,Purusottam Travels,INR 315,2.0,,A/C Seater (2+3),08:10,04h 50m,13:00,
+457,Basu Travels,INR 469,2.9,,A/C Seater / Sleeper (2+2),10:55,05h 00m,15:55,
+458,Sneha Gold Bus Service,INR 300,3.2,,A/C Seater (2+3),16:30,05h 00m,21:30,
+459,Snemita Parisheba (Santosh),352,2.9,,AC Seater (2+3),10:30,04h 40m,15:10,
+460,Parameswar Travels,302,2.7,,A/C Seater Push Back (2+3),21:00,06h 00m,03:00,
+461,Snemita Pariseba(Samanta),352,2.7,,AC Seater (2+3),09:10,04h 35m,13:45,
+462,Monikanchan Bus Service,356,2.5,,A/C Seater (2+3),12:20,04h 20m,16:40,
+463,Santosh Bus Service,304,2.8,,A/C Seater Push Back (2+3),10:55,03h 50m,14:45,
+464,Snemita Parisheba (Manikanchan),352,1.9,,AC Seater (2+3),12:20,04h 25m,16:45,
+465,Monikanchan Bus Service,204,2.6,,Non AC Seater (2+3),11:40,04h 35m,16:15,
+466,Parameswar Travels,285,2.1,,A/C Seater Push Back (2+3),18:10,05h 05m,23:15,
+467,City Express (Jackson),INR 420,2.9,,AC Seater (2+2),13:40,04h 35m,18:15,
+468,Ankita Paribahan(Parameswar),370,2.0,,AC Seater (2+2),10:20,04h 20m,14:40,
+469,Ankita Paribahan( Haimanti),370,2.4,,A/C Seater Push Back (2+3),10:10,04h 30m,14:40,
+470,Basu Travels,INR 369,2.3,,A/C Seater Push Back (2+3),17:30,05h 00m,22:30,
+471,Sree Jagannath Travels,INR 394,2.0,,A/C Seater Push Back (2+3),15:00,05h 00m,20:00,
+472,Snemita Paribahan(Maa Chandi),INR 370,2.8,,A/C Push Back (2+3),12:10,04h 35m,16:45,
+473,Parameswar Travels,285,1.0,,A/C Seater Push Back (2+3),11:15,04h 45m,16:00,
+474,Ankita Paribahan (Tejas),342,1.3,,A/C Executive (2+3),14:20,04h 30m,18:50,
+475,Parameswar Travels,302,1.8,,A/C Seater Push Back (2+3),20:00,05h 35m,01:35,
+476,Samanta Travels,285,1.8,,A/C Seater (2+3),09:00,04h 40m,13:40,
+477,Santosh Bus Service,223,3.9,,A/C Seater (2+3),08:30,04h 20m,12:50,
+478,Santosh Bus Service,239,3.8,,A/C Seater Push Back (2+3),10:30,05h 00m,15:30,
+479,Snemita Parisheba(Santosh),352,3.9,,AC Seater (2+3),13:30,04h 35m,18:05,
+480,Santosh Bus Service,280,3.6,,AC Seater (2+2),12:05,04h 10m,16:15,
+481,City Express (Snemita),INR 370,3.7,,AC Seater (2+3),11:45,04h 40m,16:25,
+482,Santosh Bus Service,279,3.2,,A/C Seater Push Back (2+3),11:30,04h 25m,15:55,
+483,Snemita Pariseba(Santosh),352,3.3,,AC Seater (2+3),08:40,04h 40m,13:20,
+484,Santosh Bus Service,207,3.5,,A/C Seater Push Back (2+3),13:30,04h 35m,18:05,
+485,Santosh Bus Service,231,3.0,,A/C Seater Push Back (2+3),10:56,04h 19m,15:15,
+486,Santosh Bus Service,239,3.1,,A/C Seater Push Back (2+3),09:55,04h 25m,14:20,
+487,Snemita Parisheba(Santosh),352,3.6,,AC Seater (2+3),11:30,04h 10m,15:40,
+488,Bengal Surface Transport,INR 399,3.4,,A/C Seater Push Back (2+3),10:25,05h 05m,15:30,
+489,Bengal Surface Transport,INR 350,3.4,,A/C Seater Push Back (2+3),17:30,05h 00m,22:30,
+490,Snemita Paribahan,INR 420,3.8,,A/C Seater / Sleeper (2+2),16:40,04h 35m,21:15,
+491,Rudraksha City Service,INR 450,3.4,,A/C Seater (2+3),13:00,04h 20m,17:20,
+492,Ankita Paribahan(Atithi),389,3.3,,A/C Seater (2+3),10:45,05h 00m,15:45,
+493,Aradhana Travels,475,4.3,,A/C Seater / Sleeper (2+1),19:30,04h 00m,23:30,
+494,Snemita Pariseba(Santosh),352,3.8,,AC Seater (2+3),10:00,04h 30m,14:30,
+495,Ankita Paribahan(Atithi),389,2.9,,A/C Seater Push Back (2+3),13:35,04h 15m,17:50,
+496,Snemita Parisheba (Santosh),352,3.1,,AC Seater (2+3),10:55,04h 35m,15:30,
+497,Snemita Paribahan(Snemita),INR 370,2.6,,AC Seater (2+3),11:45,04h 40m,16:25,
+498,City Express (Shinjini),INR 370,2.8,,AC Seater (2+3),15:20,04h 35m,19:55,
+499,Satya Paribahan,399,2.9,,A/C Seater (2+3),23:00,04h 45m,03:45,
+500,Snemita Paribahan(SHINJINI),INR 370,2.6,,A/C Seater (2+3),16:00,04h 30m,20:30,
+501,Parameswar Travels,285,1.8,,A/C Seater Push Back (2+3),11:45,04h 35m,16:20,
+502,Snemita Paribahan,INR 370,3.4,,A/C Seater (2+3),12:30,04h 00m,16:30,
+503,Ankita Paribahan(Parameswar),389,3.1,,A/C Seater (2+3),11:30,04h 35m,16:05,
+504,Snemita Paribahan (Shinjini),INR 420,2.6,,AC Seater (2+3),23:35,04h 10m,03:45,
+505,Satya Paribahan,352,2.2,,A/C Seater (2+3),23:30,04h 10m,03:40,
+506,Snemita Parisheba,352,2.6,,AC Seater (2+3),17:00,04h 30m,21:30,
+507,Arunita Paribahan,INR 420,2.5,,A/C Seater (2+3),23:35,04h 10m,03:45,
+508,Santosh Bus Service,295,2.4,,A/C Seater Push Back (2+3),17:05,04h 25m,21:30,
+509,Snemita Paribahan (Chowdhury),INR 420,2.2,,AC Seater (2+2),12:50,04h 40m,17:30,
+510,Snemita Paribahan(Shinjini),INR 370,2.2,,A/C Seater (2+3),15:20,04h 40m,20:00,
+511,City Express (Maa Chandi),INR 320,3.2,,A/C Executive (2+3),07:30,04h 35m,12:05,
+512,Ankita Paribahan (Anuska),389,2.4,,A/C Push Back (2+3),14:25,04h 30m,18:55,
+513,City Express (ANGEL),INR 420,3.2,,AC Seater (2+2),10:15,04h 30m,14:45,
+514,Snemita Paribahan,INR 370,2.6,,A/C Seater (2+3),23:30,04h 30m,04:00,
+515,Aradhana Bus Service,570,2.0,,A/C Seater / Sleeper (2+2),23:00,05h 00m,04:00,
+516,Snemita Parisheba,352,2.6,,AC Seater (2+3),18:00,04h 30m,22:30,
+517,Basu Travels,INR 345,2.4,,A/C Seater Push Back (2+3),07:35,04h 50m,12:25,
+518,Aradhana Travels,475,1.6,,A/C Seater / Sleeper (2+2),18:35,04h 25m,23:00,
+519,City Express (Maa Chandi),INR 370,3.2,,A/C Executive (2+3),12:10,04h 35m,16:45,
+520,Snemita Paribahan (CHOWDHURY),INR 420,1.9,,AC Seater (2+2),14:10,04h 30m,18:40,
+521,Snemita Parisheba(Santosh),352,2.2,,A/C Seater Push Back (2+3),23:00,05h 20m,04:20,
+522,Snemita Parisheba,352,2.0,,A/C Seater Push Back (2+3),11:45,04h 30m,16:15,
+523,City Express (Shinjini),INR 370,1.8,,AC Seater (2+3),16:00,04h 30m,20:30,
+524,Ankita Paribahan,342,2.3,,AC Seater (2+3),06:55,04h 35m,11:30,
+525,Snemita Paribahan,INR 370,2.5,,AC Seater (2+3),11:21,04h 39m,16:00,
+526,Vishwakarma Travels,INR 380,2.5,,AC Seater (2+3),14:30,04h 50m,19:20,
+527,Ankita Paribahan,370,2.0,,A/C Seater (2+3),11:40,04h 50m,16:30,
+528,Aniruddha Travels,INR 250,1.0,,NON A/C Seater Push Back (2+3) (2+3),16:25,04h 50m,21:15,
+529,Snemita Paribahan (Sagar Kanya),INR 370,3.0,,AC Seater (2+3),10:20,04h 35m,14:55,
+530,Ankita Paribahan (Maity),370,3.0,,A/C Seater Push Back (2+3),09:40,04h 40m,14:20,
+531,Ankita Paribahan(Janhabi),296,3.0,,A/C Seater Push Back (2+3),08:50,04h 35m,13:25,
+532,Ankita Paribahan (Lokenath),342,3.0,,AC Seater (2+3),16:20,04h 40m,21:00,
+533,Ankita Paribahan (Kojagor),342,3.0,,A/C Push Back (2+3),07:00,04h 45m,11:45,
+534,Ankita Paribahan(Parameswar),296,3.0,,A/C Seater (2+3),09:30,04h 25m,13:55,
+535,Ankita Paribahan(NARAYANI),389,3.0,,A/C Push Back (2+3),12:35,04h 25m,17:00,
+536,Snemita Paribahan (Sagar Kanya),INR 370,3.0,,AC Seater (2+3),10:40,04h 30m,15:10,
+537,Ankita Paribahan (Lokenath),352,3.0,,A/C Seater Push Back (2+3),06:50,04h 40m,11:30,
+538,Ankita Paribahan,389,3.0,,A/C Seater Push Back (2+3),11:10,04h 30m,15:40,
+539,The Joy Ride,INR 650,2.9,,A/C Seater / Sleeper (2+2),21:15,05h 15m,02:30,
+540,Basu Travels,INR 369,2.5,,A/C Seater Push Back (2+3),06:50,05h 00m,11:50,
+541,Arunita Paribahan,INR 470,2.5,,AC Seater (2+2),11:05,04h 40m,15:45,
+542,Basu Travels,INR 345,2.5,,A/C Seater Push Back (2+3),10:10,05h 05m,15:15,
+543,Aradhana Travels,475,2.4,,Non AC Seater (2+3),21:45,05h 40m,03:25,
+544,Sagufta Travels(Atithi),299,2.2,,A/C Seater Push Back (2+3),12:15,05h 05m,17:20,
+545,Sree Jagannath Travels,INR 399,2.0,,A/C Seater Push Back (2+3),14:10,04h 50m,19:00,
+546,Suvam Travels,INR 300,1.8,,A/C Seater Push Back (2+3),09:30,05h 00m,14:30,
+547,Kojagar Travels,INR 300,1.9,,A/C Seater (2+3),09:00,05h 00m,14:00,
+548,Santosh Bus Service,303,3.5,,A/C Seater Push Back (2+3),11:55,04h 40m,16:35,
+549,Bengal Surface Transport,INR 345,3.4,,A/C Seater Push Back (2+3),07:20,05h 04m,12:24,
+550,Bengal Surface Transport,INR 399,3.4,,A/C Seater Push Back (2+3),10:50,04h 50m,15:40,
+551,Samanta Travels,189,3.4,,NON A/C Seater (2+3),16:00,05h 00m,21:00,
+552,Bengal Surface Transport,INR 385,3.4,,A/C Seater Push Back (2+3),06:50,04h 40m,11:30,
+553,City Express (Bhorpet),INR 420,3.2,,AC Seater (2+2),09:20,04h 30m,13:50,
+554,City Express (Bhorpet),INR 370,3.2,,A/C Seater (2+3),07:20,04h 30m,11:50,
+555,City Express (Ruposhi),INR 370,3.2,,AC Seater (2+3),07:45,04h 30m,12:15,
+556,City Express (Shinjini),INR 370,3.2,,AC Seater (2+3),11:15,04h 35m,15:50,
+557,City Express (City),INR 420,3.2,,AC Seater (2+3),10:40,04h 25m,15:05,
+558,Snemita Parisheba,352,3.1,,A/C Seater Push Back (2+3),12:30,04h 45m,17:15,
+559,Snemita Parisheba(Adhikari),352,3.1,,AC Seater (2+3),07:55,04h 35m,12:30,
+560,Snemita Parisheba(BINA RANI),352,3.1,,AC Seater (2+3),08:10,04h 35m,12:45,
+561,Ankita Paribahan,389,3.0,,AC Seater (2+3),14:30,04h 50m,19:20,
+562,Ankita Paribahan(Jackson),389,3.0,,A/C Push Back (2+3),15:00,05h 05m,20:05,
+563,Snemita Paribahan (Bhorpet),INR 420,3.0,,AC Seater (2+2),09:20,04h 30m,13:50,
+564,Ankita Paribahan,324,3.0,,Non AC Seater (2+3),18:20,04h 40m,23:00,
+565,Snemita Paribahan (Narayani),INR 370,3.0,,A/C Seater (2+3),10:05,04h 40m,14:45,
+566,Snemita Paribahan (ANGEL),INR 420,3.0,,A/C Seater Push Back (2+2),10:15,04h 50m,15:05,
+567,Ankita Paribahan - Parameswar,342,3.0,,A/C Seater (2+3),18:00,04h 40m,22:40,
+568,Ankita Paribahan,278,3.0,,AC Seater (2+3),08:35,04h 30m,13:05,
+569,Ankita Paribahan (Maity Motor),342,3.0,,AC Seater (2+3),15:45,04h 30m,20:15,
+570,Snemita Paribahan (Shinjini),INR 470,3.0,,AC Seater (2+2),11:05,04h 45m,15:50,
+571,Ankita Paribahan (Satya),463,3.0,,AC Seater (2+3),11:55,04h 15m,16:10,
+572,Snemita Paribahan,INR 420,3.0,,A/C Seater / Sleeper (2+2),14:30,04h 40m,19:10,
+573,Ankita Paribahan(Parameswar),370,3.0,,A/C Seater (2+3),11:00,04h 30m,15:30,
+574,Ankita Paribahan (Sanghamitra),352,3.0,,A/C Seater Push Back (2+3),07:30,04h 30m,12:00,
+575,Ankita Paribahan,342,3.0,,A/C Executive (2+3),15:25,05h 05m,20:30,
+576,Ankita Paribahan,389,3.0,,A/C Seater Push Back (2+3),13:45,04h 35m,18:20,
+577,Ankita Paribahan,389,3.0,,A/C Executive (2+3),09:50,04h 50m,14:40,
+578,Arunita Paribahan,INR 370,2.5,,A/C Seater (2+3),08:35,04h 30m,13:05,
+579,Arunita Paribahan,INR 370,2.5,,A/C Seater (2+3),12:30,04h 30m,17:00,
+580,Basu Travels,INR 370,2.5,,A/C Seater Push Back (2+3),10:40,05h 00m,15:40,
+581,Satya Paribahan,342,2.4,,A/C Seater (2+3),18:20,04h 40m,23:00,
+582,Purusottam Travels,INR 320,2.0,,A/C Seater (2+3),08:11,04h 51m,13:02,
+583,Purusottam Travels,INR 350,2.0,,NON A/C Seater (2+3),08:50,04h 50m,13:40,
+584,Aradhana Bus Service,570,2.0,,A/C Seater / Sleeper (2+2),09:20,06h 20m,15:40,
+585,Aradhana Bus Service,428,2.0,,Non AC Seater (2+3),16:50,05h 40m,22:30,
+586,Suvam Travels,INR 200,1.8,,Non AC Seater (2+3),07:15,04h 45m,12:00,
+587,Kojagar Travels,INR 300,1.9,,A/C Seater (2+3),07:05,04h 55m,12:00,
+588,Binarani Paribahan,INR 399,,,A/C Seater (2+3),08:15,04h 05m,12:20,
+589,Ankita Paribahan,347,4.4,16 Seats available,Non AC Seater (2+3),11:50,05h 40m,17:30,Bus Stand
+590,Rudraksha City Service,INR 450,3.6,26 Seats available,A/C Seater (2+3),13:00,05h 26m,18:26,Digha
+591,Ankita Paribahan,389,4.4,21 Seats available,AC Seater (2+3),14:30,05h 30m,20:00,Bus Stand
+592,Vishwakarma Travels,INR 380,4.5,5 Seats available,AC Seater (2+3),14:30,05h 10m,19:40,Digha Bus Stand
+593,Snemita Paribahan (Shinjini),INR 420,3.1,68 Seats available,AC Seater (2+3),23:35,05h 25m,05:00,Old Digha Contact-
+594,Satya Paribahan,399,2.0,,A/C Seater (2+3),23:00,06h 10m,05:10,
+595,Arunita Paribahan,INR 420,1.5,,A/C Seater (2+3),23:35,05h 25m,05:00,
+596,Santosh Bus Service,315,3.8,,A/C Seater Push Back (2+3),11:25,05h 05m,16:30,
+597,Snemita Parisheba(Santosh),352,3.7,,AC Seater (2+3),11:30,04h 50m,16:20,
+598,City Express,INR 370,4.3,,AC Seater (2+3),11:35,05h 21m,16:56,
+599,Snemita Paribahan,INR 370,3.5,,AC Seater (2+3),11:35,05h 35m,17:10,
+600,Aradhana Bus Service,570,1.1,,A/C Seater / Sleeper (2+2),09:20,06h 50m,16:10,
+601,Aradhana Bus Service,428,1.1,,Non AC Seater (2+3),16:50,06h 40m,23:30,
+602,Aradhana Travels,475,1.4,,A/C Seater / Sleeper (2+2),18:35,05h 20m,23:55,
+603,The Joy Ride,INR 650,2.9,,A/C Seater / Sleeper (2+2),21:15,06h 20m,03:35,
+604,Aradhana Bus Service,570,1.1,,A/C Seater / Sleeper (2+2),23:00,05h 30m,04:30,
+605,Vishwakarma Travels,INR 380,3.6,,AC Seater (2+3),07:10,04h 50m,12:00,
+606,Bengal Surface Transport,INR 379,3.0,61 Seats available,A/C Seater Push Back (2+3),14:29,04h 06m,18:35,Esplanade
+607,Bengal Surface Transport,INR 419,3.0,20 Seats available,A/C Seater Push Back (2+3),23:20,04h 40m,04:00,Esplanade
+608,Bengal Surface Transport,INR 399,3.0,29 Seats available,A/C Seater Push Back (2+3),23:59,04h 46m,04:45,Esplanade
+609,Basu Travels,INR 399,2.9,20 Seats available,A/C Seater Push Back (2+3),14:25,04h 35m,19:00,Esplanade
+610,Basu Travels,INR 390,2.9,21 Seats available,A/C Seater Push Back (2+3),14:32,04h 13m,18:45,Esplanade
+611,Bengal Surface Transport,INR 550,3.0,42 Seats available,A/C Seater / Sleeper (2+2),23:55,04h 45m,04:40,Esplanade
+612,Basu Travels,INR 499,2.9,,A/C Seater Push Back (2+3),23:30,04h 15m,03:45,
+613,Basu Travels,INR 469,2.9,,A/C Seater Push Back (2+3),23:55,04h 45m,04:40,
+614,Basu Travels,INR 599,2.9,,A/C Seater / Sleeper (2+2),23:59,04h 41m,04:40,
+615,Samanta Travels,352,4.0,29 Seats available,A/C Seater (2+3),08:40,03h 35m,12:15,Esplanade
+616,Mayuri Express,475,4.9,49 Seats available,AC Seater (2+2),23:15,03h 15m,02:30,Esplanade
+617,City Express (Jackson),INR 370,4.0,51 Seats available,AC Seater (2+2),08:00,03h 30m,11:30,Esplanade
+618,Samanta Travels,285,1.9,26 Seats available,A/C Seater (2+3),18:50,03h 10m,22:00,Esplanade
+619,Sree Jagannath Travels,INR 399,1.6,49 Seats available,A/C Seater Push Back (2+3),08:20,03h 40m,12:00,Esplanade
+620,Mayuri Express,278,4.9,43 Seats available,A/C Seater (2+3),18:20,03h 40m,22:00,Esplanade
+621,City Express (BHORPET),INR 370,3.7,49 Seats available,AC Seater (2+3),17:40,04h 00m,21:40,Esplanade
+622,Santosh Bus Service,311,3.8,16 Seats available,A/C Seater Push Back (2+3),13:30,04h 25m,17:55,Esplanade
+623,Santosh Bus Service,168,3.8,12 Seats available,A/C Seater Push Back (2+3),15:55,04h 20m,20:15,Esplanade
+624,Parameswar Travels,285,3.4,49 Seats available,A/C Seater Push Back (2+3),10:10,03h 40m,13:50,Esplanade
+625,Parameswar Travels,INR 335,3.4,30 Seats available,A/C Seater Push Back (2+3),23:55,04h 05m,04:00,Esplanade
+626,Parameswar Travels,285,3.4,,A/C Seater Push Back (2+3),13:10,03h 40m,16:50,
+627,Parameswar Travels,INR 335,3.4,,A/C Seater Push Back (2+3),23:45,04h 15m,04:00,
+628,Parameswar Travels,INR 335,3.4,,A/C Seater Push Back (2+2),23:50,04h 10m,04:00,
+629,Parameswar Travels,INR 335,3.4,,A/C Seater Push Back (2+3),23:59,04h 01m,04:00,
+630,Santosh Bus Service,230,3.3,,A/C Seater Push Back (2+3),19:00,03h 20m,22:20,
+631,Snemita Parisheba,352,4.0,,AC Seater (2+3),16:10,03h 30m,19:40,
+632,Santosh Bus Service,200,3.6,,A/C Seater (2+3),18:30,04h 15m,22:45,
+633,Snemita Paribahan (Shinjini),INR 370,4.3,,AC Seater (2+3),10:08,03h 42m,13:50,
+634,Sree Jagannath Travels,INR 500,3.4,,A/C Seater Push Back (2+3),07:40,04h 05m,11:45,
+635,Santosh Bus Service,279,3.4,,A/C Seater Push Back (2+3),11:51,04h 09m,16:00,
+636,Snemita Parisheba,352,3.6,,A/C Push Back (2+3),15:15,03h 45m,19:00,
+637,Santosh Bus Service,323,3.4,,A/C Seater / Sleeper (2+2),23:59,04h 36m,04:35,
+638,Santosh Bus Service,199,3.3,,A/C Seater Push Back (2+3),17:20,03h 35m,20:55,
+639,Santosh Bus Service,213,2.7,,A/C Seater (2+3),19:30,04h 10m,23:40,
+640,City Express (Maa Gauri),INR 370,2.0,,AC Seater (2+3),12:40,03h 30m,16:10,
+641,Samanta Travels,285,2.5,,A/C Seater (2+3),18:10,04h 00m,22:10,
+642,Haimanti Bus Service,INR 290,3.1,,AC Seater (2+3),12:40,03h 50m,16:30,
+643,Mayuri Express,285,4.9,,AC Seater (2+2),23:15,03h 15m,02:30,
+644,Snemita Paribahan (Shinjini),INR 470,4.1,,AC Seater (2+2),23:45,03h 45m,03:30,
+645,Snemita Paribahan (Ruposhi),INR 370,4.1,,AC Seater (2+3),15:55,03h 55m,19:50,
+646,Snemita Paribahan (Shinjini),INR 390,4.1,,AC Seater (2+3),12:20,03h 30m,15:50,
+647,Snemita Parisheba,352,3.9,,AC Seater (2+3),19:05,04h 00m,23:05,
+648,Snemita Parisheba,352,3.9,,AC Seater (2+3),19:30,04h 00m,23:30,
+649,City Express (Maa Chandi),INR 370,3.7,,AC Seater (2+3),13:35,03h 30m,17:05,
+650,City Express (Shinjini),INR 470,3.7,,AC Seater (2+2),23:45,03h 45m,03:30,
+651,City Express (Ruposhi),INR 370,3.7,,AC Seater (2+3),15:55,03h 55m,19:50,
+652,Suvam Travels,INR 300,1.8,,A/C Seater Push Back (2+3),15:30,03h 00m,18:30,
+653,Santosh Bus Service,152,3.6,,NON A/C Seater Pushback (2+3),16:10,04h 30m,20:40,
+654,Parameswar Travels,INR 335,3.4,,A/C Seater Push Back (2+3),21:50,04h 40m,02:30,
+655,Arunita Paribahan,INR 375,2.8,,A/C Executive (2+3),09:30,03h 30m,13:00,
+656,Arunita Paribahan,INR 370,2.8,,A/C Seater (2+3),10:08,03h 42m,13:50,
+657,Sree Jagannath Travels,INR 449,2.8,,A/C Seater Push Back (2+3),23:20,04h 50m,04:10,
+658,Aniruddha Travels,INR 239,2.0,,NON A/C Seater Push Back (2+3) (2+3),07:30,04h 30m,12:00,
+659,Suvam Travels,INR 200,1.8,,Non AC Seater (2+3),16:30,03h 00m,19:30,
+660,Express Line,INR 549,4.4,29 Seats available,Volvo 9600 Multi Axle Semi-Sleeper (2+2),07:30,04h 25m,11:55,Esplanade
+661,Express Line,INR 649,4.5,19 Seats available,Volvo A/C Seater (2+2),23:45,05h 00m,04:45,Esplanade
+662,Shyamoli Paribahan Pvt Ltd,INR 600,4.4,29 Seats available,VE A/C Seater (2+2),23:30,05h 00m,04:30,Esplanade
+663,Greenline,INR 350,4.4,27 Seats available,Volvo A/C Seater (2+2),06:52,04h 53m,11:45,Esplanade
+664,Shyamoli Paribahan Pvt Ltd,INR 400,4.4,27 Seats available,Volvo B11R Multi Axle Seater (2+2),08:15,04h 30m,12:45,Karunamoyee
+665,Shyamoli Paribahan Pvt Ltd,INR 400,4.4,24 Seats available,Volvo A/C Seater (2+2),08:25,04h 30m,12:55,Esplanade
+666,Shyamoli Paribahan Pvt Ltd,INR 650,4.4,10 Seats available,Volvo A/C Seater (2+2),23:45,05h 00m,04:45,Esplanade
+667,Mayuri Express,475,4.2,35 Seats available,AC Seater (2+2),23:15,05h 15m,04:30,Esplanade
+668,Maa Chandi Travels,509,4.3,8 Seats available,A/C Seater / Sleeper (2+2),22:00,07h 30m,05:30,Esplanade
+669,Samanta Travels,352,3.6,33 Seats available,A/C Seater (2+3),08:40,04h 30m,13:10,Esplanade
+670,Royal Cruiser,INR 499,3.5,47 Seats available,Volvo A/C Seater (2+2),07:30,03h 45m,11:15,Esplanade
+671,Sagufta Travels (Bhorpet Travels),489,4.3,34 Seats available,AC Seater (2+2),23:55,04h 40m,04:35,Esplanade
+672,Sagufta Travels(Maa Chandi),394,4.1,24 Seats available,A/C Seater / Sleeper (2+2),23:57,05h 13m,05:10,Esplanade
+673,Parameswar Travels,302,3.1,1 Seat available,A/C Seater Push Back (2+3),23:45,05h 15m,05:00,Esplanade
+674,Parameswar Travels,302,3.1,18 Seats available,A/C Seater Push Back (2+2),23:50,04h 55m,04:45,Esplanade
+675,Sagufta Travels (Atithi),347,3.5,30 Seats available,A/C Seater Push Back (2+3),23:59,05h 01m,05:00,Karunamoyee
+676,Parameswar Travels,302,2.8,20 Seats available,A/C Seater Push Back (2+3),23:59,05h 01m,05:00,Esplanade
+677,Rubi Paribahan  ,INR 499,4.6,19 Seats available,Volvo 9600 A/C Seater/Sleeper (2+1),07:00,04h 30m,11:30,Esplanade
+678,Basu Travels,INR 599,3.5,25 Seats available,A/C Seater / Sleeper (2+2),23:59,05h 01m,05:00,Esplanade
+679,Snemita Parisheba(Samanta),352,3.3,20 Seats available,AC Seater (2+3),18:00,04h 25m,22:25,Esplanade
+680,Sagufta Travels(Sonamoni),299,3.7,49 Seats available,A/C Seater Push Back (2+3),11:20,05h 00m,16:20,Esplanade
+681,Snemita Paribahan (Bhorpet),INR 420,3.7,20 Seats available,AC Seater (2+2),23:55,04h 50m,04:45,Esplanade
+682,Sagufta Travels (Mayuri),394,4.6,29 Seats available,A/C Seater (2+2),23:15,04h 45m,04:00,Esplanade
+683,Sagufta Travels (Sagar Kanya),347,3.4,31 Seats available,A/C Seater Push Back (2+3),23:30,04h 35m,04:05,Esplanade
+684,Snemita Parisheba (Sneha Gold),361,3.3,41 Seats available,AC Seater (2+3),09:15,04h 30m,13:45,Esplanade
+685,Sagufta Travels (Kojagor),299,3.9,39 Seats available,A/C Seater (2+3),15:50,04h 30m,20:20,Esplanade
+686,Sagufta Travels(Maa Chandi),394,4.8,21 Seats available,A/C Seater / Sleeper (2+2),22:10,07h 30m,05:40,Esplanade
+687,Ankita Paribahan(Janhabi),389,3.2,43 Seats available,A/C Seater Push Back (2+3),16:45,04h 35m,21:20,Esplanade
+688,Purusottam Travels,INR 305,2.9,46 Seats available,A/C Seater (2+3),14:39,05h 26m,20:05,Esplanade
+689,Basu Travels,INR 499,3.5,65 Seats available,A/C Seater Push Back (2+3),23:30,05h 00m,04:30,Esplanade
+690,Snemita Paribahan (Angel),INR 370,3.7,20 Seats available,A/C Seater (2+3),08:30,04h 30m,13:00,Esplanade
+691,Sagufta Travels(Angel),347,2.6,19 Seats available,A/C Seater (2+2),23:58,05h 12m,05:10,Esplanade
+692,City Express (BHORPET),INR 370,3.4,20 Seats available,AC Seater (2+3),17:40,04h 20m,22:00,Esplanade
+693,Samanta Travels,285,3.9,21 Seats available,A/C Seater (2+3),18:50,04h 40m,23:30,Esplanade
+694,Bengal Surface Transport,INR 550,2.9,25 Seats available,A/C Seater / Sleeper (2+2),23:55,05h 05m,05:00,Esplanade
+695,Snemita Paribahan(Shinjini),INR 370,2.8,61 Seats available,A/C Seater (2+3),23:50,04h 40m,04:30,Esplanade
+696,Parameswar Travels,302,2.3,16 Seats available,A/C Seater Push Back (2+3),23:55,05h 05m,05:00,Esplanade
+697,Mayuri Express,278,3.6,12 Seats available,A/C Seater (2+3),18:20,04h 30m,22:50,Esplanade
+698,Haimanti Bus Service,INR 350,3.2,15 Seats available,AC Seater (2+3),19:50,05h 40m,01:30,Esplanade
+699,Sree Jagannath Travels,INR 399,2.3,30 Seats available,A/C Seater Push Back (2+3),08:20,05h 00m,13:20,Esplanade
+700,Snemita Paribahan (ANGEL),INR 450,2.9,60 Seats available,A/C Seater Push Back (2+2),23:58,05h 02m,05:00,Esplanade
+701,Sagufta Travels(Janhabi),299,2.3,,A/C Seater Push Back (2+3),16:45,04h 30m,21:15,
+702,City Express (Shinjini),INR 370,3.5,,AC Seater (2+3),23:50,05h 05m,04:55,
+703,Sagufta Travels (Samanta),299,2.5,,A/C Seater (2+3),18:00,04h 50m,22:50,
+704,Sagufta Travels (Maa Gauri),299,2.7,,A/C Seater Push Back (2+3),12:30,04h 50m,17:20,
+705,Snemita Paribahan (BHORPET),INR 370,2.0,,A/C Seater (2+3),17:40,04h 20m,22:00,
+706,Sagufta Travels (Maa Chandi),299,1.9,,A/C Seater Push Back (2+3),13:30,04h 35m,18:05,
+707,Parameswar Travels,285,2.5,,A/C Seater Push Back (2+3),10:10,04h 46m,14:56,
+708,Sneha Gold Bus Service,INR 300,2.0,,A/C Seater (2+3),09:10,04h 30m,13:40,
+709,Haimanti Bus Service,INR 290,2.1,,AC Seater (2+3),12:40,04h 50m,17:30,
+710,Ankita Paribahan( Haimanti),428,1.7,,A/C Seater Push Back (2+3),19:50,04h 15m,00:05,
+711,Snemita Paribahan(Maa Gauri Gold),INR 370,2.1,,AC Seater (2+3),11:00,04h 45m,15:45,
+712,Suvam Travels,INR 300,1.8,,A/C Seater Push Back (2+3),15:30,05h 00m,20:30,
+713,Basu Travels,INR 399,2.0,,A/C Seater Push Back (2+3),14:25,04h 45m,19:10,
+714,City Express (SONAMONI),INR 370,3.7,,AC Seater (2+3),11:28,04h 42m,16:10,
+715,Santosh Bus Service,324,3.8,,A/C Seater Push Back (2+3),23:50,05h 10m,05:00,
+716,Santosh Bus Service,279,3.5,,A/C Seater Push Back (2+3),11:51,05h 09m,17:00,
+717,City Express (Maa Gauri),INR 370,4.0,,AC Seater (2+3),12:40,04h 30m,17:10,
+718,Arunita Paribahan,INR 370,3.5,,AC Seater (2+2),23:45,05h 00m,04:45,
+719,Santosh Bus Service,323,2.6,,A/C Seater / Sleeper (2+2),23:59,05h 31m,05:30,
+720,Santosh Bus Service,199,3.8,,A/C Seater Push Back (2+3),17:20,04h 30m,21:50,
+721,Santosh Bus Service,200,3.8,,A/C Seater Push Back (2+3),15:55,05h 15m,21:10,
+722,Sagufta Travels (Kojagor),299,3.4,,A/C Seater Push Back (2+3),17:00,04h 50m,21:50,
+723,Sagufta Travels (Maa Gauri),299,3.2,,A/C Seater (2+3),09:30,04h 50m,14:20,
+724,Vishwakarma Travels,INR 380,4.2,,AC Seater (2+3),07:15,04h 45m,12:00,
+725,Santosh Bus Service,277,3.0,,A/C Seater Push Back (2+3),19:00,04h 35m,23:35,
+726,Basu Travels,INR 390,3.2,,A/C Seater Push Back (2+3),14:32,04h 28m,19:00,
+727,Parameswar Travels,302,2.4,,A/C Seater Push Back (2+3),21:50,05h 55m,03:45,
+728,Snemita Paribahan(Maa Gouri Gold),INR 370,3.5,,AC Seater (2+3),09:30,04h 30m,14:00,
+729,Renuka Travels,INR 500,1.9,,A/C Seater / Sleeper (2+2),23:40,05h 20m,05:00,
+730,Bengal Surface Transport,INR 399,3.3,,A/C Seater Push Back (2+3),23:59,05h 01m,05:00,
+731,Santosh Bus Service,240,3.1,,A/C Seater (2+3),18:30,05h 15m,23:45,
+732,Snemita Parisheba,352,2.4,,A/C Push Back (2+3),15:15,04h 30m,19:45,
+733,Snemita Paribahan (Maa Gouri),INR 370,3.0,,AC Seater (2+3),12:40,04h 30m,17:10,
+734,Samanta Travels,285,2.3,,A/C Seater (2+3),18:10,05h 00m,23:10,
+735,Snemita Parisheba,352,2.1,,AC Seater (2+3),19:30,04h 40m,00:10,
+736,Snemita Paribahan (Shinjini),INR 370,2.5,,AC Seater (2+3),10:08,04h 37m,14:45,
+737,Santosh Bus Service,277,2.0,,A/C Seater Push Back (2+3),19:25,04h 34m,23:59,
+738,Sagufta Travels (Maa Gauri),299,2.7,,A/C Seater (2+3),11:00,04h 30m,15:30,
+739,Purusottam Travels,INR 280,2.7,,NON A/C Seater (2+3),14:00,05h 00m,19:00,
+740,Sree Jagannath Travels,INR 500,2.7,,A/C Seater Push Back (2+3),07:40,04h 50m,12:30,
+741,Snemita Paribahan (Shinjini),INR 390,2.4,,AC Seater (2+3),12:20,04h 30m,16:50,
+742,Aniruddha Travels,INR 239,3.0,,NON A/C Seater Push Back (2+3) (2+3),07:30,05h 40m,13:10,
+743,Snemita Pariseba(Santosh),352,1.2,,AC Seater (2+3),18:30,05h 00m,23:30,
+744,Snemita Paribahan(Maa Chandi),INR 390,1.2,,AC Seater (2+3),13:35,04h 30m,18:05,
+745,Ankita Paribahan(Atithi),428,1.8,,A/C Seater Push Back (2+3),22:40,06h 40m,05:20,
+746,Basu Travels,INR 469,2.3,,A/C Seater Push Back (2+3),23:55,05h 05m,05:00,
+747,Snemita Parisheba,352,1.0,,AC Seater (2+3),19:05,04h 40m,23:45,
+748,Jay Baba Bhutnath(Adhikary),INR 300,1.8,,A/C Seater (2+3),15:10,04h 50m,20:00,
+749,Snemita Parisheba,352,2.2,,AC Seater (2+3),16:10,04h 30m,20:40,
+750,Snemita Parisheba (Bhunia),352,2.4,,AC Seater (2+3),16:00,04h 40m,20:40,
+751,Ankita Paribahan (Maity Motor),428,3.0,,A/C Seater Push Back (2+3),22:20,04h 40m,03:00,
+752,Parameswar Travels,285,3.0,,A/C Seater Push Back (2+3),13:10,04h 46m,17:56,
+753,Ankita Paribahan,389,3.0,,A/C Push Back (2+3),15:45,04h 45m,20:30,
+754,Bengal Surface Transport,INR 419,2.8,,A/C Seater Push Back (2+3),23:20,05h 10m,04:30,
+755,Snemita Parisheba (Samanta),352,2.7,,AC Seater (2+3),14:15,04h 30m,18:45,
+756,Snemita Paribahan (Maa Gouri),INR 370,3.8,,AC Seater (2+3),11:20,04h 30m,15:50,
+757,Snemita Paribahan(SONAMONI),INR 370,3.8,,A/C Seater (2+3),11:28,04h 42m,16:10,
+758,Snemita Paribahan (Ruposhi),INR 370,3.8,,AC Seater (2+3),15:55,04h 55m,20:50,
+759,Snemita Paribahan (Shinjini),INR 470,3.8,,AC Seater (2+2),23:45,04h 50m,04:35,
+760,City Express (Ruposhi),INR 370,3.7,,AC Seater (2+3),15:55,04h 55m,20:50,
+761,City Express (Maa Gouri),INR 370,3.7,,AC Seater (2+3),11:20,04h 35m,15:55,
+762,City Express (Maa Gouri),INR 370,3.7,,AC Seater (2+3),11:00,04h 30m,15:30,
+763,City Express (Shinjini),INR 470,3.7,,AC Seater (2+2),23:45,04h 50m,04:35,
+764,City Express (Maa Chandi),INR 370,3.7,,AC Seater (2+3),13:35,04h 25m,18:00,
+765,Arunita Paribahan,INR 375,3.5,,A/C Executive (2+3),09:30,04h 30m,14:00,
+766,Arunita Paribahan,INR 370,3.5,,A/C Seater (2+3),10:08,04h 42m,14:50,
+767,Santosh Bus Service,176,3.4,,NON A/C Seater Pushback (2+3),16:10,05h 35m,21:45,
+768,Ankita Paribahan,370,3.0,,AC Seater (2+3),13:50,05h 10m,19:00,
+769,Ankita Paribahan,342,3.0,,A/C Executive (2+3),08:00,05h 40m,13:40,
+770,Ankita Paribahan(Parameswar),428,3.0,,A/C Seater (2+3),21:50,04h 50m,02:40,
+771,Purusottam Travels,INR 330,2.9,,A/C Seater (2+3),14:00,05h 55m,19:55,
+772,Purusottam Travels,INR 250,2.9,,NON A/C Seater (2+3),17:30,04h 20m,21:50,
+773,Bengal Surface Transport,INR 379,2.8,,A/C Seater Push Back (2+3),14:29,04h 46m,19:15,
+774,Snemita Parisheba,352,2.7,,AC Seater (2+3),14:45,04h 40m,19:25,
+775,Sree Jagannath Travels,INR 449,2.5,,A/C Seater Push Back (2+3),23:20,05h 40m,05:00,
+776,Suvam Travels,INR 200,1.8,,Non AC Seater (2+3),16:30,04h 30m,21:00,
+777,Kojagar Travels,INR 300,1.9,,A/C Seater (2+3),15:50,05h 40m,21:30,
+778,Anadi Travels (Disha Gold),INR 350,1.0,,A/C Seater Push Back (2+3),23:00,05h 40m,04:40,
+779,SBSTC-HABRA - MIDNAPUR - 06:20 (MID DEPOT) - 1398,INR 125,4.3,40 Seats available,Non AC Seater (2+3),07:20,16h 40m,00:00,BARASAT
+780,SBSTC-BARASAT - MIDNAPUR - 08:30 (MID DEPOT) - 1194,INR 125,3.8,46 Seats available,Non AC Seater (2+3),08:30,15h 30m,00:00,BARASAT
+781,Dolphin tours and travels,INR 896,3.8,,A/C Seater / Sleeper (2+2),17:45,01h 15m,19:00,
+782,SBSTC-JHARGRAM - KOLKATA - VIA - LODHASULI - 07:30 (JHRM - 3606,INR 140,4.2,49 Seats available,Non AC Seater (2+3),07:30,16h 30m,00:00,JHARGRAM
+783,SBSTC-JHARGRAM - KOLKATA - VIA - MIDNAPUR - 09:00 - 1765,INR 142,4.2,52 Seats available,Non AC Seater (2+3),09:00,15h 00m,00:00,JHARGRAM
+784,SBSTC-JHARGRAM - GARIA - VIA - MIDNAPUR-KOLKATA - 10:45 - 3802,INR 142,4.4,51 Seats available,Non AC Seater (2+3),10:45,13h 15m,00:00,JHARGRAM
+785,SBSTC-JHARGRAM - KARUNAMOYEE - VIA - KOLKATA - 13:35 - 1764,INR 142,3.4,51 Seats available,Non AC Seater (2+3),13:35,10h 25m,00:00,JHARGRAM
+786,SBSTC-JHARGRAM - GARIA - VIA - CHOWRANGE-KOLKATA - 14:10 - 2214,INR 160,4.0,48 Seats available,Non AC Seater (2+3),14:10,09h 50m,00:00,JHARGRAM
+787,SBSTC-JHARGRAM - KARUNAMOYEE - VIA-LODHASULI - 15:40 (JH - 3799,INR 150,3.3,52 Seats available,Non AC Seater (2+3),15:40,08h 20m,00:00,JHARGRAM
+788,WBTC (CTC) KOLKATA - ASANSOL - PURULIA (AC VOLVO) Banglashree Express - 133|13:45,INR 350,3.9,21 Seats available,Volvo AC Seater (2+2),13:45,03h 00m,16:45,Babughat
+789,Express Line (Karunamoyee),INR 486,4.8,,Volvo 9600 A/C Semi Sleeper (2+2),15:45,04h 00m,19:45,
+790,Greenline,INR 486,4.8,,Volvo 9600 Multi Axle Semi-Sleeper (2+2),16:00,03h 15m,19:15,
+791,SHYAMOLI Pvt. Ltd.(Karunamoyee),INR 486,4.6,,Volvo A/C Seater (2+2),17:30,04h 00m,21:30,
+792,SHYAMOLI Pvt. Ltd.(Karunamoyee),INR 486,4.6,,Volvo A/C Seater (2+2),07:00,03h 30m,10:30,
+793,Greenline (Karunamoyee),INR 486,4.6,,Volvo A/C Seater (2+2),07:45,04h 00m,11:45,
+794,SHYAMOLI Pvt. Ltd.(Karunamoyee),INR 486,4.6,,Volvo A/C Seater (2+2),08:30,04h 00m,12:30,
+795,Greenline (Karunamoyee),INR 486,4.6,,Volvo A/C Seater (2+2),15:00,04h 00m,19:00,
+796,Greenline (Karunamoyee),INR 486,4.6,,Scania Multi-Axle AC Semi Sleeper (2+2),13:00,04h 00m,17:00,
+797,SHYAMOLI Pvt. Ltd.(Karunamoyee),INR 486,4.5,,Volvo A/C Seater (2+2),07:05,02h 25m,09:30,
+798,Shyamoli Paribahan Pvt Ltd,INR 486,4.6,,Volvo A/C Seater (2+2),08:15,04h 00m,12:15,
+799,Shyamoli Paribahan Pvt Ltd,INR 486,4.6,,Volvo A/C Seater (2+2),16:40,04h 00m,20:40,
+800,SHYAMOLI Pvt. Ltd.(Karunamoyee),INR 486,4.4,,Volvo A/C Seater (2+2),14:00,04h 00m,18:00,
+801,Express Line,INR 486,4.7,,Volvo A/C Seater (2+2),13:30,04h 00m,17:30,
+802,Greenline,INR 486,4.6,,Volvo A/C Seater (2+2),18:05,04h 00m,22:05,
+803,Greenline,INR 486,4.5,,Volvo A/C Seater (2+2),08:45,04h 00m,12:45,
+804,Greenline (Karunamoyee),INR 486,4.4,,Volvo A/C Seater (2+2),16:45,04h 00m,20:45,
+805,Greenline (Karunamoyee),INR 486,4.3,,Volvo A/C Seater (2+2),09:15,04h 00m,13:15,
+806,Shyamoli Paribahan Pvt Ltd,INR 486,4.4,,Scania Multi-Axle AC Semi Sleeper (2+2),15:00,03h 00m,18:00,
+807,Shyamoli Paribahan Pvt Ltd,INR 486,4.4,,Volvo A/C Seater (2+2),18:40,03h 45m,22:25,
+808,Shyamoli Paribahan Pvt Ltd,INR 486,4.4,,Volvo A/C Seater (2+2),09:15,04h 00m,13:15,
+809,Greenline,INR 486,4.3,,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),07:40,04h 00m,11:40,
+810,SHYAMOLI Pvt. Ltd.(Karunamoyee),INR 486,4.2,,Volvo A/C Seater (2+2),16:00,04h 00m,20:00,
+811,Express Line,INR 486,4.3,,Volvo 9600 Multi Axle Semi-Sleeper (2+2),17:20,04h 00m,21:20,
+812,Greenline (Karunamoyee),INR 486,4.2,,Volvo A/C Seater (2+2),11:00,04h 00m,15:00,
+813,Greenline,INR 486,4.6,,Volvo A/C Seater (2+2),09:50,04h 00m,13:50,
+814,SHYAMOLI Pvt. Ltd.(Karunamoyee),INR 486,4.1,,Volvo A/C Seater (2+2),10:00,04h 00m,14:00,
+815,Shyamoli Paribahan Pvt Ltd,INR 486,4.6,,Volvo A/C Seater (2+2),14:00,04h 00m,18:00,
+816,SHYAMOLI Pvt. Ltd.(Karunamoyee),INR 486,4.1,,Volvo A/C Seater (2+2),12:00,04h 00m,16:00,
+817,Shyamoli Paribahan Pvt Ltd,INR 486,4.5,,Volvo A/C Seater (2+2),13:00,04h 00m,17:00,
+818,Greenline,INR 486,4.5,,Volvo 9600 A/C Semi Sleeper (2+2),12:30,04h 00m,16:30,
+819,Royal Cruiser,463,3.6,,Scania Multi-Axle AC Semi Sleeper (2+2),19:30,03h 45m,23:15,
+820,Express Line,INR 486,4.8,,Volvo 9600 A/C Semi Sleeper (2+2),15:30,03h 00m,18:30,
+821,Greenline,INR 486,4.7,,Scania Multi-Axle AC Semi Sleeper (2+2),11:30,04h 00m,15:30,
+822,Shyamoli Paribahan Pvt Ltd,INR 486,3.6,,Volvo A/C Seater (2+2),11:00,04h 00m,15:00,
+823,Greenline,INR 486,4.4,,Volvo A/C Seater (2+2),14:30,04h 00m,18:30,
+824,Express Line (Karunamoyee),INR 486,5.0,,Volvo A/C Seater (2+2),08:15,04h 00m,12:15,
+825,Shyamoli Paribahan Pvt Ltd,INR 486,4.1,,Volvo A/C Seater (2+2),12:00,04h 00m,16:00,
+826,Express Line (Karunamoyee),INR 486,4.5,,Scania Multi-Axle AC Semi Sleeper (2+2),07:00,03h 15m,10:15,
+827,Tulsi Travel,INR 899,3.2,,NON A/C Seater / Sleeper (2+2),14:45,02h 15m,17:00,
+828,Maharani Travels,INR 800,2.5,,A/C Seater / Sleeper (2+1),21:05,04h 25m,01:30,
+829,Sana Travels,INR 500,1.7,,NON AC Seater / Sleeper 2+1,20:30,03h 25m,23:55,
+830,Pariwartan Bus Service,INR 500,,,NON A/C Seater / Sleeper (2+2),18:30,04h 30m,23:00,
+831,Greenline,INR 1450,4.3,22 Seats available,Volvo Multi-Axle A/C Sleeper (2+1),19:45,10h 45m,06:30,City Center Durgapur
+832,Shyamoli Paribahan Pvt Ltd,INR 1050,4.2,42 Seats available,Volvo Multi-Axle A/C Semi Sleeper (2+2),19:30,10h 55m,06:25,City Center Durgapur
+833,Express Line,INR 1099,4.3,44 Seats available,Volvo 9600 A/C Seater/Sleeper (2+1),19:40,11h 05m,06:45,City Center Durgapur
+834,Guru Nanak (Inter City),INR 1000,4.9,37 Seats available,Volvo A/C Seater (2+2),19:30,11h 20m,06:50,City Center Durgapur
+835,Guru Nanak (Inter City),INR 600,3.5,10 Seats available,NON A/C Seater / Sleeper (2+2),18:30,13h 30m,08:00,City Center Durgapur
+836,Lady Diana Travels,601,3.9,14 Seats available,NON A/C Seater / Sleeper (2+2),18:15,12h 00m,06:15,City center Durgapur
+837,Mangaldeep,INR 600,2.6,26 Seats available,NON A/C Seater / Sleeper (2+2),17:30,12h 30m,06:00,City Center
+838,Shivnarayan Travels,INR 650,3.7,9 Seats available,NON A/C Seater / Sleeper (2+2),18:00,12h 30m,06:30,City Center
+839,Shivnarayan Travels,INR 650,2.8,10 Seats available,NON A/C Seater / Sleeper (2+2),19:00,12h 00m,07:00,City Center
+840,New Das Paribahan,INR 600,3.2,12 Seats available,NON A/C Seater / Sleeper (2+2),16:30,13h 05m,05:35,City Center
+841,Shyamoli Paribahan Pvt Ltd,INR 1200,4.6,18 Seats available,Volvo Multi-Axle A/C seater/sleeper (2+1),18:30,13h 15m,07:45,Esplanade
+842,Greenline,INR 1200,4.6,10 Seats available,Volvo 9600 A/C Seater/Sleeper (2+1),19:00,13h 15m,08:15,Esplanade
+843,Shyamoli Paribahan Pvt Ltd,INR 2500,4.6,3 Seats available,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:00,12h 50m,06:50,Esplanade
+844,AdRoyal Cruiser,1064,3.7,35 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),18:00,13h 00m,07:00,Esplanade
+845,Shyamoli Paribahan Pvt Ltd,INR 1200,4.6,39 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),21:00,11h 30m,08:30,Esplanade
+846,Greenline,INR 1800,4.6,13 Seats available,Volvo Multi-Axle A/C Sleeper (2+1),18:30,13h 00m,07:30,Esplanade
+847,Shyamoli Paribahan Pvt Ltd,INR 1200,4.5,23 Seats available,Volvo Multi-Axle A/C seater/sleeper (2+1),19:00,13h 15m,08:15,Esplanade
+848,Lokenath Bus Service,INR 1200,4.5,26 Seats available,Volvo Multi-Axle A/C Seater/Sleeper (2+1),18:15,12h 00m,06:15,Esplanade
+849,Aitiana Airwings,INR 1599,4.5,15 Seats available,Volvo Multi-Axle Sleeper A/C (2+1),18:30,13h 00m,07:30,Esplanade
+850,Rubi Paribahan  ,INR 1199,4.3,30 Seats available,Volvo Multi Axle B11R AC Seater\Sleeper (2+1),18:00,13h 15m,07:15,Esplanade
+851,Express Line,INR 1199,4.3,25 Seats available,Volvo 9600 A/C Seater/Sleeper (2+1),19:30,12h 55m,08:25,Esplanade
+852,Lokenath Bus Service,INR 1200,4.8,38 Seats available,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),17:45,12h 00m,05:45,Esplanade
+853,Aitiana Airwings,INR 1300,4.2,14 Seats available,Benz A/C Sleeper (2+1),18:00,13h 30m,07:30,Esplanade
+854,Lokenath Bus Service,INR 1200,4.3,23 Seats available,Volvo Multi Axle B11R AC Seater\Sleeper (2+1),20:00,11h 55m,07:55,Esplanade
+855,Modern Travels,INR 925,3.5,34 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),18:30,13h 15m,07:45,Esplanade
+856,Poulami Paribahan,INR 1200,4.0,22 Seats available,Volvo Multi-Axle A/C seater/sleeper (2+1),19:00,12h 45m,07:45,Esplanade
+857,Aradhana Bus Service,713,2.1,38 Seats available,NON A/C Seater / Sleeper (2+2),16:45,14h 15m,07:00,Esplanade
+858,Royal Cruiser,1166,3.4,33 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),18:30,13h 00m,07:30,Esplanade
+859,Maulik Paribahan,INR 1199,3.5,50 Seats available,A/C Seater / Sleeper (2+2),18:30,13h 15m,07:45,Esplanade
+860,Shantanu Bus Service,INR 600,1.9,38 Seats available,NON A/C Seater / Sleeper (2+2),17:30,15h 00m,08:30,Esplanade
+861,Annesha Travels,INR 600,1.4,32 Seats available,NON A/C Seater / Sleeper (2+2),17:30,13h 30m,07:00,Esplanade
+862,Maa Durga Bus Service,INR 600,2.5,15 Seats available,NON A/C Seater / Sleeper (2+2),19:00,14h 00m,09:00,Esplanade
+863,Shantanu Travels,INR 600,2.2,35 Seats available,NON A/C Seater / Sleeper (2+2),17:00,15h 00m,08:00,Esplanade
+864,Shantanu Travels,INR 1400,2.8,43 Seats available,A/C Seater / Sleeper (2+2),18:00,15h 00m,09:00,Esplanade
+865,Shyamoli Paribahan Pvt Ltd,INR 1200,4.2,45 Seats available,Volvo Multi-Axle A/C Semi Sleeper (2+2),18:20,10h 55m,05:15,Siliguri
+866,Express Line,INR 1499,4.6,21 Seats available,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:30,11h 05m,05:35,SILIGURI
+867,Greenline,INR 1450,4.2,25 Seats available,Volvo Multi-Axle A/C Sleeper (2+1),19:00,11h 00m,06:00,Tenzing Norgay Bus Terminus
+868,Guru Nanak (Inter City),INR 800,3.5,35 Seats available,A/C Seater / Sleeper (2+2),18:00,12h 00m,06:00,Tenzing Norgay (Junction)
+869,Guru Nanak (Inter City),INR 600,3.7,35 Seats available,NON A/C Seater / Sleeper (2+2),17:30,13h 20m,06:50,Tenzing Norgay (Junction)
+870,Shivnarayan Travels,INR 650,3.6,10 Seats available,NON A/C Seater / Sleeper (2+2),17:30,11h 30m,05:00,Siliguri Bus Stand
+871,Lady Diana Travels,601,3.2,19 Seats available,NON A/C Seater / Sleeper (2+2),17:00,13h 00m,06:00,Siliguri Bus stand
+872,Shivnarayan Travels (Subhodeep),INR 650,2.4,5 Seats available,NON A/C Seater / Sleeper (2+2),16:00,12h 00m,04:00,Siliguri Bus Stand
+873,New Das Paribahan,INR 550,3.1,12 Seats available,NON A/C Seater / Sleeper (2+2),15:40,12h 20m,04:00,Tenzing Norgay Central Bus Stand
+874,WBTC (CTC) Habra- Barasat- Haldia - 180|16:45,INR 97,3.6,,Non AC Seater (2+3),16:45,02h 45m,19:30,
+875,Gogol City Service,148,3.9,,AC Seater (2+3),07:50,02h 55m,10:45,
+876,Droupadi Bus Service,INR 133,3.7,,Non AC Seater (2+3),07:15,03h 00m,10:15,
+877,Shyamoli Paribahan Pvt Ltd,INR 524,4.5,38 Seats available,Volvo A/C Seater (2+2),07:00,04h 30m,11:30,Lower Chelidanga
+878,SHYAMOLI Pvt. Ltd.(Karunamoyee),INR 524,4.2,31 Seats available,Volvo A/C Seater (2+2),07:45,05h 00m,12:45,Asansol
+879,Shyamoli Paribahan Pvt Ltd,INR 524,4.0,,Volvo A/C Seater (2+2),08:30,05h 00m,13:30,
+880,SHYAMOLI Pvt. Ltd.(Karunamoyee),INR 524,4.4,,Volvo B11R Multi Axle Seater (2+2),08:45,05h 00m,13:45,
+881,Express Line,INR 524,4.7,,Volvo 9600 Multi Axle Semi-Sleeper (2+2),09:30,05h 00m,14:30,
+882,Shyamoli Paribahan Pvt Ltd,INR 524,3.7,,Volvo B11R Multi Axle Seater (2+2),10:00,05h 00m,15:00,
+883,SHYAMOLI Pvt. Ltd.(Karunamoyee),INR 524,4.1,,Volvo B11R Multi Axle Seater (2+2),10:00,05h 00m,15:00,
+884,Greenline,INR 524,4.3,,Volvo A/C Seater (2+2),10:30,05h 00m,15:30,
+885,Greenline (Karunamoyee),INR 524,4.4,,Volvo A/C Seater (2+2),10:50,05h 00m,15:50,
+886,SHYAMOLI Pvt. Ltd.(Karunamoyee),INR 524,3.9,,Volvo A/C Seater (2+2),11:30,05h 00m,16:30,
+887,Shyamoli Paribahan Pvt Ltd,INR 524,4.1,,Volvo A/C Seater (2+2),11:45,05h 00m,16:45,
+888,Greenline (Karunamoyee),INR 524,4.4,,Volvo A/C Seater (2+2),12:00,05h 10m,17:10,
+889,Greenline,INR 524,3.6,,Volvo A/C Seater (2+2),12:20,05h 00m,17:20,
+890,SHYAMOLI Pvt. Ltd.(Karunamoyee),INR 524,4.4,,Volvo A/C Seater (2+2),12:45,05h 00m,17:45,
+891,Shyamoli Paribahan Pvt Ltd,INR 524,4.2,,Volvo A/C Seater (2+2),13:00,05h 00m,18:00,
+892,Greenline,INR 524,4.4,,Volvo A/C Seater (2+2),13:40,05h 10m,18:50,
+893,Express Line,INR 524,4.5,,Volvo A/C Seater (2+2),14:00,05h 00m,19:00,
+894,Shyamoli Paribahan Pvt Ltd,INR 524,3.9,,Volvo A/C Seater (2+2),14:20,05h 00m,19:20,
+895,Greenline (Karunamoyee),INR 524,4.4,,Volvo A/C Seater (2+2),14:30,05h 00m,19:30,
+896,Greenline,INR 524,4.1,,Volvo A/C Seater (2+2),14:50,05h 00m,19:50,
+897,SHYAMOLI Pvt. Ltd.(Karunamoyee),INR 524,3.9,,Volvo A/C Seater (2+2),15:00,05h 00m,20:00,
+898,Shyamoli Paribahan Pvt Ltd,INR 524,3.5,,Volvo A/C Seater (2+2),15:30,05h 00m,20:30,
+899,Greenline,INR 524,3.6,,Volvo A/C Seater (2+2),16:00,05h 00m,21:00,
+900,Greenline (Karunamoyee),INR 524,4.2,,Volvo A/C Seater (2+2),16:20,05h 00m,21:20,
+901,SHYAMOLI Pvt. Ltd.(Karunamoyee),INR 524,3.6,,Volvo A/C Seater (2+2),16:35,05h 00m,21:35,
+902,Shyamoli Paribahan Pvt Ltd,INR 524,3.5,,Volvo A/C Seater (2+2),17:00,05h 00m,22:00,
+903,Express Line,INR 524,4.4,,Volvo 9600 Multi Axle Semi-Sleeper (2+2),17:30,05h 20m,22:50,
+904,Greenline (Karunamoyee),INR 524,4.5,,Volvo A/C Seater (2+2),06:57,04h 53m,11:50,
+905,Shyamoli Paribahan Pvt Ltd,INR 524,4.0,,Scania Multi-Axle AC Semi Sleeper (2+2),07:05,04h 05m,11:10,
+906,Express Line (Karunamoyee),INR 524,4.4,,Volvo 9600 A/C Semi Sleeper (2+2),07:30,05h 00m,12:30,
+907,Greenline (Karunamoyee),INR 524,4.5,,Volvo A/C Seater (2+2),09:00,05h 00m,14:00,
+908,Express Line (Karunamoyee),INR 524,4.8,,Scania Multi-Axle AC Semi Sleeper (2+2),13:10,05h 00m,18:10,
+909,Express Line,INR 524,4.5,,Scania Multi-Axle AC Semi Sleeper (2+2),13:20,05h 10m,18:30,
+910,Express Line (Karunamoyee),INR 524,4.5,,Volvo A/C Seater (2+2),15:20,29h 05m,20:25,
+911,SHYAMOLI Pvt. Ltd.(Karunamoyee),INR 524,3.8,,Volvo A/C Seater (2+2),15:45,05h 00m,20:45,
+912,Sana Travels,INR 400,1.0,,NON AC Seater / Sleeper 2+1,23:58,05h 02m,05:00,

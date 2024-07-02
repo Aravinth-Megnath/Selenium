@@ -1,0 +1,284 @@
+,Names,Bus_fare,Ratings,Seats,Bus_types,Starting_time,Duration,Ending_time,Starting_point
+0,Aniruddha Travels,INR 550,3.4,34 Seats available,NON A/C Seater/ Sleeper (2+1),18:30,09h 30m,04:00,Tinsukia
+1,Puja Transport,INR 600,3.6,30 Seats available,NON AC Seater / Sleeper 2+1,18:30,10h 30m,05:00,Tinsukia
+2,J.S. Travels,INR 550,3.1,32 Seats available,Non AC Seater (2+1),17:30,10h 30m,04:00,Tinsukia
+3,Puja Transport,INR 600,3.3,35 Seats available,Non AC Seater (2+2),17:30,10h 30m,04:00,Tinsukia
+4,Neha Travels,INR 650,1.9,28 Seats available,NON A/C Seater (2+2),15:00,12h 15m,03:15,Tinsukia Astc Bus Stand
+5,Maa Laxmi,INR 550,2.7,35 Seats available,NON A/C Seater Push Back (2+1),16:00,10h 00m,02:00,Tinsukia
+6,Assam State Transport Corporation (ASTC) - 139495,INR 273,3.4,47 Seats available,NON A/C Seater Push Back (2+1),07:30,06h 30m,14:00,Bokakhat
+7,Aniruddha Travels,INR 550,5.0,45 Seats available,AC Seater (2+2),10:15,06h 00m,16:15,Bokakhat ASTC
+8,SHIVAM TRAVELS,634,4.1,,Bharat Benz A/C Seater (2+1),12:15,04h 45m,17:00,
+9,Chartered Bus - ASTC,INR 647.8,4.7,,Volvo AC Seater Pushback 2+2,12:30,04h 45m,17:15,
+10,Bashudev Transline (Under ASTC),INR 550,4.5,,A/C Seater (2+1),12:35,05h 25m,18:00,
+11,Christina Travels,650,2.9,,NON A/C Seater (2+2),11:00,04h 15m,15:15,
+12,Aniruddha Travels,INR 550,2.9,,NON A/C Seater/ Sleeper (2+1),23:15,04h 45m,04:00,
+13,PIHU TRANSPORT,INR 500,2.9,,Bharat Benz NON A/C Seater / Sleeper (2+1),23:30,04h 30m,04:00,
+14,Aniruddha Travels,INR 600,3.2,50 Seats available,AC Seater (2+2),07:50,07h 10m,15:00,Tezpur ASTC
+15,MOON TRAVELS,INR 500,3.3,31 Seats available,AC Seater (2+2),07:30,06h 30m,14:00,Tezpur (Mission Chariali)
+16,PIHU TRANSPORT,INR 520,2.9,36 Seats available,Bharat Benz NON A/C Seater / Sleeper (2+1),19:40,07h 20m,03:00,Mission Chariali
+17,Neha Travels,INR 650,1.9,35 Seats available,NON A/C Seater (2+2),22:40,05h 20m,04:00,Tezpur (Mission Chariali)
+18,Maa Laxmi,INR 500,2.7,,NON A/C Seater Push Back (2+1),23:00,06h 00m,05:00,
+19,Neha Travels,INR 700,1.9,,NON A/C Seater (2+2),22:40,07h 20m,06:00,
+20,Assam State Transport Corporation (ASTC) - 82639,INR 404,4.0,36 Seats available,A/C Seater (2+1),09:20,07h 10m,16:30,Moran
+21,Aniruddha Travels,INR 550,3.5,34 Seats available,NON A/C Seater/ Sleeper (2+1),21:00,07h 00m,04:00,Moran
+22,Aniruddha Travels,INR 600,3.9,34 Seats available,AC Seater (2+2),08:25,07h 10m,15:35,Moran (Bus Stand)
+23,MOON TRAVELS,INR 500,2.5,,AC Seater (2+2),10:10,07h 21m,17:31,
+24,Maa Laxmi,INR 500,2.7,,NON A/C Seater Push Back (2+1),19:00,07h 00m,02:00,
+25,Neha Travels,INR 650,2.4,,NON A/C Seater (2+2),18:00,09h 15m,03:15,
+26,Aniruddha Travels,INR 550,3.7,25 Seats available,NON A/C Seater/ Sleeper (2+1),20:00,08h 00m,04:00,ASTC Bus Stand Tezpur
+27,Puja Transport,INR 550,3.3,18 Seats available,NON AC Seater / Sleeper 2+1,20:00,08h 30m,04:30,Tezpur
+28,Maa Laxmi,INR 550,3.2,34 Seats available,NON A/C Seater Push Back (2+1),23:00,06h 30m,05:30,Mission Chariali
+29,Puja Transport,INR 550,2.8,25 Seats available,Non AC Seater (2+2),20:00,09h 00m,05:00,Tezpur
+30,J.S. Travels,INR 550,1.9,32 Seats available,Non AC Seater (2+1),21:00,07h 00m,04:00,Tezpur
+31,Neha Travels,INR 700,2.0,35 Seats available,NON A/C Seater (2+2),22:40,08h 20m,07:00,Tezpur (Mission Chariali)
+32,Neha Travels,INR 650,2.5,19 Seats available,NON A/C Seater (2+2),22:40,05h 50m,04:30,Tezpur (Mission Chariali)
+33,PIHU TRANSPORT,INR 470,2.3,45 Seats available,Bharat Benz NON A/C Seater / Sleeper (2+1),19:40,08h 20m,04:00,Tezpur ASTC
+34,Aniruddha Travels,INR 550,3.5,25 Seats available,NON A/C Seater/ Sleeper (2+1),20:00,08h 45m,04:45,ASTC Bus Stand Tezpur
+35,Puja Transport,INR 600,3.1,18 Seats available,NON AC Seater / Sleeper 2+1,20:00,09h 30m,05:30,Tezpur
+36,Maa Laxmi,INR 550,2.4,32 Seats available,NON A/C Seater Push Back (2+1),23:00,09h 00m,08:00,Mission Chariali
+37,Puja Transport,INR 550,3.6,25 Seats available,Non AC Seater (2+2),20:00,10h 00m,06:00,Tezpur
+38,PIHU TRANSPORT,INR 500,3.5,30 Seats available,Bharat Benz NON A/C Seater / Sleeper (2+1),19:40,09h 20m,05:00,Tezpur ASTC
+39,J.S. Travels,INR 550,2.0,29 Seats available,Non AC Seater (2+1),21:00,09h 30m,06:30,Tezpur
+40,Neha Travels,INR 700,1.4,35 Seats available,NON A/C Seater (2+2),22:40,09h 20m,08:00,Tezpur (Mission Chariali)
+41,Neha Travels,INR 650,1.1,17 Seats available,NON A/C Seater (2+2),22:40,06h 50m,05:30,Tezpur (Mission Chariali)
+42,Kalpana Travels,INR 385,3.1,26 Seats available,AC Seater (2+2),13:20,05h 40m,19:00,North Lakhimpur
+43,Debarath,INR 460,1.7,34 Seats available,A/C Seater Hi-Tech Push Back (2+2),10:00,05h 45m,15:45,ASTC Bus Stand
+44,B.M. Travels (Swastidut) - Under ASTC,INR 350,2.4,,Non AC Seater (2+2),10:30,05h 50m,16:20,
+45,KRISHNA CHARAN TRAVELS,INR 450,2.2,,A/C Seater Push Back (2+2),12:00,04h 30m,16:30,
+46,Mayur Travels (Under ASTC),INR 350,4.5,,Non AC Seater (2+2),12:15,05h 45m,18:00,
+47,Sparrow Travels (Under ASTC),INR 460,3.9,,A/C Seater Push Back (2+2),12:30,06h 15m,18:45,
+48,Chartered Bus - ASTC,INR 648.23,1.0,,Volvo AC Seater Pushback 2+2,07:45,03h 45m,11:30,
+49,Pranjit Travels (Under ASTC),463,,,Non AC Seater (2+1),20:45,05h 15m,02:00,
+50,Pankaj Travels(Under ASTC),INR 400,,,AC Seater (2+2),07:25,05h 45m,13:10,
+51,Ruma Travels (Under ASTC),INR 350,,,Non AC Seater (2+2),08:30,07h 00m,15:30,
+52,DESTINY TRAVELS,INR 430,,,NON A/C Seater (2+1),19:45,28h 00m,23:45,
+53,Assam State Transport Corporation (ASTC) - 139496,INR 273,3.8,46 Seats available,NON A/C Seater Push Back (2+1),09:30,07h 00m,16:30,University Bus Stop (Dibrugarh)
+54,SHIVAM TRAVELS,555,4.6,31 Seats available,Bharat Benz A/C Seater (2+1),07:30,05h 00m,12:30,Dibrugarh
+55,Aniruddha Travels,INR 550,3.7,19 Seats available,AC Seater (2+2),07:30,06h 30m,14:00,ASTC Chowkidingi Bus Stand
+56,Baikuntha Transport Service,500,3.9,,Bharat Benz A/C Sleeper (2+1),19:30,05h 30m,01:00,
+57,Shree Ram Travels (Under ASTC),555,4.8,,Bharat Benz A/C Seater (2+1),20:00,05h 00m,01:00,
+58,Shree Ram Travels,583,4.8,,Bharat Benz A/C Seater /Sleeper (2+1),20:45,04h 55m,01:40,
+59,Maa Laxmi,INR 500,2.7,,NON A/C Seater Push Back (2+1),18:00,05h 00m,23:00,
+60,Assam State Transport Corporation (ASTC) - 173420,INR 412,4.0,24 Seats available,Bharat Benz A/C Seater (2+2),09:45,05h 30m,15:15,Biswanath Chariali - Hotel Ro...
+61,BLUE HILL TRAVELS INDIA LIMITED,INR 450,2.3,25 Seats available,NON A/C Seater Semi Sleeper (2+1),20:00,07h 30m,03:30,Biswanath Chariali - Hotel Ro...
+62,Karisma (Aziba),INR 450,4.5,34 Seats available,NON A/C Seater (2+1),08:45,05h 25m,14:10,Biswanath Chariali
+63,Pranjit Travels (Under ASTC),463,3.8,31 Seats available,NON A/C Seater (2+1),09:00,06h 00m,15:00,Biswanath Chariali - Hotel Ro...
+64,Yatra Travels,450,4.9,,NON A/C Seater (2+1),10:45,06h 15m,17:00,
+65,Pranjit Travels (Under ASTC),463,3.3,,NON A/C Seater (2+1),10:45,06h 00m,16:45,
+66,Chartered Bus - ASTC,INR 648.23,4.3,,Volvo AC Seater Pushback 2+2,11:00,05h 15m,16:15,
+67,KIRAN TRAVELS,408,3.6,,A/C Seater (2+1),11:00,06h 30m,17:30,
+68,BLUE HILL TRAVELS INDIA LIMITED,450,3.9,,NON A/C Seater Semi Sleeper (2+1),21:30,06h 15m,03:45,
+69,Pankaj Travels(Under ASTC),INR 450,2.9,,AC Seater (2+2),11:30,06h 20m,17:50,
+70,DESTINY TRAVELS,INR 450,,,NON A/C Seater (2+1),18:00,09h 45m,03:45,
+71,BLUE HILL TRAVELS INDIA LIMITED,400,,,NON A/C Seater Semi Sleeper (2+1),21:45,06h 15m,04:00,
+72,Assam State Transport Corporation (ASTC) - 147556,INR 292.6,4.5,,Bharat Benz A/C Seater (2+2),12:30,04h 15m,16:45,
+73,Assam State Transport Corporation (ASTC) - 173044,INR 220,3.1,,Non AC Seater (2+2),13:00,03h 30m,16:30,
+74,Assam State Transport Corporation (ASTC) - 173043,INR 220,3.7,,Non AC Seater (2+2),07:30,04h 00m,11:30,
+75,Yatra,INR 350,2.6,39 Seats available,Non AC Seater (2+2),20:15,07h 15m,03:30,Dhubri
+76,Yatra,INR 300,1.5,,Non AC Seater (2+2),11:15,07h 30m,18:45,
+77,Yatra,INR 300,2.4,,Non AC Seater (2+2),13:15,07h 15m,20:30,
+78,Assam State Transport Corporation (ASTC) - 82639,INR 466,3.9,30 Seats available,A/C Seater (2+1),08:15,08h 15m,16:30,Dibrugarh
+79,Puja Transport,INR 550,3.7,32 Seats available,NON AC Seater / Sleeper 2+1,20:00,09h 00m,05:00,Dibrugarh
+80,Aniruddha Travels,INR 550,3.3,32 Seats available,NON A/C Seater/ Sleeper (2+1),20:00,08h 00m,04:00,Dibrugarh
+81,Aniruddha Travels,INR 600,4.1,35 Seats available,AC Seater (2+2),07:30,08h 05m,15:35,Dibrugarh
+82,J.S. Travels,INR 500,2.8,33 Seats available,Non AC Seater (2+1),19:00,09h 00m,04:00,Dibrugarh
+83,Puja Transport,INR 550,2.9,36 Seats available,Non AC Seater (2+2),19:15,08h 45m,04:00,Dibrugarh
+84,Neha Travels,INR 650,2.8,,NON A/C Seater (2+2),17:00,10h 15m,03:15,
+85,Maa Laxmi,INR 550,2.7,,NON A/C Seater Push Back (2+1),18:00,08h 00m,02:00,
+86,Assam State Transport Corporation (ASTC) - 166134,INR 207,3.8,31 Seats available,Bharat Benz A/C Seater (2+2),10:30,05h 00m,15:30,Dibrugarh
+87,SHIVAM TRAVELS,532,4.7,,Bharat Benz A/C Seater (2+1),07:30,03h 45m,11:15,
+88,RAYAN TRAVELS,INR 600,3.9,,Bharat Benz A/C Seater (2+1),07:30,03h 15m,10:45,
+89,Chartered Bus - ASTC,INR 541.16,4.4,,A/C Seater Push Back (2+2),08:00,03h 00m,11:00,
+90,Basudev Transline,284,3.1,,A/C Seater (2+2),15:15,04h 25m,19:40,
+91,Murugan RC Travels,349,3.0,,Non AC Seater (2+1),18:55,28h 05m,23:00,
+92,Trishul Transport Service,509,4.1,,A/C Seater / Sleeper (2+1),19:15,03h 40m,22:55,
+93,Shree Ram Travels,555,4.0,,A/C Seater (2+1),19:15,03h 45m,23:00,
+94,Baikuntha Transport Service,400,3.7,,Bharat Benz A/C Sleeper (2+1),19:30,03h 45m,23:15,
+95,Aniruddha Travels,INR 550,2.7,,AC Seater (2+2),07:30,03h 40m,11:10,
+96,NEELAKANTHA (RIYA),INR 250,2.7,,Tempo Traveler NON A/C,15:45,04h 15m,20:00,
+97,Maa Laxmi,INR 500,,,NON A/C Seater Push Back (2+1),18:00,03h 30m,21:30,
+98,Assam State Transport Corporation (ASTC) - 146078,INR 191,4.4,,Bharat Benz A/C Seater (2+2),08:15,02h 45m,11:00,
+99,Orient Transline,INR 333.33,3.6,,A/C Seater (2+1),07:55,02h 25m,10:20,
+100,Orient Transline,INR 333.33,4.3,,A/C Seater (2+1),08:50,02h 05m,10:55,
+101,Anindita Travels,INR 450,4.7,,NON A/C Seater (2+1),09:15,02h 15m,11:30,
+102,Pranjit Travels (Under ASTC),INR 400,3.4,,NON A/C Seater (2+1),11:55,03h 05m,15:00,
+103,Baikuntha Transport Service,400,3.1,,Bharat Benz A/C Seater (2+1),14:00,03h 00m,17:00,
+104,Chartered Bus - ASTC,INR 324.04,4.4,,Volvo AC Seater Pushback 2+2,14:30,02h 30m,17:00,
+105,CHARTERED BUS - ASTC,INR 324.04,5.0,,Volvo AC Seater Pushback 2+2,16:00,02h 30m,18:30,
+106,SHIVAM TRAVELS,278,4.2,,Bharat Benz A/C Seater (2+1),16:45,02h 30m,19:15,
+107,Chartered Bus - ASTC,INR 324.04,4.9,,Volvo AC Seater Pushback 2+2,17:00,02h 15m,19:15,
+108,TRINAYAN TRANSPORT (Under ASTC),398,2.6,,A/C Seater (2+1),11:45,02h 45m,14:30,
+109,Baikuntha Transport Service,284,2.9,,A/C Seater (2+1),13:30,03h 00m,16:30,
+110,Karisma (Aziba),INR 200,,,NON A/C Sleeper (2+1),15:15,02h 30m,17:45,
+111,Assam State Transport Corporation (ASTC) - 174344,INR 650,2.3,28 Seats available,NON A/C Seater Push Back (2+1),17:00,13h 00m,06:00,Silchar-ISBT
+112,Deep Travels,601,3.1,43 Seats available,NON AC Seater / Sleeper 2+1,17:00,13h 30m,06:30,Silchar
+113,JAYSIKA,INR 650,2.1,35 Seats available,NON A/C Seater (2+1),16:30,12h 00m,04:30,Silchar
+114,Bholanath Travels,INR 700,3.0,49 Seats available,NON AC Seater / Sleeper 2+1,19:00,11h 00m,06:00,Silchar-ISBT
+115,Deep Travels,618,3.2,31 Seats available,Non AC Seater (2+1),19:00,11h 30m,06:30,Silchar
+116,NETWORK TRAVELS,INR 650,2.5,32 Seats available,NON A/C Seater Push Back (2+1),17:30,12h 00m,05:30,Silchar ISBT
+117,Jagannath Travels and Tours Pvt. Ltd.,INR 650,2.0,35 Seats available,NON A/C Seater Push Back (2+1),18:00,11h 05m,05:05,Silchar ISBT Ramnagar
+118,Jagannath Travels and Tours Pvt. Ltd.,INR 650,3.4,32 Seats available,NON A/C Seater Push Back (2+1),17:30,11h 30m,05:00,Silchar ISBT Ramnagar
+119,NETWORK TRAVELS,INR 650,3.4,32 Seats available,NON A/C Seater Push Back (2+1),18:00,11h 30m,05:30,Silchar
+120,NETWORK TRAVELS,INR 650,2.0,50 Seats available,NON A/C Seater/ Sleeper (2+1),18:00,11h 30m,05:30,Silchar
+121,AR Travels,INR 700,,38 Seats available,Non AC Seater (2+2),20:00,09h 30m,05:30,Silchar-ISBT
+122,Assam State Transport Corporation (ASTC) - 142181,INR 302,4.2,,Bharat Benz A/C Seater (2+2),08:00,04h 30m,12:30,
+123,Assam State Transport Corporation (ASTC) - 147556,INR 235.62,4.3,41 Seats available,Bharat Benz A/C Seater (2+2),12:30,03h 15m,15:45,Dibrugarh Amolapatty
+124,Maa Jagadamba,INR 250,4.7,44 Seats available,NON A/C Seater (2+3),15:40,03h 50m,19:30,Dibrugarh Amolapatty
+125,Maa Jagadamba,INR 260,4.7,,A/C Seater Push Back (2+2),16:15,03h 15m,19:30,
+126,Air Bus Travels,INR 400,3.1,,NON AC Seater / Sleeper 2+1,21:15,04h 45m,02:00,
+127,Pankaj Travels(Under ASTC),INR 240,2.4,,NON A/C Hi-Tech Push Back (2+2),12:30,04h 40m,17:10,
+128,Air Bus Travels,INR 400,,,NON AC Seater / Sleeper 2+1,19:40,05h 20m,01:00,
+129,Assam State Transport Corporation (ASTC) - 154173,INR 523,3.5,15 Seats available,NON A/C Seater Push Back (2+1),07:30,09h 00m,16:30,Paltan Bazar
+130,NETWORK TRAVELS,INR 700,4.5,29 Seats available,NON A/C Seater (2+1),18:30,12h 30m,07:00,ISBT Guwahati
+131,Deep Travels,INR 650,3.6,,Non AC Seater (2+1),19:30,12h 30m,08:00,
+132,Assam State Transport Corporation (ASTC) - 154173,INR 358,4.1,,NON A/C Seater Push Back (2+1),10:25,06h 05m,16:30,
+133,Air Bus Travels,INR 500,3.9,44 Seats available,NON AC Seater / Sleeper 2+1,19:40,09h 20m,05:00,Dibrugarh Amolapatty
+134,Assam State Transport Corporation (ASTC) - 173044,INR 170,3.7,,Non AC Seater (2+2),13:00,02h 30m,15:30,
+135,Assam State Transport Corporation (ASTC) - 173420,INR 503,3.9,34 Seats available,Bharat Benz A/C Seater (2+2),08:30,06h 45m,15:15,Gohpur Bus Stand
+136,Yatra Travels,450,4.5,19 Seats available,NON A/C Seater (2+1),09:00,08h 00m,17:00,GOHPUR BUS STAND
+137,Pranjit Travels (Under ASTC),527,4.5,29 Seats available,NON A/C Seater (2+1),07:45,07h 15m,15:00,GOHPUR BUS STAND
+138,Maharathi Travels(UNDER ASTC),400,4.1,34 Seats available,NON A/C Seater (2+1),22:10,07h 20m,05:30,Gohpur
+139,KIRAN TRAVELS,510,4.2,37 Seats available,A/C Seater (2+1),22:50,08h 40m,07:30,GOHPUR BUS STAND
+140,Chartered Bus - ASTC,INR 713.04,4.4,20 Seats available,Volvo AC Seater Pushback 2+2,09:30,06h 45m,16:15,Gohpur
+141,KIRAN TRAVELS,468,4.2,37 Seats available,A/C Seater (2+1),09:30,08h 00m,17:30,Gohpur
+142,Deep Travels,INR 499,4.1,41 Seats available,NON AC Seater / Sleeper 2+1,22:20,06h 40m,05:00,GOHPUR BUS STAND
+143,DESTINY TRAVELS,INR 500,4.7,25 Seats available,NON A/C Seater (2+1),21:30,06h 15m,03:45,Gohpur Public Bus Stand
+144,Pankaj Travels(Under ASTC),INR 500,3.7,24 Seats available,AC Seater (2+2),10:20,07h 30m,17:50,GOHPUR BUS STAND
+145,Yatra Travels,400,4.4,28 Seats available,NON AC Seater/ Sleeper (2+1),22:20,07h 40m,06:00,Gohpur Bus Stand
+146,Pranjit Travels (Under ASTC),INR 570,4.3,26 Seats available,NON A/C Seater (2+1),22:45,07h 30m,06:15,GOHPUR BUS STAND
+147,Pranjit Travels (Under ASTC),558,4.5,26 Seats available,A/C Seater / Sleeper (2+1),23:00,07h 00m,06:00,Gohpur Bus Stand
+148,Yatra Travels,400,3.8,32 Seats available,NON AC Seater/ Sleeper (2+1),22:50,07h 10m,06:00,GOHPUR BUS STAND
+149,BLUE HILL TRAVELS INDIA LIMITED,400,3.2,32 Seats available,NON A/C Seater Semi Sleeper (2+1),20:15,07h 30m,03:45,Gohpur Bus Stand
+150,Yatra Travels,400,3.2,31 Seats available,NON A/C Seater (2+1),22:35,07h 40m,06:15,Gohpur Bus Stand
+151,PARIJAT TRAVELS(UNDER ASTC),INR 550,3.8,24 Seats available,NON A/C Seater (2+1),23:11,07h 19m,06:30,Gohpur
+152,Drishti Travels,432,2.8,32 Seats available,NON A/C Seater (2+1),21:00,08h 30m,05:30,Gohpur
+153,Pranjit Travels (Under ASTC),527,2.9,31 Seats available,NON A/C Seater (2+1),09:15,07h 30m,16:45,Gohpur Public Bus Stand
+154,NORTH EAST TRAVELS(UNDER ASTC),INR 500,2.7,31 Seats available,NON A/C Seater (2+1),20:00,10h 00m,06:00,Gohpur Public Bus Stand
+155,Drishti Travels,432,4.5,2 Seats available,NON A/C Seater (2+1),21:00,08h 30m,05:30,GOHPUR BUS STAND
+156,Island Travels (Under ASTC),INR 550,4.3,,Non AC Seater (2+1),22:45,07h 00m,05:45,
+157,BLUE HILL TRAVELS INDIA LIMITED,400,3.1,,NON A/C Seater Semi Sleeper (2+1),20:30,07h 30m,04:00,
+158,Pranjit Travels (Under ASTC),527,4.5,,NON A/C Seater (2+1),22:45,06h 45m,05:30,
+159,GURUNANAK TRAVELS,INR 500,4.5,,NON A/C Seater (2+1),21:00,08h 00m,05:00,
+160,Karisma (Aziba),INR 500,4.5,,NON A/C Seater (2+1),07:40,06h 30m,14:10,
+161,BLUE HILL TRAVELS INDIA LIMITED,430,3.5,,NON A/C Seater Semi Sleeper (2+1),22:00,06h 30m,04:30,
+162,BLUE HILL TRAVELS INDIA LIMITED,504,,,NON A/C Seater Semi Sleeper (2+1),19:30,08h 00m,03:30,
+163,Sylvan DEE Transport,INR 470,,,Non AC Seater (2+1),20:45,08h 15m,05:00,
+164,Deep Travels,618,3.3,26 Seats available,Non AC Seater (2+1),19:00,10h 30m,05:30,ISBT Guwahati
+165,NETWORK TRAVELS,INR 800,2.7,30 Seats available,NON A/C Seater Push Back (2+1),17:30,11h 30m,05:00,Paltan Bazar
+166,SEEMA TRAVELS,INR 650,2.5,40 Seats available,Non AC Seater (2+2),19:00,10h 00m,05:00,Khanapara
+167,Bholanath Travels (Under ASTC),INR 700,3.3,31 Seats available,Non AC Seater (2+1),19:00,10h 00m,05:00,ISBT Guwahati
+168,NETWORK TRAVELS,INR 800,2.5,31 Seats available,NON A/C Seater Push Back (2+1),18:00,12h 00m,06:00,Paltan Bazar
+169,Assam State Transport Corporation (ASTC) - 166134,INR 281,3.4,35 Seats available,Bharat Benz A/C Seater (2+2),09:00,06h 30m,15:30,Tinsukia
+170,NETWORK TRAVELS,INR 450,4.2,35 Seats available,Bharat Benz A/C Seater / Sleeper (2+2),17:00,06h 00m,23:00,Tinsukia
+171,NETWORK TRAVELS,300,4.6,,A/C Seater Push Back (2+1),19:00,05h 30m,00:30,
+172,Maa Laxmi,INR 400,2.7,,NON A/C Seater Push Back (2+1),16:00,05h 30m,21:30,
+173,Purple Wings Coaches,INR 600,1.6,,A/C Seater / Sleeper (2+1),18:30,05h 20m,23:50,
+174,NIGHTINGALE TRANSPORT,INR 500,,,NON A/C Seater (2+1),18:45,16h 45m,11:30,
+175,Deep Travels,INR 650,3.7,30 Seats available,Non AC Seater (2+1),17:45,10h 45m,04:30,Haflong Bus Stand
+176,NETWORK TRAVELS,INR 700,4.1,19 Seats available,NON A/C Seater (2+1),18:00,10h 00m,04:00,Haflong
+177,Chartered Bus - ASTC,INR 432.06,4.7,37 Seats available,Volvo AC Seater Pushback 2+2,07:45,03h 45m,11:30,ISBT Guwahati
+178,Chartered Bus - ASTC,INR 432.06,4.7,42 Seats available,Volvo AC Seater Pushback 2+2,09:00,04h 00m,13:00,ISBT Guwahati
+179,WARISPIYA TRAVELS,INR 360,4.6,31 Seats available,AC Seater (2+2),15:00,03h 40m,18:40,ISBT Guwahati
+180,WARISPIYA TRAVELS,INR 360,4.2,28 Seats available,AC Seater (2+2),15:35,03h 40m,19:15,ISBT Guwahati
+181,WARISPIYA TRAVELS,INR 360,4.3,31 Seats available,Bharat Benz A/C Seater (2+2),16:15,03h 25m,19:40,ISBT Guwahati
+182,Upasana Travels (Under ASTC),INR 330,1.6,24 Seats available,AC Seater (2+2),13:45,04h 15m,18:00,ISBT Guwahati
+183,Kalpana Travels,INR 335,2.8,32 Seats available,Non AC Seater (2+2),16:45,03h 45m,20:30,ISBT
+184,Yatra Travels,450,3.5,30 Seats available,NON A/C Seater (2+1),07:45,04h 15m,12:00,ISBT Guwahati
+185,Mahi Travels(Under ASTC),341,4.1,18 Seats available,A/C Seater (2+2),10:00,05h 30m,15:30,ISBT Guwahati
+186,Mahi Travels(Under ASTC),332,3.4,,Bharat Benz A/C Seater (2+2),10:30,04h 55m,15:25,
+187,Orient Transline,INR 380.95,4.2,,A/C Seater (2+1),11:30,04h 45m,16:15,
+188,Orient Transline,INR 380.95,4.4,,A/C Seater (2+1),13:00,05h 20m,18:20,
+189,Yatra Travels,400,3.8,,NON A/C Seater (2+1),18:00,05h 30m,23:30,
+190,Yatra Travels,400,3.9,,NON AC Seater/ Sleeper (2+1),20:00,04h 00m,00:00,
+191,Pranjit Travels (Under ASTC),463,3.5,,A/C Seater / Sleeper (2+1),20:45,05h 45m,02:30,
+192,Pranjit Travels (Under ASTC),INR 450,3.5,,NON A/C Seater (2+1),21:15,04h 15m,01:30,
+193,Pranjit Travels (Under ASTC),INR 550,3.9,,A/C Seater (2+1),21:30,05h 00m,02:30,
+194,Pranjit Travels (Under ASTC),INR 450,3.9,,NON A/C Seater (2+1),21:45,04h 15m,02:00,
+195,Pranjit Travels (Under ASTC),INR 450,4.1,,NON A/C Seater (2+1),21:45,04h 15m,02:00,
+196,Pranjit Travels (Under ASTC),INR 450,2.9,,NON A/C Seater (2+1),07:45,05h 25m,13:10,
+197,NEELKANTH TRAVELS,INR 300,2.3,,A/C Seater Push Back (2+2),09:05,05h 25m,14:30,
+198,BLUE HILL TRAVELS INDIA LIMITED,INR 360,2.1,,NON A/C Seater Semi Sleeper (2+1),09:30,03h 30m,13:00,
+199,NETWORK TRAVELS,INR 250,2.6,,NON A/C Seater Push Back (2+2),09:30,06h 45m,16:15,
+200,DESTINY TRAVELS,INR 399,1.7,,NON A/C Seater (2+1),18:45,28h 45m,23:30,
+201,BLUE HILL TRAVELS INDIA LIMITED,INR 500,,,NON A/C Seater Semi Sleeper (2+1),20:00,05h 15m,01:15,
+202,KIRAN TRAVELS,510,,,A/C Seater (2+1),20:40,03h 50m,00:30,
+203,Chartered Bus - ASTC,INR 324.04,4.5,32 Seats available,Volvo AC Seater Pushback 2+2,07:45,01h 45m,09:30,ISBT
+204,TRINAYAN TRANSPORT (Under ASTC),444,4.1,,A/C Seater (2+1),08:00,03h 30m,11:30,
+205,Chartered Bus - ASTC,INR 324.04,4.6,,Volvo AC Seater Pushback 2+2,09:00,02h 15m,11:15,
+206,Kareng Travels,278,4.3,,Bharat Benz A/C Seater (2+1),09:30,03h 30m,13:00,
+207,Mahi Travels(Under ASTC),284,3.1,,Bharat Benz A/C Seater (2+2),10:30,03h 20m,13:50,
+208,Orient Transline,INR 285.71,3.7,,A/C Seater (2+1),11:30,02h 45m,14:15,
+209,Kareng Travels,259,4.2,,NON A/C Seater Push Back (2+2),11:45,03h 00m,14:45,
+210,Orient Transline,INR 285.71,4.2,,A/C Seater (2+1),13:00,03h 15m,16:15,
+211,Baikuntha Transport Service,395,2.9,,Bharat Benz A/C Seater (2+1),08:00,03h 30m,11:30,
+212,NEELKANTH TRAVELS,INR 250,2.9,,A/C Seater Push Back (2+2),09:05,02h 55m,12:00,
+213,Mahi Travels(Under ASTC),332,2.9,,A/C Seater (2+2),10:00,03h 30m,13:30,
+214,Anindita Travels,INR 400,,,NON A/C Seater (2+1),12:30,03h 15m,15:45,
+215,DESTINY TRAVELS,INR 299,,,NON A/C Seater (2+1),18:45,27h 05m,21:50,
+216,Chartered Bus - ASTC,INR 432.06,4.6,34 Seats available,Volvo AC Seater Pushback 2+2,13:00,04h 00m,17:00,Dulabari centre
+217,Chartered Bus - ASTC,INR 432.06,4.6,24 Seats available,Volvo AC Seater Pushback 2+2,15:30,03h 45m,19:15,Mission Chariali
+218,SHIVAM TRAVELS,352,4.7,26 Seats available,Bharat Benz A/C Seater (2+1),15:00,04h 15m,19:15,Dolabari Centre
+219,Chartered Bus - ASTC,INR 432.06,4.4,,Volvo AC Seater Pushback 2+2,11:30,04h 45m,16:15,
+220,DESTINY TRAVELS,INR 400,4.0,,NON A/C Seater (2+1),18:30,09h 15m,03:45,
+221,Pankaj Travels(Under ASTC),INR 350,3.3,,AC Seater (2+2),13:10,04h 40m,17:50,
+222,KIRAN TRAVELS,306,4.8,,A/C Seater (2+1),12:00,05h 30m,17:30,
+223,BLUE HILL TRAVELS INDIA LIMITED,INR 400,3.6,,NON A/C Seater Semi Sleeper (2+1),21:30,06h 00m,03:30,
+224,CHARTERED BUS - ASTC,INR 432.06,4.2,,Volvo AC Seater Pushback 2+2,14:30,04h 00m,18:30,
+225,BLUE HILL TRAVELS INDIA LIMITED,450,3.5,,NON A/C Seater Semi Sleeper (2+1),22:15,05h 30m,03:45,
+226,Pranjit Travels (Under ASTC),INR 450,3.4,,NON A/C Seater (2+1),11:30,05h 15m,16:45,
+227,Pranjit Travels (Under ASTC),INR 450,1.5,,NON A/C Seater (2+1),10:10,04h 50m,15:00,
+228,Orient Transline,INR 342.86,1.9,,A/C Seater (2+1),07:40,03h 15m,10:55,
+229,Maya Travels,INR 300,,,Tata A/C Seater (2+2),13:00,04h 30m,17:30,
+230,Kalpana Travels,INR 335,,,Non AC Seater (2+2),08:15,04h 15m,12:30,
+231,Karisma (Aziba),INR 280,,,NON A/C Sleeper (2+1),13:30,04h 15m,17:45,
+232,Maa Jagadamba,INR 250,1.0,40 Seats available,NON A/C Seater (2+3),09:20,04h 10m,13:30,Bus stand
+233,Maa Jagadamba,INR 260,1.0,,A/C Seater Push Back (2+2),09:40,03h 20m,13:00,
+234,Air Bus Travels,INR 400,3.1,,NON AC Seater / Sleeper 2+1,21:00,06h 00m,03:00,
+235,Assam State Transport Corporation (ASTC) - 155999,INR 334,4.4,31 Seats available,Bharat Benz A/C Seater (2+2),10:50,04h 10m,15:00,Dolabari Centre
+236,Mahadev K.P.,INR 460,2.0,32 Seats available,Tata A/C Seater (2+2),11:00,07h 15m,18:15,Dulabari centre
+237,Mahadev K.P.,INR 460,2.0,,Tata A/C Seater (2+2),11:30,07h 00m,18:30,
+238,Chartered Bus - ASTC,INR 648.23,4.7,,A/C Seater Push Back (2+2),11:00,04h 00m,15:00,
+239,KIRAN TRAVELS,425,3.6,,Non AC Seater (2+1),11:30,05h 35m,17:05,
+240,Pranjit Travels (Under ASTC),463,3.6,,NON A/C Seater (2+1),13:10,05h 20m,18:30,
+241,BLUE HILL TRAVELS INDIA LIMITED,350,3.3,,NON A/C Seater Semi Sleeper (2+1),23:30,05h 00m,04:30,
+242,Ruma Travels (Under ASTC),INR 350,1.0,,Non AC Seater (2+2),09:00,05h 40m,14:40,
+243,Karisma Travels,INR 400,2.4,,NON A/C Seater Push Back (2+2),10:40,04h 20m,15:00,
+244,DESTINY TRAVELS,INR 429,,,NON A/C Seater (2+1),23:30,04h 15m,03:45,
+245,Air Bus Travels,INR 500,2.9,44 Seats available,NON AC Seater / Sleeper 2+1,18:30,07h 30m,02:00,Biswanath bCharali Bus Stop
+246,Assam State Transport Corporation (ASTC) - 146614,INR 412,3.1,32 Seats available,Bharat Benz A/C Seater (2+2),08:00,05h 30m,13:30,ISBT Guwahati
+247,BLUE HILL TRAVELS INDIA LIMITED,INR 410,3.6,25 Seats available,NON A/C Seater Semi Sleeper (2+1),09:30,05h 30m,15:00,ISBT Guwahati
+248,Mahi Travels(Under ASTC),433,3.9,44 Seats available,A/C Seater (2+2),10:00,06h 30m,16:30,ISBT Guwahati
+249,Orient Transline,INR 476.19,4.3,41 Seats available,A/C Seater (2+1),11:30,06h 30m,18:00,ISBT Guwahati
+250,Orient Transline,INR 476.19,4.0,34 Seats available,A/C Seater (2+1),13:00,07h 15m,20:15,ISBT Guwahati
+251,Mahi Travels(Under ASTC),414,2.9,31 Seats available,Bharat Benz A/C Seater (2+2),10:30,06h 30m,17:00,ISBT Guwahati
+252,Yatra Travels,450,4.5,37 Seats available,NON A/C Seater (2+1),07:45,04h 55m,12:40,ISBT Guwahati
+253,Pranjit Travels (Under ASTC),463,3.8,26 Seats available,NON A/C Seater (2+1),07:45,07h 15m,15:00,ISBT Guwahati
+254,MAHARATHI TRANSPORT,400,3.9,36 Seats available,NON A/C Semi Sleeper (2+1),09:00,05h 45m,14:45,ISBT Guwahati
+255,Yatra Travels,450,3.9,24 Seats available,NON A/C Seater (2+1),18:00,07h 30m,01:30,ISBT Guwahati
+256,PARIJAT TRAVELS(UNDER ASTC),INR 500,3.0,32 Seats available,NON A/C Seater (2+1),19:35,06h 25m,02:00,ISBT
+257,Yatra Travels,450,3.4,30 Seats available,NON AC Seater/ Sleeper (2+1),20:00,05h 00m,01:00,ISBT Guwahati
+258,Pranjit Travels (Under ASTC),509,4.0,25 Seats available,A/C Seater / Sleeper (2+1),20:45,06h 45m,03:30,ISBT Guwahati
+259,MAHARATHI TRANSPORT,400,4.6,,NON A/C Seater (2+1),20:55,05h 50m,02:45,
+260,Pranjit Travels (Under ASTC),463,3.8,,NON A/C Seater (2+1),21:15,06h 15m,03:30,
+261,Pranjit Travels (Under ASTC),INR 550,3.7,,A/C Seater (2+1),21:30,06h 15m,03:45,
+262,Pranjit Travels (Under ASTC),463,4.1,,NON A/C Seater (2+1),21:30,06h 30m,04:00,
+263,Pranjit Travels (Under ASTC),463,1.9,,Non AC Seater (2+1),21:45,05h 15m,03:00,
+264,Pranjit Travels (Under ASTC),463,2.2,,NON A/C Seater (2+1),21:45,05h 45m,03:30,
+265,DESTINY TRAVELS,INR 449,,,NON A/C Seater (2+1),18:45,29h 39m,00:24,
+266,BLUE HILL TRAVELS INDIA LIMITED,INR 550,,,NON A/C Seater Semi Sleeper (2+1),20:00,06h 00m,02:00,
+267,NORTH EAST TRAVELS(UNDER ASTC),INR 500,,,NON A/C Seater (2+1),20:15,06h 15m,02:30,
+268,Aroti Travels (Under ASTC),INR 350,4.7,,Non AC Seater (2+2),12:30,05h 20m,17:50,
+269,Chartered Bus - ASTC,INR 756.25,4.3,,Volvo AC Seater Pushback 2+2,13:30,05h 00m,18:30,
+270,Christina Travels,650,2.0,,NON A/C Seater (2+2),12:00,04h 15m,16:15,
+271,MADHURIKA TRAVELS,555,2.4,,A/C Seater (2+1),12:45,05h 15m,18:00,
+272,Basudev Transline,284,4.2,,A/C Seater (2+2),10:00,03h 00m,13:00,
+273,Aroti Travels (Under ASTC),INR 250,4.2,,Non AC Seater (2+2),12:30,03h 50m,16:20,
+274,NEELAKANTHA (RIYA),INR 250,3.8,,Tempo Traveler NON A/C,10:00,--,10:00,
+275,RAYAN TRAVELS,INR 600,3.9,,Bharat Benz A/C Seater (2+1),12:30,03h 45m,16:15,
+276,MADHURIKA TRAVELS,509,4.2,,A/C Seater (2+1),12:45,04h 15m,17:00,
+277,SHIVAM TRAVELS,509,4.1,,Bharat Benz A/C Seater (2+1),13:30,03h 30m,17:00,
+278,Chartered Bus - ASTC,INR 647.8,4.8,,Volvo AC Seater Pushback 2+2,13:30,03h 45m,17:15,
+279,Bashudev Transline (Under ASTC),INR 550,2.8,,A/C Seater (2+1),14:10,03h 50m,18:00,
+280,Christina Travels,650,,,NON A/C Seater (2+2),12:00,03h 15m,15:15,
+281,Assam State Transport Corporation (ASTC) - 158350,INR 410,4.3,,Bharat Benz A/C Seater (2+2),12:00,07h 00m,19:00,
+282,Yatra,INR 350,2.7,,Non AC Seater (2+2),08:15,07h 15m,15:30,

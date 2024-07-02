@@ -1,0 +1,1192 @@
+,Names,Bus_fare,Ratings,Seats,Bus_types,Starting_time,Duration,Ending_time,Starting_point
+0,Vijay Tour and Travels,INR 799,3.9,6 Seats available,A/C Seater / Sleeper (2+1),19:00,06h 10m,01:10,Vijay travels near satellite ...
+1,New Khaira TPT,INR 900,3.7,15 Seats available,AC Sleeper (2+1),23:15,05h 45m,05:00,Outside Satellite Bus Stand
+2,New Khaira Transport,INR 500,2.7,7 Seats available,A/C Seater / Sleeper (2+2),23:30,06h 30m,06:00,Near Satelite Bus Stund
+3,Vijay Tour and Travels,INR 649,2.9,9 Seats available,A/C Seater / Sleeper (2+1),17:00,06h 20m,23:20,Bareily
+4,Rahul Travels,INR 1062,3.6,20 Seats available,AshokLeyland Stile A/C,22:30,06h 30m,05:00,Near Satelite Bus Stund
+5,New Khaira Transport,INR 700,2.6,10 Seats available,A/C Seater / Sleeper (2+2),23:50,07h 00m,06:50,Bareily
+6,Rahul Travels,INR 1062,3.0,4 Seats available,AshokLeyland Stile A/C,23:10,06h 00m,05:10,Near Satelite Bus Stund
+7,New Khaira Transport,INR 700,2.7,7 Seats available,A/C Seater / Sleeper (2+1),23:45,05h 15m,05:00,JHUMKA CHAURAHA
+8,SHRI RAM TRAVELS,INR 740,4.6,6 Seats available,A/C Seater (2+2),16:15,05h 00m,21:15,JHUMKA CHAURAHA
+9,SHRI RAM TRAVELS,INR 740,1.7,43 Seats available,A/C Seater (2+2),11:35,05h 25m,17:00,Bareilly
+10,SHRI RAM TRAVELS,INR 740,2.7,30 Seats available,A/C Seater (2+2),10:00,05h 30m,15:30,Bareilly
+11,SHRI RAM TRAVELS,INR 705,2.0,,A/C Seater (2+2),15:30,05h 30m,21:00,
+12,Jaiswal Holidays,INR 1000,2.8,,A/C Sleeper (2+1),22:40,05h 50m,04:30,
+13,Jaiswal Holidays,INR 1000,2.8,,A/C Seater/Sleeper (2+1),21:40,06h 20m,04:00,
+14,Jaiswal Tour and Travels,INR 700,2.7,,A/C Seater/Sleeper (2+1),22:15,05h 45m,04:00,
+15,Jaiswal Tour and Travels,INR 800,2.7,,A/C Sleeper (2+1),22:50,05h 45m,04:35,
+16,KVS Holidays,INR 799,1.5,30 Seats available,Non A/C Seater / Sleeper (2+1),20:30,09h 00m,05:30,Farrukhabad
+17,Chaturvedi Bus Service,INR 350,2.0,51 Seats available,NON A/C Seater/ Sleeper (2+1),20:00,09h 15m,05:15,Opp.ITI office_chaturvedi bus...
+18,Chaturvedi Bus Service,INR 570,1.1,48 Seats available,A/C Seater / Sleeper (2+1),19:30,09h 30m,05:00,Opp.ITI office_chaturvedi bus...
+19,Yuvraj Travels,450,1.6,40 Seats available,NON AC Seater / Sleeper 2+1,18:45,10h 15m,05:00,Lal Gate Near Fountain
+20,Yuvraj Travels,450,1.6,40 Seats available,NON AC Seater / Sleeper 2+1,19:00,10h 00m,05:00,Lal Gate Near Fountain
+21,Yuvraj Travels,450,1.4,40 Seats available,NON AC Seater / Sleeper 2+1,18:30,11h 30m,06:00,Lal Gate Near Fountain
+22,Chaturvedi Bus Service,INR 570,1.4,51 Seats available,NON A/C Seater/ Sleeper (2+1),16:30,11h 00m,03:30,qadri get_chaturvedi bus service
+23,Chaturvedi Bus Service,INR 620,,45 Seats available,NON AC Seater / Sleeper 2+1,16:00,10h 30m,02:30,qadri get_chaturvedi bus service
+24,Shree Krishna Shtabadi Travels,INR 1200,,32 Seats available,NON A/C Sleeper (2+1),19:00,11h 30m,06:30,Maseni Chauraha
+25,Shree Krishna Shtabadi Travels,INR 600,,44 Seats available,NON AC Seater / Sleeper 2+1,18:30,10h 50m,05:20,Maseni Chauraha
+26,Shivendra Travels,INR 3500,,1 Seat available,A/C Sleeper (2+1),20:00,09h 30m,05:30,Farrukhabad
+27,RSRTC - 160168,INR 468,1.0,16 Seats available,Express Non AC Seater 2+3,11:00,06h 15m,17:15,Aligarh By pass
+28,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),INR 899,3.8,,Bharat Benz A/C Seater /Sleeper (2+1),23:59,04h 31m,04:30,
+29,KVS Holidays,INR 699,1.3,31 Seats available,Non A/C Seater / Sleeper (2+1),21:30,09h 00m,06:30,ISBT Kashmiri Gate
+30,Chaturvedi Bus Service,INR 520,2.0,51 Seats available,NON A/C Seater/ Sleeper (2+1),19:30,11h 00m,06:30,Moti Nagar
+31,Shree Krishna Shtabadi Travels,INR 600,1.4,44 Seats available,NON AC Seater / Sleeper 2+1,21:00,09h 00m,06:00,Morigate
+32,Yuvraj Travels,450,1.2,40 Seats available,NON AC Seater / Sleeper 2+1,22:00,08h 00m,06:00,Kapashera
+33,Yuvraj Travels,450,1.7,40 Seats available,NON AC Seater / Sleeper 2+1,21:30,08h 30m,06:00,Kapashera
+34,Chaturvedi Bus Service,INR 570,1.7,48 Seats available,A/C Seater / Sleeper (2+1),20:40,10h 50m,07:30,Loni Kacha Balram Nagar
+35,Chaturvedi Bus Service,INR 670,1.4,51 Seats available,NON A/C Seater/ Sleeper (2+1),22:00,09h 10m,07:10,India Gate
+36,Chaturvedi Bus Service,INR 670,,45 Seats available,NON AC Seater / Sleeper 2+1,21:00,09h 10m,06:10,India Gate
+37,Shree Krishna Shtabadi Travels,INR 1200,,32 Seats available,NON A/C Sleeper (2+1),21:00,09h 30m,06:30,Morigate
+38,Abhay Travels (I.R.T.C),450,,55 Seats available,NON A/C Seater / Sleeper (2+2),20:30,09h 30m,06:00,Delhi
+39,Yuvraj Travels,450,,40 Seats available,NON AC Seater / Sleeper 2+1,20:00,10h 00m,06:00,Rohini
+40,Shivendra Travels,INR 3500,,1 Seat available,A/C Sleeper (2+1),21:00,09h 00m,06:00,Noida Khoda
+41,UPSRTC - AWD0199,INR 948,4.3,39 Seats available,Pink Express AC Seater 2+2,20:02,07h 58m,04:00,MASOODABAD ALIGARH
+42,UPSRTC - BDV0065,INR 948,3.6,35 Seats available,Janrath AC Seater 2+2,21:15,07h 45m,05:00,MASOODABAD ALIGARH
+43,UPSRTC - BDV0067,INR 948,3.3,35 Seats available,Janrath AC Seater 2+2,17:01,09h 29m,02:30,MASOODABAD ALIGARH
+44,UPSRTC - CBG0159,INR 895,3.3,36 Seats available,Janrath AC Seater 2+2,20:30,08h 30m,05:00,Alambagh
+45,UPSRTC - CBG0158,INR 895,3.3,34 Seats available,Janrath AC Seater 2+2,19:30,09h 00m,04:30,Alambagh
+46,UPSRTC - AWD0228,INR 842,3.3,36 Seats available,Janrath AC Seater 2+2,22:00,09h 00m,07:00,AWADH BUS STATION
+47,UPSRTC - BUI0026,INR 895,3.3,36 Seats available,Janrath AC Seater 2+2,18:30,09h 10m,03:40,Alambagh
+48,UPSRTC - AKP0214,INR 579,,36 Seats available,Ordinary Non AC Seater 2+3,10:30,11h 16m,21:46,Alambagh
+49,UPSRTC - GLA0139,INR 895,,,Janrath AC Seater 2+2,22:50,07h 25m,06:15,
+50,The Himalayan Spirits,INR 999,3.0,13 Seats available,A/C Seater Tempo Traveller (2+1),21:30,06h 39m,04:09,Akshardham Metro Station
+51,KANAHAIYA TOUR & TRAVELS,INR 299,,,A/C Seater (2+3),14:30,04h 30m,19:00,
+52,Rai Tour and Travels,INR 299,,,AC Seater (2+2),14:20,05h 10m,19:30,
+53,UPSRTC - HDD0005,INR 789,4.4,34 Seats available,Janrath AC Seater 2+2,20:45,08h 45m,05:30,SHAHJAHANPUR
+54,UPSRTC - STD0072,INR 768,2.7,33 Seats available,Janrath AC Seater 2+2,22:40,07h 05m,05:45,SHAHJAHANPUR
+55,UPSRTC - GLA0023,INR 791,2.5,32 Seats available,Janrath AC Seater 2+2,21:30,07h 00m,04:30,SHAHJAHANPUR
+56,UPSRTC - SJP0039,INR 584,3.3,52 Seats available,Rajdhani Non AC Seater 2+3,10:15,08h 00m,18:15,SHAHJAHANPUR
+57,UPSRTC - HDD0063,INR 550,3.3,40 Seats available,Ordinary Non AC Seater 2+3,18:00,07h 03m,01:03,SHAHJAHANPUR
+58,UPSRTC - SJP0005,INR 584,3.3,40 Seats available,Ordinary Non AC Seater 2+3,10:00,08h 00m,18:00,SHAHJAHANPUR
+59,UPSRTC - LKM0022,INR 791,3.3,52 Seats available,Shatabdi AC Seater 2+2,21:40,07h 07m,04:47,SHAHJAHANPUR
+60,UPSRTC - LKM0028,INR 791,3.3,52 Seats available,Shatabdi AC Seater 2+2,22:40,07h 21m,06:01,SHAHJAHANPUR
+61,UPSRTC - STD0049,INR 536,3.3,52 Seats available,Ordinary Non AC Seater 2+3,20:03,08h 51m,04:54,SHAHJAHANPUR
+62,UPSRTC - STD0050,INR 536,3.3,52 Seats available,Ordinary Non AC Seater 2+3,20:33,08h 51m,05:24,SHAHJAHANPUR
+63,UPSRTC - BRT0007,INR 567,3.3,52 Seats available,Ordinary Non AC Seater 2+3,19:40,08h 20m,04:00,SHAHJAHANPUR
+64,UPSRTC - SJP0004,INR 584,3.3,52 Seats available,Ordinary Non AC Seater 2+3,09:30,08h 00m,17:30,SHAHJAHANPUR
+65,UPSRTC - SJP0037,INR 584,3.3,52 Seats available,Ordinary Non AC Seater 2+3,18:00,08h 00m,02:00,BAREILLY MOD
+66,UPSRTC - SJP0035,INR 584,3.3,52 Seats available,Ordinary Non AC Seater 2+3,17:00,08h 00m,01:00,SHAHJAHANPUR
+67,UPSRTC - SJP0030,INR 584,3.3,52 Seats available,Ordinary Non AC Seater 2+3,16:00,07h 59m,23:59,BAREILLY MOD
+68,UPSRTC - SJP0032,INR 584,3.3,36 Seats available,Ordinary Non AC Seater 2+3,16:30,08h 00m,00:30,SHAHJAHANPUR
+69,UPSRTC - SJP0010,INR 584,3.3,52 Seats available,Ordinary Non AC Seater 2+3,10:30,08h 00m,18:30,SHAHJAHANPUR
+70,UPSRTC - SJP0100,INR 584,3.3,52 Seats available,Ordinary Non AC Seater 2+3,12:01,08h 24m,20:25,BAREILLY MOD
+71,UPSRTC - SJP0099,INR 584,3.3,52 Seats available,Ordinary Non AC Seater 2+3,11:30,08h 20m,19:50,SHAHJAHANPUR
+72,UPSRTC - HDD0030,INR 564,,52 Seats available,Ordinary Non AC Seater 2+3,17:32,09h 28m,03:00,SHAHJAHANPUR
+73,UPSRTC - SJP0225,INR 584,,52 Seats available,Ordinary Non AC Seater 2+3,10:32,07h 20m,17:52,BAREILLY MOD
+74,UPSRTC - SJP0281,INR 584,,52 Seats available,Ordinary Non AC Seater 2+3,19:45,07h 20m,03:05,BAREILLY MOD
+75,UPSRTC - SJP0214,INR 584,,51 Seats available,Ordinary Non AC Seater 2+3,09:32,07h 20m,16:52,BAREILLY MOD
+76,UPSRTC - STD0144,INR 563,,52 Seats available,Ordinary Non AC Seater 2+3,21:28,09h 02m,06:30,BAREILLY MOD
+77,UPSRTC - SJP0256,INR 584,,,Ordinary Non AC Seater 2+3,13:00,07h 20m,20:20,
+78,UPSRTC - SJP0246,INR 584,,,Ordinary Non AC Seater 2+3,11:32,07h 20m,18:52,
+79,UPSRTC - GLA0141,INR 791,,,Janrath AC Seater 2+2,21:35,07h 30m,05:05,
+80,UPSRTC - SJP0236,INR 584,,,Ordinary Non AC Seater 2+3,11:02,07h 20m,18:22,
+81,UPSRTC - SJP0286,INR 584,,,Ordinary Non AC Seater 2+3,21:00,07h 20m,04:20,
+82,UPSRTC - SJP0212,INR 584,,,Ordinary Non AC Seater 2+3,09:02,07h 20m,16:22,
+83,UPSRTC - HDD0091,INR 535,,,Ordinary Non AC Seater 2+3,20:11,07h 59m,04:10,
+84,UPSRTC - SJP0288,INR 584,,,Ordinary Non AC Seater 2+3,21:45,07h 20m,05:05,
+85,UPSRTC - SJP0278,INR 584,,,Ordinary Non AC Seater 2+3,17:31,07h 20m,00:51,
+86,UPSRTC - SJP0253,INR 584,,,Ordinary Non AC Seater 2+3,12:02,07h 20m,19:22,
+87,UPSRTC - SJP0263,INR 584,,,Ordinary Non AC Seater 2+3,15:00,07h 20m,22:20,
+88,UPSRTC - HDD0083,INR 564,,,Ordinary Non AC Seater 2+3,17:30,08h 55m,02:25,
+89,UPSRTC - STD0163,INR 532,,,Ordinary Non AC Seater 2+3,19:58,09h 18m,05:16,
+90,UPSRTC - HDD0099,INR 564,,,Rajdhani Non AC Seater 2+3,21:51,08h 04m,05:55,
+91,UPSRTC - STD0368,INR 563,,,Ordinary Non AC Seater 2+3,20:01,08h 39m,04:40,
+92,UPSRTC - SJP0271,INR 584,,,Ordinary Non AC Seater 2+3,16:01,07h 20m,23:21,
+93,UPSRTC - SJP0217,INR 584,,,Ordinary Non AC Seater 2+3,10:02,07h 20m,17:22,
+94,UPSRTC - ALI0004,INR 263,4.4,52 Seats available,Janrath AC Seater 2+3,16:00,04h 00m,20:00,Anand Vihar
+95,UPSRTC - ALI0059,INR 304,4.2,52 Seats available,Janrath AC Seater 2+2,09:30,03h 00m,12:30,Anand Vihar
+96,UPSRTC - BDV0005,INR 304,4.0,52 Seats available,Janrath AC Seater 2+2,17:31,02h 59m,20:30,Anand Vihar
+97,UPSRTC - ALI0009,INR 304,3.8,52 Seats available,Janrath AC Seater 2+2,11:30,03h 00m,14:30,Kaushambi Bus Stand(Delhi)
+98,UPSRTC - ALI0064,INR 304,3.2,,Janrath AC Seater 2+2,16:28,03h 02m,19:30,
+99,UPSRTC - BDV0004,INR 304,3.7,,Janrath AC Seater 2+2,10:30,03h 00m,13:30,
+100,UPSRTC - ALI0011,INR 304,2.3,,Janrath AC Seater 2+2,18:31,02h 59m,21:30,
+101,UPSRTC - HDD0025,INR 252,3.3,,Ordinary Non AC Seater 2+3,19:00,05h 40m,00:40,
+102,UPSRTC - KSN0048,INR 333,3.3,,Janrath AC Seater 2+2,10:00,03h 40m,13:40,
+103,UPSRTC - HDD0038,INR 252,3.3,,Ordinary Non AC Seater 2+3,18:33,02h 57m,21:30,
+104,UPSRTC - PTG0149,INR 224,3.3,,Rajdhani Non AC Seater 2+3,12:50,03h 20m,16:10,
+105,UPSRTC - HDD0023,INR 252,3.3,,Ordinary Non AC Seater 2+3,16:35,05h 15m,21:50,
+106,UPSRTC - PTG0151,INR 224,3.3,,Ordinary Non AC Seater 2+3,12:10,03h 35m,15:45,
+107,UPSRTC - BSP0002,INR 224,3.3,,Ordinary Non AC Seater 2+3,11:30,03h 30m,15:00,
+108,UPSRTC - HDD0018,INR 255,3.3,,Ordinary Non AC Seater 2+3,18:00,06h 40m,00:40,
+109,UPSRTC - HDD0015,INR 255,3.3,,Ordinary Non AC Seater 2+3,17:00,05h 50m,22:50,
+110,UPSRTC - HDD0012,INR 255,3.3,,Ordinary Non AC Seater 2+3,16:00,05h 50m,21:50,
+111,UPSRTC - MZP0026,INR 258,3.3,,Rajdhani Non AC Seater 2+3,14:20,03h 30m,17:50,
+112,UPSRTC - HDD0035,INR 255,3.3,,Ordinary Non AC Seater 2+3,18:32,02h 18m,20:50,
+113,UPSRTC - KSN0054,INR 291,3.3,,Janrath AC Seater 2+3,14:45,03h 34m,18:19,
+114,UPSRTC - HDD0079,INR 255,3.3,,Ordinary Non AC Seater 2+3,18:05,02h 45m,20:50,
+115,UPSRTC - HDD0074,INR 255,,,Ordinary Non AC Seater 2+3,17:05,01h 45m,18:50,
+116,UPSRTC - HDD0111,INR 255,,,Ordinary Non AC Seater 2+3,19:03,05h 57m,01:00,
+117,UPSRTC - HDD0131,INR 255,,,Ordinary Non AC Seater 2+3,20:07,03h 09m,23:16,
+118,UPSRTC - HDD0171,INR 255,,,Ordinary Non AC Seater 2+3,18:06,03h 44m,21:50,
+119,UPSRTC - HDD0157,INR 252,,,Ordinary Non AC Seater 2+3,17:30,03h 27m,20:57,
+120,UPSRTC - HDD0159,INR 250,,,Ordinary Non AC Seater 2+3,18:59,04h 01m,23:00,
+121,UPSRTC - HDD0173,INR 226,,,Ordinary Non AC Seater 2+3,20:16,04h 09m,00:25,
+122,UPSRTC - HDD0166,INR 252,,,Ordinary Non AC Seater 2+3,16:27,01h 44m,18:11,
+123,UPSRTC - HDD0163,INR 252,,,Ordinary Non AC Seater 2+3,19:32,03h 28m,23:00,
+124,UPSRTC - HDD0174,INR 255,,,Ordinary Non AC Seater 2+3,19:06,04h 03m,23:09,
+125,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),INR 1199,4.6,8 Seats available,VE A/C Seater / Sleeper (2+1),17:30,13h 00m,06:30,Alambagh
+126,Mahalaxmi Travels,INR 1299,4.4,28 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),17:00,13h 30m,06:30,Alambagh
+127,PTC-SKYBUS,INR 999,4.8,25 Seats available,VE A/C Seater / Sleeper (2+1),18:15,11h 35m,05:50,Alambagh
+128,Vijay Tour and Travels,INR 1199,3.4,22 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),21:10,11h 00m,08:10,Alambagh
+129,KN Nehra Travels,INR 999,3.8,20 Seats available,A/C Seater / Sleeper (2+1),20:00,11h 00m,07:00,Neharia Circle
+130,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),INR 999,3.9,23 Seats available,VE A/C Seater / Sleeper (2+1),19:00,11h 30m,06:30,Alambagh
+131,PTC-SKYBUS,INR 999,3.3,18 Seats available,A/C Seater/Sleeper (2+1),20:15,11h 15m,07:30,Alambagh
+132,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),INR 1499,2.9,36 Seats available,A/C Sleeper (2+2),20:30,11h 40m,08:10,Alambagh
+133,Vijay Tour and Travels,INR 1199,2.7,33 Seats available,A/C Seater / Sleeper (2+1),22:20,10h 20m,08:40,Transport Nagar
+134,Gola Bus Service,INR 1999,4.5,20 Seats available,A/C Seater/Sleeper (2+1),13:20,14h 40m,04:00,Alambagh
+135,R S YADAV SMART BUS PRIVATE LIMITED,INR 749,4.4,35 Seats available,VE A/C Sleeper (2+1),22:15,08h 15m,06:30,Rs yadav bus parking near chi...
+136,Vijay Tour and Travels,INR 799,4.6,46 Seats available,Volvo A/C Semi Sleeper (2+2),14:20,03h 40m,18:00,"Rinku travels,hanuman murti c..."
+137,Fasttrack Travels,699,4.4,6 Seats available,VE A/C Seater / Sleeper (2+2),15:55,04h 35m,20:30,Vijay travels gaagan tiraha s...
+138,FlixBus,INR 190,4.4,21 Seats available,A/C Seater (2+2),17:05,03h 10m,20:15,Vijay travels gaagan tiraha s...
+139,India Tours & Travels (GetBookCab),INR 574,4.5,27 Seats available,A/C Seater / Sleeper (2+2),18:15,03h 30m,21:45,Vaishnavi Tour n Travels Hanu...
+140,Vijay Tour and Travels,INR 649,4.6,25 Seats available,A/C Seater / Sleeper (2+1),19:10,04h 10m,23:20,Muradabad Hanuman Murti in fr...
+141,Vijay Tour and Travels,INR 599,3.0,10 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),19:20,03h 50m,23:10,Moradabad Bus Station
+142,Rinku Travels,INR 700,4.8,56 Seats available,A/C Seater / Sleeper (2+1),21:15,04h 45m,02:00,Moradabad by pass
+143,Vijay Tour and Travels,INR 699,4.6,47 Seats available,A/C Seater / Sleeper (2+1),21:30,03h 40m,01:10,Muradabad
+144,Vijay Tour and Travels,INR 799,3.4,16 Seats available,A/C Seater / Sleeper (2+1),22:00,03h 30m,01:30,Muradabad
+145,SHEKHAR TRAVELS,INR 800,3.8,13 Seats available,A/C Seater / Sleeper (2+1),22:00,03h 40m,01:40,Hanuman murti choraha
+146,Mahalaxmi Travels,INR 799,3.8,35 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),22:16,03h 59m,02:15,Muradabad
+147,Rahul Travels,INR 1062,3.3,,AshokLeyland Stile A/C,23:40,05h 20m,05:00,
+148,India Tours & Travels (GetBookCab),INR 674,3.9,,A/C Seater / Sleeper (2+2),23:55,04h 05m,04:00,
+149,Fasttrack Travels,INR 699,3.9,,A/C Seater/Sleeper (2+1),23:58,04h 42m,04:40,
+150,Fasttrack Travels,INR 1199,2.3,,A/C Seater/Sleeper (2+1),23:59,04h 01m,04:00,
+151,Go Devbhoomi Tours and Travels,INR 399,2.3,,A/C Sleeper (2+1),16:45,04h 15m,21:00,
+152,ROYAL SAFARI INDIA TRAVELS,809,2.9,,A/C Semi Sleeper (2+2),17:15,03h 30m,20:45,
+153,VIP LUXURY TRIPS,404,,,A/C Seater / Sleeper (2+2),17:30,04h 00m,21:30,
+154,Mahalaxmi Travels,INR 1099,,,Bharat Benz A/C Seater /Sleeper (2+1),23:30,04h 00m,03:30,
+155,Fasttrack Travels,INR 999,,,VE A/C Seater / Sleeper (2+2),23:55,04h 35m,04:30,
+156,Jai Shrinath Ji Ki ® Travels,INR 700,3.9,20 Seats available,A/C Sleeper (2+1),18:30,02h 35m,21:05,Amausi metro station lucknow ...
+157,Samay Shatabdi Travels Pvt Ltd,INR 550,3.7,,AC Sleeper (2+1),19:00,03h 00m,22:00,
+158,BTS Bundelkhand Transport Services LLP,INR 200,3.6,,Non A/C Seater / Sleeper (2+1),21:45,02h 10m,23:55,
+159,Indian Auto Wheels,INR 250,2.6,,AC Seater (2+3),13:20,04h 40m,18:00,
+160,Raj Kalpana Travels Pvt.Ltd,INR 900,4.2,,A/C Sleeper (2+1),15:00,03h 15m,18:15,
+161,Hans Travels (I) Private Limited,INR 1200,3.2,,NON A/C Sleeper (2+1),15:30,03h 00m,18:30,
+162,Hans Travels (I) Private Limited,INR 1200,3.2,,NON A/C Sleeper (2+1),16:30,03h 30m,20:00,
+163,Hans Travels (I) Private Limited,INR 1600,3.2,,A/C Sleeper (2+1),17:00,03h 00m,20:00,
+164,Shatabdi Travels Gurugram,INR 1450,3.6,,AC Sleeper (2+1),18:35,03h 00m,21:35,
+165,Samreen Travels,INR 1200,3.7,,AC Sleeper (2+1),19:00,02h 30m,21:30,
+166,Hans Travels (I) Private Limited,INR 1600,3.2,,A/C Sleeper (2+2),19:43,03h 30m,23:13,
+167,Anshi Raj Shree Travels,INR 1399,4.1,,Bharat Benz A/C Seater /Sleeper (2+1),21:30,02h 25m,23:55,
+168,Raj Ratan Tours And Travels,INR 2199,4.3,,Bharat Benz A/C Sleeper (2+1),22:15,01h 00m,23:15,
+169,Raj Ratan Tours And Travels,INR 2199,4.3,,Bharat Benz A/C Sleeper (2+1),23:00,00h 55m,23:55,
+170,Babu Travels,INR 999,1.4,,NON A/C Seater / Sleeper (3+1),18:45,02h 30m,21:15,
+171,Betrwanti Travels,INR 1600,2.1,,NON A/C Sleeper (2+1),23:20,02h 00m,01:20,
+172,UPSRTC - AWD0199,INR 215,4.4,,Pink Express AC Seater 2+2,20:02,01h 58m,22:00,
+173,UPSRTC - SRG0162,INR 215,4.0,,Janrath AC Seater 2+2,16:16,02h 45m,19:01,
+174,UPSRTC - BDV0065,INR 215,3.3,,Janrath AC Seater 2+2,21:15,02h 15m,23:30,
+175,UPSRTC - BDV0067,INR 215,3.3,,Janrath AC Seater 2+2,17:01,02h 59m,20:00,
+176,UPSRTC - RKD0055,INR 323,3.3,36 Seats available,Ordinary Non AC Seater 2+3,13:31,06h 00m,19:31,AGRA ISBT
+177,UPSRTC - AGF0047,INR 486,3.3,,Shatabdi AC Seater 2+2,14:01,05h 59m,20:00,
+178,UPSRTC - BLY0134,INR 486,3.8,,Janrath AC Seater 2+2,23:05,05h 55m,05:00,
+179,UPSRTC - BLY0049,INR 417,2.7,,Janrath AC Seater 2+3,17:00,05h 30m,22:30,
+180,Ashok Tour And Travels,INR 549,4.3,24 Seats available,AC Seater (2+2),16:00,03h 30m,19:30,Alambagh
+181,E Bus India,1899,3.8,36 Seats available,A/C Seater/Sleeper (2+1),22:00,04h 00m,02:00,NEHARIA CHAURAHA
+182,Ashok Tour And Travels,INR 549,4.5,,A/C Seater (2+1),19:30,03h 15m,22:45,
+183,Aditya Bus Service,INR 399,4.4,,Non AC Seater (2+2),15:00,04h 40m,19:40,
+184,Ashok Tour And Travels,INR 549,3.3,,AC Seater (2+2),13:30,03h 15m,16:45,
+185,Bhanupriya Express,INR 400,2.8,,A/C Seater (2+1),13:55,04h 50m,18:45,
+186,Ashok Tour And Travels,INR 549,2.9,,AC Seater (2+2),08:00,03h 45m,11:45,
+187,Aarohi Travels,INR 500,3.8,,AC Seater (2+2),15:00,03h 30m,18:30,
+188,Ashok Tour And Travels,INR 549,1.8,,AC Seater (2+2),17:30,03h 15m,20:45,
+189,Shiv Ganga,INR 799,2.9,,A/C Seater Push Back (2+2),15:30,03h 50m,19:20,
+190,Star City Bus,INR 1599,2.9,,A/C Seater / Sleeper (2+2),23:40,07h 20m,07:00,
+191,Aarohi Travels,INR 400,,,Non AC Seater (2+2),17:00,04h 00m,21:00,
+192,UPSRTC - BLY0135,INR 417,3.5,40 Seats available,Janrath AC Seater 2+3,09:01,05h 59m,15:00,BAREILLY OLD BUS STATION
+193,UPSRTC - AGF0050,INR 486,3.5,,Shatabdi AC Seater 2+2,22:46,05h 59m,04:45,
+194,UPSRTC - KSB0004,INR 505,3.3,2 Seats available,Shatabdi AC Seater 2+2,23:00,06h 00m,05:00,BADAUN
+195,UPSRTC - KSB0006,INR 505,2.4,52 Seats available,Shatabdi AC Seater 2+2,12:00,06h 00m,18:00,BADAUN
+196,UPSRTC - SKD0022,INR 368,3.3,,Ordinary Non AC Seater 2+3,16:00,07h 45m,23:45,
+197,UPSRTC - ATR0003,INR 368,3.3,,Ordinary Non AC Seater 2+3,10:00,06h 30m,16:30,
+198,UPSRTC - BDN0045,INR 411,3.3,,Ordinary Non AC Seater 2+3,10:00,08h 30m,18:30,
+199,UPSRTC - BDN0043,INR 411,3.3,,Ordinary Non AC Seater 2+3,09:00,06h 30m,15:30,
+200,UPSRTC - BDN0030,INR 368,3.3,,Ordinary Non AC Seater 2+3,10:30,06h 45m,17:15,
+201,UPSRTC - GNA0077,INR 334,3.3,,Ordinary Non AC Seater 2+3,12:32,05h 30m,18:02,
+202,UPSRTC - BDN0022,INR 403,3.3,,Ordinary Non AC Seater 2+3,20:00,06h 00m,02:00,
+203,Mahalaxmi Travels,INR 999,3.4,17 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),19:30,04h 15m,23:45,Handia flyover towards allahabad
+204,Sethi Yatra Company,INR 699,3.8,22 Seats available,A/C Seater/Sleeper (2+1),23:59,06h 01m,06:00,Balsan Choraha Near Parvati H...
+205,Mahalaxmi Travels,INR 999,3.3,,Bharat Benz A/C Seater /Sleeper (2+1),21:15,04h 15m,01:30,
+206,Sethi Yatra Company,INR 610,3.8,,A/C Seater/Sleeper (2+1),18:35,05h 10m,23:45,
+207,Goyal Travels,INR 999,2.4,,VE A/C Seater / Sleeper (2+1),18:35,04h 50m,23:25,
+208,PTC-SKYBUS,INR 599,4.5,36 Seats available,VE A/C Seater / Sleeper (2+1),13:00,04h 40m,17:40,Alambagh
+209,IntrCity SmartBus,INR 743,4.6,12 Seats available,A/C Seater / Sleeper (2+1),23:00,04h 45m,03:45,Behind Awadh Hospital Alambag...
+210,Raj Kalpana Travels Pvt.ltd.,INR 699,4.0,40 Seats available,VE A/C Seater (2+2),14:00,04h 00m,18:00,Alambagh
+211,Raj Kalpana Travels Pvt.ltd.,INR 799,4.2,29 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),13:00,04h 30m,17:30,Alam Bagh Nehariya Chauraha
+212,Mahalaxmi Travels,INR 999,3.9,36 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),23:45,04h 15m,04:00,Alambagh
+213,IntrCity SmartBus,INR 723,4.7,37 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),22:45,04h 50m,03:35,Alambagh
+214,Sethi Yatra Company,INR 1100,4.3,41 Seats available,A/C Seater / Sleeper (2+1),20:00,04h 30m,00:30,Alambagh
+215,IntrCity SmartBus,INR 683,4.2,46 Seats available,A/C Seater / Sleeper (2+1),21:45,05h 00m,02:45,Alambagh
+216,IntrCity SmartBus,INR 829,4.2,41 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),23:30,05h 00m,04:30,Alambagh
+217,IntrCity SmartBus,INR 678,4.7,13 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),21:15,05h 00m,02:15,Behind Awadh Hospital Alambag...
+218,Ashok Bus Service,664,4.4,33 Seats available,VE A/C Sleeper (2+1),23:10,04h 20m,03:30,Alambagh
+219,Gola Bus Service,INR 499,4.9,33 Seats available,VE A/C Seater / Sleeper (2+1),13:20,04h 40m,18:00,nahariya chauraha
+220,PTC-SKYBUS,INR 599,4.4,23 Seats available,VE A/C Seater / Sleeper (2+1),11:15,04h 00m,15:15,Ahmamau Chauraha
+221,IntrCity SmartBus,INR 723,4.5,26 Seats available,A/C Seater / Sleeper (2+1),23:45,05h 00m,04:45,Alambagh
+222,Mahalaxmi Travels,INR 1299,4.6,32 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),17:00,05h 15m,22:15,Alambagh
+223,Mahalaxmi Travels,INR 699,3.4,24 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),22:00,05h 00m,03:00,Gomti Nagar
+224,IntrCity SmartBus,INR 856,3.9,16 Seats available,VE A/C Seater / Sleeper (2+1),21:00,05h 00m,02:00,Gomti Nagar
+225,Zingbus Plus,823,4.8,30 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),22:15,04h 45m,03:00,Singar Nagar Metro Exit Gate ...
+226,Anshi Raj Shree Travels,INR 1399,4.6,27 Seats available,Bharat Benz A/C Sleeper (2+1),22:30,04h 30m,03:00,Alam Bagh Nehariya Chauraha
+227,IntrCity SmartBus,INR 932,4.7,38 Seats available,A/C Seater / Sleeper (2+1),22:50,04h 55m,03:45,Gomti Nagar
+228,SAFAR EXPRESS PVT LTD,INR 699,3.3,7 Seats available,A/C Seater / Sleeper (2+1),11:25,04h 10m,15:35,Gomti Nagar
+229,IntrCity SmartBus,INR 804,4.4,29 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),22:30,04h 50m,03:20,Gomti Nagar Lucknow
+230,Fouji travels,INR 999,3.5,19 Seats available,A/C Seater / Sleeper (2+1),23:50,04h 25m,04:15,Alambagh
+231,PTC-SKYBUS,INR 999,4.0,31 Seats available,VE A/C Seater / Sleeper (2+1),18:15,04h 35m,22:50,Alambagh
+232,Anshi Raj Shree Travels,INR 699,3.4,29 Seats available,Bharat Benz A/C Sleeper (2+1),19:15,04h 15m,23:30,Alambagh
+233,Anshi Rajshree Travels,INR 1199,2.9,16 Seats available,Bharat Benz A/C Sleeper (2+1),19:05,05h 25m,00:30,Alambagh
+234,Laxmi holidays,1045,3.1,36 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),23:40,04h 20m,04:00,Nahariya Chauraha Lucknow
+235,Sethi Yatra Company,INR 801,2.4,42 Seats available,A/C Seater/Sleeper (2+1),23:45,04h 10m,03:55,Alambagh
+236,Sethi Yatra Company,INR 999,2.7,34 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),23:20,05h 30m,04:50,Alambagh
+237,Anshi Raj Shree Travels,INR 1199,2.5,31 Seats available,Bharat Benz A/C Sleeper (2+1),23:40,04h 50m,04:30,Alambagh
+238,Shakmbhari Travels,INR 994,1.7,44 Seats available,A/C Seater / Sleeper (2+1),23:30,05h 30m,05:00,Alambagh
+239,R S YADAV SMART BUS PRIVATE LIMITED,INR 1399,4.9,22 Seats available,VE A/C Seater / Sleeper (2+1),23:40,04h 10m,03:50,Gomti Nagar
+240,R S YADAV SMART BUS PRIVATE LIMITED,INR 1199,4.9,24 Seats available,A/C Seater / Sleeper (2+1),23:55,04h 10m,04:05,Alambagh
+241,Gola Bus Service,INR 659,2.0,25 Seats available,VE A/C Seater / Sleeper (2+1),22:20,04h 40m,03:00,Gomti Nagar
+242,R S YADAV SMART BUS PRIVATE LIMITED,INR 1199,4.9,31 Seats available,VE A/C Seater / Sleeper (2+1),22:55,03h 30m,02:25,Transport Nagar
+243,Vijay Tour and Travels,INR 700,1.9,49 Seats available,A/C Seater / Sleeper (2+1),17:00,04h 40m,21:40,Lucknow (Naheria/Awadh Junction)
+244,BT Travels,INR 679,4.4,4 Seats available,VE A/C Seater / Sleeper (2+1),21:50,05h 10m,03:00,Lucknow (Naheria/Awadh Junction)
+245,IntrCity SmartBus,INR 666,4.3,20 Seats available,A/C Seater / Sleeper (2+1),23:55,04h 50m,04:45,Lucknow (Naheria/Awadh Junction)
+246,IntrCity SmartBus,INR 698,4.3,2 Seats available,VE A/C Seater / Sleeper (2+1),22:00,04h 50m,02:50,Lucknow (Kamta Junction)
+247,IntrCity SmartBus,INR 746,4.3,40 Seats available,A/C Seater / Sleeper (2+1),21:50,04h 55m,02:45,Kamta chouraha
+248,IntrCity SmartBus,INR 1139,4.3,32 Seats available,A/C Seater / Sleeper (2+1),23:15,05h 00m,04:15,Alambagh
+249,IntrCity SmartBus,INR 1439,4.3,25 Seats available,Bharat Benz A/C Sleeper (2+1),22:35,04h 55m,03:30,Alambagh
+250,IntrCity SmartBus,INR 1068,4.3,26 Seats available,A/C Seater / Sleeper (2+1),23:20,04h 40m,04:00,Alambagh
+251,IntrCity SmartBus,INR 951,4.3,27 Seats available,A/C Seater / Sleeper (2+1),23:55,05h 25m,05:20,Alambagh
+252,Metro Travels,INR 1099,4.3,35 Seats available,A/C Sleeper (2+1),21:25,03h 40m,01:05,Gomti Nagar
+253,FlixBus,INR 565,4.3,28 Seats available,A/C Semi Sleeper (2+2),23:50,04h 35m,04:25,Gomti Nagar
+254,FlixBus,INR 1173,4.2,44 Seats available,A/C Sleeper (2+1),23:20,04h 35m,03:55,Kamta chouraha
+255,FlixBus,INR 549,4.2,20 Seats available,A/C Seater (2+2),23:50,04h 35m,04:25,Gomti Nagar
+256,FlixBus,INR 1444,4.2,48 Seats available,A/C Sleeper (2+1),22:10,05h 15m,03:25,Alambagh
+257,FlixBus,INR 548,4.2,48 Seats available,A/C Seater (2+2),11:00,04h 30m,15:30,Gomti Nagar
+258,Vijaylakshmi tour & travels,INR 855,4.2,23 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),20:40,04h 55m,01:35,Alambagh
+259,IntrCity SmartBus,INR 748,4.2,25 Seats available,A/C Seater / Sleeper (2+1),21:30,05h 10m,02:40,Alambagh
+260,IntrCity SmartBus,INR 942,4.1,22 Seats available,Bharat Benz A/C Sleeper (2+1),22:15,05h 00m,03:15,Alambagh
+261,Gola Bus Service,INR 1199,4.1,48 Seats available,VE A/C Seater / Sleeper (2+1),23:59,04h 56m,04:55,Alambagh
+262,Gola Bus Service,INR 1199,4.1,48 Seats available,A/C Seater/Sleeper (2+1),23:46,04h 54m,04:40,Alambagh
+263,Gola Bus Service,INR 1299,4.1,44 Seats available,VE A/C Sleeper (2+1),22:30,06h 00m,04:30,Alambagh
+264,BSS COOL COOL TRAVELS,INR 1099,4.1,35 Seats available,A/C Seater / Sleeper (2+1),21:50,06h 00m,03:50,Alambagh
+265,SVD TRAVELS & TRANSPORT LLP,899,4.1,33 Seats available,VE A/C Seater / Sleeper (2+1),21:50,04h 55m,02:45,Alambagh
+266,Gola Bus Service,INR 859,4.1,28 Seats available,A/C Seater/Sleeper (2+1),21:30,06h 00m,03:30,Dev Express Behind Awadh Hosp...
+267,Vaishali Expresso Pvt. Ltd.,1140,4.1,46 Seats available,A/C Seater / Sleeper (2+1),22:34,04h 00m,02:34,Gomti Nagar
+268,Vaishali Expresso Pvt. Ltd.,1425,4.1,40 Seats available,A/C Seater / Sleeper (2+1),20:40,04h 00m,00:40,Alambagh
+269,Raj Kalpana Travels Pvt.Ltd,INR 1100,4.1,36 Seats available,A/C Seater/Sleeper (2+1),23:45,03h 15m,03:00,Naharia Choraha Alam Bagh
+270,Raj Kalpana Travels Pvt.Ltd,INR 1500,4.1,24 Seats available,A/C Sleeper (2+1),23:30,03h 00m,02:30,Mahalaxmi travels behind awad...
+271,Raj Kalpana Travels Pvt.Ltd,INR 1014,4.1,30 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),22:50,04h 00m,02:50,Charbagh
+272,Vaishali Expresso Pvt. Ltd.,1140,4.1,13 Seats available,A/C Seater / Sleeper (2+2),21:45,04h 15m,02:00,Ptc skybus sethi yatra compan...
+273,Revanta Roadlines,899,4.0,36 Seats available,A/C Seater / Sleeper (2+2),21:25,04h 30m,01:55,New shree mahaveer travels ma...
+274,International Tourist Centre,INR 599,4.0,17 Seats available,VE A/C Seater / Sleeper (2+1),21:30,05h 00m,02:30,New shree mahaveer travels ma...
+275,Raj Kalpana Travels Pvt.ltd.,INR 839,3.8,36 Seats available,A/C Seater/Sleeper (2+1),22:00,04h 10m,02:10,Gomti Nagar
+276,Raj Kalpana Travels Pvt.ltd.,INR 839,3.8,34 Seats available,A/C Seater/Sleeper (2+1),22:30,03h 55m,02:25,Alambagh
+277,Dev Express ®,1119,3.8,38 Seats available,A/C Sleeper (2+1),21:00,04h 55m,01:55,Alambagh
+278,Vaishali Expresso Pvt. Ltd.,1093,3.8,41 Seats available,A/C Seater / Sleeper (2+2),23:55,05h 15m,05:10,Nahariya circle near by r.k m...
+279,Vaishali Expresso Pvt. Ltd.,1235,3.8,40 Seats available,A/C Seater / Sleeper (2+2),23:20,04h 38m,03:58,Gomti Nagar
+280,Maharani Travels,INR 601,3.8,42 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),21:15,04h 30m,01:45,Alambagh
+281,Goyal Travels,INR 899,3.8,31 Seats available,VE A/C Seater / Sleeper (2+1),23:20,04h 25m,03:45,Shaheed Path Sultanpur Road
+282,Samay Shatabdi Travels Pvt Ltd,INR 1499,3.7,51 Seats available,AC Sleeper (2+1),18:30,07h 00m,01:30,Nahariya circle near by r.k m...
+283,E Bus India,1234,3.7,47 Seats available,A/C Seater/Sleeper (2+1),00:30,04h 30m,05:00,Mahalaxmi travels behind awad...
+284,Khajuraho Travels,INR 1396,3.6,29 Seats available,AC Sleeper (2+1),00:11,04h 35m,04:46,Alam Bagh Nehariya Chauraha
+285,Khajuraho Travels,INR 1046,3.6,21 Seats available,A/C Seater / Sleeper (2+1),23:50,04h 57m,04:47,Alam Bagh Nehariya Chauraha
+286,New Shree Mahaveer Travels,INR 699,3.6,30 Seats available,A/C Seater / Sleeper (2+1),20:30,05h 15m,01:45,Gomti Nagar
+287,New Shree Mahaveer Travels,INR 800,3.6,38 Seats available,A/C Seater / Sleeper (2+1),22:00,04h 30m,02:30,Gomti Nagar
+288,Shree Raj Akanshi travels,INR 999,3.6,33 Seats available,A/C Seater / Sleeper (2+1),21:15,04h 55m,02:10,Alambagh
+289,Shivay Holidays,INR 860,3.6,29 Seats available,A/C Seater / Sleeper (2+2),22:30,05h 30m,04:00,Alambagh
+290,Hare Rama Travels,INR 1099,4.0,34 Seats available,A/C Seater/Sleeper (2+1),22:50,04h 55m,03:45,Lucknow (Kamta Junction)
+291,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),INR 1499,3.5,28 Seats available,A/C Sleeper (2+2),20:30,03h 25m,23:55,Alambagh
+292,SAFAR EXPRESS PVT LTD,INR 1099,3.5,21 Seats available,A/C Seater / Sleeper (2+2),23:36,03h 29m,03:05,Gomti Nagar
+293,GK Travels,INR 899,3.5,27 Seats available,A/C Seater/Sleeper (2+1),21:45,04h 15m,02:00,Alambagh
+294,Krishna Travels,INR 1099,3.5,39 Seats available,A/C Seater / Sleeper (2+2),23:45,03h 30m,03:15,Alambagh
+295,Krishna Travels,INR 1099,3.4,46 Seats available,A/C Seater / Sleeper (2+2),23:05,04h 55m,04:00,Kamata Chauraha
+296,SAFAR EXPRESS PVT LTD,INR 1099,3.3,33 Seats available,A/C Seater / Sleeper (2+1),23:00,04h 30m,03:30,Gomti Nagar
+297,Goyal Travels,INR 999,4.2,43 Seats available,VE A/C Seater / Sleeper (2+1),23:25,04h 45m,04:10,Gomti Nagar
+298,Sethi Yatra Company,INR 1200,3.3,26 Seats available,A/C Sleeper (2+1),21:30,04h 35m,02:05,Singar Nagar Metro Exit Gate ...
+299,Sethi Yatra Company,INR 800,3.3,16 Seats available,A/C Seater / Sleeper (2+1),21:05,04h 55m,02:00,Laxmi Holidays Office Singar ...
+300,Sethi Yatra Company,INR 999,4.0,24 Seats available,A/C Seater/Sleeper (2+1),21:50,05h 10m,03:00,Laxmi Holidays Office Singar ...
+301,Fouji travels,INR 999,3.6,33 Seats available,A/C Seater / Sleeper (2+1),23:10,04h 25m,03:35,Laxmi Holidays Office Singar ...
+302,KARNI KRIPA TOURS & TRAVELS,INR 999,3.1,30 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),22:00,04h 30m,02:30,Laxmi Holidays Office Singar ...
+303,Shree Savariya Travels & Transport,INR 3999,3.2,48 Seats available,A/C Sleeper (2+1),23:30,05h 00m,04:30,Gomti Nagar
+304,FlixBus,INR 456,3.2,35 Seats available,A/C Sleeper (2+1),21:35,05h 10m,02:45,Charbagh
+305,Maa Shakti Bhadra Travels,INR 1299,2.0,19 Seats available,A/C Seater / Sleeper (2+2),23:50,05h 10m,05:00,Alambagh
+306,Shree Savariya Travels & Transport,INR 999,2.2,34 Seats available,A/C Seater / Sleeper (2+1),20:15,05h 15m,01:30,Gomti Nagar
+307,SAFAR EXPRESS PVT LTD,INR 699,3.1,62 Seats available,A/C Seater / Sleeper (2+1),14:05,04h 16m,18:21,Gomti Nagar
+308,IntrCity SmartBus,INR 1026,3.1,13 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),20:45,04h 55m,01:40,Gomti Nagar
+309,VGO BUS,INR 999,3.1,21 Seats available,VE A/C Seater / Sleeper (2+1),22:30,05h 00m,03:30,Alambagh
+310,Tourist Point,INR 899,3.1,18 Seats available,A/C Seater / Sleeper (2+2),23:10,05h 50m,05:00,Alambagh
+311,Jamna Travels (Delhi),INR 1099,3.1,42 Seats available,A/C Seater / Sleeper (2+2),21:50,06h 00m,03:50,Alambagh
+312,Anshi Raj Shree Travels,INR 1199,3.0,46 Seats available,Bharat Benz A/C Sleeper (2+1),19:45,04h 45m,00:30,Alambagh
+313,Vijay Tour and Travels,INR 600,3.0,41 Seats available,A/C Seater / Sleeper (2+1),18:00,04h 30m,22:30,Alambagh
+314,Laxmi holidays,949,3.0,39 Seats available,Bharat Benz A/C Sleeper (2+1),22:30,05h 30m,04:00,Alambagh
+315,Laxmi holidays,1140,3.0,42 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),21:30,05h 00m,02:30,Alambagh
+316,Laxmi holidays,1026,3.0,23 Seats available,VE A/C Seater / Sleeper (2+1),23:25,03h 45m,03:10,Alambagh
+317,Laxmi holidays,950,3.0,36 Seats available,VE A/C Seater / Sleeper (2+2),22:00,04h 00m,02:00,Vijay gajraj travels lucknow
+318,Laxmi holidays,1045,4.3,36 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),21:40,04h 20m,02:00,"Kamta chauraha,avadh bus stand"
+319,Anshi Raj Shree Travels,INR 1199,4.3,39 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),22:15,04h 15m,02:30,Nahariya chouraha lucknow
+320,Maharaja Travels,INR 762,4.3,40 Seats available,A/C Seater / Sleeper (2+1),22:00,04h 00m,02:00,Dev Hospital Para Road
+321,Kashi Vishwanath Tours and Travels,INR 999,4.1,48 Seats available,A/C Seater / Sleeper (2+2),23:55,05h 10m,05:05,NEHARIYA CHAURAHA OPP.PUBLIC ...
+322,Anshi Raj Shree Travels,INR 1199,4.1,34 Seats available,Bharat Benz A/C Sleeper (2+1),21:45,04h 45m,02:30,Alambagh
+323,Anshi Raj Shree Travels,INR 1199,2.8,33 Seats available,Bharat Benz A/C Sleeper (2+1),20:50,04h 40m,01:30,Kamata Chauraha
+324,Anshi Raj Shree Travels,INR 1099,2.8,40 Seats available,Bharat Benz A/C Sleeper (2+1),23:30,04h 30m,04:00,Alambagh
+325,IntrCity SmartBus,INR 646,2.8,24 Seats available,A/C Seater / Sleeper (2+1),23:35,04h 50m,04:25,Alambagh
+326,IntrCity SmartBus,INR 1431,3.8,39 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),22:50,05h 10m,04:00,"Para road, near singar nagar ..."
+327,IntrCity SmartBus,INR 613,2.4,18 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),22:35,04h 50m,03:25,Ahmamau chauraha lucknow
+328,Vaishali Expresso Pvt. Ltd.,950,2.4,42 Seats available,A/C Seater / Sleeper (2+2),22:50,06h 16m,05:06,Gomti Nagar Lucknow
+329,Revanta Roadlines,899,2.2,50 Seats available,A/C Seater / Sleeper (2+2),21:40,04h 30m,02:10,Shaheed Path Sultanpur Road
+330,Dhruv Travels,INR 1299,2.2,29 Seats available,VE A/C Seater / Sleeper (2+2),23:59,04h 46m,04:45,Amausi airport metro gate no ...
+331,Dhruv Travels,INR 649,2.2,39 Seats available,A/C Seater / Sleeper (2+2),23:05,04h 25m,03:30,Transport Nagar
+332,Shree Saroj Travels,INR 999,2.2,40 Seats available,A/C Seater / Sleeper (2+2),23:55,03h 35m,03:30,Alambagh
+333,Gajraj bus service,INR 1600,2.2,28 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),21:20,04h 30m,01:50,Hp petrol pump nr.scooter ind...
+334,SHREE MARUTIKRUPA TRAVELS AND CARGO,2219,2.1,48 Seats available,A/C Seater / Sleeper (2+1),23:45,06h 15m,06:00,Alambagh
+335,Shri Siddhi Vinayak Travels,1028,3.7,36 Seats available,A/C Seater / Sleeper (2+1),23:45,04h 15m,04:00,Alambagh
+336,Shree Mahaveer Travels Jaipur,INR 999,3.7,36 Seats available,A/C Sleeper (2+1),20:30,05h 00m,01:30,Gomti Nagar
+337,New India Travels,INR 999,1.7,34 Seats available,A/C Seater / Sleeper (2+2),23:35,03h 30m,03:05,Alambagh
+338,janta shatabdi travels,713,3.6,36 Seats available,A/C Seater / Sleeper (2+1),22:00,04h 30m,02:30,Neharia Circle
+339,New India Travels,INR 1199,3.6,12 Seats available,A/C Seater / Sleeper (2+2),21:45,05h 15m,03:00,Ahma mau arjunganj lucknow
+340,First Choice Holidays,INR 501,3.6,34 Seats available,A/C Seater / Sleeper (2+2),23:00,04h 15m,03:15,Turakhia chock pgi hospital l...
+341,ROYAL TRAVELS AND CARGO,INR 1196,3.6,30 Seats available,A/C Seater / Sleeper (2+2),23:59,04h 01m,04:00,Alambagh
+342,DIVA BUS,INR 1499,3.6,47 Seats available,A/C Seater / Sleeper (2+1),23:40,04h 30m,04:10,Alambagh
+343,Aadishakti Travels,INR 900,3.6,26 Seats available,A/C Seater / Sleeper (2+2),22:10,04h 25m,02:35,Alambagh
+344,Shakmbhari Travels,INR 994,3.5,36 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),21:30,05h 40m,03:10,Gomti Nagar
+345,GK Travels,INR 1299,3.5,18 Seats available,A/C Sleeper (2+1),20:45,03h 00m,23:45,Gomti Nagar
+346,Krishna Travels,INR 1099,3.3,23 Seats available,A/C Seater / Sleeper (2+2),22:59,04h 16m,03:15,Alambagh
+347,Sanskar Travels,INR 760.95,3.2,31 Seats available,A/C Seater / Sleeper (2+1),23:30,04h 30m,04:00,Zero point lucknow by pass
+348,Shatabdi Travels Gurugram,INR 1450,3.2,31 Seats available,AC Sleeper (2+1),18:35,08h 00m,02:35,Alambagh
+349,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),INR 1199,3.0,40 Seats available,VE A/C Seater / Sleeper (2+1),17:30,03h 50m,21:20,Nahariya chouraha lucknow
+350,Shri Bawa Lal Tour and Travels,INR 1999,3.0,42 Seats available,A/C Seater / Sleeper (2+1),23:55,04h 00m,03:55,Gomti Nagar
+351,M R Travels,INR 880,2.9,5 Seats available,A/C Seater / Sleeper (2+1),19:00,04h 30m,23:30,Alambagh
+352,Shrinath® Travel Agency Pvt. Ltd.,INR 3800,2.9,57 Seats available,A/C Sleeper (2+1),20:45,04h 40m,01:25,Alambagh
+353,Shree Savariya Travels & Transport,INR 1399,2.9,34 Seats available,A/C Seater/Sleeper (2+1),00:30,05h 10m,05:40,Transport nagarnear transport...
+354,GODARA TRAVELS,INR 1199,2.9,24 Seats available,A/C Seater / Sleeper (2+1),20:30,05h 00m,01:30,Deo hospital naharia para roa...
+355,GODARA TRAVELS,INR 1699,2.8,44 Seats available,AC Sleeper (2+1),20:50,05h 00m,01:50,Alambagh
+356,Anshi Raj Shree Travels,INR 1099,2.8,34 Seats available,A/C Seater / Sleeper (2+1),23:30,05h 00m,04:30,Alambagh
+357,Maharaja Travels,INR 1048,2.8,36 Seats available,AC Sleeper (2+1),18:30,05h 00m,23:30,Kamata Chauraha
+358,Gorakhdham Express Bus Service,INR 1495,2.6,36 Seats available,A/C Seater / Sleeper (2+2),22:05,04h 00m,02:05,
+359,LATSAHIB BHAWANI TOUR AND TRAVELS,1479,2.6,40 Seats available,A/C Sleeper (2+1),22:10,04h 30m,02:40,
+360,Vinay Travels,1190,2.6,25 Seats available,A/C Seater / Sleeper (2+2),23:35,04h 10m,03:45,
+361,Gorakhdham Express Bus Service,INR 1155,2.5,36 Seats available,A/C Seater / Sleeper (2+2),23:45,04h 00m,03:45,
+362,Panwar Travels,INR 800,2.5,47 Seats available,A/C Sleeper (2+1),22:30,04h 00m,02:30,
+363,Panwar Travels,INR 990,2.4,,A/C Seater / Sleeper (2+1),22:50,04h 25m,03:15,
+364,Shree Mahaveer Travels,INR 800,2.4,,A/C Seater / Sleeper (2+1),21:00,06h 00m,03:00,
+365,MJ Bhati Travels JJN,INR 899,2.3,,Bharat Benz A/C Seater /Sleeper (2+1),22:25,04h 00m,02:25,
+366,MJ Bhati Travels JJN,INR 899,2.3,,Bharat Benz A/C Seater /Sleeper (2+1),22:30,04h 00m,02:30,
+367,MJ Bhati Travels JJN,INR 1499,2.3,,Bharat Benz A/C Seater /Sleeper (2+1),21:00,04h 00m,01:00,
+368,SN TRAVELS,1620,2.3,,A/C Seater / Sleeper (2+2),22:10,03h 35m,01:45,
+369,Singh Tour & Travels,INR 1199,2.3,,Bharat Benz A/C Sleeper (2+1),23:15,05h 15m,04:30,
+370,Shri Siddhi Vinayak Travels,899,2.2,,A/C Seater / Sleeper (2+2),23:30,04h 10m,03:40,
+371,Shri Radha Rani Travels,INR 5000,2.2,,A/C Seater / Sleeper (2+2),21:30,05h 00m,02:30,
+372,Shree ram travels,949,1.7,,A/C Seater / Sleeper (2+2),22:48,04h 00m,02:48,
+373,Shree ram travels,949,1.2,,A/C Seater / Sleeper (2+2),22:33,04h 26m,02:59,
+374,NAYAR TRAVELS (OPC) PVT LTD,INR 2399,1.2,,A/C Sleeper (2+1),22:15,03h 35m,01:50,
+375,Shri Chirag Travel Agency,2128,,,AC Sleeper (2+1),21:05,04h 20m,01:25,
+376,Shree ram travels,1329,,,A/C Seater / Sleeper (2+2),21:24,04h 25m,01:49,
+377,JINWANI TRAVELS & CARGO,INR 400,,,A/C Sleeper (1+2),21:30,05h 00m,02:30,
+378,New India Travels,INR 899,,,A/C Seater/Sleeper (2+1),23:30,03h 55m,03:25,
+379,Gajkaran Travels And Cargo,INR 700,,,A/C Seater / Sleeper (2+1),17:30,05h 30m,23:00,
+380,Shree Balajee Travels And Cargo,INR 2500,,,NON A/C Sleeper (2+1),01:00,05h 43m,06:43,
+381,Shree Balajee Travels And Cargo,INR 1499,,,A/C Seater / Sleeper (2+1),01:00,05h 43m,06:43,
+382,NueGo,332,3.8,39 Seats available,Electric A/C Seater (2+2),08:00,04h 15m,12:15,Taj Mahal bus parking
+383,NueGo,332,3.7,39 Seats available,Electric A/C Seater (2+2),09:00,04h 35m,13:35,Baluganj
+384,NueGo,332,3.6,43 Seats available,Electric A/C Seater (2+2),10:00,04h 35m,14:35,Baluganj
+385,AdZingbus Plus,299,3.5,44 Seats available,AC Seater (2+2),17:05,04h 05m,21:10,Baluganj
+386,NueGo,332,3.7,34 Seats available,Electric A/C Seater (2+2),12:00,04h 45m,16:45,kuberpur by pass agra
+387,NueGo,333,3.6,10 Seats available,Electric A/C Seater (2+2),14:00,04h 45m,18:45,Kuberpur by pass agra
+388,NueGo,332,3.7,31 Seats available,Electric A/C Seater (2+2),15:00,04h 45m,19:45,kuberpur Agra
+389,NueGo,332,4.1,25 Seats available,Electric A/C Seater (2+2),16:00,04h 40m,20:40,kuberpur Agra
+390,Falcon Tour And Travels,INR 699,3.2,36 Seats available,Volvo AC Seater (2+2),16:40,08h 20m,01:00,kuberpur by pass agra
+391,NueGo,332,3.9,20 Seats available,Electric A/C Seater (2+2),17:00,04h 35m,21:35,Yamuna Expressway
+392,NueGo,299,3.9,7 Seats available,Electric A/C Seater (2+2),18:00,04h 35m,22:35,Agara
+393,NueGo,332,3.5,38 Seats available,Electric A/C Seater (2+2),19:00,04h 35m,23:35,Bhagwan Takij
+394,NueGo,332,4.4,,Electric A/C Seater (2+2),21:00,04h 15m,01:15,
+395,NueGo,332,4.5,,Electric A/C Seater (2+2),22:00,04h 15m,02:15,
+396,NueGo,332,4.2,,Electric A/C Seater (2+2),23:55,04h 15m,04:10,
+397,NueGo,332,2.7,,Electric A/C Seater (2+2),08:00,04h 30m,12:30,
+398,Royal Star Travels,INR 331,1.0,,AC Seater (2+2),09:30,04h 30m,14:00,
+399,Ashok tour and Travels,INR 335,2.3,,AC Seater (2+2),10:00,04h 30m,14:30,
+400,AGRA TRAVELSENSE,INR 329,2.9,,AC Seater (2+2),10:00,04h 30m,14:30,
+401,Taj Express Bus Service Pvt Ltd,INR 450,2.4,,Non AC Seater (2+2),10:00,03h 45m,13:45,
+402,Ashok tour and Travels,INR 336,2.2,,AC Seater (2+2),11:30,04h 30m,16:00,
+403,Taj Express Bus Service Pvt Ltd,INR 450,2.4,,Non AC Seater (2+2),11:59,03h 45m,15:44,
+404,Ashok tour and Travels,INR 331,2.2,,AC Seater (2+2),13:15,04h 30m,17:45,
+405,AGRA TRAVELSENSE,INR 449,2.3,,AC Seater (2+2),13:15,04h 00m,17:15,
+406,Royal Star Travels,INR 299,1.0,,AC Seater (2+2),14:00,04h 00m,18:00,
+407,Taj Express Bus Service Pvt Ltd,INR 450,2.4,,Non AC Seater (2+2),14:00,03h 45m,17:45,
+408,Ashok tour and Travels,INR 336,2.3,,AC Seater (2+2),14:30,04h 30m,19:00,
+409,Royal Star Travels,INR 399,1.0,,AC Seater (2+2),14:45,04h 00m,18:45,
+410,AGRA TRAVELSENSE,INR 449,1.9,,AC Seater (2+2),15:30,03h 45m,19:15,
+411,Taj Express Bus Service Pvt Ltd,INR 450,2.4,,Non AC Seater (2+2),16:00,03h 45m,19:45,
+412,AGRA TRAVELSENSE,INR 500,1.6,,AC Seater (2+2),17:30,04h 30m,22:00,
+413,NueGo,332,2.0,,Electric A/C Seater (2+2),17:30,04h 30m,22:00,
+414,Taj Express Bus Service Pvt Ltd,INR 450,2.4,,Non AC Seater (2+2),18:00,03h 45m,21:45,
+415,FlixBus,INR 186,3.5,,A/C Seater (2+2),13:30,05h 10m,18:40,
+416,FlixBus,INR 312,3.8,,A/C Seater (2+2),15:35,04h 35m,20:10,
+417,FlixBus,INR 186,3.9,,A/C Seater (2+2),17:00,05h 15m,22:15,
+418,Raj Kalpana Travels Pvt.ltd.,INR 799,3.1,,Bharat Benz A/C Seater /Sleeper (2+1),17:30,03h 30m,21:00,
+419,PTC-SKYBUS,INR 599,3.2,,VE A/C Seater / Sleeper (2+1),17:40,03h 35m,21:15,
+420,Raj Kalpana Travels Pvt.ltd.,INR 699,3.5,,VE A/C Seater (2+2),18:00,03h 30m,21:30,
+421,Gola Bus Service,INR 899,3.8,,VE A/C Seater / Sleeper (2+1),18:00,02h 30m,20:30,
+422,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),INR 1199,3.8,,VE A/C Seater / Sleeper (2+1),21:20,03h 50m,01:10,
+423,Vijay Tour and Travels,INR 1100,3.2,,AC Sleeper (2+1),21:50,03h 30m,01:20,
+424,Mahalaxmi Travels,INR 1299,3.0,,Bharat Benz A/C Seater /Sleeper (2+1),22:15,03h 30m,01:45,
+425,PTC-SKYBUS,INR 999,3.2,,VE A/C Seater / Sleeper (2+1),22:50,03h 25m,02:15,
+426,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),INR 1299,2.8,,A/C Sleeper (2+2),23:55,03h 35m,03:30,
+427,KN Nehra Travels,INR 999,1.4,,A/C Seater / Sleeper (2+1),23:55,03h 35m,03:30,
+428,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),INR 1249,1.8,,A/C Seater/Sleeper (2+1),23:59,03h 31m,03:30,
+429,SAFAR EXPRESS PVT LTD,INR 699,1.9,,A/C Seater / Sleeper (2+1),15:35,03h 45m,19:20,
+430,RAO SAHAB TRAVELS PRIVATE LIMITED,INR 1199,,,A/C Seater / Sleeper (2+1),16:15,03h 15m,19:30,
+431,SAFAR EXPRESS PVT LTD,INR 699,,,A/C Seater / Sleeper (2+1),18:21,03h 29m,21:50,
+432,DIVYANSHU TRAVELS,854,,,A/C Sleeper (2+2),23:05,05h 00m,04:05,
+433,RSRTC - 192993,INR 891,2.1,20 Seats available,A/C Seater / Sleeper (2+1),23:30,04h 50m,04:20,AGRA ISBT
+434,Raj Kalpana Travels Pvt.ltd.,INR 649,4.3,40 Seats available,VE A/C Seater (2+2),14:30,04h 00m,18:30,Toll Plaza Expressway Agra n...
+435,Laxmi holidays,684,4.6,45 Seats available,VE A/C Seater / Sleeper (2+1),23:40,04h 40m,04:20,Toll Plaza Expressway Agra n...
+436,Laxmi holidays,855,4.3,21 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),23:55,05h 05m,05:00,Near Shiromani hospital opp. ...
+437,BT Travels,INR 749,4.2,21 Seats available,VE A/C Seater / Sleeper (2+1),15:20,03h 50m,19:10,IDGAH BUS STAND
+438,Goyal Travels,INR 800,3.3,25 Seats available,A/C Seater / Sleeper (2+1),19:00,05h 40m,00:40,GHODA CHOWK PARTAPUR
+439,Anshi Rajshree Travels,INR 899,4.6,21 Seats available,Bharat Benz A/C Sleeper (2+1),01:00,05h 50m,06:50,GHODA CHOWK PARTAPUR
+440,Anshi Raj Shree Travels,INR 899,3.9,40 Seats available,Bharat Benz A/C Sleeper (2+1),19:00,04h 59m,23:59,GHODA CHOWK PARTAPUR
+441,Sethi Yatra Company,INR 700,3.7,18 Seats available,A/C Seater/Sleeper (2+1),23:30,04h 50m,04:20,Agra Toll Plaza
+442,Anshi Raj Shree Travels,INR 899,4.0,26 Seats available,Bharat Benz A/C Sleeper (2+1),23:59,05h 16m,05:15,Shrinath Travels Imperial Hot...
+443,Anshi Raj Shree Travels,INR 799,3.6,25 Seats available,A/C Seater / Sleeper (2+1),23:15,05h 00m,04:15,GHODA CHOWK PARTAPUR
+444,Anshi Raj Shree Travels,INR 899,4.3,27 Seats available,Bharat Benz A/C Sleeper (2+1),20:15,05h 05m,01:20,Toll Plaza Expressway Agra n...
+445,IntrCity SmartBus,INR 939,4.1,49 Seats available,A/C Seater / Sleeper (2+1),23:55,04h 40m,04:35,Toll Plaza Expressway Agra n...
+446,Mahalaxmi Travels,INR 699,3.2,26 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),23:30,04h 30m,04:00,Yamuna expressway rahan kalan...
+447,Anshi Raj Shree Travels,INR 799,4.2,30 Seats available,Bharat Benz A/C Sleeper (2+1),21:15,05h 15m,02:30,Kuberpur toll tax
+448,Laxmi holidays,760,4.1,33 Seats available,VE A/C Seater / Sleeper (2+2),22:50,04h 00m,02:50,Agra A.K Family Restaurant
+449,Laxmi holidays,760,3.4,35 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),21:30,04h 20m,01:50,Opp Ramada Hotel
+450,R S YADAV SMART BUS PRIVATE LIMITED,INR 1099,4.3,24 Seats available,VE A/C Seater / Sleeper (2+1),23:35,05h 20m,04:55,Agra A.K Family Restaurant
+451,GK Travels,INR 699,3.3,29 Seats available,A/C Seater/Sleeper (2+1),23:30,07h 00m,06:30,Agara
+452,Raj Kalpana Travels Pvt.ltd.,INR 900,3.4,30 Seats available,A/C Seater/Sleeper (2+1),23:30,03h 45m,03:15,Agra Bypass Rd Kuberpur Bypass
+453,Sethi Yatra Company,INR 710,2.4,20 Seats available,A/C Seater / Sleeper (2+1),21:20,04h 25m,01:45,Agra Bypass Rd Kuberpur Bypass
+454,Raj Kalpana Travels Pvt.Ltd,INR 1600,2.7,32 Seats available,A/C Sleeper (2+1),21:15,03h 35m,00:50,Agra Bypass Rd Kuberpur Bypass
+455,Shakmbhari Travels,INR 794,1.9,33 Seats available,A/C Seater / Sleeper (2+1),23:45,05h 15m,05:00,Agra Bypass Rd Kuberpur Bypass
+456,Gola Bus Service,INR 839,4.5,34 Seats available,A/C Seater/Sleeper (2+1),23:30,05h 15m,04:45,Agra Bypass Rd Kuberpur Bypass
+457,Gola Bus Service,INR 999,4.5,11 Seats available,VE A/C Seater / Sleeper (2+1),22:00,04h 10m,02:10,Agra Bypass Rd Kuberpur Bypass
+458,Gola Bus Service,INR 999,4.5,28 Seats available,A/C Seater/Sleeper (2+1),22:00,05h 15m,03:15,Agra Bypass Rd Kuberpur Bypass
+459,Gola Bus Service,INR 999,4.5,30 Seats available,VE A/C Seater / Sleeper (2+1),23:00,05h 15m,04:15,NAMNER CHORAHA
+460,Gola Bus Service,INR 999,4.5,30 Seats available,A/C Seater/Sleeper (2+1),23:00,04h 10m,03:10,Agra (Kuberpur Cut)
+461,Gola Bus Service,INR 1299,4.5,14 Seats available,VE A/C Sleeper (2+1),21:00,04h 10m,01:10,Agra (Kuberpur Cut)
+462,Gola Bus Service,INR 799,4.5,12 Seats available,VE A/C Seater / Sleeper (2+1),23:55,05h 05m,05:00,Agra Toll Plaza
+463,Metro Travels,INR 1249,4.3,28 Seats available,A/C Sleeper (2+1),23:45,04h 15m,04:00,Yamuna expressway rahan kalan...
+464,FlixBus,INR 619,4.3,38 Seats available,A/C Sleeper (2+1),22:55,05h 10m,04:05,Agra Toll Plaza
+465,FlixBus,INR 865,4.3,29 Seats available,A/C Sleeper (2+1),23:40,04h 30m,04:10,Agra Toll Plaza
+466,FlixBus,INR 369,4.3,33 Seats available,A/C Seater (2+2),15:45,04h 25m,20:10,"G s plaza essar petrol pump,..."
+467,IntrCity SmartBus,INR 889,4.3,31 Seats available,A/C Seater / Sleeper (2+1),22:35,04h 30m,03:05,Kuberpur
+468,R S YADAV SMART BUS PRIVATE LIMITED,INR 999,4.3,21 Seats available,VE A/C Seater / Sleeper (2+1),23:25,05h 05m,04:30,"G s plaza essar petrol pump,..."
+469,IntrCity SmartBus,INR 771,4.3,60 Seats available,A/C Seater / Sleeper (2+1),22:10,05h 10m,03:20,Agra near kuberpur on Yamuna ...
+470,IntrCity SmartBus,INR 835,4.3,40 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),22:55,04h 55m,03:50,Toll Plaza Expressway Agra n...
+471,R S YADAV SMART BUS PRIVATE LIMITED,INR 1099,4.3,42 Seats available,A/C Seater / Sleeper (2+1),21:40,03h 50m,01:30,Agra Bypass Rd Kuberpur Bypass
+472,IntrCity SmartBus,INR 1397,4.2,27 Seats available,Bharat Benz A/C Sleeper (2+1),23:55,04h 05m,04:00,Agra toll plaza
+473,R S YADAV SMART BUS PRIVATE LIMITED,INR 799,4.1,48 Seats available,A/C Seater / Sleeper (2+2),21:35,03h 50m,01:25,Agra toll plaza
+474,Fouji travels,INR 699,4.1,47 Seats available,A/C Seater / Sleeper (2+1),22:35,04h 25m,03:00,Kuberpur flyover agra
+475,Laxmi holidays,855,4.0,29 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),21:55,05h 05m,03:00,Agra Bypass Rd
+476,BSS COOL COOL TRAVELS,INR 699,4.0,17 Seats available,A/C Seater / Sleeper (2+1),21:40,04h 10m,01:50,GHODA CHOWK PARTAPUR
+477,Vaishali Expresso Pvt. Ltd.,760,4.0,39 Seats available,A/C Seater / Sleeper (2+2),21:15,04h 15m,01:30,GHODA CHOWK PARTAPUR
+478,Vaishali Expresso Pvt. Ltd.,855,4.0,18 Seats available,A/C Seater / Sleeper (2+1),23:10,04h 00m,03:10,Kuberpur toll plaza agra
+479,Raj Kalpana Travels Pvt.Ltd,INR 900,4.0,19 Seats available,A/C Seater/Sleeper (2+1),21:25,04h 35m,02:00,Bala ji bus servce
+480,PJM TRAVELS,INR 645,3.8,26 Seats available,A/C Seater / Sleeper (2+2),22:00,05h 00m,03:00,Agra
+481,Anshi Raj Shree Travels,INR 799,3.8,45 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),22:15,04h 45m,03:00,"Kuberpur cut, yamuna expressway"
+482,Anshi Raj Shree Travels,INR 1199,3.8,19 Seats available,Bharat Benz A/C Sleeper (2+1),22:15,05h 15m,03:30,Agra By Pass Road (on Highway...
+483,Anshi Raj Shree Travels,INR 999,3.8,32 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),23:30,05h 00m,04:30,"Pratappura choraha,agra"
+484,Khajuraho Travels,INR 796,3.8,38 Seats available,AC Sleeper (2+1),23:32,04h 55m,04:27,Kuber pur toll plaza agra
+485,Ashok Tour And Travels,INR 700,3.8,29 Seats available,A/C Seater / Sleeper (2+1),22:00,05h 00m,03:00,kuberpur flyover Near Toll P...
+486,Khajuraho Travels,INR 946,3.6,45 Seats available,A/C Seater / Sleeper (2+1),23:57,04h 29m,04:26,kuberpur flyover Near Toll P...
+487,E Bus India,1899,3.6,43 Seats available,A/C Seater/Sleeper (2+1),18:00,04h 00m,22:00,Kuber pur toll plaza agra
+488,E Bus India,949,3.6,29 Seats available,A/C Seater/Sleeper (2+1),22:00,04h 30m,02:30,kuberpur flyover Near Toll P...
+489,Shree Raj Akanshi travels,INR 799,3.6,33 Seats available,A/C Seater / Sleeper (2+1),20:20,05h 00m,01:20,Kuber pur toll plaza agra
+490,SAFAR EXPRESS PVT LTD,INR 899,3.6,26 Seats available,A/C Seater / Sleeper (2+1),20:00,04h 45m,00:45,Agra kuberpur toll plaza
+491,Krishna Travels,INR 699,3.6,36 Seats available,A/C Seater / Sleeper (2+2),22:30,04h 00m,02:30,Kuber pur toll plaza agra
+492,SAFAR EXPRESS PVT LTD,INR 899,3.6,47 Seats available,A/C Seater / Sleeper (2+2),19:05,04h 30m,23:35,"Srinath travels,imperial hote..."
+493,Krishna Travels,INR 649,3.6,40 Seats available,A/C Seater / Sleeper (2+2),23:30,05h 44m,05:14,IDGAH BUS STAND
+494,SAFAR EXPRESS PVT LTD,INR 899,3.6,36 Seats available,A/C Seater / Sleeper (2+1),21:50,03h 30m,01:20,Agara
+495,Krishna Travels,INR 799,3.3,50 Seats available,A/C Seater/Sleeper (2+1),21:25,05h 20m,02:45,Agra kuberpur Toll plaza
+496,SAFAR EXPRESS PVT LTD,INR 899,3.5,26 Seats available,A/C Seater / Sleeper (2+1),22:20,04h 15m,02:35,Agra kuberpur Toll plaza
+497,Shri Bawa Lal Tour and Travels,INR 1599,3.2,26 Seats available,A/C Seater / Sleeper (2+1),23:58,04h 31m,04:29,Agra Bypass Rd Kuberpur Bypass
+498,SAFAR EXPRESS PVT LTD,INR 699,3.2,44 Seats available,A/C Seater / Sleeper (2+2),22:30,05h 30m,04:00,Kuberpur Toll Plaza
+499,Goyal Travels,INR 750,3.2,60 Seats available,VE A/C Seater / Sleeper (2+1),22:55,04h 20m,03:15,Kuberpur Toll Plaza
+500,Sethi Yatra Company,INR 799,4.5,63 Seats available,A/C Seater / Sleeper (2+1),21:00,05h 40m,02:40,Agra toll plaza
+501,Tourist Point,INR 599,3.0,48 Seats available,A/C Seater / Sleeper (2+2),23:55,05h 35m,05:30,Agra toll plaza
+502,Jamna Travels (Delhi),INR 699,3.0,48 Seats available,A/C Seater / Sleeper (2+2),21:20,04h 10m,01:30,Jangpura
+503,Jamna Travels (Delhi),INR 749,4.1,44 Seats available,A/C Seater / Sleeper (2+2),23:30,04h 45m,04:15,Jangpura
+504,Gola Bus Service,INR 2499,4.1,24 Seats available,VE A/C Seater / Sleeper (2+1),20:50,04h 25m,01:15,Bus stand Agara
+505,Kashi Vishwanath Tours and Travels,INR 500,2.8,40 Seats available,A/C Seater / Sleeper (2+2),22:29,04h 31m,03:00,Sanjay travels (agra) akruti ...
+506,Kashi Vishwanath Tours and Travels,INR 500,2.8,30 Seats available,A/C Seater / Sleeper (2+2),23:59,04h 31m,04:30,"Pratappura choraha,agra"
+507,Vaishali Expresso Pvt. Ltd.,1425,2.8,34 Seats available,A/C Seater / Sleeper (2+2),22:15,04h 15m,02:30,Kuberpur tall plaza
+508,Vaishali Expresso Pvt. Ltd.,1425,2.7,42 Seats available,A/C Seater / Sleeper (2+1),22:40,04h 40m,03:20,Agara
+509,KST Travels,664,3.8,15 Seats available,A/C Seater / Sleeper (2+2),22:35,04h 00m,02:35,"Shilpa shrinath travels,namne..."
+510,KST Travels,664,2.5,40 Seats available,A/C Seater / Sleeper (2+1),22:20,04h 00m,02:20,Kuberpur toll plaza (yamuna e...
+511,Jain Shiv Shankar Travels,759,2.4,48 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),20:25,05h 00m,01:25,Kuber Pul Toll Plaza
+512,Sanjay Travels,INR 900,2.4,36 Seats available,AC Sleeper (2+1),20:30,05h 00m,01:30,Kuber Pul Toll Plaza
+513,Shree Raj Akanshi travels,INR 2299,2.4,13 Seats available,A/C Sleeper (2+1),23:00,05h 00m,04:00,Kuber Pul Toll Plaza
+514,SN TRAVELS,1620,2.2,32 Seats available,A/C Seater / Sleeper (2+2),22:40,04h 10m,02:50,Kuber Pur Toll Tax
+515,Varun Travels,INR 999,2.2,33 Seats available,A/C Sleeper (2+1),23:30,05h 30m,05:00,Kuber Pur Toll Tax
+516,SHREE MARUTIKRUPA TRAVELS AND CARGO,665,2.2,31 Seats available,A/C Seater / Sleeper (2+1),19:30,06h 30m,02:00,Agara
+517,Shri Siddhi Vinayak Travels,629,2.2,27 Seats available,A/C Seater / Sleeper (2+1),23:30,04h 30m,04:00,Kuber pur toll plaza agra
+518,New India Travels,INR 1299,2.1,34 Seats available,A/C Seater / Sleeper (2+2),23:00,0-16h 00m,07:00,Hotel neelkanth near new agra...
+519,New India Travels,INR 599,2.1,40 Seats available,A/C Seater/Sleeper (2+1),23:59,04h 06m,04:05,Namner Chauraha Near Eid gah ...
+520,New India Travels,INR 899,1.9,25 Seats available,A/C Seater / Sleeper (2+2),23:40,06h 15m,05:55,Kuberpur Toll Plaza
+521,New India Travels,INR 749,3.6,58 Seats available,A/C Seater / Sleeper (2+2),23:55,02h 05m,02:00,"Shrinath travels,imperial hot..."
+522,ROYAL TRAVELS AND CARGO,INR 696,3.6,34 Seats available,A/C Seater / Sleeper (2+2),23:59,03h 01m,03:00,"Shrinath travels,imperial hot..."
+523,ROYAL TRAVELS AND CARGO,INR 696,3.3,36 Seats available,A/C Seater / Sleeper (2+2),23:00,03h 00m,02:00,GHODA CHOWK PARTAPUR
+524,Shakmbhari Travels,INR 694,3.3,34 Seats available,A/C Seater / Sleeper (2+1),22:45,05h 15m,04:00,GHODA CHOWK PARTAPUR
+525,SAFAR EXPRESS PVT LTD,INR 1299,3.2,30 Seats available,A/C Seater / Sleeper (2+1),23:00,04h 45m,03:45,Ghoda Chowk Partapur Circle A...
+526,Sanskar Travels,INR 3174.29,3.2,19 Seats available,A/C Seater / Sleeper (2+1),22:30,04h 30m,03:00,Bus stand Agara
+527,GK Travels,INR 1799,3.2,36 Seats available,A/C Sleeper (2+1),22:45,06h 15m,05:00,Ghoda Chowk Partapur Circle A...
+528,Kashi Vishwanath Tours and Travels,INR 500,2.9,36 Seats available,A/C Seater / Sleeper (2+2),22:30,03h 30m,02:00,Bus stand Agara
+529,GODARA TRAVELS,INR 999,2.9,36 Seats available,A/C Seater / Sleeper (2+1),23:35,04h 20m,03:55,Maa Kaila Travels
+530,Hans Travels (I) Private Limited,INR 500,2.9,40 Seats available,NON A/C Sleeper (2+1),18:45,05h 00m,23:45,Agara
+531,GODARA TRAVELS,INR 1599,2.9,25 Seats available,AC Sleeper (2+1),23:25,04h 20m,03:45,"G.S.plaza Nagla Rambakhh,kube..."
+532,Gorakhdham Express Bus Service,INR 965,2.8,34 Seats available,A/C Seater / Sleeper (2+2),18:00,05h 55m,23:55,"G.S.plaza Nagla Rambakhh,kube..."
+533,Star City Bus,INR 1599,2.8,33 Seats available,A/C Seater / Sleeper (2+2),20:25,03h 15m,23:40,Agra Bypass Rd
+534,LATSAHIB BHAWANI TOUR AND TRAVELS,1295,2.8,52 Seats available,Bharat Benz A/C Sleeper (2+1),22:45,06h 30m,05:15,Shilpa shrinath travels
+535,LATSAHIB BHAWANI TOUR AND TRAVELS,739,2.8,36 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),20:30,06h 00m,02:30,Agra Kuberpur By pass
+536,Panwar Travels,INR 2500,2.2,45 Seats available,A/C Seater / Sleeper (2+1),21:00,05h 10m,02:10,
+537,Jain Shiv Shankar Travels,1329,2.0,,A/C Sleeper (2+1),19:35,05h 00m,00:35,
+538,Panwar Travels,INR 2500,1.9,,A/C Sleeper (2+1),21:45,03h 35m,01:20,
+539,Jain Shiv Shankar Travels,1329,1.7,,A/C Sleeper (2+1),23:30,05h 00m,04:30,
+540,janta shatabdi travels,618,1.5,,A/C Seater / Sleeper (2+1),21:30,05h 00m,02:30,
+541,RYS Travels,1202,1.5,,Bharat Benz A/C Seater / Sleeper (2+2),19:00,04h 30m,23:30,
+542,Shakmbhari Travels,INR 794,1.6,,Bharat Benz A/C Seater /Sleeper (2+1),21:45,05h 15m,03:00,
+543,Maan Travels,INR 1050,1.2,,NON AC Seater / Sleeper 2+1,17:30,06h 25m,23:55,
+544,Panwar tour and Travels,INR 999,1.3,,A/C Seater / Sleeper (2+2),22:00,06h 45m,04:45,
+545,Panwar tour and Travels,INR 1186,1.2,,A/C Seater / Sleeper (2+2),21:45,05h 45m,03:30,
+546,Baba Khatushyam Travels Pvt Ltd,INR 1199,1.1,,A/C Seater / Sleeper (3+1),20:00,09h 00m,05:00,
+547,Shree Balajee Travels And Cargo,INR 1650,1.0,,NON A/C Seater/ Sleeper (2+1),21:30,0-19h 00m,02:30,
+548,Maa Laxmi Bihar Express,INR 1000,,,Non A/C Seater / Sleeper (2+1),17:30,05h 00m,22:30,
+549,Shree Balajee Travels And Cargo,INR 2000,,,A/C Seater / Sleeper (2+1),18:00,05h 30m,23:30,
+550,Kusum Travels and Logistics,INR 2200,,,NON A/C Sleeper (2+1),21:30,04h 00m,01:30,
+551,United Manjushree tours and Travels,INR 2000,,,A/C Seater Push Back (2+2),23:00,04h 00m,03:00,
+552,Sethi Yatra Company,INR 700,4.4,8 Seats available,A/C Seater/Sleeper (2+1),22:30,07h 25m,05:55,Alam Bagh Nehariya Chauraha
+553,Mahalaxmi Travels,INR 399,4.0,25 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),23:15,06h 30m,05:45,Behind Awadh Hospital Alambag...
+554,Yolo Bus,INR 599,3.8,24 Seats available,A/C Sleeper (2+1),22:19,07h 24m,05:43,Alambagh
+555,Goyal Travels,INR 500,2.1,22 Seats available,A/C Seater / Sleeper (2+1),23:49,06h 31m,06:20,Mahalaxmi travels behind awad...
+556,Golden Holidays,INR 449,2.6,23 Seats available,A/C Seater / Sleeper (2+1),21:50,07h 30m,05:20,Alambagh
+557,Crystal Bus Service,INR 430,,34 Seats available,A/C Seater / Sleeper (2+1),22:00,06h 59m,04:59,Alambagh
+558,FlixBus,INR 228,4.7,21 Seats available,A/C Seater (2+2),09:00,03h 45m,12:45,Morigate
+559,Fasttrack Travels,699,4.7,37 Seats available,VE A/C Seater / Sleeper (2+2),11:00,05h 30m,16:30,Isbt kashmiri gate metro stat...
+560,Fasttrack Travels,INR 799,4.4,35 Seats available,A/C Seater/Sleeper (2+1),21:20,04h 40m,02:00,Rs yadav bus parking near chi...
+561,R S YADAV SMART BUS PRIVATE LIMITED,759,4.4,45 Seats available,A/C Seater / Sleeper (2+1),22:00,04h 25m,02:25,Munirka bharat petrol pump
+562,R S YADAV SMART BUS PRIVATE LIMITED,INR 749,3.0,49 Seats available,VE A/C Sleeper (2+1),22:15,04h 00m,02:15,Majnu Ka Tilla
+563,Satlok express,INR 799,3.0,43 Seats available,AC Seater (2+2),22:15,04h 01m,02:16,Majnu Ka Tilla
+564,Satlok express,INR 699,3.0,39 Seats available,AC Seater (2+2),22:30,04h 01m,02:31,Munirka
+565,Satlok express,INR 800,4.3,36 Seats available,A/C Seater / Sleeper (2+1),22:45,04h 01m,02:46,Majnu Ka Tilla
+566,India Tours & Travels (GetBookCab),782,3.0,17 Seats available,A/C Seater / Sleeper (2+2),23:00,04h 00m,03:00,Delhi Kashmere Gate (FlixBus ...
+567,Satlok express,INR 499,3.0,61 Seats available,A/C Seater / Sleeper (2+1),23:00,04h 01m,03:01,Majnu Ka Tilla
+568,FlixBus,INR 489,1.7,47 Seats available,A/C Seater (2+2),23:15,03h 25m,02:40,Kashmere Gate
+569,Satlok express,INR 665.71,2.2,43 Seats available,A/C Seater / Sleeper (2+2),23:20,04h 01m,03:21,Kashmere Gate
+570,VIP LUXURY TRIPS,494,4.7,29 Seats available,A/C Seater / Sleeper (2+2),10:30,05h 20m,15:50,ISBT Kashmiri Gate
+571,VIP LUXURY TRIPS,539,3.8,37 Seats available,A/C Seater / Sleeper (2+2),22:15,04h 30m,02:45,Munirka
+572,VIP LUXURY TRIPS,539,4.7,41 Seats available,A/C Seater / Sleeper (2+2),22:30,04h 30m,03:00,Dhaula Kuan
+573,Go Devbhoomi Tours and Travels,INR 499,3.8,30 Seats available,A/C Sleeper (2+1),22:45,05h 25m,04:10,Anand Vihar
+574,India Tours & Travels (GetBookCab),INR 634,4.7,40 Seats available,A/C Seater / Sleeper (2+2),23:00,01h 55m,00:55,Morigate
+575,Vijay Tour and Travels,INR 699,4.7,26 Seats available,Volvo A/C Semi Sleeper (2+2),23:40,03h 40m,03:20,Anand Vihar
+576,International Tourist Centre,INR 899,4.7,40 Seats available,A/C Seater Push Back (2+2),13:30,03h 30m,17:00,ISBT Kashmiri Gate
+577,Rahul Travels,INR 826,1.4,37 Seats available,AshokLeyland Stile A/C,21:00,03h 30m,00:30,ISBT Kashmiri Gate
+578,Fasttrack Travels,INR 1199,2.3,33 Seats available,A/C Seater/Sleeper (2+1),21:20,04h 40m,02:00,ISBT Kashmiri Gate
+579,Rahul Travels,INR 826,1.4,38 Seats available,AshokLeyland Stile A/C,21:30,03h 00m,00:30,Mahipalpur Near Igi Airpot
+580,International Tourist Centre,INR 999,2.4,36 Seats available,VE A/C Seater / Sleeper (2+1),22:15,04h 25m,02:40,KASHMIRE GATE No04 NEAR HP PE...
+581,International Tourist Centre,INR 999,2.9,24 Seats available,VE A/C Seater / Sleeper (2+1),22:25,04h 20m,02:45,Mahipalpur Near Igi Airpot
+582,Fasttrack Travels,INR 999,,40 Seats available,VE A/C Seater / Sleeper (2+2),22:30,03h 30m,02:00,Delhi airport
+583,RAO SAHAB TRAVELS PRIVATE LIMITED,INR 1199,,30 Seats available,A/C Seater / Sleeper (2+1),20:30,04h 35m,01:05,ISBT Kashmiri Gate
+584,ROYAL SAFARI INDIA TRAVELS,899,,,A/C Semi Sleeper (2+2),22:30,04h 00m,02:30,
+585,RAO SAHAB TRAVELS PRIVATE LIMITED,INR 999,,,A/C Seater / Sleeper (2+1),22:33,04h 35m,03:08,
+586,Shri Krishna Bus Service,1899,,,A/C Seater / Sleeper (2+1),23:01,03h 12m,02:13,
+587,Shree Hare Rama Travels,949,,,A/C Semi Sleeper (2+2),23:55,03h 35m,03:30,
+588,Chaturvedi Bus Service,INR 670,1.8,51 Seats available,NON A/C Seater/ Sleeper (2+1),22:00,05h 30m,03:30,India Gate
+589,Chaturvedi Bus Service,INR 670,1.8,45 Seats available,NON AC Seater / Sleeper 2+1,21:00,05h 30m,02:30,India Gate
+590,Chaturvedi Bus Service,INR 520,1.8,51 Seats available,NON A/C Seater/ Sleeper (2+1),19:30,08h 30m,04:00,Moti Nagar
+591,Chaturvedi Bus Service,INR 570,1.8,48 Seats available,A/C Seater / Sleeper (2+1),20:40,07h 20m,04:00,Loni Kacha Balram Nagar
+592,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),INR 899,3.7,16 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),20:00,08h 30m,04:30,Agara
+593,PTC-SKYBUS,INR 999,4.5,25 Seats available,VE A/C Seater / Sleeper (2+1),22:50,07h 00m,05:50,kuberpur Agra
+594,Tamanna Travels,INR 951.43,3.5,24 Seats available,AC Sleeper (2+1),23:00,08h 45m,07:45,Sheetal longe new sanjay travels
+595,Mahalaxmi Travels,INR 1299,2.7,31 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),22:15,08h 15m,06:30,kuberpur Agra
+596,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),INR 1249,4.1,7 Seats available,A/C Seater/Sleeper (2+1),23:59,07h 31m,07:30,Agara
+597,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),INR 1199,4.8,4 Seats available,VE A/C Seater / Sleeper (2+1),21:20,09h 10m,06:30,kuberpur by pass agra
+598,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),INR 1499,3.7,36 Seats available,A/C Sleeper (2+2),23:55,08h 15m,08:10,kuberpur by pass agra
+599,Shrinath Travels Gwalior,INR 600,3.8,24 Seats available,NON A/C Sleeper (2+1),23:30,08h 30m,08:00,Opp Imperial Hotel MG Road
+600,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),INR 899,3.2,25 Seats available,A/C Seater/Sleeper (2+1),21:00,09h 00m,06:00,Agara
+601,Kalpana Travel Gwalior,950,2.3,20 Seats available,A/C Sleeper (2+1),23:30,09h 00m,08:30,Hans Travels Mg Road
+602,DIVYANSHU TRAVELS,854,1.0,38 Seats available,A/C Sleeper (2+2),23:05,08h 00m,07:05,Bhagwan Takij
+603,KN Nehra Travels,INR 999,3.0,20 Seats available,A/C Seater / Sleeper (2+1),23:55,07h 05m,07:00,Yamuna Expressway
+604,Radhika Travels,INR 1150,2.5,16 Seats available,A/C Seater/Sleeper (2+1),20:30,09h 15m,05:45,Near water tank Chipitola
+605,New sanjay travels,INR 700,1.1,33 Seats available,A/C Seater / Sleeper (2+1),20:30,08h 50m,05:20,NEW SANJAY TRAVELS IDGAH BUS ...
+606,UPSRTC - STD0072,INR 955,4.3,33 Seats available,Janrath AC Seater 2+2,20:30,09h 15m,05:45,SITAPUR
+607,UPSRTC - SBD0047,INR 955,2.6,39 Seats available,Pink Express AC Seater 2+2,21:00,09h 00m,06:00,SITAPUR
+608,UPSRTC - SBD0093,INR 955,2.6,35 Seats available,Janrath AC Seater 2+2,22:40,08h 20m,07:00,SITAPUR
+609,UPSRTC - SBD0055,INR 955,2.9,41 Seats available,Pink Express AC Seater 2+2,23:30,09h 30m,09:00,SITAPUR
+610,UPSRTC - AWD0116,INR 827,2.1,48 Seats available,Janrath AC Seater 2+3,21:30,10h 00m,07:30,SITAPUR
+611,UPSRTC - BRT0064,INR 697,3.3,52 Seats available,Ordinary Non AC Seater 2+3,10:10,10h 50m,21:00,SITAPUR
+612,UPSRTC - STD0049,INR 666,3.3,51 Seats available,Ordinary Non AC Seater 2+3,17:41,11h 13m,04:54,SITAPUR
+613,UPSRTC - LNI0017,INR 666,3.3,52 Seats available,Rajdhani Non AC Seater 2+3,18:01,08h 59m,03:00,SITAPUR
+614,UPSRTC - BRT0066,INR 697,3.3,52 Seats available,Ordinary Non AC Seater 2+3,21:40,10h 55m,08:35,SITAPUR
+615,UPSRTC - BRT0007,INR 697,3.3,52 Seats available,Ordinary Non AC Seater 2+3,17:10,10h 50m,04:00,SITAPUR
+616,UPSRTC - STD0050,INR 666,3.3,52 Seats available,Ordinary Non AC Seater 2+3,18:11,11h 13m,05:24,SITAPUR
+617,UPSRTC - BRT0037,INR 698,3.3,52 Seats available,Ordinary Non AC Seater 2+3,21:10,10h 50m,08:00,SITAPUR
+618,UPSRTC - STD0356,INR 697,,52 Seats available,Ordinary Non AC Seater 2+3,18:46,11h 17m,06:03,SITAPUR
+619,UPSRTC - STD0368,INR 697,,52 Seats available,Ordinary Non AC Seater 2+3,17:34,11h 06m,04:40,SITAPUR
+620,UPSRTC - STD0245,INR 697,,52 Seats available,Ordinary Non AC Seater 2+3,15:25,12h 01m,03:26,SITAPUR
+621,UPSRTC - STD0237,INR 697,,52 Seats available,Ordinary Non AC Seater 2+3,14:55,12h 01m,02:56,SITAPUR
+622,UPSRTC - STD0354,INR 697,,52 Seats available,Ordinary Non AC Seater 2+3,17:12,10h 30m,03:42,SITAPUR
+623,UPSRTC - STD0296,INR 697,,52 Seats available,Ordinary Non AC Seater 2+3,18:30,12h 01m,06:31,SITAPUR
+624,UPSRTC - STD0144,INR 697,,52 Seats available,Ordinary Non AC Seater 2+3,19:00,11h 30m,06:30,SITAPUR
+625,UPSRTC - STD0163,INR 697,,,Ordinary Non AC Seater 2+3,17:31,11h 54m,05:25,
+626,Sethi Yatra Company,INR 699,4.5,17 Seats available,A/C Seater/Sleeper (2+1),22:00,08h 00m,06:00,Shubham Travels Near hotel ci...
+627,Mahalaxmi Travels,INR 399,3.9,18 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),22:30,07h 30m,06:00,Modila Chandpur Circle Varanasi
+628,Yolo Bus,INR 599,3.7,22 Seats available,A/C Sleeper (2+1),22:15,07h 34m,05:49,Lahartara Chauraha police cha...
+629,Mahalaxmi Travels,INR 999,3.4,22 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),19:00,06h 30m,01:30,Modila Chandpur Circle Varanasi
+630,Mahalaxmi Travels,INR 999,3.1,26 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),17:00,06h 45m,23:45,Varanasi (U.P.)
+631,Vijay Tour and Travels,INR 899,4.3,34 Seats available,A/C Seater / Sleeper (2+1),16:00,06h 20m,22:20,Laher Tara Chauraha Fulwariya...
+632,Raj Kalpana Travels Pvt.Ltd,INR 1500,3.3,30 Seats available,A/C Sleeper (2+1),17:20,06h 10m,23:30,TIWARI TRAVELS
+633,Khajuraho Travels,INR 1046,3.7,,A/C Seater / Sleeper (2+1),18:00,05h 50m,23:50,
+634,Sethi Yatra Company,INR 610,2.2,,A/C Seater/Sleeper (2+1),16:15,07h 30m,23:45,
+635,HIGHWAY STAR TRAVEL & CARGO,832,2.1,,A/C Seater / Sleeper (2+1),17:05,07h 10m,00:15,
+636,SAFAR EXPRESS PVT LTD,INR 899,3.8,,A/C Seater / Sleeper (2+1),16:05,07h 25m,23:30,
+637,Raj Kalpana Travels Pvt.Ltd,INR 1062,4.0,,A/C Seater/Sleeper (2+1),20:00,05h 30m,01:30,
+638,Goyal Travels,INR 999,2.7,,VE A/C Seater / Sleeper (2+1),16:00,07h 25m,23:25,
+639,Choudhary travels and cargo,INR 699,2.6,,A/C Volvo B11R Multi-Axle Sleeper (2+1),22:30,06h 30m,05:00,
+640,New Khaira TPT,INR 900,3.0,16 Seats available,AC Sleeper (2+1),20:30,06h 20m,02:50,Anand Vihar
+641,New Khaira Transport,INR 500,2.1,37 Seats available,A/C Seater / Sleeper (2+2),21:00,06h 30m,03:30,Anand Vihar
+642,New Khaira Transport,INR 700,2.7,12 Seats available,A/C Seater / Sleeper (2+1),20:40,06h 50m,03:30,Anand Vihar
+643,Rahul Travels,INR 826,1.8,12 Seats available,AshokLeyland Stile A/C,21:30,06h 00m,03:30,Anand Vihar
+644,Rahul Travels,INR 826,1.9,28 Seats available,AshokLeyland Stile A/C,21:00,05h 30m,02:30,Anand Vihar
+645,R S YADAV SMART BUS PRIVATE LIMITED,INR 749,4.4,35 Seats available,VE A/C Sleeper (2+1),22:15,06h 00m,04:15,Rs yadav bus parking near chi...
+646,SHRI RAM TRAVELS,INR 740,2.8,17 Seats available,A/C Seater (2+2),22:45,06h 00m,04:45,Kaushambhi Delhi
+647,Jaiswal Tour and Travels,INR 700,1.7,52 Seats available,A/C Seater/Sleeper (2+1),20:30,06h 00m,02:30,Anand Vihar( 1 Number Parking)
+648,New Khaira TPT,INR 550,3.0,44 Seats available,A/C Seater / Sleeper (2+2),21:00,06h 00m,03:00,Anand Vihar
+649,SHRI RAM TRAVELS,INR 705,3.1,16 Seats available,A/C Seater (2+2),21:20,05h 55m,03:15,Kaushambhi Delhi
+650,Jaiswal Tour and Travels,INR 1200,1.7,30 Seats available,A/C Sleeper (2+1),21:00,06h 00m,03:00,Anand Vihar( 1 Number Parking)
+651,Jaiswal Tour and Travels,INR 1650,1.7,30 Seats available,A/C Sleeper (2+1),20:45,06h 00m,02:45,Anand Vihar( 1 Number Parking)
+652,UPSRTC - ALI0007,INR 263,4.0,,Janrath AC Seater 2+3,12:30,03h 00m,15:30,
+653,UPSRTC - ALI0010,INR 304,2.6,,Janrath AC Seater 2+2,15:00,03h 00m,18:00,
+654,UPSRTC - ALI0063,INR 304,2.6,,Janrath AC Seater 2+2,12:58,03h 02m,16:00,
+655,UPSRTC - BDV0003,INR 304,1.5,,Janrath AC Seater 2+2,14:00,03h 00m,17:00,
+656,UPSRTC - BDV0026,INR 203,3.3,,Ordinary Non AC Seater 2+3,10:45,03h 00m,13:45,
+657,UPSRTC - BDV0025,INR 203,3.3,,Ordinary Non AC Seater 2+3,10:30,03h 00m,13:30,
+658,UPSRTC - ALI0054,INR 203,3.3,,Ordinary Non AC Seater 2+3,09:40,03h 00m,12:40,
+659,UPSRTC - ALI0055,INR 203,3.3,,Ordinary Non AC Seater 2+3,09:55,03h 00m,12:55,
+660,UPSRTC - ALI0053,INR 203,3.3,,Ordinary Non AC Seater 2+3,09:10,03h 00m,12:10,
+661,Samay Shatabdi Travels Pvt Ltd,INR 1300,3.9,20 Seats available,NON AC Seater / Sleeper 2+1,16:00,05h 30m,21:30,Opp fazalganj police station ...
+662,SAFAR EXPRESS PVT LTD,INR 1200,3.8,32 Seats available,A/C Seater / Sleeper (2+1),18:20,05h 15m,23:35,Samay shatabdi by side of ban...
+663,Hans Travels (I) Private Limited,INR 1000,3.2,42 Seats available,NON A/C Sleeper (2+1),18:30,05h 00m,23:30,Samayshatabdi terminal behind...
+664,Kamla Kalpana Travels,INR 800,3.1,7 Seats available,A/C Sleeper (2+1),18:30,05h 00m,23:30,Faizalganj
+665,Samay Shatabdi Travels Pvt Ltd,INR 800,3.9,21 Seats available,NON AC Seater / Sleeper 2+1,18:30,05h 20m,23:50,Kanpur Kalpana travels Pvt. L...
+666,Samay Shatabdi Travels Pvt Ltd,INR 1300,3.9,19 Seats available,NON AC Seater / Sleeper 2+1,19:00,05h 30m,00:30,Samay shatabdi by side of ban...
+667,Samay Shatabdi Travels Pvt Ltd,INR 799,4.2,23 Seats available,AC Sleeper (2+1),19:00,04h 57m,23:57,Faizalganj
+668,Samay Shatabdi Travels Pvt Ltd,INR 400,3.9,15 Seats available,NON AC Seater / Sleeper 2+1,20:00,05h 28m,01:28,Naubasta Chowraha
+669,Hans Travels (I) Private Limited,INR 1300,3.2,17 Seats available,A/C Sleeper (2+1),20:00,03h 50m,23:50,kalpana travels pvt ltd 123/...
+670,Hans Travels (I) Private Limited,INR 1000,3.2,14 Seats available,NON A/C Sleeper (2+1),20:00,03h 40m,23:40,Faizalganj
+671,Samay Shatabdi Travels Pvt Ltd,INR 1199,3.9,34 Seats available,NON AC Seater / Sleeper 2+1,21:01,03h 15m,00:16,"Durga Travels 123/489, Fazalg..."
+672,Samreen Travels,INR 1200,3.7,30 Seats available,AC Sleeper (2+1),21:30,04h 25m,01:55,Samay shatabdi by side of ban...
+673,Babu Travels,INR 999,4.6,32 Seats available,NON A/C Seater / Sleeper (3+1),21:30,04h 15m,01:45,"Hans travels ,60 factory betw..."
+674,Samay Shatabdi Travels Pvt Ltd,INR 849,3.8,5 Seats available,AC Sleeper (2+1),22:00,04h 20m,02:20,Kanpur: Rama Devi Chauraha
+675,Shatabdi Travels,INR 949,3.1,5 Seats available,Bharat Benz A/C Sleeper (2+1),22:00,04h 00m,02:00,Infront of police station Faj...
+676,Anshi Raj Shree Travels,INR 1399,4.1,20 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),23:30,03h 45m,03:15,Rama Devi Chowraha
+677,Sanskar Travels,INR 999,3.6,,VE A/C Seater / Sleeper (2+1),23:59,04h 01m,04:00,
+678,Pitambra Travels,INR 1000,2.2,,NON A/C Sleeper (2+1),14:30,05h 00m,19:30,
+679,Kamla Travels,INR 600,2.6,,NON A/C Sleeper (2+1),14:30,06h 00m,20:30,
+680,Kamla Kalpana Travels,INR 750,2.6,,Non A/C Seater / Sleeper (2+1),16:00,06h 00m,22:00,
+681,New Sahara Travels,INR 900,2.8,,NON A/C Sleeper (2+1),17:30,06h 15m,23:45,
+682,Pitambra Travels,INR 1100,2.2,,NON A/C Sleeper (2+1),17:30,04h 30m,22:00,
+683,Betwa Tourist Bus service,INR 1200,2.0,,NON A/C Sleeper (2+1),19:41,03h 50m,23:31,
+684,Jai Shrinath Ji Ki ® Travels,INR 700,2.5,,A/C Sleeper (2+1),21:00,04h 30m,01:30,
+685,Rajput Travels,665,1.6,,Non A/C Seater / Sleeper (2+1),23:00,06h 30m,05:30,
+686,Raj Kalpana Travels Pvt.Ltd,INR 1600,4.2,,A/C Sleeper (2+1),18:15,05h 15m,23:30,
+687,Samay Shatabdi Travels Pvt Ltd,INR 2199,3.8,,AC Sleeper (2+1),21:30,04h 49m,02:19,
+688,Hans Travels (I) Private Limited,INR 1500,3.2,,A/C Sleeper (2+2),23:13,03h 45m,02:58,
+689,Raj Ratan Tours And Travels,INR 1699,4.2,,Bharat Benz A/C Sleeper (2+1),23:55,04h 05m,04:00,
+690,Raj Ratan Tours And Travels,INR 1699,2.0,,Bharat Benz A/C Sleeper (2+1),23:15,04h 30m,03:45,
+691,Kamla Kalpana Travels,INR 1800,2.6,,A/C Sleeper (2+1),23:55,03h 35m,03:30,
+692,R S YADAV SMART BUS PRIVATE LIMITED,INR 749,4.4,35 Seats available,VE A/C Sleeper (2+1),22:15,07h 00m,05:15,Rs yadav bus parking near chi...
+693,Bihar state road transport corporation (BSRTC) - 117804,INR 600,3.3,18 Seats available,Volvo A/C Sleeper (2+1),16:30,03h 45m,20:15,Delhi Kashmere Gate (FlixBus ...
+694,NueGo,332,3.9,44 Seats available,Electric A/C Seater (2+2),08:05,04h 10m,12:15,Sarai Kale Khan
+695,NueGo,332,3.4,43 Seats available,Electric A/C Seater (2+2),08:25,04h 30m,12:55,RK Ashram
+696,NueGo,332,4.0,17 Seats available,Electric A/C Seater (2+2),09:00,04h 50m,13:50,Anand Vihar
+697,FlixBus,INR 238,3.9,23 Seats available,A/C Seater (2+2),11:00,04h 40m,15:40,Delhi Kashmere Gate (FlixBus ...
+698,NueGo,332,3.9,41 Seats available,Electric A/C Seater (2+2),11:00,04h 50m,15:50,ISBT Kashmiri Gate
+699,NueGo,332,3.1,60 Seats available,Electric A/C Seater (2+2),13:00,04h 50m,17:50,Morigate
+700,NueGo,333,3.5,36 Seats available,Electric A/C Seater (2+2),14:00,04h 50m,18:50,ISBT Kashmiri Gate
+701,NueGo,332,3.1,26 Seats available,Electric A/C Seater (2+2),15:00,04h 30m,19:30,Morigate
+702,NueGo,332,3.8,31 Seats available,Electric A/C Seater (2+2),16:00,04h 50m,20:50,ISBT Kashmiri Gate
+703,NueGo,332,3.3,34 Seats available,Electric A/C Seater (2+2),17:00,04h 30m,21:30,Shop No 19/20 Khoya Mandi
+704,NueGo,314,3.3,45 Seats available,Electric A/C Seater (2+2),18:00,05h 15m,23:15,Morigate
+705,FlixBus,INR 186,4.7,29 Seats available,A/C Sleeper (2+1),18:30,04h 20m,22:50,ISBT Kashmiri Gate
+706,NueGo,332,3.1,33 Seats available,Electric A/C Seater (2+2),19:00,04h 30m,23:30,Morigate
+707,FlixBus,INR 464,3.5,36 Seats available,A/C Sleeper (2+1),19:20,04h 20m,23:40,ISBT Kashmiri Gate
+708,FlixBus,INR 186,2.3,41 Seats available,A/C Sleeper (2+1),19:30,04h 55m,00:25,Anand Vihar
+709,NueGo,332,2.4,14 Seats available,Electric A/C Seater (2+2),20:35,04h 20m,00:55,ISBT Kashmiri Gate
+710,NueGo,314,2.4,25 Seats available,Electric A/C Seater (2+2),21:00,04h 50m,01:50,Shop No 19/20 Khoya Mandi
+711,FlixBus,INR 224,2.4,36 Seats available,A/C Sleeper (2+1),22:30,03h 55m,02:25,ISBT Kashmiri Gate
+712,FlixBus,INR 312,2.4,24 Seats available,A/C Seater (2+2),23:00,04h 00m,03:00,Khajuraho travels
+713,NueGo,332,2.4,29 Seats available,Electric A/C Seater (2+2),23:55,04h 30m,04:25,ISBT Kashmiri Gate
+714,ROYAL SAFARI INDIA TRAVELS,539,2.4,23 Seats available,A/C Seater Push Back (2+2),08:00,03h 30m,11:30,Mahipalpur
+715,Taj Express Bus Service Pvt Ltd,INR 300,2.4,37 Seats available,Non AC Seater (2+2),08:00,03h 00m,11:00,Rs yadav bus parking near cro...
+716,Taj Express Bus Service Pvt Ltd,INR 300,2.4,48 Seats available,Non AC Seater (2+2),09:30,03h 00m,12:30,ISBT Kashmiri Gate
+717,Taj Express Bus Service Pvt Ltd,INR 300,2.4,19 Seats available,Non AC Seater (2+2),10:00,03h 00m,13:00,ISBT Kashmiri Gate
+718,Taj Express Bus Service Pvt Ltd,INR 449,2.4,46 Seats available,Non AC Seater (2+2),10:30,03h 00m,13:30,ISBT Kashmiri Gate
+719,Taj Express Bus Service Pvt Ltd,INR 449,1.2,29 Seats available,Non AC Seater (2+2),11:00,03h 00m,14:00,Anand Vihar
+720,Taj Express Bus Service Pvt Ltd,INR 300,2.4,8 Seats available,Non AC Seater (2+2),11:30,03h 00m,14:30,ISBT Kashmiri Gate
+721,Taj Express Bus Service Pvt Ltd,INR 300,2.4,31 Seats available,Non AC Seater (2+2),11:55,03h 00m,14:55,Shop no 20-21 opposite metro ...
+722,Taj Express Bus Service Pvt Ltd,INR 449,2.4,23 Seats available,Non AC Seater (2+2),12:30,03h 00m,15:30,ISBT Kashmiri Gate
+723,Taj Express Bus Service Pvt Ltd,INR 300,2.4,17 Seats available,Non AC Seater (2+2),13:00,03h 00m,16:00,ISBT Kashmiri Gate
+724,Taj Express Bus Service Pvt Ltd,INR 300,2.4,48 Seats available,Non AC Seater (2+2),13:30,03h 00m,16:30,ISBT Kashmiri Gate
+725,Royal Star Travels,INR 900,3.8,37 Seats available,AC Seater (2+2),14:00,05h 00m,19:00,Anand Vihar
+726,Taj Express Bus Service Pvt Ltd,INR 449,3.8,25 Seats available,Non AC Seater (2+2),14:00,03h 00m,17:00,Kashmiri gate metro station g...
+727,Taj Express Bus Service Pvt Ltd,INR 300,3.8,34 Seats available,Non AC Seater (2+2),15:00,03h 00m,18:00,ISBT Kashmiri Gate
+728,Taj Express Bus Service Pvt Ltd,INR 300,3.8,33 Seats available,Non AC Seater (2+2),15:30,03h 00m,18:30,Anand Vihar
+729,Taj Express Bus Service Pvt Ltd,INR 300,3.4,38 Seats available,Non AC Seater (2+2),16:00,03h 00m,19:00,ISBT Kashmiri Gate
+730,Taj Express Bus Service Pvt Ltd,INR 300,4.4,33 Seats available,Non AC Seater (2+2),17:00,03h 00m,20:00,Morigate
+731,FlixBus,INR 186,3.8,33 Seats available,A/C Seater (2+2),10:00,05h 30m,15:30,Shop no.19 near mandir vali p...
+732,Raj Kalpana Travels Pvt.ltd.,INR 649,4.4,34 Seats available,VE A/C Seater (2+2),11:00,03h 30m,14:30,Shop No 19/20 Khoya Mandi
+733,BT Travels,INR 749,3.4,29 Seats available,VE A/C Seater / Sleeper (2+1),11:20,03h 40m,15:00,ISBT Kashmiri Gate
+734,E Bus India,1799,4.2,63 Seats available,A/C Seater/Sleeper (2+1),14:00,04h 00m,18:00,Morigate
+735,SAFAR EXPRESS PVT LTD,INR 899,3.9,38 Seats available,A/C Seater / Sleeper (2+1),16:05,03h 55m,20:00,Anand Vihar
+736,Laxmi holidays,950,4.0,42 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),16:30,04h 30m,21:00,Anand Vihar
+737,R S YADAV SMART BUS PRIVATE LIMITED,INR 799,4.0,36 Seats available,A/C Seater / Sleeper (2+2),16:30,05h 05m,21:35,ISBT Kashmiri Gate
+738,Travel Express,INR 2799,3.3,32 Seats available,AC Seater (2+2),17:00,03h 25m,20:25,ISBT Kashmiri Gate
+739,SAFAR EXPRESS PVT LTD,INR 1000,4.2,34 Seats available,AC Sleeper (2+1),17:00,03h 40m,20:40,Shop no 20-21 opposite metro ...
+740,R S YADAV SMART BUS PRIVATE LIMITED,INR 1099,3.4,36 Seats available,A/C Seater / Sleeper (2+1),17:00,04h 40m,21:40,ISBT Kashmiri Gate
+741,Laxmi holidays,798,4.2,46 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),17:00,04h 30m,21:30,Anand Vihar
+742,BSS COOL COOL TRAVELS,INR 800,3.9,41 Seats available,VE A/C Sleeper (2+1),17:00,03h 30m,20:30,ISBT Kashmiri Gate
+743,Raj Kalpana Travels Pvt.Ltd,INR 1600,4.1,25 Seats available,A/C Sleeper (2+1),17:15,04h 00m,21:15,ISBT Kashmiri Gate
+744,Gola Bus Service,INR 1299,4.0,22 Seats available,VE A/C Sleeper (2+1),17:20,03h 40m,21:00,ISBT Kashmiri Gate
+745,Gola Bus Service,INR 2499,3.8,34 Seats available,VE A/C Seater / Sleeper (2+1),17:20,03h 30m,20:50,Delhi Kashmere Gate (FlixBus ...
+746,Hans Travels (I) Private Limited,INR 1000,3.2,29 Seats available,A/C Sleeper (2+1),17:30,04h 00m,21:30,ISBT Kashmiri Gate
+747,BSS COOL COOL TRAVELS,INR 548,3.8,34 Seats available,A/C Seater / Sleeper (2+1),18:00,04h 30m,22:30,ISBT Kashmiri Gate
+748,Laxmi holidays,950,3.4,38 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),18:00,04h 30m,22:30,Anand Vihar
+749,BSS COOL COOL TRAVELS,INR 699,5.0,20 Seats available,A/C Seater / Sleeper (2+1),18:00,03h 40m,21:40,ISBT Kashmiri Gate
+750,Raj Kalpana Travels Pvt.Ltd,INR 900,4.0,41 Seats available,A/C Seater/Sleeper (2+1),18:00,03h 25m,21:25,ISBT Kashmiri Gate
+751,Shatabdi Travels,INR 1100,4.0,40 Seats available,Bharat Benz A/C Sleeper (2+1),18:00,03h 50m,21:50,Anand Vihar
+752,Shakmbhari Travels,INR 794,3.4,34 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),18:00,03h 45m,21:45,Anand Vihar
+753,SAFAR EXPRESS PVT LTD,INR 899,3.6,44 Seats available,A/C Seater / Sleeper (2+1),18:00,03h 50m,21:50,Kashmiri gate metro gate no.3
+754,Jamna Travels (Delhi),INR 699,4.0,23 Seats available,A/C Seater / Sleeper (2+2),18:00,03h 20m,21:20,ISBT Kashmiri Gate
+755,E Bus India,949,4.0,46 Seats available,A/C Seater/Sleeper (2+1),18:00,04h 00m,22:00,ISBT Kashmiri Gate
+756,Laxmi holidays,760,3.7,35 Seats available,VE A/C Seater / Sleeper (2+2),18:00,04h 50m,22:50,Isbt kashmiri gate third bus
+757,RAJ KALPANA TRAVELS PRIVATE LIMITED,INR 1500,3.8,39 Seats available,VE A/C Sleeper (2+1),18:15,04h 15m,22:30,Rs yadav bus parking near cro...
+758,Gola Bus Service,INR 999,4.0,31 Seats available,VE A/C Seater / Sleeper (2+1),18:20,03h 40m,22:00,ISBT Kashmiri Gate
+759,IntrCity SmartBus,INR 806,4.0,40 Seats available,A/C Seater / Sleeper (2+1),18:25,04h 00m,22:25,Morigate
+760,Laxmi holidays,855,4.0,44 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),18:30,04h 30m,23:00,Anand Vihar
+761,Krishna Travels,INR 699,3.1,31 Seats available,A/C Seater / Sleeper (2+2),18:30,04h 30m,23:00,ISBT Kashmiri Gate
+762,IntrCity SmartBus,INR 856,3.3,23 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),18:55,04h 10m,23:05,ISBT Kashmiri Gate
+763,Shakmbhari Travels,INR 694,3.4,30 Seats available,A/C Seater / Sleeper (2+1),19:00,03h 45m,22:45,ISBT Kashmiri Gate
+764,Ashok Travels Mandsaur Group,INR 1810,4.4,38 Seats available,Volvo 9600 Multi-Axle A/C Sleeper (2+1),19:02,03h 53m,22:55,Rs yadav bus parking near cro...
+765,SAFAR EXPRESS PVT LTD,INR 1299,3.4,46 Seats available,A/C Seater / Sleeper (2+1),19:05,03h 55m,23:00,ISBT Kashmiri Gate
+766,Khajuraho Travels,INR 996,4.0,42 Seats available,AC Sleeper (2+1),19:06,03h 55m,23:01,Anand Vihar
+767,Gola Bus Service,INR 999,4.1,30 Seats available,A/C Seater/Sleeper (2+1),19:20,03h 40m,23:00,Morigate
+768,Khajuraho Travels,INR 946,3.4,30 Seats available,A/C Seater / Sleeper (2+1),19:26,04h 31m,23:57,ISBT Kashmiri Gate
+769,Kamla Travels,INR 1200,4.2,25 Seats available,A/C Sleeper (2+1),19:30,04h 00m,23:30,ISBT Kashmiri Gate
+770,Hans Travels (I) Private Limited,INR 800,3.2,36 Seats available,A/C Sleeper (2+1),19:30,03h 30m,23:00,Anand Vihar
+771,FlixBus,INR 312,4.0,39 Seats available,A/C Sleeper (2+1),19:30,04h 20m,23:50,ISBT Kashmiri Gate
+772,Laxmi holidays,684,3.9,34 Seats available,VE A/C Seater / Sleeper (2+1),19:30,04h 10m,23:40,ISBT Kashmiri Gate
+773,R S YADAV SMART BUS PRIVATE LIMITED,INR 999,4.0,43 Seats available,VE A/C Seater / Sleeper (2+1),19:45,04h 05m,23:50,Anand Vihar
+774,Laxmi holidays,684,4.0,31 Seats available,VE A/C Seater / Sleeper (2+2),20:00,04h 15m,00:15,Karnal Bypass
+775,IntrCity SmartBus,INR 872,3.9,42 Seats available,A/C Seater / Sleeper (2+1),20:00,05h 00m,01:00,Anand Vihar
+776,Anshi Raj Shree Travels,INR 999,3.9,23 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),20:00,03h 30m,23:30,Noida Gate
+777,Laxmi holidays,855,3.4,38 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),20:00,03h 55m,23:55,Anand Vihar
+778,BSS COOL COOL TRAVELS,INR 749,4.0,27 Seats available,A/C Seater / Sleeper (2+1),20:00,03h 59m,23:59,ISBT Kashmiri Gate
+779,Jamna Travels (Delhi),INR 749,3.8,26 Seats available,A/C Seater / Sleeper (2+2),20:00,04h 10m,00:10,Kashimiri gate parking no.1 i...
+780,Shakmbhari Travels,INR 794,3.6,30 Seats available,A/C Seater / Sleeper (2+1),20:00,03h 45m,23:45,Morigate
+781,Raj Kalpana Travels Pvt.ltd.,INR 900,3.6,35 Seats available,A/C Seater/Sleeper (2+1),20:00,03h 30m,23:30,ISBT Kashmiri Gate
+782,Gola Bus Service,INR 999,4.4,18 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),20:00,03h 00m,23:00,Morigate
+783,Khajuraho Travels,INR 796,4.0,32 Seats available,AC Sleeper (2+1),20:06,03h 26m,23:32,Shri sai safar travels shop n...
+784,Raj Kalpana Travels Pvt.Ltd,INR 990,4.3,31 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),20:15,04h 05m,00:20,Morigate
+785,RAJ KALPANA TRAVELS PRIVATE LIMITED,INR 799,3.9,30 Seats available,VE A/C Sleeper (2+1),20:15,03h 45m,00:00,Morigate
+786,Laxmi holidays,855,4.0,28 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),20:30,04h 30m,01:00,Morigate
+787,IntrCity SmartBus,INR 806,4.0,37 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),20:30,05h 15m,01:45,Morigate
+788,SAFAR EXPRESS PVT LTD,INR 899,3.9,37 Seats available,AC Sleeper (2+1),20:30,02h 53m,23:23,Morigate
+789,GK Travels,INR 699,4.1,22 Seats available,A/C Seater/Sleeper (2+1),20:30,04h 30m,01:00,Morigate
+790,Krishna Travels,INR 599,4.4,16 Seats available,A/C Seater / Sleeper (2+2),20:30,03h 35m,00:05,Badarpur Bodar
+791,R S YADAV SMART BUS PRIVATE LIMITED,INR 999,4.1,16 Seats available,VE A/C Seater / Sleeper (2+1),20:55,02h 30m,23:25,Khanna market
+792,IntrCity SmartBus,INR 645,3.1,23 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),21:00,04h 30m,01:30,Pragati Maidan
+793,Fouji travels,INR 699,4.3,18 Seats available,A/C Seater / Sleeper (2+1),21:00,03h 00m,00:00,Sarai Kale Kha Flyover
+794,Raj Kalpana Travels Pvt.ltd.,INR 999,4.0,29 Seats available,VE A/C Sleeper (2+1),21:00,03h 45m,00:45,Mahipalpur Near Igi Airpot
+795,Khajuraho Travels,INR 4999,3.7,28 Seats available,A/C Seater / Sleeper (2+1),21:00,04h 10m,01:10,ISBT Kashmiri Gate
+796,Khajuraho Travels,INR 896,3.6,36 Seats available,AC Sleeper (2+1),21:00,04h 02m,01:02,Morigate
+797,Raj Kalpana Travels Pvt.ltd.,INR 699,3.8,24 Seats available,A/C Seater/Sleeper (2+1),21:00,03h 48m,00:48,Morigate
+798,VGO BUS,INR 999,3.9,18 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),21:10,05h 00m,02:10,Shop no 35 36 Near Metro Gate...
+799,R S YADAV SMART BUS PRIVATE LIMITED,INR 999,4.3,40 Seats available,VE A/C Seater / Sleeper (2+1),21:15,03h 30m,00:45,Morigate
+800,Revanta Roadlines,899,4.1,30 Seats available,A/C Seater / Sleeper (2+2),21:15,03h 50m,01:05,ISBT Kashmiri Gate
+801,HIGHWAY STAR TRAVEL & CARGO,1017,4.0,42 Seats available,A/C Seater/Sleeper (2+1),21:15,02h 35m,23:50,Anand Vihar
+802,Fouji travels,INR 699,3.9,28 Seats available,A/C Seater / Sleeper (2+1),21:15,03h 15m,00:30,ISBT Kashmiri Gate
+803,IntrCity SmartBus,INR 1760,4.4,26 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),21:15,04h 40m,01:55,VIKAS TRAVELS
+804,Zingbus Plus,892,4.4,49 Seats available,A/C Seater/Sleeper (2+1),21:20,04h 10m,01:30,Anand Vihar
+805,Rama Krishna Tour and Travels,INR 599,4.0,,AC Sleeper (2+1),21:30,03h 01m,00:31,
+806,SAFAR EXPRESS PVT LTD,INR 599,4.0,,A/C Seater / Sleeper (2+1),21:30,04h 00m,01:30,
+807,Raj Kalpana Travels Pvt.Ltd,INR 899,3.3,,A/C Sleeper (2+1),21:30,03h 15m,00:45,
+808,Fouji travels,INR 699,4.0,,A/C Seater / Sleeper (2+1),21:30,03h 00m,00:30,
+809,Revanta Roadlines,899,3.9,,A/C Seater / Sleeper (2+2),21:30,03h 50m,01:20,
+810,IntrCity SmartBus,INR 755,3.9,,VE A/C Seater / Sleeper (2+1),21:30,04h 05m,01:35,
+811,Sai Anand,INR 951.43,3.4,,AC Sleeper (2+1),21:30,04h 45m,02:15,
+812,Raj Kalpana Travels Pvt.ltd.,INR 450,4.0,,Non A/C Seater / Sleeper (2+1),21:30,04h 00m,01:30,
+813,R S YADAV SMART BUS PRIVATE LIMITED,INR 1099,4.0,,VE A/C Seater / Sleeper (2+1),21:30,02h 05m,23:35,
+814,IntrCity SmartBus,INR 845,3.8,,A/C Seater / Sleeper (2+1),21:45,04h 15m,02:00,
+815,IntrCity SmartBus,INR 717,3.8,,A/C Seater / Sleeper (2+1),21:45,04h 45m,02:30,
+816,PRATAP T&C,549,3.8,,A/C Seater / Sleeper (2+2),21:45,03h 30m,01:15,
+817,Khajuraho Travels,INR 896,4.0,,VE A/C Sleeper (2+1),22:00,04h 00m,02:00,
+818,Raj Kalpana Travels Pvt.ltd.,INR 999,4.0,,A/C Sleeper (2+1),22:00,03h 25m,01:25,
+819,Raj Kalpana Travels Pvt.ltd.,INR 929,3.0,,A/C Seater/Sleeper (2+1),22:00,03h 20m,01:20,
+820,Laxmi holidays,684,3.0,,VE A/C Seater / Sleeper (2+2),22:00,05h 00m,03:00,
+821,IntrCity SmartBus,INR 846,3.9,,A/C Seater / Sleeper (2+1),22:00,03h 45m,01:45,
+822,IntrCity SmartBus,INR 791,3.4,,A/C Semi Sleeper / Sleeper (2+1),22:05,04h 00m,02:05,
+823,SAFAR EXPRESS PVT LTD,INR 899,4.0,,A/C Seater / Sleeper (2+2),22:05,03h 55m,02:00,
+824,SAFAR EXPRESS PVT LTD,INR 400,4.0,,NON AC Seater / Sleeper 2+1,22:10,04h 06m,02:16,
+825,SAFAR EXPRESS PVT LTD,INR 599,4.0,,A/C Seater / Sleeper (2+1),22:15,02h 53m,01:08,
+826,IntrCity SmartBus,INR 713,4.1,,Bharat Benz A/C Seater /Sleeper (2+1),22:15,04h 20m,02:35,
+827,IntrCity SmartBus,INR 1606,4.0,,A/C Seater / Sleeper (2+2),22:15,04h 30m,02:45,
+828,DURGA TRAVELS,INR 1600,3.7,,A/C Seater / Sleeper (2+2),22:16,04h 14m,02:30,
+829,DURGA TRAVELS,INR 499,3.6,,A/C Sleeper (2+1),22:20,04h 10m,02:30,
+830,Raj Kalpana Travels Pvt.ltd.,INR 899,3.9,,A/C Sleeper (2+1),22:30,03h 30m,02:00,
+831,FlixBus,INR 260,3.7,,A/C Seater (2+2),22:30,04h 35m,03:05,
+832,Laxmi holidays,902,3.0,,Bharat Benz A/C Sleeper (2+1),22:30,03h 30m,02:00,
+833,Gola Bus Service,INR 599,4.4,,VE A/C Seater / Sleeper (2+1),22:30,03h 40m,02:10,
+834,IntrCity SmartBus,INR 779,3.9,,VE A/C Seater / Sleeper (2+1),22:30,04h 25m,02:55,
+835,JD Travels (Khajuraho Travels),INR 499,3.7,,A/C Seater / Sleeper (2+1),22:30,04h 00m,02:30,
+836,International Tourist Centre,INR 599,4.0,,VE A/C Seater / Sleeper (2+1),22:40,04h 05m,02:45,
+837,IntrCity SmartBus,INR 787,3.8,,Bharat Benz A/C Seater /Sleeper (2+1),22:40,03h 45m,02:25,
+838,Zingbus Plus,629,3.7,,Bharat Benz A/C Seater /Sleeper (2+1),22:45,03h 30m,02:15,
+839,Ashok Bus Service,664,4.7,,VE A/C Sleeper (2+1),22:45,04h 45m,03:30,
+840,Raj Kalpana Travels Pvt.Ltd,INR 899,4.4,,A/C Sleeper (2+1),22:45,03h 50m,02:35,
+841,Vande Fly,646,3.4,,A/C Seater / Sleeper (2+2),22:45,04h 10m,02:55,
+842,Satlok express,INR 1299,4.0,,AC Seater (2+2),22:45,04h 02m,02:47,
+843,R S YADAV SMART BUS PRIVATE LIMITED,INR 999,3.8,,VE A/C Seater / Sleeper (2+1),22:50,03h 05m,01:55,
+844,Raj Kalpana Travels Pvt.ltd.,INR 869,3.9,,A/C Seater/Sleeper (2+1),23:00,03h 35m,02:35,
+845,Hare Rama Travels,INR 1099,3.9,,A/C Seater/Sleeper (2+1),23:00,04h 20m,03:20,
+846,IntrCity SmartBus,INR 659,3.3,,Bharat Benz A/C Seater /Sleeper (2+1),23:00,03h 40m,02:40,
+847,SAFAR EXPRESS PVT LTD,INR 599,3.0,,A/C Seater / Sleeper (2+1),23:05,03h 25m,02:30,
+848,Raj Kalpana Travels Pvt.ltd.,INR 699,4.7,,A/C Seater/Sleeper (2+1),23:05,03h 40m,02:45,
+849,PTC-SKYBUS,INR 999,4.0,,VE A/C Seater / Sleeper (2+1),23:15,03h 15m,02:30,
+850,R S YADAV SMART BUS PRIVATE LIMITED,INR 699,3.5,,A/C Seater / Sleeper (2+1),23:15,03h 02m,02:17,
+851,Laxmi holidays,580,4.0,,Bharat Benz A/C Seater /Sleeper (2+1),23:20,04h 10m,03:30,
+852,IntrCity SmartBus,INR 717,3.0,,A/C Seater / Sleeper (2+1),23:25,03h 10m,02:35,
+853,Miles India Private Limited,INR 699,4.0,,Scania Multi-Axle AC Semi Sleeper (2+2),23:30,04h 30m,04:00,
+854,Raj Kalpana Travels Pvt.Ltd,INR 1299,1.6,,A/C Sleeper (2+1),23:30,03h 15m,02:45,
+855,Raj Kalpana Travels Pvt.Ltd,INR 899,1.6,,Bharat Benz A/C Seater /Sleeper (2+1),23:30,03h 30m,03:00,
+856,IntrCity SmartBus,INR 558,2.1,,A/C Seater / Sleeper (2+1),23:30,03h 30m,03:00,
+857,Satlok express,INR 1199,1.3,,A/C Seater / Sleeper (2+2),23:30,04h 02m,03:32,
+858,PTC-SKYBUS,INR 999,1.5,,VE A/C Seater / Sleeper (2+1),23:45,03h 30m,03:15,
+859,IntrCity SmartBus,INR 675,1.0,,Bharat Benz A/C Seater /Sleeper (2+1),23:45,03h 40m,03:25,
+860,Vijay Tour and Travels,INR 1300,2.5,,Bharat Benz A/C Seater /Sleeper (2+1),23:50,04h 20m,04:10,
+861,IntrCity SmartBus,INR 749,1.5,,A/C Seater / Sleeper (2+1),23:50,03h 35m,03:25,
+862,KN Nehra Travels,INR 999,2.6,,A/C Seater / Sleeper (2+1),23:55,04h 05m,04:00,
+863,IntrCity SmartBus,INR 801,2.4,,A/C Seater / Sleeper (2+1),23:55,03h 15m,03:10,
+864,FlixBus,INR 186,2.6,,A/C Seater (2+2),08:10,03h 55m,12:05,
+865,Baba Khatushyam Travels Pvt Ltd,INR 875,2.9,,A/C Seater / Sleeper (2+2),14:45,07h 00m,21:45,
+866,Baba Khatushyam Travels Pvt Ltd,INR 1199,2.8,,A/C Seater / Sleeper (3+1),15:00,07h 00m,22:00,
+867,Kalpana Travels Kanpur,INR 600,2.4,,Bharat Benz A/C Sleeper (2+1),15:00,04h 30m,19:30,
+868,Shiv Mahima Travels,INR 1299,2.2,,A/C Seater / Sleeper (2+2),16:35,06h 10m,22:45,
+869,Panwar tour and Travels,INR 1186,2.2,,A/C Seater / Sleeper (2+2),17:45,04h 00m,21:45,
+870,United Manjushree tours and Travels,INR 3100,2.2,,A/C Seater Push Back (2+2),18:00,05h 00m,23:00,
+871,SN TRAVELS,1620,2.2,,A/C Seater / Sleeper (2+2),18:00,04h 40m,22:40,
+872,Panwar tour and Travels,INR 999,2.6,,A/C Seater / Sleeper (2+2),18:00,04h 00m,22:00,
+873,Yadav Vishvkarma Tour And Travels,INR 800,2.8,,A/C Seater / Sleeper (2+1),18:01,03h 40m,21:41,
+874,Shri Siddhi Vinayak Travels,629,2.8,,A/C Seater / Sleeper (2+1),19:00,04h 30m,23:30,
+875,Yadav Vishvkarma Tour And Travels,INR 500,2.8,,NON AC Seater / Sleeper 2+1,19:30,04h 01m,23:31,
+876,Vinay Travels,INR 640,2.0,,VE A/C Seater / Sleeper (2+1),19:50,04h 30m,00:20,
+877,Shree Saroj Travels,INR 1199,2.6,,A/C Seater/Sleeper (2+1),20:00,03h 10m,23:10,
+878,Shri Siddhi Vinayak Travels,INR 599,2.9,,A/C Seater / Sleeper (2+2),20:00,04h 30m,00:30,
+879,Vishawnath tour and travel,INR 1200,2.2,,AC Sleeper (2+1),20:30,04h 05m,00:35,
+880,Shri Sai Safar Travels,INR 550,1.9,,A/C Seater / Sleeper (2+1),20:30,04h 16m,00:46,
+881,Awadh Express,INR 799,1.4,,AC Sleeper (2+1),20:30,05h 00m,01:30,
+882,Shri Sai Safar Travels,INR 570.48,2.1,,A/C Seater / Sleeper (2+1),20:31,06h 00m,02:31,
+883,Shri Sai Safar Travels,INR 599,2.6,,A/C Seater / Sleeper (2+1),20:40,04h 46m,01:26,
+884,New India Travels,INR 599,2.3,,A/C Seater/Sleeper (2+1),20:45,02h 29m,23:14,
+885,New Yadav Vishwakarma Tour and Travels,INR 1500,2.9,,Bharat Benz NON A/C sleeper (2+1),21:00,03h 30m,00:30,
+886,Dhruv Travels,INR 507,2.1,,A/C Seater/Sleeper (2+1),21:00,03h 40m,00:40,
+887,Shree Saroj Travels,INR 999,1.5,,A/C Seater / Sleeper (2+2),21:00,03h 05m,00:05,
+888,KST Travels,664,2.1,,A/C Seater / Sleeper (2+1),21:25,03h 30m,00:55,
+889,Raj Shila Travels,INR 890,1.4,,A/C Seater / Sleeper (2+2),21:30,03h 00m,00:30,
+890,New Yadav Vishwakarma Tour and Travels,INR 1199,1.5,,Bharat Benz NON A/C sleeper (2+1),21:30,03h 30m,01:00,
+891,Kalpana Travels Pvt. Ltd.,INR 699,,,AC Sleeper (2+1),21:30,03h 00m,00:30,
+892,Shitla Travels,INR 600,,,A/C Sleeper (2+1),22:00,05h 30m,03:30,
+893,DIVYANSHU TRAVELS,760,,,A/C Sleeper (2+1),22:00,04h 30m,02:30,
+894,RAO SAHAB TRAVELS PRIVATE LIMITED,INR 1799,,,A/C Seater / Sleeper (2+1),22:15,04h 40m,02:55,
+895,Kalpana Travels Kanpur,INR 400,,,NON AC Seater / Sleeper 2+1,22:15,04h 30m,02:45,
+896,Yadav Vishvkarma Tour And Travels,INR 450,,,NON AC Seater / Sleeper 2+1,22:30,03h 51m,02:21,
+897,NAYAR TRAVELS (OPC) PVT LTD,INR 1899,,,A/C Sleeper (2+1),22:30,02h 00m,00:30,
+898,Pitambra Travels (Sunny Safar Express),INR 799,,,A/C Sleeper (2+1),22:30,03h 05m,01:35,
+899,Pooja Travel Point,INR 2000,,,A/C Seater / Sleeper (2+1),22:30,04h 15m,02:45,
+900,Kalpana Travels Kanpur,INR 500,,,NON A/C Sleeper (2+1),22:45,04h 30m,03:15,
+901,Panwar tour and Travels,INR 1600,,,A/C Seater / Sleeper (2+1),23:00,03h 40m,02:40,
+902,Kalpana Travels Kanpur,INR 799,,,AC Sleeper (2+1),23:00,03h 50m,02:50,
+903,RAO SAHAB TRAVELS PRIVATE LIMITED,INR 635,,,A/C Seater / Sleeper (2+1),23:00,04h 34m,03:34,
+904,Panwar tour and Travels,INR 1500,,,A/C Seater (2+2),23:15,04h 00m,03:15,
+905,Laxmi holidays,1139,4.6,23 Seats available,Bharat Benz A/C Sleeper (2+1),23:00,06h 15m,05:15,ISBT Kashmiri Gate
+906,International Tourist Centre,INR 999,4.6,36 Seats available,VE A/C Seater / Sleeper (2+1),22:25,06h 40m,05:05,ISBT Kashmiri Gate
+907,Laxmi holidays,1006,4.5,25 Seats available,VE A/C Seater / Sleeper (2+1),22:30,06h 15m,04:45,ISBT Kashmiri Gate
+908,Blueworld tourist private limited,INR 899,4.6,6 Seats available,A/C Seater / Sleeper (2+1),23:25,06h 20m,05:45,Shop no 4a metro piller no 21...
+909,Fasttrack Travels,INR 799,4.5,21 Seats available,A/C Seater/Sleeper (2+1),21:20,08h 10m,05:30,Morigate
+910,Fasttrack Travels,699,4.6,33 Seats available,VE A/C Seater / Sleeper (2+2),11:00,07h 00m,18:00,ISBT Kashmiri Gate
+911,Fasttrack Travels,INR 999,4.4,20 Seats available,VE A/C Seater / Sleeper (2+2),22:30,07h 00m,05:30,Isbt kashmiri gate metro stat...
+912,R S YADAV SMART BUS PRIVATE LIMITED,759,4.8,40 Seats available,A/C Seater / Sleeper (2+1),22:00,08h 00m,06:00,ISBT Kashmiri Gate
+913,International Tourist Centre,INR 999,4.5,20 Seats available,VE A/C Seater / Sleeper (2+1),22:15,06h 45m,05:00,Munirka
+914,India Tours & Travels (GetBookCab),INR 634,4.1,6 Seats available,A/C Seater / Sleeper (2+2),23:00,07h 30m,06:30,ISBT Kashmiri Gate
+915,V DHANRAJ,INR 1297,4.7,17 Seats available,A/C Seater / Sleeper (2+2),22:15,06h 05m,04:20,Delhi Kashmere Gate (FlixBus ...
+916,FlixBus,INR 690,4.0,39 Seats available,A/C Seater (2+2),23:15,06h 05m,05:20,Munirka
+917,VIP LUXURY TRIPS,494,4.7,15 Seats available,A/C Seater / Sleeper (2+2),10:30,06h 50m,17:20,ISBT Kashmiri Gate
+918,India Tours & Travels (GetBookCab),901,4.1,25 Seats available,A/C Seater / Sleeper (2+2),23:00,06h 30m,05:30,ISBT Kashmiri Gate
+919,V DHANRAJ,INR 897,3.3,11 Seats available,A/C Seater / Sleeper (2+2),22:10,06h 05m,04:15,ISBT Kashmiri Gate
+920,Laxmi holidays,1035,3.7,20 Seats available,VE A/C Sleeper (2+1),23:30,06h 15m,05:45,ISBT Kashmiri Gate
+921,KVS Holidays,INR 699,4.7,26 Seats available,A/C Seater/Sleeper (2+1),22:00,07h 15m,05:15,ISBT Kashmiri Gate
+922,Regal Cruiser Travels,INR 1099,3.7,13 Seats available,A/C Seater/Sleeper (2+1),22:25,06h 55m,05:20,Shop no 4a metro piller no 21...
+923,Laxmi holidays,1044,3.3,29 Seats available,Bharat Benz A/C Sleeper (2+1),23:50,06h 15m,06:05,ISBT Kashmiri Gate
+924,Blueworld tourist private limited,INR 1099,3.4,36 Seats available,A/C Seater / Sleeper (2+1),22:50,06h 35m,05:25,Majnu Ka Tilla
+925,Laxmi holidays,807,3.9,39 Seats available,Bharat Benz A/C Sleeper (2+1),11:30,06h 15m,17:45,Dhaula Kuan
+926,Blueworld tourist private limited,INR 599,2.6,29 Seats available,A/C Seater / Sleeper (2+1),11:30,05h 31m,17:01,ISBT Kashmiri Gate
+927,Go Devbhoomi Tours and Travels,INR 499,3.2,43 Seats available,A/C Sleeper (2+1),22:45,07h 30m,06:15,Majnu Ka Tilla
+928,Satlok express,INR 499,2.6,30 Seats available,A/C Seater / Sleeper (2+1),23:00,06h 36m,05:36,ISBT Kashmiri Gate
+929,Vijay Tour and Travels,INR 899,3.1,23 Seats available,Volvo A/C Semi Sleeper (2+2),23:40,05h 50m,05:30,ISBT Kashmiri Gate
+930,International Tourist Centre,INR 799,3.4,28 Seats available,A/C Seater / Sleeper (2+2),11:40,06h 00m,17:40,ISBT Kashmiri Gate
+931,Jagdamba tourism,INR 599,3.0,33 Seats available,A/C Seater / Sleeper (2+2),22:30,07h 00m,05:30,Shop no 4a metro piller no 21...
+932,Satlok express,INR 499,3.3,29 Seats available,A/C Seater / Sleeper (2+1),22:45,06h 36m,05:21,ISBT Kashmiri Gate
+933,Shree Hare Rama Travels,599,2.8,10 Seats available,A/C Semi Sleeper (2+2),23:55,07h 05m,07:00,Delhi
+934,KVS Holidays,INR 699,3.4,36 Seats available,A/C Seater / Sleeper (2+2),22:10,07h 15m,05:25,Kashmere Gate
+935,City Heart Travels (Regd.),1069,2.0,43 Seats available,Volvo A/C Seater / Sleeper (2+2),22:30,06h 30m,05:00,Kashmere Gate
+936,Blueworld tourist private limited,INR 999,3.2,49 Seats available,AC Seater (2+2),22:45,06h 45m,05:30,Majnu Ka Tilla
+937,City Heart Travels (Regd.),799,1.0,13 Seats available,Volvo A/C Seater / Sleeper (2+2),22:30,07h 00m,05:30,Morigate Shop No 20
+938,DELHI TOUR & TRAVELS,INR 899,2.4,40 Seats available,A/C Seater / Sleeper (2+1),22:00,08h 05m,06:05,Delhi airport
+939,International Tourist Centre,INR 899,1.0,,A/C Seater Push Back (2+2),13:30,06h 00m,19:30,
+940,FlixBus,INR 479,1.1,,A/C Seater (2+2),09:00,06h 20m,15:20,
+941,VIP LUXURY TRIPS,539,3.0,,A/C Seater / Sleeper (2+2),23:00,06h 30m,05:30,
+942,VIP LUXURY TRIPS,539,2.7,,A/C Seater / Sleeper (2+2),22:30,07h 20m,05:50,
+943,Satlok express,INR 699,2.4,,AC Seater (2+2),22:30,06h 36m,05:06,
+944,The Himalayan Spirits,INR 3999,,,A/C Seater Tempo Traveller (2+1),21:00,08h 00m,05:00,
+945,Shri Krishna Bus Service,1899,,,A/C Seater / Sleeper (2+1),23:01,05h 31m,04:32,
+946,Raj Kalpana Travels Pvt.Ltd,INR 2599,4.2,29 Seats available,A/C Seater (2+2),21:00,02h 30m,23:30,Transport Nagar
+947,Shatabdi Travels,INR 888,4.1,21 Seats available,AC Sleeper (2+1),23:31,04h 00m,03:31,Alambagh
+948,Anshi Raj Shree Travels,INR 899,4.1,30 Seats available,Bharat Benz A/C Sleeper (2+1),23:59,02h 56m,02:55,Charbagh
+949,Samay Shatabdi Travels Pvt Ltd,INR 649,3.8,30 Seats available,NON A/C Sleeper (2+1),23:45,02h 45m,02:30,"Tansport nagar metro station,..."
+950,Indian Auto Wheels,INR 450,1.4,30 Seats available,AC Seater (2+3),12:45,04h 25m,17:10,"Tansport nagar metro station,..."
+951,Shatabdi Travels Gorakhpur,INR 856.19,4.6,43 Seats available,AC Sleeper (2+1),23:45,03h 45m,03:30,Alambagh
+952,Shatabdi Travels Gorakhpur,INR 799,2.8,31 Seats available,AC Sleeper (2+1),23:45,03h 45m,03:30,Alambagh
+953,PTC-SKYBUS,INR 499,3.9,35 Seats available,AC Seater (2+2),23:00,04h 00m,03:00,Alambagh
+954,Panwar Travels,INR 1250,2.9,38 Seats available,A/C Seater / Sleeper (2+1),21:30,04h 00m,01:30,Charbagh
+955,Jai Shrinath Ji Ki ® Travels,INR 500,2.7,47 Seats available,A/C Sleeper (2+1),08:30,03h 00m,11:30,Charbagh
+956,MISHRA BANDHU BUS SERVICE,INR 999,2.7,,A/C Seater / Sleeper (2+1),21:30,02h 25m,23:55,
+957,SHRINET TOUR AND TRAVELS,INR 500,2.1,,A/C Seater (2+2),11:00,03h 05m,14:05,
+958,SHRINET TOUR AND TRAVELS,INR 550,2.0,,A/C Seater (2+2),12:30,02h 40m,15:10,
+959,Betrwanti Travels,INR 1300,1.7,,NON A/C Sleeper (2+1),08:00,03h 15m,11:15,
+960,RYS Travels,1202,1.8,,Bharat Benz A/C Seater / Sleeper (2+2),23:30,02h 30m,02:00,
+961,Maan Travels,INR 1050,1.2,,NON AC Seater / Sleeper 2+1,23:55,01h 05m,01:00,
+962,Shanvi travels,INR 450,,,A/C Seater (2+2),14:32,03h 13m,17:45,
+963,Shree Balajee Travels And Cargo,INR 2000,,,A/C Seater / Sleeper (2+1),23:30,03h 30m,03:00,
+964,RSRTC - 186763,INR 369,1.9,28 Seats available,Express Non AC Seater 2+3,11:00,05h 45m,16:45,"NueGo Lounge, Kashmiri Gate"
+965,Laxmi holidays,416,4.3,22 Seats available,Bharat Benz A/C Sleeper (2+1),08:00,04h 00m,12:00,"NueGo Lounge, Kashmiri Gate"
+966,City Land Travels,349,4.0,27 Seats available,A/C Sleeper (2+1),08:00,05h 30m,13:30,RK Ashram
+967,AdZingbus Plus,423,4.6,18 Seats available,VE A/C Seater (2+2),11:45,04h 40m,16:25,ram dalal Travels
+968,NueGo,343,3.3,22 Seats available,Electric A/C Seater (2+2),08:00,06h 25m,14:25,"NueGo Lounge, Kashmiri Gate"
+969,Zingbus Plus,448,4.4,25 Seats available,Bharat Benz A/C Seater (2+2),08:55,04h 15m,13:10,RK Ashram
+970,Laxmi holidays,541,4.6,29 Seats available,Bharat Benz A/C Sleeper (2+1),09:00,05h 00m,14:00,ISBT Kashmiri Gate
+971,AdZingbus Plus,317,4.7,27 Seats available,VE A/C Seater (2+2),11:10,04h 20m,15:30,Majnu Ka Tilla
+972,Raj Kalpana Travels Pvt.Ltd,INR 449,4.3,39 Seats available,VE A/C Seater (2+2),09:00,04h 15m,13:15,ISBT Kashmiri Gate
+973,NueGo,427,3.5,23 Seats available,Electric A/C Seater (2+2),09:00,05h 45m,14:45,ISBT Kashmiri Gate
+974,City Land Travels,INR 488,3.4,27 Seats available,A/C Sleeper (2+1),09:15,04h 55m,14:10,Morigate
+975,FlixBus,INR 450,4.0,41 Seats available,A/C Seater (2+2),09:20,06h 00m,15:20,ISBT Kashmiri Gate
+976,NueGo,427,4.6,14 Seats available,Electric A/C Seater (2+2),10:00,06h 10m,16:10,Delhi Kashmere Gate (FlixBus ...
+977,Laxmi holidays,575,3.8,25 Seats available,Bharat Benz A/C Sleeper (2+1),10:00,05h 20m,15:20,RK Ashram
+978,City Land Travels,INR 488,4.5,42 Seats available,A/C Seater / Sleeper (2+2),10:15,04h 30m,14:45,Munirka
+979,Gola Bus Service,INR 999,4.2,21 Seats available,VE A/C Seater / Sleeper (2+1),10:20,05h 30m,15:50,Majnu Ka Tilla
+980,IntrCity SmartBus,INR 409,4.1,41 Seats available,VE A/C Seater / Sleeper (2+1),10:30,04h 30m,15:00,ISBT Kashmiri Gate
+981,International Tourist Centre,INR 1099,4.4,35 Seats available,A/C Seater Push Back (2+2),10:45,05h 30m,16:15,"Gate no5,kashmere gate metro ..."
+982,Laxmi holidays,570,3.2,45 Seats available,Bharat Benz A/C Sleeper (2+1),11:00,05h 30m,16:30,ISBT Kashmiri Gate
+983,AG BUS SERVICE,INR 1199,4.0,26 Seats available,AC Seater (2+2),11:10,04h 31m,15:41,ISBT Kashmiri Gate
+984,IntrCity SmartBus,INR 409,3.6,37 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),11:30,04h 25m,15:55,Bharat petrol pump near kashm...
+985,City Land Travels,620,4.5,21 Seats available,Volvo A/C Semi Sleeper (2+2),11:30,05h 30m,17:00,ISBT Kashmiri Gate
+986,Laxmi holidays,518,3.7,33 Seats available,Bharat Benz A/C Sleeper (2+1),11:50,05h 20m,17:10,"Gate no5,kashmere gate metro ..."
+987,NueGo,384,3.1,36 Seats available,Electric A/C Seater (2+2),12:00,05h 45m,17:45,Munirka
+988,City Land Travels,459,3.6,45 Seats available,Bharat Benz A/C Seater (2+2),12:00,04h 55m,16:55,ISBT Kashmiri Gate
+989,Ram Pratap Travels,INR 499,4.0,35 Seats available,AC Seater (2+2),12:20,05h 19m,17:39,Bharat petrol pump near kashm...
+990,NueGo,427,3.5,28 Seats available,Electric A/C Seater (2+2),13:00,06h 10m,19:10,RK Ashram
+991,FlixBus,INR 770,4.4,43 Seats available,A/C Seater (2+2),13:30,05h 20m,18:50,ISBT Kashmiri Gate
+992,City Land Travels,598,3.1,45 Seats available,A/C Sleeper (2+1),13:30,04h 55m,18:25,ISBT Kashmiri Gate
+993,Zingbus Plus,472,3.1,18 Seats available,Bharat Benz A/C Seater (2+2),13:55,04h 35m,18:30,ram dalal Travels
+994,NueGo,477,4.2,34 Seats available,Electric A/C Seater (2+2),14:00,05h 45m,19:45,ISBT Kashmiri Gate
+995,City Land Travels,639,3.7,33 Seats available,Volvo A/C Semi Sleeper (2+2),14:30,05h 00m,19:30,ISBT Kashmiri Gate
+996,Laxmi holidays,570,4.4,23 Seats available,Bharat Benz A/C Sleeper (2+1),15:00,04h 00m,19:00,"NueGo Lounge, Kashmiri Gate"
+997,City Land Travels,598,3.9,20 Seats available,A/C Sleeper (2+1),15:30,04h 30m,20:00,Redfort Parking Opp Near Sune...
+998,Laxmi holidays,570,3.2,29 Seats available,Bharat Benz A/C Sleeper (2+1),16:00,04h 30m,20:30,"Gate no5,kashmere gate metro ..."
+999,NueGo,427,3.0,29 Seats available,Electric A/C Seater (2+2),16:00,05h 45m,21:45,Bharat petrol pump near kashm...
+1000,City Land Travels,598,3.2,24 Seats available,A/C Sleeper (2+1),16:30,04h 30m,21:00,ISBT Kashmiri Gate
+1001,NueGo,341,4.5,36 Seats available,Electric A/C Seater (2+2),17:00,06h 25m,23:25,ISBT Kashmiri Gate
+1002,City Land Travels,738,3.5,23 Seats available,A/C Sleeper (2+1),17:00,04h 15m,21:15,ISBT Kashmiri Gate
+1003,Zingbus Plus,549,3.4,45 Seats available,Bharat Benz A/C Seater (2+2),17:55,04h 35m,22:30,ISBT Kashmiri Gate
+1004,NueGo,384,4.3,29 Seats available,Electric A/C Seater (2+2),18:00,06h 05m,00:05,Bharat petrol pump near kashm...
+1005,NueGo,538,4.8,29 Seats available,Electric A/C Seater (2+2),21:00,05h 45m,02:45,Morigate
+1006,IntrCity SmartBus,INR 686,3.4,31 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),21:25,05h 30m,02:55,Shop no 4a ops anand vihar is...
+1007,Ram Dalal Holidays,628,4.2,51 Seats available,A/C Sleeper (2+1),21:30,06h 45m,04:15,ISBT Kashmiri Gate
+1008,NueGo,569,3.9,39 Seats available,Electric A/C Seater (2+2),22:00,06h 10m,04:10,ISBT Kashmiri Gate
+1009,IntrCity SmartBus,INR 746,4.0,25 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),22:05,05h 30m,03:35,ISBT Kashmiri Gate
+1010,City Land Travels,798,3.1,27 Seats available,A/C Sleeper (2+1),22:10,05h 15m,03:25,Morigate
+1011,Yolo Bus,INR 759,4.6,15 Seats available,A/C Seater / Sleeper (2+1),22:14,05h 32m,03:46,RK Ashram
+1012,Laxmi holidays,788,3.4,38 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),22:15,05h 30m,03:45,ISBT Kashmiri Gate
+1013,Laxmi holidays,1140,4.1,28 Seats available,Bharat Benz A/C Sleeper (2+1),22:20,05h 20m,03:40,ISBT Kashmiri Gate
+1014,TSB Tour express,INR 589,4.2,19 Seats available,AC Seater (2+2),22:29,05h 36m,04:05,ISBT Kashmiri Gate
+1015,City Land Travels,838,3.8,27 Seats available,A/C Sleeper (2+1),22:30,05h 30m,04:00,ISBT Kashmiri Gate
+1016,FlixBus,INR 649,3.7,6 Seats available,A/C Seater (2+2),22:30,05h 10m,03:40,Majnu Ka Tilla
+1017,IntrCity SmartBus,INR 866,3.0,18 Seats available,A/C Sleeper (2+2),22:30,05h 35m,04:05,Anand Vihar
+1018,India Tours & Travels (GetBookCab),739,4.3,56 Seats available,A/C Seater / Sleeper (2+2),22:30,06h 30m,05:00,ISBT Kashmiri Gate
+1019,FlixBus,INR 575,3.5,37 Seats available,A/C Seater (2+2),22:40,05h 40m,04:20,Morigate
+1020,Laxmi holidays,641,3.0,19 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),22:40,05h 20m,04:00,Delhi Kashmere Gate (FlixBus ...
+1021,AG BUS SERVICE,INR 799,3.2,20 Seats available,A/C Seater Push Back (2+2),22:40,04h 31m,03:11,ISBT Kashmiri Gate
+1022,Gola Bus Service,INR 999,3.9,34 Seats available,VE A/C Seater / Sleeper (2+1),22:40,05h 30m,04:10,Majnu Ka Tilla
+1023,TSB Tour express,INR 579,3.7,23 Seats available,AC Seater (2+2),22:50,05h 15m,04:05,Anand Vihar
+1024,Satlok express,INR 999,4.3,27 Seats available,AC Seater (2+2),22:50,05h 55m,04:45,Munirka
+1025,Aadishakti Travels,INR 399,3.0,23 Seats available,Bharat Benz A/C Seater (2+2),22:55,05h 40m,04:35,Opposite shiv murti
+1026,AG BUS SERVICE,INR 699,4.2,27 Seats available,A/C Seater Push Back (2+2),22:55,04h 31m,03:26,South Extension Metro Station
+1027,India Tours & Travels (GetBookCab),INR 192,4.0,22 Seats available,A/C Seater / Sleeper (2+2),23:00,06h 45m,05:45,Delhi airport
+1028,Gola Bus Service,INR 999,4.0,12 Seats available,VE A/C Seater / Sleeper (2+1),23:00,05h 30m,04:30,Morigate
+1029,Satlok express,INR 999,3.9,24 Seats available,AC Seater (2+2),23:00,05h 55m,04:55,Mahipalpur
+1030,IntrCity SmartBus,INR 832,5.0,36 Seats available,VE A/C Seater / Sleeper (2+1),23:00,05h 35m,04:35,Kashmiri Gate ISBT
+1031,Raj Kalpana Travels Pvt.Ltd,INR 729,4.3,45 Seats available,VE A/C Seater (2+2),23:00,04h 55m,03:55,Morigate
+1032,City Land Travels,838,3.5,27 Seats available,A/C Sleeper (2+1),23:00,05h 15m,04:15,ISBT Kashmiri Gate
+1033,Ram Dalal Holidays,776,4.6,22 Seats available,A/C Sleeper (2+1),23:00,05h 10m,04:10,ISBT Kashmiri Gate
+1034,Lucky Bus Service,INR 499,3.3,37 Seats available,A/C Sleeper (2+2),23:00,05h 45m,04:45,Kashmiri Gate ISBT
+1035,Laxmi holidays,1026,3.0,22 Seats available,Bharat Benz A/C Sleeper (2+1),23:00,04h 55m,03:55,Morigate
+1036,NueGo,569,3.4,17 Seats available,Electric A/C Seater (2+2),23:00,05h 45m,04:45,ISBT Kashmiri Gate
+1037,Mahalaxmi Travels,INR 699,4.4,15 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),23:00,05h 00m,04:00,Morigate
+1038,AG BUS SERVICE,INR 699,4.5,32 Seats available,A/C Seater Push Back (2+2),23:10,04h 31m,03:41,Morigate
+1039,Satlok express,INR 999,3.7,25 Seats available,AC Seater (2+2),23:10,05h 55m,05:05,Delhi airport
+1040,Ram Pratap Travels,INR 499,3.0,31 Seats available,AC Seater (2+2),23:15,05h 55m,05:10,ISBT Kashmiri Gate
+1041,Laxmi holidays,950,4.1,36 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),23:15,05h 30m,04:45,ISBT Kashmiri Gate
+1042,Laxmi holidays,1140,3.8,39 Seats available,Bharat Benz A/C Sleeper (2+1),23:20,04h 55m,04:15,ISBT Kashmiri Gate
+1043,City Land Travels,838,3.5,35 Seats available,A/C Sleeper (2+1),23:20,04h 05m,03:25,Akshardham Metro Station
+1044,Satlok express,INR 999,3.6,27 Seats available,AC Seater (2+2),23:20,05h 55m,05:15,Jamana Bazar
+1045,International Tourist Centre,INR 899,4.3,20 Seats available,A/C Seater Push Back (2+2),23:30,05h 15m,04:45,Morigate
+1046,Blueworld tourist private limited,INR 699,4.3,49 Seats available,AC Seater (2+2),23:30,06h 15m,05:45,Delhi
+1047,City Land Travels,798,4.3,31 Seats available,A/C Sleeper (2+1),23:30,05h 15m,04:45,Kashmiri gate metro station g...
+1048,City Land Travels,798,4.4,45 Seats available,A/C Sleeper (2+1),23:40,04h 15m,03:55,ISBT Kashmiri Gate
+1049,Laxmi holidays,1140,3.6,21 Seats available,Bharat Benz A/C Sleeper (2+1),23:40,05h 20m,05:00,ISBT Kashmiri Gate
+1050,Zingbus Plus,689,4.7,39 Seats available,Bharat Benz A/C Seater (2+2),23:40,04h 15m,03:55,ABES Engineer College Gaziabad
+1051,Zingbus Plus,393,3.2,9 Seats available,Bharat Benz A/C Seater (2+2),23:45,03h 51m,03:36,"NueGo Lounge, Kashmiri Gate"
+1052,Laxmi holidays,855,4.7,21 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),23:45,04h 55m,04:40,ISBT Kashmiri Gate
+1053,Shree Hare Rama Travels,599,4.1,20 Seats available,A/C Seater/Sleeper (2+1),23:48,05h 07m,04:55,ISBT Kashmiri Gate
+1054,Laxmi holidays,1140,3.9,25 Seats available,Bharat Benz A/C Sleeper (2+1),23:50,05h 30m,05:20,Munirka
+1055,Shree Hare Rama Travels,399,3.7,6 Seats available,A/C Semi Sleeper (2+2),23:50,04h 55m,04:45,ISBT Kashmiri Gate
+1056,Yolo Bus,INR 949,4.3,1 Seat available,Bharat Benz A/C Sleeper (2+1),23:53,05h 07m,05:00,Mahipalpur Near Igi Airpot
+1057,Zingbus Plus,472,3.8,68 Seats available,A/C Seater (2+2),23:55,04h 15m,04:10,Kashmere Gate Metro Station G...
+1058,City Land Travels,798,4.1,22 Seats available,A/C Seater / Sleeper (2+2),23:55,04h 30m,04:25,ISBT Kashmiri Gate
+1059,Crown Travels,INR 499,2.8,17 Seats available,Bharat Benz A/C Semi Sleeper (2+2),23:55,05h 35m,05:30,ISBT Kashmiri Gate
+1060,FlixBus,INR 524,2.0,15 Seats available,A/C Seater (2+2),23:55,05h 05m,05:00,ISBT Kashmiri Gate
+1061,Laxmi holidays,1140,1.8,40 Seats available,Bharat Benz A/C Sleeper (2+1),23:55,04h 30m,04:25,Jamana Bazar
+1062,Yolo Bus,INR 930,1.9,,A/C Seater / Sleeper (2+1),23:57,04h 36m,04:33,
+1063,International Tourist Centre,INR 899,2.8,,A/C Seater Push Back (2+2),23:59,05h 01m,05:00,
+1064,NueGo,343,2.7,,Electric A/C Seater (2+2),08:05,04h 40m,12:45,
+1065,FlixBus,INR 828,2.4,,A/C Seater (2+2),08:10,04h 30m,12:40,
+1066,Shishpal Bus Service,INR 500,1.7,,A/C Seater Push Back (2+2),10:00,05h 45m,15:45,
+1067,AG BUS SERVICE,INR 760.95,2.4,,AC Seater (2+2),11:35,04h 30m,16:05,
+1068,Hill Travels,574,2.7,,A/C Seater / Sleeper (2+1),13:30,04h 20m,17:50,
+1069,City Land Travels,698,2.4,,A/C Sleeper (2+1),18:10,04h 15m,22:25,
+1070,India Tours & Travels (GetBookCab),997,1.0,,A/C Seater Push Back (2+2),21:00,06h 00m,03:00,
+1071,Shri Krishna Bus Service,759,2.1,,A/C Seater / Sleeper (2+1),21:33,04h 59m,02:32,
+1072,India Tours & Travels (GetBookCab),INR 674,2.7,,A/C Seater Push Back (2+2),22:00,06h 00m,04:00,
+1073,Shri Krishna Bus Service,632,1.6,,A/C Seater / Sleeper (2+1),22:02,05h 45m,03:47,
+1074,Hill Travels,474,1.0,,A/C Seater / Sleeper (2+1),22:40,04h 26m,03:06,
+1075,Shri Krishna Bus Service,542,2.8,,A/C Seater / Sleeper (2+1),22:40,05h 20m,04:00,
+1076,Himanshu bus Service,INR 499,2.4,,A/C Seater (2+2),22:50,04h 30m,03:20,
+1077,Hill Travels,674,2.1,,AC Seater (2+2),22:50,04h 26m,03:16,
+1078,Classic Travels,INR 809,1.7,,A/C Seater/Sleeper (2+1),22:55,05h 00m,03:55,
+1079,Crown Travels,INR 799,2.4,,A/C Sleeper (2+1),23:00,05h 50m,04:50,
+1080,Himanshu bus Service,INR 499,2.2,,A/C Seater (2+2),23:00,05h 30m,04:30,
+1081,Shree Saroj Travels,INR 699,1.2,,VE A/C Seater (2+2),23:00,05h 00m,04:00,
+1082,Hans India Tour,INR 599,1.2,,A/C Seater / Sleeper (2+2),23:05,05h 25m,04:30,
+1083,Hill Travels,574,2.9,,A/C Seater / Sleeper (2+1),23:10,04h 20m,03:30,
+1084,Hill Travels,674,2.5,,AC Seater (2+2),23:15,04h 28m,03:43,
+1085,Shri Krishna Bus Service,664,2.9,,A/C Seater / Sleeper (2+1),23:16,04h 50m,04:06,
+1086,Crown Travels,INR 599,2.9,,A/C Seater Push Back (2+2),23:25,05h 25m,04:50,
+1087,Crown Travels,INR 599,2.7,,A/C Seater / Sleeper (2+2),23:30,05h 20m,04:50,
+1088,Crown Travels,INR 599,2.2,,A/C Seater / Sleeper (2+2),23:30,05h 30m,05:00,
+1089,Hans India Tour,INR 799,4.3,,A/C Seater Push Back (2+2),23:30,05h 30m,05:00,
+1090,Shishpal Bus Service,INR 299,4.6,,A/C Seater Push Back (2+2),23:30,06h 05m,05:35,
+1091,WELCOME TOUR & TRAVELS,480,4.4,,A/C Seater Push Back (2+2),23:30,04h 15m,03:45,
+1092,PRAKASH TOURISM,INR 899,1.6,,Volvo Multi-Axle B9R A/c Semi Sleeper (2+2),23:30,04h 00m,03:30,
+1093,Shri Bawa Lal Tour and Travels,INR 348.57,1.4,,AC Seater (2+2),23:30,05h 02m,04:32,
+1094,City Land Travels,838,1.7,,A/C Sleeper (2+1),23:50,04h 15m,04:05,
+1095,Shree Hare Rama Travels,399,2.0,,VE A/C Semi Sleeper (2+2),23:55,04h 50m,04:45,
+1096,Star City Bus,INR 1099,2.4,,VE A/C Semi Sleeper (2+2),23:55,05h 05m,05:00,
+1097,NueGo,790,2.2,,Electric A/C Seater (2+2),23:55,05h 45m,05:40,
+1098,City Land Travels,460,2.4,,Volvo A/C Semi Sleeper (2+2),23:58,04h 32m,04:30,
+1099,Gola Bus Service,INR 1999,,,A/C Seater/Sleeper (2+1),13:20,14h 40m,04:00,
+1100,India Tours & Travels (GetBookCab),INR 1319,,,A/C Seater / Sleeper (2+2),23:00,05h 00m,04:00,
+1101,Laxmi holidays,1520,,,Bharat Benz A/C Seater (2+1),23:50,05h 20m,05:10,
+1102,SONI TRAVELS CO.,INR 1808.57,,,AC Seater (2+2),08:00,05h 10m,13:10,
+1103,RAO SAHAB TRAVELS PRIVATE LIMITED,INR 4349,,,A/C Seater / Sleeper (2+1),19:05,06h 05m,01:10,
+1104,Kashi Vishwanath Tours and Travels,INR 3000,,,A/C Seater / Sleeper (2+2),23:00,05h 45m,04:45,
+1105,Hans India Tour,INR 1299,,,A/C Seater / Sleeper (2+2),23:05,05h 40m,04:45,
+1106,Hans India Tour,INR 1299,,,A/C Seater/Sleeper (2+1),23:05,05h 40m,04:45,
+1107,Laxmi holidays,1520,,,Bharat Benz A/C Seater (2+2),23:30,05h 20m,04:50,
+1108,Shishpal Bus Service,INR 1599,,,A/C Seater / Sleeper (2+2),23:40,06h 05m,05:45,
+1109,Shri mahavir tour and travels,INR 1200,4.2,,AC Sleeper (2+1),10:00,03h 20m,13:20,
+1110,Sanjay Travels,INR 700,3.8,,AC Sleeper (2+1),08:35,03h 10m,11:45,
+1111,Dhariwal Travels,INR 900,3.2,,A/C Sleeper (2+1),09:20,02h 35m,11:55,
+1112,Vanshika Tour and Travels,INR 200,3.2,,NON A/C Seater (2+2),08:55,04h 05m,13:00,
+1113,Hans Travels (I) Private Limited,INR 700,2.2,,A/C Sleeper (2+1),08:30,02h 30m,11:00,
+1114,Vidhan Tour Travels,INR 245,1.2,,Non AC Seater (2+2),14:00,03h 00m,17:00,
+1115,Vidhan Tour Travels,INR 245,1.7,,Non AC Seater (2+2),13:30,03h 00m,16:30,
+1116,Siddharth Holidays,INR 500,1.9,,AC Seater (2+2),18:05,02h 25m,20:30,
+1117,Vanshika Tour and Travels,INR 200,1.6,,NON A/C Seater (2+2),17:40,03h 50m,21:30,
+1118,Vidhan Tour Travels,INR 245,2.2,,Non AC Seater (2+2),08:30,03h 00m,11:30,
+1119,Travel Point World LLP,3040,,,AC Sleeper (2+1),19:25,01h 30m,20:55,
+1120,Comfort Tour and Travels,INR 499,,,NON A/C Seater Push Back (2+2),08:20,03h 00m,11:20,
+1121,Shatabdi Travels,INR 888,3.9,16 Seats available,AC Sleeper (2+1),23:31,06h 16m,05:47,Transport Nagar
+1122,Anshi Raj Shree Travels,INR 899,3.9,18 Seats available,Bharat Benz A/C Sleeper (2+1),23:59,05h 46m,05:45,Alambagh
+1123,Samay Shatabdi Travels Pvt Ltd,INR 599,1.3,29 Seats available,NON A/C Sleeper (2+1),23:45,05h 15m,05:00,Charbagh
+1124,Samay Shatabdi Travels Pvt Ltd,INR 1499,1.5,24 Seats available,AC Sleeper (2+1),21:00,04h 15m,01:15,Charbagh
+1125,MISHRA BANDHU BUS SERVICE,INR 999,2.8,41 Seats available,A/C Seater / Sleeper (2+1),21:30,06h 00m,03:30,Transport Nagar
+1126,SHRINET TOUR AND TRAVELS,INR 500,2.6,2 Seats available,A/C Seater (2+2),12:40,05h 10m,17:50,"Tansport nagar metro station,..."
+1127,Shatabdi Travels Gorakhpur,INR 2500,1.5,43 Seats available,AC Sleeper (2+1),23:45,06h 02m,05:47,Alambagh
+1128,Indian Auto Wheels,INR 545,1.7,30 Seats available,AC Seater (2+3),12:45,06h 45m,19:30,Alambagh
+1129,SHRINET TOUR AND TRAVELS,INR 550,1.9,29 Seats available,A/C Seater (2+2),12:30,05h 20m,17:50,Alambagh
+1130,SHRINET TOUR AND TRAVELS,INR 500,4.6,30 Seats available,A/C Seater (2+2),11:00,05h 20m,16:20,Alambagh
+1131,PTC-SKYBUS,INR 499,2.8,35 Seats available,AC Seater (2+2),23:00,06h 00m,05:00,Alambagh
+1132,Panwar Travels,INR 1250,2.9,40 Seats available,A/C Seater / Sleeper (2+1),21:30,05h 25m,02:55,Charbagh
+1133,Gorakhdham Express Bus Service,INR 965,2.9,46 Seats available,A/C Seater / Sleeper (2+2),23:55,04h 35m,04:30,Transport Nagar
+1134,Gorakhdham Express Bus Service,INR 995,2.0,38 Seats available,A/C Seater / Sleeper (2+2),22:15,05h 45m,04:00,Transport Nagar
+1135,RYS Travels,1202,1.7,47 Seats available,Bharat Benz A/C Seater / Sleeper (2+2),23:30,05h 30m,05:00,Charbagh
+1136,Maan Travels,INR 1050,1.8,33 Seats available,NON AC Seater / Sleeper 2+1,23:55,04h 05m,04:00,BY PASS
+1137,Shanvi travels,INR 500,1.6,40 Seats available,A/C Seater (2+2),14:32,06h 08m,20:40,Transport Nagar
+1138,Travel Point World LLP,1899,1.6,24 Seats available,A/C Seater / Sleeper (2+2),23:30,05h 45m,05:15,Alambagh
+1139,Travel Point World LLP,1899,1.2,,A/C Seater / Sleeper (2+2),22:00,04h 00m,02:00,
+1140,Shree Balajee Travels And Cargo,INR 2000,1.3,,A/C Seater / Sleeper (2+1),23:30,05h 30m,05:00,
+1141,Maa Laxmi Bihar Express,INR 1000,1.4,,Non A/C Seater / Sleeper (2+1),22:30,06h 30m,05:00,
+1142,Bhumi Travels,INR 1699,1.0,,A/C Seater / Sleeper (2+2),23:25,05h 15m,04:40,
+1143,New India Bus Service,INR 2299,,,A/C Seater / Sleeper (2+2),23:30,04h 30m,04:00,
+1144,Yolo Bus,INR 639,4.1,22 Seats available,A/C Sleeper (2+1),23:49,06h 00m,05:49,"Wajid Pur Tiraha , Jaunpur"
+1145,Raj Kalpana Travels Pvt.Ltd,INR 1500,4.6,28 Seats available,A/C Sleeper (2+1),19:00,04h 30m,23:30,Wajidpur tiraha jaunpur
+1146,R S YADAV SMART BUS PRIVATE LIMITED,INR 1099,4.4,34 Seats available,A/C Seater / Sleeper (2+2),18:35,06h 46m,01:21,polytechnic chauraha ashirwad...
+1147,Khajuraho Travels,INR 1046,3.8,26 Seats available,A/C Seater / Sleeper (2+1),19:20,04h 30m,23:50,Jaunpur
+1148,Vijay Tour and Travels,INR 899,3.5,42 Seats available,A/C Seater / Sleeper (2+1),17:20,05h 00m,22:20,Wazidpur tiraha bharat petrol...
+1149,Raj Kalpana Travels Pvt.Ltd,INR 1062,4.6,,A/C Seater/Sleeper (2+1),21:45,03h 45m,01:30,
+1150,HIGHWAY STAR TRAVEL & CARGO,832,3.1,,A/C Seater / Sleeper (2+1),19:15,05h 00m,00:15,
+1151,Choudhary travels and cargo,INR 699,2.6,,A/C Volvo B11R Multi-Axle Sleeper (2+1),23:40,05h 20m,05:00,
+1152,UPSRTC - KSB0003,INR 505,3.4,25 Seats available,Shatabdi AC Seater 2+2,11:00,06h 00m,17:00,Kaushambi Bus Stand(Delhi)
+1153,UPSRTC - KSB0005,INR 505,2.1,52 Seats available,Shatabdi AC Seater 2+2,23:00,06h 00m,05:00,Anand Vihar
+1154,UPSRTC - GRH0089,INR 403,3.3,52 Seats available,Ordinary Non AC Seater 2+3,14:30,07h 05m,21:35,Anand Vihar
+1155,UPSRTC - BDN0037,INR 407,3.3,,Ordinary Non AC Seater 2+3,14:00,06h 20m,20:20,
+1156,UPSRTC - BDN0040,INR 411,3.3,,Ordinary Non AC Seater 2+3,13:00,06h 30m,19:30,
+1157,UPSRTC - BDN0044,INR 411,3.3,,Ordinary Non AC Seater 2+3,19:00,06h 30m,01:30,
+1158,UPSRTC - BDN0046,INR 411,3.3,,Ordinary Non AC Seater 2+3,21:00,06h 30m,03:30,
+1159,UPSRTC - BDN0019,INR 403,3.3,,Ordinary Non AC Seater 2+3,12:30,06h 30m,19:00,
+1160,UPSRTC - BDN0042,INR 411,3.3,,Ordinary Non AC Seater 2+3,15:30,06h 30m,22:00,
+1161,UPSRTC - BDN0076,INR 368,3.3,,Rajdhani Non AC Seater 2+3,13:36,05h 55m,19:31,
+1162,UPSRTC - GRH0088,INR 403,3.3,,Ordinary Non AC Seater 2+3,14:00,07h 05m,21:05,
+1163,Yolo Bus,INR 639,3.6,24 Seats available,A/C Sleeper (2+1),22:19,05h 45m,04:04,Alambagh
+1164,Golden Holidays,INR 449,2.6,23 Seats available,A/C Seater / Sleeper (2+1),21:50,06h 20m,04:10,Alambagh
+1165,Mahalaxmi Travels,INR 399,2.7,25 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),23:15,04h 30m,03:45,Behind Awadh Hospital Alambag...
+1166,Sethi Yatra Company,INR 700,2.4,8 Seats available,A/C Seater/Sleeper (2+1),22:30,04h 30m,03:00,Alam Bagh Nehariya Chauraha
+1167,Goyal Travels,INR 500,1.5,22 Seats available,A/C Seater / Sleeper (2+1),23:49,04h 06m,03:55,Mahalaxmi travels behind awad...
+1168,Jai Shree Ram Bus Service,INR 600,2.7,,AC Sleeper (2+1),16:00,04h 45m,20:45,
+1169,UPSRTC - RKD0037,INR 505,4.2,52 Seats available,Janrath AC Seater 2+3,10:30,07h 10m,17:40,BAREILLY OLD BUS STATION
+1170,UPSRTC - FZG0001,INR 413,3.3,52 Seats available,Ordinary Non AC Seater 2+3,19:30,07h 30m,03:00,BAREILLY SATELITE
+1171,UPSRTC - ORI0085,INR 410,3.3,28 Seats available,Ordinary Non AC Seater 2+3,19:35,07h 55m,03:30,BAREILLY OLD BUS STATION
+1172,UPSRTC - RKD0039,INR 610,3.3,18 Seats available,Janrath AC Seater 2+2,21:00,06h 55m,03:55,BAREILLY OLD BUS STATION
+1173,UPSRTC - VKS0001,INR 625,3.9,52 Seats available,Janrath AC Seater 2+2,22:05,05h 40m,03:45,BAREILLY SATELITE
+1174,UPSRTC - STD0527,INR 405,,,Ordinary Non AC Seater 2+3,20:35,06h 29m,03:04,
+1175,Samay Shatabdi Travels Pvt Ltd,INR 1099,4.4,18 Seats available,Bharat Benz A/C Sleeper (2+1),20:00,06h 45m,02:45,Samay shatabdi by side of ban...
+1176,Mahalaxmi Travels,INR 799,3.9,25 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),19:30,08h 20m,03:50,Royal Tourist Kanpur
+1177,Samay Shatabdi Travels Pvt Ltd,INR 1099,4.4,16 Seats available,AC Sleeper (2+1),21:01,06h 45m,03:46,Samay shatabdi by side of ban...
+1178,Samay Shatabdi Travels Pvt Ltd,INR 1099,4.4,30 Seats available,AC Sleeper (2+1),20:30,06h 45m,03:15,Samay shatabdi by side of ban...
+1179,Indian Auto Wheels,INR 250,3.1,,AC Seater (2+3),10:30,02h 15m,12:45,
+1180,Samay Shatabdi Travels Pvt Ltd,INR 500,4.5,,AC Sleeper (2+1),17:30,03h 30m,21:00,
+1181,Samay Shatabdi Travels Pvt Ltd,INR 1100,4.5,,Bharat Benz A/C Sleeper (2+1),20:00,02h 00m,22:00,
+1182,Shatabdi Travels Gorakhpur,INR 856.19,2.8,,AC Sleeper (2+1),21:00,02h 30m,23:30,
+1183,Shatabdi Travels Gorakhpur,INR 799,2.1,,AC Sleeper (2+1),21:00,02h 30m,23:30,
+1184,Panwar Travels,INR 2500,2.2,,A/C Seater / Sleeper (2+1),18:00,03h 30m,21:30,
+1185,MISHRA BANDHU BUS SERVICE,INR 999,2.5,,A/C Seater / Sleeper (2+1),18:30,03h 00m,21:30,
+1186,Mahalaxmi Travels,INR 799,,,Bharat Benz A/C Seater /Sleeper (2+1),19:30,03h 15m,22:45,
+1187,Shatabdi Travels,INR 888,,,AC Sleeper (2+1),21:01,02h 30m,23:31,
+1188,UPSRTC - RKD0039,INR 814,4.0,28 Seats available,Janrath AC Seater 2+2,21:00,08h 00m,05:00,BAREILLY OLD BUS STATION
+1189,UPSRTC - VKS0001,INR 830,2.6,16 Seats available,Janrath AC Seater 2+2,22:05,07h 10m,05:15,BAREILLY OLD BUS STATION
+1190,UPSRTC - RKD0037,INR 646,2.6,,Janrath AC Seater 2+3,10:30,09h 00m,19:30,

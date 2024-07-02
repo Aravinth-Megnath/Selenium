@@ -1,0 +1,563 @@
+,Names,Bus_fare,Ratings,Seats,Bus_types,Starting_time,Duration,Ending_time,Starting_point
+0,Kadamba Transport Corporation Limited (KTCL) - 60996,INR 735,3.3,28 Seats available,Non AC Seater 2+2,19:00,12h 00m,07:00,Vasco
+1,Konkan Tours & Travels,INR 3000,3.5,32 Seats available,NON A/C Sleeper (2+1),17:00,11h 00m,04:00,Panjim
+2,Zingbus Plus,924,4.4,24 Seats available,Bharat Benz A/C Sleeper (2+1),17:00,15h 00m,08:40,Borivali West
+3,Zingbus Plus,827,4.6,19 Seats available,VE A/C Sleeper (2+1),20:00,15h 20m,11:20,Borivali West
+4,IntrCity SmartBus,INR 884,4.4,8 Seats available,AC Sleeper (2+1),17:00,15h 15m,08:15,Borivali West
+5,AdMascot Travels(M.DEV),799,3.9,22 Seats available,A/C Sleeper (2+1),17:45,17h 15m,11:00,Borivali West
+6,Rajdhani Travels Corporation,INR 1199,4.3,15 Seats available,VE A/C Sleeper (2+1),19:55,13h 40m,09:35,Sion
+7,Dolphin Travel House (37),INR 1110,4.3,10 Seats available,Bharat Benz A/C Sleeper (2+1),13:30,17h 00m,06:30,Borivali West
+8,IntrCity SmartBus,INR 800,4.2,12 Seats available,AC Sleeper (2+1),16:00,16h 20m,08:20,Borivali West
+9,AdIntrCity SmartBus,INR 799,3.6,15 Seats available,AC Sleeper (2+1),17:30,16h 00m,09:30,Borivali West
+10,Dolphin Travel House (38),INR 1010,4.3,29 Seats available,Bharat Benz A/C Sleeper (2+1),15:30,17h 00m,08:30,Borivali West
+11,IntrCity SmartBus,INR 1020,4.1,11 Seats available,AC Sleeper (2+1),19:15,14h 30m,09:45,Sion
+12,IntrCity SmartBus,INR 799,3.9,17 Seats available,AC Sleeper (2+1),20:55,13h 50m,10:45,Sion
+13,Konkan Travels National,INR 699,4.1,19 Seats available,NON A/C Sleeper (2+1),19:25,14h 05m,09:45,Sion
+14,Zingbus Plus,827,4.3,16 Seats available,VE A/C Sleeper (2+1),18:00,14h 55m,09:35,Borivali West
+15,Global Travel Agency (GTA),INR 900,4.1,17 Seats available,A/C Sleeper (2+1),17:50,18h 40m,11:35,Borivali West
+16,Jolly Tours and Travels,INR 1200,4.2,9 Seats available,VE A/C Sleeper (2+1),18:35,13h 25m,07:05,Sion
+17,Konkan Travels National,INR 849,3.8,20 Seats available,A/C Sleeper (2+1),18:00,16h 00m,11:00,Borivali West
+18,Vaibhav travels,650,3.7,23 Seats available,A/C Sleeper (2+1),18:00,18h 00m,12:00,Borivali West
+19,Dolphin Travel House (40),INR 1110,3.6,24 Seats available,A/C Sleeper (2+1),20:45,17h 15m,14:00,Borivali West
+20,Dolphin travel house,INR 910,3.5,33 Seats available,A/C Sleeper (2+1),17:45,17h 00m,10:45,Borivali West
+21,Shubham Vailankanni Travels,950,3.4,30 Seats available,VE A/C Sleeper (2+1),20:30,16h 00m,12:05,Borivali West
+22,Abhishek Vishal Travels (Samarth),INR 799,3.4,31 Seats available,A/C Sleeper (2+1),16:50,14h 35m,09:10,Borivali West
+23,Shubham Saijyoti Travels,808,3.4,27 Seats available,A/C Sleeper (2+1),20:55,14h 05m,11:00,Sion
+24,Dolphin Travel House (39),INR 910,3.1,32 Seats available,A/C Sleeper (2+1),16:30,17h 15m,09:15,Borivali West
+25,Humrahi Roshan Travels,786,3.4,31 Seats available,A/C Sleeper (2+1),16:30,17h 00m,09:30,Borivali West
+26,Abhishek Vishal Travels,INR 550,3.2,32 Seats available,NON A/C Push Back (2+2),14:50,16h 20m,07:10,Borivali West
+27,Anand Travels,684,3.1,19 Seats available,NON A/C Sleeper (2+1),16:55,16h 35m,09:30,Sion
+28,Konkan Travels Mujawar,INR 749,3.5,28 Seats available,NON A/C Sleeper (2+1),18:45,14h 45m,11:30,Borivali West
+29,Shubhra Sharma Tourist Services,INR 1099,3.5,28 Seats available,A/C Sleeper (2+1),16:46,19h 15m,10:31,Borivali West
+30,Atmaram Manish Travels,INR 600,2.6,7 Seats available,NON A/C Hi-Tech (2+2),15:00,17h 45m,07:30,Borivali West
+31,Naik Tours And Travels,INR 800,2.3,24 Seats available,Bharat Benz A/C Sleeper (2+1),20:30,14h 30m,10:00,Vashi
+32,Mascot Travels(M.DEV),INR 750,3.1,24 Seats available,A/C Sleeper (2+1),19:00,17h 00m,12:00,Borivali West
+33,Naik Travels (Syndicate),INR 700,3.3,24 Seats available,NON A/C Sleeper (2+1),19:30,14h 30m,09:00,Vashi
+34,Dolphin travel house,INR 1100,4.5,36 Seats available,Bharat Benz A/C Sleeper (2+1),20:45,15h 15m,12:00,Borivali West
+35,Sanvi Travels - Shree,INR 850,3.8,18 Seats available,A/C Sleeper (2+1),17:00,17h 45m,09:30,Borivali West
+36,Dolphin travel house,INR 900,3.9,36 Seats available,A/C Sleeper (2+1),16:31,17h 15m,09:16,Borivali West
+37,PVS Tours and Travels,INR 3000,3.4,32 Seats available,A/C Sleeper (2+1),18:35,15h 55m,08:45,Sion
+38,Roshan Travels - Humrahi,850,2.6,19 Seats available,Benz A/C Sleeper (2+1),18:45,17h 45m,11:45,Borivali West
+39,Sanvi Travels - Shree,INR 850,3.7,14 Seats available,A/C Sleeper (2+1),17:10,17h 45m,09:40,Borivali West
+40,Konkan Travels Muskan,INR 2500,2.7,30 Seats available,NON A/C Sleeper (2+1),17:35,16h 40m,10:15,Borivali West
+41,Maa tours & Travels,INR 900,2.1,47 Seats available,A/C Seater (2+2),18:30,16h 00m,10:00,Sion
+42,Atmaram Travels,INR 700,2.4,27 Seats available,A/C Seater / Sleeper (2+1),20:00,16h 30m,11:00,Borivali West
+43,Maa Tours Travels (Kanad Travels),INR 900,2.4,13 Seats available,A/C Sleeper (2+1),21:05,12h 25m,09:30,Sion
+44,Kanad Travels,INR 900,2.9,25 Seats available,AC Sleeper (2+1),18:45,16h 00m,10:45,Borivali West
+45,Naik Tours And Travels,INR 1000,1.0,37 Seats available,AC Seater (2+2),22:00,12h 30m,10:00,Sion
+46,Global Travel Agency (GTA),INR 3000,3.7,31 Seats available,A/C Sleeper (2+1),18:30,18h 40m,12:15,Borivali West
+47,Giroba Travels (SHREE),INR 850,3.3,23 Seats available,A/C Sleeper (2+1),17:00,16h 00m,09:30,Borivali West
+48,Roshan Travels - Humrahi,3450,2.6,36 Seats available,A/C Sleeper (2+1),17:30,17h 35m,11:05,Borivali West
+49,Naik Tours And Travels,INR 800,2.6,25 Seats available,NON A/C Sleeper (1+2),17:00,14h 00m,06:00,Sion
+50,Atmaram Travels,INR 700,2.5,23 Seats available,A/C Seater / Sleeper (2+1),20:00,16h 30m,11:00,Borivali West
+51,VRL Travels,INR 900,2.9,12 Seats available,A/C Sleeper (2+1),19:45,14h 15m,09:45,Vashi
+52,Kadamba Transport Corporation Limited (KTCL) - 158967,INR 400,4.6,,A/C Seater (2+3),15:00,02h 00m,17:00,
+53,Kadamba Transport Corporation Limited (KTCL) - 159647,INR 200,4.9,,A/C Seater (2+3),10:30,01h 00m,11:30,
+54,Kadamba Transport Corporation Limited (KTCL) - 158965,INR 200,4.7,,A/C Seater (2+3),09:25,01h 05m,10:30,
+55,Kadamba Transport Corporation Limited (KTCL) - 158968,INR 150,4.7,,A/C Seater (2+3),08:45,00h 30m,09:15,
+56,Kadamba Transport Corporation Limited (KTCL) - 158965,INR 400,3.8,,A/C Seater (2+3),08:30,02h 00m,10:30,
+57,Kadamba Transport Corporation Limited (KTCL) - 158967,INR 200,3.6,,A/C Seater (2+3),15:55,01h 05m,17:00,
+58,Kadamba Transport Corporation Limited (KTCL) - 159065,INR 150,3.0,,A/C Seater (2+3),12:30,00h 30m,13:00,
+59,Kadamba Transport Corporation Limited (KTCL) - 158948,INR 150,2.3,,A/C Seater (2+3),14:00,00h 30m,14:30,
+60,Kadamba Transport Corporation Limited (KTCL) - 159017,INR 150,3.7,,A/C Seater (2+3),06:45,00h 30m,07:15,
+61,Kadamba Transport Corporation Limited (KTCL) - 159018,INR 150,3.7,,A/C Seater (2+3),07:45,00h 30m,08:15,
+62,Kadamba Transport Corporation Limited (KTCL) - 159019,INR 150,3.7,,A/C Seater (2+3),10:44,00h 31m,11:15,
+63,Kadamba Transport Corporation Limited (KTCL) - 158962,INR 400,3.7,,A/C Seater (2+3),05:15,02h 00m,07:15,
+64,Kadamba Transport Corporation Limited (KTCL) - 158964,INR 400,3.7,,A/C Seater (2+3),06:30,02h 00m,08:30,
+65,Kadamba Transport Corporation Limited (KTCL) - 158964,INR 150,3.7,,A/C Seater (2+3),07:55,00h 35m,08:30,
+66,Kadamba Transport Corporation Limited (KTCL) - 158962,INR 150,3.7,,A/C Seater (2+3),06:45,00h 30m,07:15,
+67,Kadamba Transport Corporation Limited (KTCL) - 158967,INR 400,4.6,,A/C Seater (2+3),15:00,02h 00m,17:00,
+68,Kadamba Transport Corporation Limited (KTCL) - 159647,INR 200,4.9,,A/C Seater (2+3),10:30,01h 00m,11:30,
+69,Kadamba Transport Corporation Limited (KTCL) - 158965,INR 200,4.7,,A/C Seater (2+3),09:25,01h 05m,10:30,
+70,Kadamba Transport Corporation Limited (KTCL) - 158968,INR 150,4.7,,A/C Seater (2+3),08:45,00h 30m,09:15,
+71,Kadamba Transport Corporation Limited (KTCL) - 158965,INR 400,3.8,,A/C Seater (2+3),08:30,02h 00m,10:30,
+72,Kadamba Transport Corporation Limited (KTCL) - 158967,INR 200,3.6,,A/C Seater (2+3),15:55,01h 05m,17:00,
+73,Kadamba Transport Corporation Limited (KTCL) - 159065,INR 150,3.0,,A/C Seater (2+3),12:30,00h 30m,13:00,
+74,Kadamba Transport Corporation Limited (KTCL) - 158948,INR 150,2.3,,A/C Seater (2+3),14:00,00h 30m,14:30,
+75,Kadamba Transport Corporation Limited (KTCL) - 159017,INR 150,3.7,,A/C Seater (2+3),06:45,00h 30m,07:15,
+76,Kadamba Transport Corporation Limited (KTCL) - 159018,INR 150,3.7,,A/C Seater (2+3),07:45,00h 30m,08:15,
+77,Kadamba Transport Corporation Limited (KTCL) - 159019,INR 150,3.7,,A/C Seater (2+3),10:44,00h 31m,11:15,
+78,Kadamba Transport Corporation Limited (KTCL) - 158962,INR 400,3.7,,A/C Seater (2+3),05:15,02h 00m,07:15,
+79,Kadamba Transport Corporation Limited (KTCL) - 158964,INR 400,3.7,,A/C Seater (2+3),06:30,02h 00m,08:30,
+80,Kadamba Transport Corporation Limited (KTCL) - 158964,INR 150,3.7,,A/C Seater (2+3),07:55,00h 35m,08:30,
+81,Kadamba Transport Corporation Limited (KTCL) - 158962,INR 150,3.7,,A/C Seater (2+3),06:45,00h 30m,07:15,
+82,Kadamba Transport Corporation Limited (KTCL) - 99710,INR 200,4.2,,AC Seater (2+2),16:00,01h 30m,17:30,
+83,Kadamba Transport Corporation Limited (KTCL) - 99708,INR 200,4.3,,AC Seater (2+2),07:30,01h 40m,09:10,
+84,Kadamba Transport Corporation Limited (KTCL) - 151354,INR 200,3.9,,Volvo AC Seater 2+2,08:00,01h 30m,09:30,
+85,Kadamba Transport Corporation Limited (KTCL) - 99707,INR 200,3.0,,AC Seater (2+2),13:45,01h 45m,15:30,
+86,PSR Travels Goa,INR 1199,3.4,22 Seats available,A/C Sleeper (2+1),18:00,15h 00m,09:00,Hotel Holiday Park
+87,Humsafar Travels,INR 1350,3.7,9 Seats available,A/C Sleeper (2+1),14:30,19h 00m,09:30,"Om Sairam Travels,Shirdi Near..."
+88,Humsafar Travels,INR 1350,3.5,20 Seats available,A/C Sleeper (2+1),16:00,17h 00m,09:00,"Om Sairam Travels,Shirdi Near..."
+89,Hans Travels (I) Private Limited,INR 1500,1.4,10 Seats available,A/C Sleeper (2+1),20:19,14h 20m,10:39,Nagar Panchayat
+90,Kadamba Transport Corporation Limited (KTCL) - 6020,INR 140,3.7,,Non AC Seater 2+2,16:00,02h 15m,18:15,
+91,Atmaram Gobus,INR 950,4.7,9 Seats available,VE A/C Sleeper (2+1),22:30,10h 30m,08:45,Swargate
+92,Atmaram Gobus,INR 799,4.5,10 Seats available,VE A/C Sleeper (2+1),21:00,10h 45m,07:30,Swargate
+93,Zingbus Plus,760,4.5,11 Seats available,Bharat Benz A/C Sleeper (2+1),22:05,10h 05m,08:10,Swargate
+94,AdSangitam Travels Tanzanite,INR 771,4.2,7 Seats available,A/C Sleeper (2+1),21:00,10h 00m,06:45,Swargate
+95,Ashray Travels,INR 1200,4.5,17 Seats available,Bharat Benz A/C Sleeper (2+1),21:00,12h 00m,08:30,Swargate
+96,Ashray Amrutyog,INR 1200,4.4,22 Seats available,A/C Sleeper (2+1),22:00,10h 00m,09:30,Swargate
+97,Ashray Vip Yellows,INR 1180,4.3,10 Seats available,A/C Sleeper (2+1),20:30,12h 00m,08:00,Swargate
+98,AdIndumati Travels,INR 899,4.1,21 Seats available,A/C Sleeper (2+1),21:20,10h 10m,07:30,Swargate
+99,Humsafar Travels,INR 1050,4.4,13 Seats available,A/C Sleeper (2+1),22:50,10h 40m,09:30,Katraj
+100,Zingbus Plus,971,4.3,24 Seats available,Bharat Benz A/C Sleeper (2+1),22:25,09h 35m,08:40,Swargate
+101,Ashray Pearl,INR 1549,4.2,26 Seats available,Volvo Multi-Axle A/C Sleeper (2+1),22:30,11h 15m,08:30,Swargate
+102,Indumati Travels,INR 849,4.2,20 Seats available,A/C Sleeper (2+1),22:20,10h 10m,08:30,Swargate
+103,Dolphin Travel House (37),INR 1110,4.4,11 Seats available,Bharat Benz A/C Sleeper (2+1),20:15,10h 15m,06:30,Swargate
+104,Laxmi-Princess Nova,INR 400,4.3,29 Seats available,Non A/C Seater / Sleeper (2+1),20:00,11h 30m,07:15,Swargate
+105,Prasanna - Purple Bus,891,4.2,9 Seats available,VE A/C Sleeper (2+1),22:30,11h 00m,09:30,Swargate
+106,KVT Narmada Benz,INR 1000,4.1,5 Seats available,Bharat Benz A/C Sleeper (2+1),22:05,11h 11m,08:01,Katraj
+107,Atmaram Gobus,INR 599,4.3,5 Seats available,NON A/C Sleeper (2+1),21:00,10h 15m,07:00,Katraj
+108,IntrCity SmartBus,INR 800,4.1,12 Seats available,AC Sleeper (2+1),21:55,10h 25m,08:20,Swargate
+109,IntrCity SmartBus,INR 809,3.9,15 Seats available,AC Sleeper (2+1),21:00,11h 50m,08:20,Swargate
+110,IntrCity SmartBus,INR 884,4.1,8 Seats available,AC Sleeper (2+1),21:50,10h 25m,08:15,Wakad
+111,Laxmi Queen Prime,INR 850,3.9,20 Seats available,A/C Sleeper (2+1),20:30,12h 15m,07:30,Swargate
+112,Laxmi Empress Stellar,INR 799,3.9,21 Seats available,NON A/C Sleeper (2+1),21:00,11h 15m,08:00,Swargate
+113,Ashray Divine,INR 800,4.2,23 Seats available,NON A/C Sleeper (1+2),19:45,11h 45m,06:45,Swargate
+114,IntrCity SmartBus,INR 1020,3.9,11 Seats available,AC Sleeper (2+1),23:35,10h 10m,09:45,Swargate
+115,Laxmi Queen Asta,INR 850,4.3,24 Seats available,A/C Sleeper (2+1),21:30,10h 30m,08:00,Swargate
+116,Prasanna - Purple Bus,918,4.1,15 Seats available,VE A/C Sleeper (2+1),22:15,11h 15m,09:30,Swargate
+117,Zingbus Plus,761,4.2,16 Seats available,VE A/C Sleeper (2+1),23:20,09h 35m,09:35,Swargate
+118,Gogte Travels,854,3.6,23 Seats available,NON A/C Sleeper (2+1),19:30,13h 15m,06:15,Swargate
+119,Shreyash Travels,INR 808,4.1,19 Seats available,Bharat Benz A/C Sleeper (2+1),21:45,10h 45m,08:30,Swargate
+120,Ashray Travels,INR 650,4.9,40 Seats available,Non A/C Seater / Sleeper (2+1),21:15,12h 45m,09:00,Swargate
+121,Traveltime Travels (St.Christopher),INR 400,3.5,26 Seats available,Non AC Seater (2+2),20:00,11h 20m,07:00,Swargate
+122,Zingbus Plus,944,4.4,31 Seats available,VE A/C Sleeper (2+1),01:40,09h 40m,11:20,Katraj
+123,Abhishek Vishal Travels (Samarth),INR 799,3.7,23 Seats available,A/C Sleeper (2+1),23:25,08h 00m,09:10,Katraj
+124,PSR Travels Goa,INR 999,3.8,15 Seats available,A/C Sleeper (2+1),23:55,09h 05m,09:15,Hinje Wadi
+125,Rajdhani Travels Corporation,INR 1199,3.9,29 Seats available,VE A/C Sleeper (2+1),23:15,10h 20m,09:35,Swargate
+126,Traveltime Travels (Kelkar),INR 450,3.2,21 Seats available,NON A/C Seater/ Sleeper (2+1),21:00,12h 40m,08:45,Swargate
+127,Gogte Travels (Manish),474,3.1,22 Seats available,Non AC Seater (2+2),19:35,12h 55m,07:30,Swargate
+128,Laxmi Queen Grand,INR 999,3.8,16 Seats available,A/C Sleeper (2+1),22:00,10h 30m,08:30,Swargate
+129,Prasanna Purple Grand,873,3.8,38 Seats available,A/C Sleeper (2+1),21:30,11h 00m,08:30,Swargate
+130,Ashray Crown,INR 1249,3.7,23 Seats available,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),23:32,10h 58m,09:30,Swargate
+131,Ashray National Express,INR 800,4.1,5 Seats available,NON A/C Sleeper (2+1),20:00,11h 00m,06:45,Padmavati Parking
+132,KVT Narmada Benz,INR 1000,4.7,32 Seats available,Bharat Benz A/C Sleeper (2+1),22:00,10h 00m,08:00,Katraj
+133,Abhishek Vishal Travels,INR 550,3.2,30 Seats available,NON A/C Push Back (2+2),21:25,09h 45m,07:10,Swargate
+134,Gogte Travels,2765,3.7,19 Seats available,A/C Sleeper (2+1),22:00,11h 30m,08:45,Katraj
+135,Dolphin Travel House (40),INR 860,4.3,22 Seats available,A/C Sleeper (2+1),02:15,11h 45m,14:00,Swargate
+136,Anand Travels,684,3.3,32 Seats available,NON A/C Sleeper (2+1),21:30,12h 00m,09:30,Wakad
+137,IntrCity SmartBus,INR 800,3.0,30 Seats available,AC Sleeper (2+1),00:45,10h 00m,10:45,Swargate
+138,Gogte Travels (Shreyash),664,3.4,34 Seats available,NON A/C Sleeper (2+1),21:30,09h 30m,08:30,Wakad
+139,Dolphin Travel House (39),INR 910,2.7,15 Seats available,A/C Sleeper (2+1),22:30,11h 15m,09:15,Swargate
+140,Dolphin Travel House (38),INR 1010,2.9,23 Seats available,Bharat Benz A/C Sleeper (2+1),22:15,10h 15m,08:30,Shivaji Nagar
+141,Dolphin travel house,INR 910,2.5,28 Seats available,A/C Sleeper (2+1),23:45,11h 00m,10:45,Katraj
+142,IntrCity SmartBus,INR 799,2.6,7 Seats available,AC Sleeper (2+1),23:00,10h 30m,09:30,Katraj
+143,Humsafar Travels,INR 1050,3.4,14 Seats available,A/C Sleeper (2+1),22:15,10h 45m,09:00,Katraj
+144,Shubhra Sharma Tourist Services,INR 1099,2.8,31 Seats available,A/C Sleeper (2+1),00:10,11h 51m,10:31,Swargate
+145,Atmaram Manish Travels,INR 600,2.0,26 Seats available,NON A/C Hi-Tech (2+2),21:00,11h 45m,07:30,Swargate
+146,Hans Travels (I) Private Limited,INR 1100,1.8,32 Seats available,A/C Sleeper (2+1),23:59,10h 40m,12:14,Swargate
+147,Vaibhav travels,555,2.7,27 Seats available,A/C Sleeper (2+1),00:01,11h 59m,12:00,Hinje Wadi
+148,Humrahi Roshan Travels,786,1.7,47 Seats available,A/C Sleeper (2+1),23:50,09h 40m,09:30,Swargate
+149,Traveltime Travels (St.Christopher),INR 400,3.4,30 Seats available,Non AC Seater (2+2),20:00,11h 00m,07:00,Wakad
+150,PVS Tours and Travels,INR 3000,3.4,36 Seats available,A/C Sleeper (2+1),22:45,11h 45m,08:45,Hinje Wadi
+151,KOKAN TOURS & TRAVELS,INR 3000,3.0,36 Seats available,NON A/C Seater Push Back (2+2),21:00,11h 45m,08:45,Swargate
+152,Maa tours & Travels,INR 900,1.2,12 Seats available,A/C Seater (2+2),23:29,11h 01m,10:00,
+153,Gogte Travels,INR 2910,3.9,25 Seats available,A/C Sleeper (2+1),22:00,11h 30m,09:30,
+154,Dolphin travel house,INR 900,3.7,,A/C Sleeper (2+1),22:31,11h 15m,09:16,
+155,Roshan Travels - Humrahi,3450,2.2,,A/C Sleeper (2+1),00:10,10h 55m,11:05,
+156,VRL Travels,INR 900,2.9,,A/C Sleeper (2+1),23:30,10h 30m,09:45,
+157,VRL Travels,INR 1000,2.4,,A/C Sleeper (2+1),21:30,10h 30m,09:00,
+158,Kadamba Transport Corporation Limited (KTCL) - 61005,INR 675,2.8,27 Seats available,Non AC Seater 2+2,22:15,11h 45m,10:00,Bus Stand
+159,Humsafar Travels,INR 1550,4.0,32 Seats available,A/C Sleeper (2+1),01:00,08h 00m,09:00,Sangola Bypass
+160,Konkan Tours & Travels,INR 3000,3.5,,NON A/C Sleeper (2+1),21:00,10h 00m,07:00,
+161,Kadamba Transport Corporation Limited (KTCL) - 99716,INR 100,3.7,,AC Seater (2+2),10:00,00h 30m,10:30,
+162,Kadamba Transport Corporation Limited (KTCL) - 116186,INR 800,3.6,19 Seats available,Volvo AC Seater 2+2,18:30,15h 00m,08:00,Mapusa
+163,Zingbus Plus,782,4.7,22 Seats available,VE A/C Sleeper (2+1),20:25,13h 15m,10:40,Mapusa
+164,Atmaram Travels(M.Dev),INR 808,4.5,26 Seats available,A/C Sleeper (2+1),22:00,11h 15m,11:50,Mapusa
+165,IntrCity SmartBus,INR 799,4.5,17 Seats available,AC Sleeper (2+1),19:30,14h 10m,09:40,Mapusa
+166,Atmaram Travels ( Dolphin ),INR 799,4.5,22 Seats available,A/C Sleeper (2+1),14:00,13h 30m,05:15,Mapusa
+167,Zingbus Plus,751,4.4,28 Seats available,VE A/C Sleeper (2+1),19:40,13h 30m,10:00,Mapusa
+168,IntrCity SmartBus,INR 799,4.3,25 Seats available,AC Sleeper (2+1),18:30,13h 40m,09:00,Mapusa
+169,AdZingbus Plus,791,4.3,18 Seats available,Bharat Benz A/C Sleeper (2+1),18:10,13h 10m,08:05,Mapusa
+170,Rajdhani Travels Corporation,INR 849,4.3,21 Seats available,VE A/C Sleeper (2+1),19:30,12h 00m,08:10,Mapusa
+171,IntrCity SmartBus,INR 799,4.2,30 Seats available,AC Sleeper (2+1),21:00,13h 20m,11:20,Mapusa
+172,Atmaram Travels ( Dolphin ),INR 660,4.1,28 Seats available,A/C Sleeper (2+1),17:30,13h 30m,09:25,Mapusa
+173,Atmaram Travels ( Dolphin ),INR 750,4.1,28 Seats available,A/C Sleeper (2+1),15:30,13h 30m,06:45,Mapusa
+174,"National Travels,Goa",INR 850,4.1,18 Seats available,A/C Sleeper (2+1),19:30,12h 00m,10:30,Mapusa
+175,PSR Travels (Vaibhav),INR 849,4.2,27 Seats available,A/C Sleeper (2+1),22:30,14h 00m,12:30,Mapusa
+176,"National Travels,Goa",INR 599,3.9,16 Seats available,NON A/C Sleeper (2+1),18:30,11h 30m,07:30,Mapusa
+177,IntrCity SmartBus,INR 629,3.8,22 Seats available,AC Sleeper (2+1),20:00,13h 20m,10:20,Mapusa
+178,Atmaram Travels (Unity),INR 666,4.2,21 Seats available,A/C Sleeper (2+1),20:00,12h 00m,10:35,Mapusa
+179,Atmaram Travels ( Dolphin ),INR 750,3.7,29 Seats available,A/C Sleeper (2+1),16:30,13h 00m,07:50,Mapusa
+180,Vailankanni Travels - Mujawar,INR 600,3.8,20 Seats available,NON A/C Sleeper (2+1),19:40,10h 50m,08:30,Mapusa
+181,IntrCity SmartBus,INR 799,3.7,26 Seats available,AC Sleeper (2+1),17:30,12h 30m,08:00,Mapusa
+182,VAILANKANNI TRAVELS,INR 900,3.6,26 Seats available,VE A/C Sleeper (2+1),20:40,10h 50m,09:30,Mapusa
+183,Atmaram Travels (Pawan),INR 666,4.0,27 Seats available,A/C Sleeper (2+1),19:00,12h 45m,09:35,Mapusa
+184,Atmaram Travels(M.Dev),INR 601,4.4,24 Seats available,A/C Sleeper (2+1),21:02,12h 45m,12:22,Mapusa
+185,Anand Travels,639,3.2,22 Seats available,NON A/C Sleeper (2+1),19:30,10h 30m,07:30,Mapusa
+186,Jolly Tours and Travels,INR 1499,4.0,11 Seats available,VE A/C Sleeper (2+1),18:25,12h 35m,06:30,Mapusa
+187,Atmaram Travels ( Dolphin ),INR 700,3.7,21 Seats available,AC Sleeper (2+1),18:30,13h 00m,10:30,Mapusa
+188,Atmaram Travels Goa,INR 899,4.0,20 Seats available,A/C Sleeper (2+1),22:31,12h 00m,12:41,Mapusa
+189,Manish Sharma Travels,INR 850,2.4,23 Seats available,A/C Sleeper (2+1),19:00,16h 00m,11:00,Mapusa
+190,Sai Travels - Saijyoti,INR 949,3.8,26 Seats available,A/C Sleeper (2+1),19:45,12h 00m,10:35,Panjim
+191,Manish Roshan Travels,INR 850,3.4,29 Seats available,A/C Sleeper (2+1),20:30,12h 00m,10:30,Mapusa
+192,Maa tours & Travels,INR 1100,2.2,28 Seats available,A/C Sleeper (2+1),16:30,15h 20m,07:45,Mapusa
+193,Maa tours & Travels,INR 1800,2.0,14 Seats available,A/C Seater (2+2),16:00,15h 10m,07:10,Mapusa
+194,Atmaram Travels (Vishal),INR 499,3.1,31 Seats available,Non AC Seater (2+2),18:10,13h 00m,09:20,Mapusa
+195,Naik Tours And Travels,INR 600,2.5,20 Seats available,NON A/C Sleeper (2+1),17:40,14h 05m,07:05,Mapusa
+196,Jolly Tours and Travels,INR 1499,2.6,30 Seats available,A/C Sleeper (2+1),19:25,12h 35m,07:30,Mapusa
+197,Maa tours & Travels,INR 1000,1.9,49 Seats available,A/C Seater (2+2),16:30,13h 00m,06:45,Mapusa
+198,Kanad Travels,INR 1100,1.1,30 Seats available,AC Sleeper (2+1),16:30,13h 00m,07:45,Mapusa
+199,SIDDHANTH TRANSPORT,INR 5000,4.3,49 Seats available,A/C Seater Push Back (2+2),17:20,15h 25m,08:45,Mapusa
+200,Sai Travels,INR 4000,3.7,27 Seats available,A/C Sleeper (2+1),19:15,14h 45m,10:00,Panjim
+201,Sai Travels,INR 5000,3.7,31 Seats available,NON A/C Sleeper (2+1),17:30,15h 30m,09:00,Panjim
+202,Naik Tours And Travels,INR 750,2.6,25 Seats available,NON A/C Sleeper (1+2),16:00,14h 30m,06:20,Mapusa
+203,Shri Mahadev Travels(Padru),INR 3150,3.1,36 Seats available,NON A/C Sleeper (2+1),23:00,14h 30m,13:30,Bus stand
+204,VRL Travels,INR 900,,24 Seats available,A/C Sleeper (2+1),19:30,13h 00m,10:00,Panjim
+205,Kadamba Transport Corporation Limited (KTCL) - 99716,INR 150,3.7,,AC Seater (2+2),10:31,01h 14m,11:45,
+206,Kadamba Transport Corporation Limited (KTCL) - 78627,INR 150,3.7,,Volvo AC Seater 2+2,14:01,01h 14m,15:15,
+207,Kadamba Transport Corporation Limited (KTCL) - 99718,INR 150,3.7,,AC Seater (2+2),16:01,01h 14m,17:15,
+208,Kadamba Transport Corporation Limited (KTCL) - 159664,INR 400,4.6,,A/C Seater (2+3),10:30,02h 00m,12:30,
+209,Kadamba Transport Corporation Limited (KTCL) - 158996,INR 400,4.6,,A/C Seater (2+3),12:30,02h 00m,14:30,
+210,Kadamba Transport Corporation Limited (KTCL) - 159015,INR 400,4.6,,A/C Seater (2+3),16:00,02h 00m,18:00,
+211,Kadamba Transport Corporation Limited (KTCL) - 159023,INR 150,3.7,,A/C Seater (2+3),10:15,00h 30m,10:45,
+212,Kadamba Transport Corporation Limited (KTCL) - 158996,INR 200,3.7,,A/C Seater (2+3),12:30,00h 55m,13:25,
+213,Kadamba Transport Corporation Limited (KTCL) - 159022,INR 150,3.7,,A/C Seater (2+3),08:00,00h 25m,08:25,
+214,Kadamba Transport Corporation Limited (KTCL) - 159015,INR 150,3.7,,A/C Seater (2+3),16:00,00h 25m,16:25,
+215,Kadamba Transport Corporation Limited (KTCL) - 159021,INR 200,3.7,,A/C Seater (2+3),12:00,00h 30m,12:30,
+216,Kadamba Transport Corporation Limited (KTCL) - 158988,INR 150,3.7,,A/C Seater (2+3),11:30,00h 30m,12:00,
+217,Kadamba Transport Corporation Limited (KTCL) - 160437,INR 150,3.7,,A/C Seater (2+3),17:30,00h 30m,18:00,
+218,Kadamba Transport Corporation Limited (KTCL) - 160438,INR 150,3.7,,A/C Seater (2+3),13:30,00h 30m,14:00,
+219,Kadamba Transport Corporation Limited (KTCL) - 159664,INR 150,3.7,,A/C Seater (2+3),10:30,00h 30m,11:00,
+220,Kadamba Transport Corporation Limited (KTCL) - 159657,INR 150,3.7,,A/C Seater (2+3),11:15,00h 30m,11:45,
+221,Kadamba Transport Corporation Limited (KTCL) - 159654,INR 150,3.7,,A/C Seater (2+3),08:15,00h 30m,08:45,
+222,Kadamba Transport Corporation Limited (KTCL) - 159664,INR 400,4.6,,A/C Seater (2+3),10:30,02h 00m,12:30,
+223,Kadamba Transport Corporation Limited (KTCL) - 158996,INR 400,4.6,,A/C Seater (2+3),12:30,02h 00m,14:30,
+224,Kadamba Transport Corporation Limited (KTCL) - 159015,INR 400,4.6,,A/C Seater (2+3),16:00,02h 00m,18:00,
+225,Kadamba Transport Corporation Limited (KTCL) - 159023,INR 150,3.7,,A/C Seater (2+3),10:15,00h 30m,10:45,
+226,Kadamba Transport Corporation Limited (KTCL) - 158996,INR 200,3.7,,A/C Seater (2+3),12:30,00h 55m,13:25,
+227,Kadamba Transport Corporation Limited (KTCL) - 159022,INR 150,3.7,,A/C Seater (2+3),08:00,00h 25m,08:25,
+228,Kadamba Transport Corporation Limited (KTCL) - 159015,INR 150,3.7,,A/C Seater (2+3),16:00,00h 25m,16:25,
+229,Kadamba Transport Corporation Limited (KTCL) - 159021,INR 200,3.7,,A/C Seater (2+3),12:00,00h 30m,12:30,
+230,Kadamba Transport Corporation Limited (KTCL) - 158988,INR 150,3.7,,A/C Seater (2+3),11:30,00h 30m,12:00,
+231,Kadamba Transport Corporation Limited (KTCL) - 160437,INR 150,3.7,,A/C Seater (2+3),17:30,00h 30m,18:00,
+232,Kadamba Transport Corporation Limited (KTCL) - 160438,INR 150,3.7,,A/C Seater (2+3),13:30,00h 30m,14:00,
+233,Kadamba Transport Corporation Limited (KTCL) - 159664,INR 150,3.7,,A/C Seater (2+3),10:30,00h 30m,11:00,
+234,Kadamba Transport Corporation Limited (KTCL) - 159657,INR 150,3.7,,A/C Seater (2+3),11:15,00h 30m,11:45,
+235,Kadamba Transport Corporation Limited (KTCL) - 159654,INR 150,3.7,,A/C Seater (2+3),08:15,00h 30m,08:45,
+236,Kadamba Transport Corporation Limited (KTCL) - 6020,INR 170,3.1,9 Seats available,Non AC Seater 2+2,16:00,03h 45m,19:45,
+237,Shirdi Xpress,750,3.3,,A/C Sleeper (2+1),08:15,03h 15m,11:30,
+238,Humsafar Travels,INR 1550,1.5,,A/C Sleeper (2+1),04:30,04h 30m,09:00,
+239,S R Travels,INR 799,1.3,,NON A/C Sleeper (2+1),01:00,05h 00m,06:00,
+240,Kadamba Transport Corporation Limited (KTCL) - 6028,INR 150,3.7,,Non AC Seater 2+2,07:30,03h 00m,10:30,
+241,Kadamba Transport Corporation Limited (KTCL) - 159019,INR 200,4.2,,A/C Seater (2+3),10:00,01h 15m,11:15,
+242,Kadamba Transport Corporation Limited (KTCL) - 159065,INR 200,3.1,,A/C Seater (2+3),11:45,01h 15m,13:00,
+243,Kadamba Transport Corporation Limited (KTCL) - 159017,INR 200,3.0,,A/C Seater (2+3),06:00,01h 15m,07:15,
+244,Kadamba Transport Corporation Limited (KTCL) - 159018,INR 200,2.5,,A/C Seater (2+3),07:00,01h 15m,08:15,
+245,UNIQUE TOURS AND TRAVELS,INR 400,,,A/C Seater Push Back (2+1),08:30,11h 30m,20:00,
+246,Kadamba Transport Corporation Limited (KTCL) - 89820,INR 1100,3.3,13 Seats available,A/C Sleeper (2+1),19:00,12h 00m,07:00,Madgaon
+247,Atmaram Gobus,INR 899,4.9,6 Seats available,VE A/C Sleeper (2+1),21:32,08h 50m,06:22,Mapusa
+248,Atmaram Gobus,INR 750,4.8,27 Seats available,VE A/C Sleeper (2+1),22:30,10h 40m,09:10,Mapusa
+249,AdZingbus Plus,657,4.4,28 Seats available,VE A/C Sleeper (2+1),19:40,10h 05m,05:45,Mapusa
+250,Ashray Travels,INR 749,4.6,18 Seats available,Bharat Benz A/C Sleeper (2+1),22:30,11h 30m,10:00,Mapusa
+251,IntrCity SmartBus,INR 730,4.6,18 Seats available,AC Sleeper (2+1),19:30,10h 05m,05:35,Mapusa
+252,IntrCity SmartBus,INR 700,4.4,27 Seats available,AC Sleeper (2+1),21:30,10h 00m,07:30,Mapusa
+253,Zingbus Plus,584,4.3,25 Seats available,Bharat Benz A/C Sleeper (2+1),21:30,11h 10m,08:40,Mapusa
+254,Sangitam Travels Tanzanite,INR 571,4.3,22 Seats available,A/C Sleeper (2+1),21:00,10h 30m,07:30,Mapusa
+255,Atmaram Gobus,INR 599,4.3,16 Seats available,NON A/C Sleeper (2+1),19:45,10h 30m,06:15,Mapusa
+256,Atmaram Travels(M.Dev),INR 808,4.5,26 Seats available,A/C Sleeper (2+1),22:00,09h 45m,07:45,Mapusa
+257,IntrCity SmartBus,INR 799,4.3,30 Seats available,AC Sleeper (2+1),21:00,10h 05m,07:05,Mapusa
+258,IntrCity SmartBus,INR 799,4.3,25 Seats available,AC Sleeper (2+1),18:30,10h 55m,05:25,Mapusa
+259,Ashray Travels,INR 790,4.1,27 Seats available,Volvo Multi-Axle A/C Sleeper (2+1),21:00,10h 15m,07:15,Mapusa
+260,Rajdhani Travels Corporation,INR 849,4.4,21 Seats available,VE A/C Sleeper (2+1),18:00,12h 10m,06:10,Madgaon
+261,Prasanna Purple Grand,828,4.2,19 Seats available,A/C Sleeper (2+1),22:15,09h 30m,07:45,Mapusa
+262,Indumati Travels,INR 600,4.1,15 Seats available,A/C Sleeper (2+1),20:15,10h 00m,06:15,Panjim
+263,Indumati Travels,INR 600,4.1,16 Seats available,A/C Sleeper (2+1),21:00,10h 00m,07:00,Porvorim
+264,Atmaram Travels(KVT Narmada Red),INR 600,4.1,21 Seats available,Bharat Benz A/C Sleeper (2+1),21:16,10h 30m,07:46,Mapusa
+265,Atmaram Travels ( Ashray ),INR 599,4.1,23 Seats available,A/C Sleeper (2+1),22:01,10h 15m,08:16,Mapusa
+266,Prasanna Purple Big Bus,828,4.1,20 Seats available,VE A/C Sleeper (2+1),22:00,09h 30m,07:30,Mapusa
+267,Zingbus Plus,637,4.4,18 Seats available,Bharat Benz A/C Sleeper (2+1),18:10,10h 25m,04:35,Mapusa
+268,Atmaram Travels ( Dolphin ),INR 660,4.1,28 Seats available,A/C Sleeper (2+1),17:30,10h 15m,03:45,Mapusa
+269,Ashray Grand,INR 1000,3.9,29 Seats available,Volvo Multi-Axle A/C Sleeper (2+1),22:00,11h 30m,09:30,Mapusa
+270,Laxmi Queen Asta,INR 699,4.3,20 Seats available,A/C Sleeper (2+1),20:30,10h 30m,07:00,Mapusa
+271,Amrutyog Travels,INR 599,4.1,23 Seats available,A/C Sleeper (2+1),19:00,11h 22m,06:22,Madgaon
+272,Laxmi-Princess Nova,INR 399,4.1,24 Seats available,Non A/C Seater / Sleeper (2+1),19:00,11h 30m,06:30,Mapusa
+273,Laxmi Queen Prime,INR 699,4.0,28 Seats available,A/C Sleeper (2+1),19:30,11h 00m,06:30,Mapusa
+274,Prasanna - Purple Bus,918,4.0,18 Seats available,VE A/C Sleeper (2+1),17:00,12h 00m,05:00,Madgaon
+275,Prasanna - Purple Bus,918,4.0,17 Seats available,Volvo A/C Sleeper (2+1),18:00,12h 15m,06:15,Madgaon
+276,Ashray Travels,INR 350,4.6,46 Seats available,Non A/C Seater / Sleeper (2+1),20:00,13h 00m,09:00,Mapusa
+277,Atmaram Travels (Humsafar),INR 750,3.9,26 Seats available,Bharat Benz A/C Sleeper (2+1),19:30,09h 30m,05:00,Mapusa
+278,Ashray Travels,INR 799,3.7,6 Seats available,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),20:00,12h 05m,08:05,Mapusa
+279,Laxmi Empress Stellar,INR 649,3.7,18 Seats available,NON A/C Sleeper (2+1),19:45,11h 00m,06:45,Mapusa
+280,Atmaram Travels ( Dolphin ),INR 799,4.1,22 Seats available,A/C Sleeper (2+1),14:00,11h 00m,01:00,Mapusa
+281,Zingbus Plus,727,4.4,22 Seats available,VE A/C Sleeper (2+1),20:25,10h 00m,06:25,Mapusa
+282,Atmaram Travels ( Gogte ),INR 600,3.5,20 Seats available,NON A/C Sleeper (2+1),21:15,10h 30m,07:45,Mapusa
+283,Giroba Travels (ST.CHRISTOPHER),INR 350,3.7,30 Seats available,Non AC Seater (2+2),18:30,11h 00m,05:30,Mapusa
+284,IntrCity SmartBus,INR 629,3.8,22 Seats available,AC Sleeper (2+1),20:00,10h 15m,06:15,Mapusa
+285,PSR Travels Goa,INR 999,4.2,20 Seats available,A/C Sleeper (2+1),19:15,10h 00m,05:15,Porvorim
+286,Atmaram Travels (Shreyas),INR 599,3.9,21 Seats available,Bharat Benz A/C Sleeper (2+1),20:03,09h 45m,05:48,Mapusa
+287,VAILANKANNI TRAVELS,INR 900,3.8,26 Seats available,VE A/C Sleeper (2+1),18:30,10h 30m,05:00,Margao Opp ktc Bus Stand
+288,Atmaram Travels (Shreyas),INR 599,3.8,23 Seats available,NON A/C Sleeper (2+1),20:30,10h 30m,07:00,Mapusa
+289,Ashray Travels,INR 2000,3.7,33 Seats available,Volvo Multi-Axle A/C Sleeper (2+1),21:30,12h 15m,09:45,Mapusa
+290,Atmaram Travels ( Dolphin ),INR 750,3.7,29 Seats available,A/C Sleeper (2+1),16:30,11h 55m,04:25,Mapusa
+291,IntrCity SmartBus,INR 799,4.1,26 Seats available,AC Sleeper (2+1),17:30,11h 15m,04:45,Mapusa
+292,Atmaram Gobus,INR 499,4.6,24 Seats available,NON A/C Sleeper (2+1),18:59,10h 30m,05:29,Mapusa
+293,Atmaram Travels ( Dolphin ),INR 750,3.8,28 Seats available,A/C Sleeper (2+1),15:30,11h 00m,02:30,Mapusa
+294,Anand Travels,639,3.3,19 Seats available,NON A/C Sleeper (2+1),18:00,10h 00m,04:00,Madgaon
+295,"National Travels,Goa",INR 499,3.8,19 Seats available,NON A/C Sleeper (2+1),19:00,11h 20m,06:20,Panjim
+296,Atmaram Travels Goa,INR 899,3.3,20 Seats available,A/C Sleeper (2+1),22:31,10h 00m,08:31,Mapusa
+297,PSR Travels (Vaibhav),INR 849,3.6,27 Seats available,A/C Sleeper (2+1),22:30,09h 00m,07:30,Mapusa
+298,Atmaram Travels ( Dolphin ),INR 700,4.0,21 Seats available,AC Sleeper (2+1),18:30,11h 00m,05:30,Mapusa
+299,Hans Travels (I) Private Limited,INR 1200,1.7,21 Seats available,A/C Sleeper (2+1),12:30,10h 45m,23:15,Madgaon
+300,Manish Sharma Travels,INR 850,2.7,19 Seats available,A/C Sleeper (2+1),17:30,11h 30m,05:00,Madgaon
+301,Giroba Travels (Kelkar),INR 399,3.1,23 Seats available,NON A/C Seater/ Sleeper (2+1),17:45,11h 45m,05:30,Mapusa
+302,Atmaram Travels (Unity),INR 666,4.2,27 Seats available,A/C Sleeper (2+1),20:00,10h 30m,06:30,Mapusa
+303,Atmaram Travels (Pawan),INR 666,3.8,26 Seats available,A/C Sleeper (2+1),19:00,11h 00m,06:00,Porvorim
+304,PSR Travels Goa,INR 899,3.4,45 Seats available,A/C Sleeper (2+1),19:45,10h 15m,06:00,Madgaon
+305,Sai Travels - Shree Sai,INR 5000,3.2,31 Seats available,NON A/C Push Back (2+2),17:30,11h 30m,05:00,Mapusa
+306,Atmaram Travels (Vishal),INR 499,3.4,30 Seats available,Non AC Seater (2+2),18:10,11h 55m,06:05,Madgaon
+307,Jolly Tours and Travels,INR 1499,3.5,49 Seats available,A/C Sleeper (2+1),18:30,11h 15m,05:45,Panjim
+308,SIDDHANTH TRANSPORT,INR 5000,4.3,14 Seats available,A/C Seater Push Back (2+2),17:00,10h 55m,03:55,Panjim
+309,Maa tours & Travels,INR 1800,1.7,20 Seats available,A/C Seater (2+2),15:30,12h 30m,04:00,Madgaon
+310,Jolly Tours and Travels,INR 1499,3.6,29 Seats available,VE A/C Sleeper (2+1),17:30,11h 15m,04:45,Madgaon
+311,Manish Roshan Travels,INR 850,2.7,49 Seats available,A/C Sleeper (2+1),19:00,11h 30m,06:30,Panjim
+312,Maa tours & Travels,INR 1000,1.8,29 Seats available,A/C Seater (2+2),16:00,12h 00m,04:00,Madgaon
+313,VRL Travels,INR 1100,3.0,24 Seats available,A/C Sleeper (2+1),17:00,12h 00m,05:00,Panjim
+314,VRL Travels,INR 900,3.7,,A/C Sleeper (2+1),19:30,10h 00m,05:30,
+315,Kadamba Transport Corporation Limited (KTCL) - 159023,INR 200,4.7,,A/C Seater (2+3),10:15,01h 10m,11:25,
+316,Kadamba Transport Corporation Limited (KTCL) - 160437,INR 200,4.6,,A/C Seater (2+3),17:30,01h 10m,18:40,
+317,Kadamba Transport Corporation Limited (KTCL) - 158988,INR 200,5.0,,A/C Seater (2+3),11:30,01h 25m,12:55,
+318,Kadamba Transport Corporation Limited (KTCL) - 159021,INR 200,4.3,,A/C Seater (2+3),12:00,01h 10m,13:10,
+319,Kadamba Transport Corporation Limited (KTCL) - 159022,INR 200,3.6,,A/C Seater (2+3),08:00,01h 10m,09:10,
+320,Kadamba Transport Corporation Limited (KTCL) - 160438,INR 200,4.5,,A/C Seater (2+3),13:30,01h 10m,14:40,
+321,Kadamba Transport Corporation Limited (KTCL) - 60996,INR 505,2.7,28 Seats available,Non AC Seater 2+2,19:00,09h 30m,04:30,Vasco
+322,Vaibhav Travels,INR 600,3.5,16 Seats available,A/C Sleeper (2+1),20:00,09h 42m,05:42,Verna
+323,Humsafar Travels,INR 1350,4.0,26 Seats available,A/C Sleeper (2+1),19:00,06h 30m,01:30,Mapusa
+324,Neeta tours and travels,INR 599,3.6,32 Seats available,AC Sleeper (2+1),10:30,08h 00m,18:30,Panjim
+325,Konkan Tours & Travels,INR 3000,3.5,24 Seats available,NON A/C Sleeper (2+1),17:00,08h 45m,01:45,Mapusa
+326,Om Sri Tours and Travels,1849,2.4,,Volvo Multi-Axle A/C Sleeper (2+1),20:00,07h 30m,03:30,
+327,Intercity travels,INR 1199,4.6,13 Seats available,Bharat Benz A/C Sleeper (2+1),18:00,13h 15m,07:15,Panjim
+328,Sunrise Tours and Travels,INR 1099,4.4,19 Seats available,A/C Sleeper (2+1),18:30,12h 00m,06:40,Panjim
+329,VKV Travels,1240,4.5,23 Seats available,A/C Sleeper (2+1),13:00,12h 15m,01:00,Panjim
+330,AdIntercity travels,1099,4.1,21 Seats available,Bharat Benz A/C Sleeper (2+1),17:10,13h 05m,06:15,Panjim
+331,Streamline tours and travels,INR 1099,4.1,28 Seats available,A/C Sleeper (2+1),18:00,12h 30m,06:30,Panjim
+332,IntrCity SmartBus,INR 979,4.1,28 Seats available,AC Sleeper (2+1),19:00,13h 35m,08:35,Panjim
+333,Streamline tours and travels,INR 1099,3.9,27 Seats available,A/C Sleeper (2+1),19:00,12h 30m,07:30,Panjim
+334,IntrCity SmartBus,INR 944,4.1,30 Seats available,AC Sleeper (2+1),17:00,13h 40m,06:40,Panjim
+335,Sea Bird Tourist,INR 900,3.3,25 Seats available,A/C Sleeper (2+1),20:30,13h 00m,09:30,Panjim
+336,Sugama Tourist,INR 950,3.6,25 Seats available,NON A/C Sleeper (2+1),19:45,12h 00m,07:45,Margoa Kadamba Bus Stand
+337,Sea Bird Tourist,INR 700,3.2,22 Seats available,NON A/C Sleeper (2+1),18:30,13h 30m,08:30,Panjim
+338,Bharathi Travels,INR 1199,3.1,23 Seats available,A/C Sleeper (2+1),18:00,14h 00m,07:00,Panjim
+339,SRS Travels,INR 699,3.0,30 Seats available,NON AC Seater / Sleeper 2+1,19:00,12h 30m,07:30,Madgaon
+340,SPR Tours And Travels,INR 750,3.1,20 Seats available,NON A/C Sleeper (1+2),19:30,13h 30m,08:40,Paulo Bus Terminal Panjim
+341,SRS Travels,INR 699,2.8,30 Seats available,NON AC Seater / Sleeper 2+1,18:00,13h 30m,07:30,Panjim
+342,Anand Travels,INR 760,2.6,25 Seats available,NON A/C Sleeper (2+1),18:30,11h 30m,06:45,Panjim
+343,Sea Bird Tourist,INR 700,3.1,24 Seats available,NON A/C Sleeper (2+1),17:30,13h 30m,07:30,Panjim
+344,Sugama Tourist,INR 950,4.5,25 Seats available,NON A/C Sleeper (2+1),18:00,13h 45m,07:45,Interstate Private Bus Parkin...
+345,Bharathi Travels,INR 990,2.2,36 Seats available,A/C Sleeper (2+1),18:30,14h 00m,07:30,Panjim
+346,Sea Bird Tourist,INR 700,3.1,34 Seats available,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),21:00,13h 10m,09:00,Panjim
+347,Reshma Travels,INR 750,3.2,28 Seats available,NON A/C Sleeper (2+1),18:30,12h 30m,06:35,Panjim
+348,Sugama Tourist,INR 950,3.8,25 Seats available,NON A/C Sleeper (2+1),19:00,12h 45m,07:45,Panjim
+349,Kukkeshree Travels,INR 999,2.9,25 Seats available,A/C Sleeper (2+1),19:00,12h 30m,08:00,Panjim
+350,Kukkeshree Travels,INR 999,2.4,22 Seats available,A/C Sleeper (2+1),18:30,12h 30m,07:00,Panjim
+351,Sea Bird Tourist,INR 750,2.7,37 Seats available,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),19:00,12h 30m,07:30,Panjim
+352,Sea Bird Tourist,INR 900,1.9,22 Seats available,A/C Sleeper (2+1),17:00,13h 00m,06:00,Panjim
+353,Om Sri Tours and Travels,1387,2.4,24 Seats available,Volvo Multi-Axle A/C Sleeper (2+1),21:00,11h 00m,08:00,Panjim
+354,VRL Travels,INR 800,4.6,24 Seats available,NON A/C Sleeper (2+1),18:00,14h 00m,08:00,Panjim
+355,VRL Travels,INR 700,2.2,26 Seats available,A/C Seater / Sleeper (2+1),19:00,14h 00m,09:00,Panjim
+356,VRL Travels,INR 900,2.7,24 Seats available,A/C Sleeper (2+1),20:00,14h 00m,10:00,Panjim
+357,Kadamba Transport Corporation Limited (KTCL) - 132897,INR 450,2.3,38 Seats available,Non AC Seater (2+2),23:00,09h 00m,08:00,KSRTC BUS STAND
+358,Sea Bird Tourist,INR 700,4.1,27 Seats available,NON A/C Sleeper (2+1),23:45,08h 15m,08:00,Shimoga
+359,Kadamba Transport Corporation Limited (KTCL) - 60996,INR 850,2.9,28 Seats available,Non AC Seater 2+2,19:00,13h 30m,08:30,Vasco
+360,IntrCity SmartBus,INR 1124,3.4,24 Seats available,AC Sleeper (2+1),17:30,11h 15m,04:45,Panjim
+361,Humsafar Travels,INR 1650,3.8,20 Seats available,A/C Sleeper (2+1),19:00,09h 30m,04:30,Mapusa
+362,IntrCity SmartBus,INR 1124,4.3,27 Seats available,AC Sleeper (2+1),16:30,11h 30m,04:00,Mapusa
+363,S R Travels,INR 800,3.0,37 Seats available,A/C Seater/Sleeper (2+1),20:30,11h 00m,07:30,Panjim
+364,IntrCity SmartBus,INR 1124,4.0,28 Seats available,AC Sleeper (2+1),15:30,11h 30m,03:00,Mapusa
+365,Sharma Travels,INR 1619,3.8,23 Seats available,AC Sleeper (2+1),15:00,11h 00m,02:00,Panjim
+366,Om Sri Tours and Travels,1849,2.4,24 Seats available,Volvo Multi-Axle A/C Sleeper (2+1),20:00,09h 00m,05:00,Mapusa
+367,Konkan Tours & Travels,INR 3000,3.5,32 Seats available,NON A/C Sleeper (2+1),17:00,12h 20m,05:20,Panjim
+368,Kadamba Transport Corporation Limited (KTCL) - 6020,INR 140,3.7,,Non AC Seater 2+2,16:00,02h 45m,18:45,
+369,Kadamba Transport Corporation Limited (KTCL) - 99708,INR 150,4.1,,AC Seater (2+2),07:30,01h 00m,08:30,
+370,Kadamba Transport Corporation Limited (KTCL) - 151354,INR 150,4.1,,Volvo AC Seater 2+2,08:00,01h 00m,09:00,
+371,Kadamba Transport Corporation Limited (KTCL) - 99707,INR 150,4.1,,AC Seater (2+2),13:45,01h 00m,14:45,
+372,Kadamba Transport Corporation Limited (KTCL) - 99710,INR 150,4.1,,AC Seater (2+2),16:00,01h 00m,17:00,
+373,Kadamba Transport Corporation Limited (KTCL) - 6028,INR 140,4.9,,Non AC Seater 2+2,08:00,02h 30m,10:30,
+374,Kadamba Transport Corporation Limited (KTCL) - 141293,INR 900,3.9,3 Seats available,Volvo AC Seater 2+2,19:45,12h 30m,08:15,Majestic
+375,Intercity travels,INR 1999,4.6,9 Seats available,Bharat Benz A/C Sleeper (2+1),21:00,13h 15m,10:15,Anand Rao Circle
+376,Sunrise Tours and Travels,INR 1999,4.6,8 Seats available,A/C Sleeper (2+1),21:20,12h 10m,09:20,Anand Rao Circle
+377,Shanta Travels,INR 1310,4.4,15 Seats available,NON A/C Sleeper (2+1),19:30,12h 15m,07:45,Yeshwantpur
+378,Streamline tours and travels,INR 1899,4.3,20 Seats available,A/C Sleeper (2+1),21:15,12h 00m,09:15,Anand Rao Circle
+379,IntrCity SmartBus,INR 1619,4.4,24 Seats available,AC Sleeper (2+1),20:30,13h 10m,09:40,Anand Rao Circle
+380,VKV Travels,1540,4.2,14 Seats available,A/C Sleeper (2+1),22:55,11h 15m,10:00,Yeshwantpur
+381,Streamline tours and travels,INR 1899,4.1,22 Seats available,A/C Sleeper (2+1),22:20,12h 00m,10:20,Anand Rao Circle
+382,Intercity travels,1899,4.3,14 Seats available,Bharat Benz A/C Sleeper (2+1),22:05,12h 45m,10:50,Anand Rao Circle
+383,Sea Bird Tourist,INR 800,3.4,33 Seats available,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),23:30,13h 00m,12:30,Anand Rao Circle
+384,Sea Bird Tourist,INR 800,3.3,23 Seats available,NON A/C Sleeper (2+1),18:00,13h 00m,07:00,Anand Rao Circle
+385,Sugama Tourist,INR 950,3.8,12 Seats available,NON A/C Sleeper (2+1),20:30,11h 15m,07:45,Anand Rao Circle
+386,IntrCity SmartBus,INR 1552,3.8,23 Seats available,AC Sleeper (2+1),21:30,13h 30m,11:00,Anand Rao Circle
+387,Sea Bird Tourist,INR 800,3.6,24 Seats available,NON A/C Sleeper (2+1),20:30,13h 30m,10:00,Anand Rao Circle
+388,Anand Travels,INR 810,2.6,18 Seats available,NON A/C Sleeper (2+1),18:30,11h 30m,05:30,Anand Rao Circle
+389,Orange Tours And Travels,INR 1200,2.6,27 Seats available,A/C Sleeper (2+1),19:50,12h 40m,08:30,Anand Rao Circle
+390,Sea Bird Tourist,INR 1000,2.9,22 Seats available,A/C Sleeper (2+1),19:00,13h 00m,08:00,Anand Rao Circle
+391,SRS Travels,INR 950,2.3,26 Seats available,NON AC Seater / Sleeper 2+1,20:00,13h 30m,09:30,Anand Rao Circle
+392,Sea Bird Tourist,INR 1000,2.3,21 Seats available,A/C Sleeper (2+1),21:15,13h 00m,10:15,Anand Rao Circle
+393,Suprith Holidays,INR 1599,3.8,25 Seats available,A/C Sleeper (2+1),21:50,11h 40m,09:30,Yeshwantpur
+394,SRS Travels,INR 950,2.5,26 Seats available,NON AC Seater / Sleeper 2+1,20:00,12h 30m,08:30,Anand Rao Circle
+395,Sugama Tourist,INR 950,3.7,12 Seats available,NON A/C Sleeper (2+1),20:30,12h 15m,08:45,Anand Rao Circle
+396,SPR Tours And Travels,INR 850,3.3,22 Seats available,NON A/C Sleeper (1+2),19:55,13h 05m,09:00,Yeshwantpur
+397,Sugama Tourist,INR 950,3.8,12 Seats available,NON A/C Sleeper (2+1),20:30,11h 45m,08:15,Anand Rao Circle
+398,Bharathi Travels,INR 2399,2.8,23 Seats available,A/C Sleeper (2+1),23:15,12h 30m,11:30,Anand Rao Circle
+399,Kukkeshree Travels,INR 1699,3.1,18 Seats available,A/C Sleeper (2+1),21:15,12h 00m,09:15,Anand Rao Circle
+400,SPR Tours And Travels,INR 850,3.4,24 Seats available,NON A/C Sleeper (1+2),19:00,13h 30m,08:30,Paulo Travels Office Race cou...
+401,Kukkeshree Travels,INR 1699,3.2,22 Seats available,A/C Sleeper (2+1),22:15,12h 00m,10:15,Anand Rao Circle
+402,Sea Bird Tourist,INR 800,2.4,30 Seats available,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),22:30,13h 00m,11:30,Anand Rao Circle
+403,Sea Bird Tourist,INR 1000,3.1,18 Seats available,A/C Sleeper (2+1),22:15,13h 00m,11:15,Anand Rao Circle
+404,DA Transports,INR 5000,3.6,36 Seats available,A/C Sleeper (2+1),16:00,12h 00m,04:00,Nayanadahalli
+405,Suprith Holidays,INR 3000,3.5,22 Seats available,A/C Sleeper (2+1),21:10,12h 40m,09:20,Anand Rao Circle
+406,VRL Travels,INR 1000,3.6,13 Seats available,A/C Seater / Sleeper (2+1),19:30,13h 00m,09:15,Anand Rao Circle
+407,Kadamba Transport Corporation Limited (KTCL) - 8355,INR 450,3.7,38 Seats available,Non AC Seater 2+2,15:00,10h 03m,01:03,Panjim
+408,Sea Bird Tourist,INR 700,4.8,27 Seats available,NON A/C Sleeper (2+1),17:30,09h 00m,02:30,Panjim
+409,Kadamba Transport Corporation Limited (KTCL) - 60996,INR 675,3.3,32 Seats available,Non AC Seater 2+2,19:00,11h 05m,06:05,Vasco
+410,Humsafar Travels,INR 1350,4.0,26 Seats available,A/C Sleeper (2+1),19:00,07h 00m,02:00,Mapusa
+411,Om Sri Tours and Travels,1849,3.2,24 Seats available,Volvo Multi-Axle A/C Sleeper (2+1),20:00,08h 00m,04:00,Mapusa
+412,Konkan Tours & Travels,INR 3000,3.5,32 Seats available,NON A/C Sleeper (2+1),17:00,10h 10m,03:10,Panjim
+413,PSR Travels Goa,INR 1299,4.1,15 Seats available,A/C Sleeper (2+1),19:15,14h 45m,10:00,Porvorim
+414,Humsafar Travels,INR 1350,2.3,20 Seats available,A/C Sleeper (2+1),19:00,16h 00m,11:00,Mapusa
+415,Hans Travels (I) Private Limited,INR 1400,1.8,18 Seats available,A/C Sleeper (2+1),12:30,15h 45m,04:15,Panjim
+416,Kadamba Transport Corporation Limited (KTCL) - 60996,INR 420,3.6,28 Seats available,Non AC Seater 2+2,19:00,07h 30m,02:30,Vasco
+417,Neeta tours and travels,INR 499,3.1,17 Seats available,AC Sleeper (2+1),12:30,06h 30m,19:00,Verna
+418,Vaibhav Travels,INR 300,4.4,18 Seats available,A/C Sleeper (2+1),16:00,07h 00m,23:00,Madgaon
+419,Vaibhav Travels,INR 600,3.6,28 Seats available,A/C Sleeper (2+1),20:00,10h 12m,06:12,Mapusa
+420,Neeta tours and travels,INR 499,3.6,45 Seats available,AC Sleeper (2+1),10:30,06h 30m,17:00,Madgaon
+421,Atmaram Travels ( Dolphin ),INR 660,4.4,29 Seats available,A/C Sleeper (2+1),14:00,06h 30m,20:30,Madgaon
+422,IntrCity SmartBus,INR 550,4.5,25 Seats available,AC Sleeper (2+1),15:30,06h 15m,21:45,Panjim
+423,Atmaram Travels ( Dolphin ),INR 750,3.3,17 Seats available,A/C Sleeper (2+1),15:30,06h 15m,21:45,Madgaon
+424,Atmaram Travels ( Dolphin ),INR 750,3.2,40 Seats available,A/C Sleeper (2+1),16:30,06h 30m,23:00,Panjim
+425,IntrCity SmartBus,INR 1124,4.7,27 Seats available,AC Sleeper (2+1),16:30,06h 00m,22:30,Mapusa
+426,Konkan Tours & Travels,INR 3000,3.5,28 Seats available,NON A/C Sleeper (2+1),17:00,06h 45m,23:45,Mapusa
+427,Prasanna - Purple Bus,1098,3.9,40 Seats available,VE A/C Sleeper (2+1),17:00,07h 45m,00:45,Mapusa
+428,Atmaram Travels ( Dolphin ),INR 660,3.8,30 Seats available,A/C Sleeper (2+1),17:30,06h 45m,00:15,Madgaon
+429,Sai Travels - Shree Sai,INR 5000,3.7,29 Seats available,NON A/C Push Back (2+2),17:30,08h 00m,01:30,Madgaon
+430,IntrCity SmartBus,INR 799,4.3,27 Seats available,AC Sleeper (2+1),17:30,06h 00m,23:30,Mapusa
+431,Jolly Tours and Travels,1449,3.6,23 Seats available,VE A/C Sleeper (2+1),17:30,07h 15m,00:45,Porvorim
+432,IntrCity SmartBus,INR 1124,3.9,27 Seats available,AC Sleeper (2+1),17:30,06h 55m,00:25,Mapusa
+433,Prasanna - Purple Bus,720,3.9,29 Seats available,Volvo A/C Sleeper (2+1),18:00,07h 00m,01:00,Mapusa
+434,Giroba Travels,INR 2000,3.3,20 Seats available,A/C Seater (2+2),18:00,07h 45m,01:45,Mapusa
+435,Zingbus Plus,693,4.3,25 Seats available,Bharat Benz A/C Sleeper (2+1),18:10,06h 00m,00:10,Mapusa
+436,IntrCity SmartBus,INR 799,4.7,26 Seats available,AC Sleeper (2+1),18:30,06h 15m,00:45,Porvorim
+437,Giroba Travels,INR 2000,3.3,26 Seats available,A/C Seater (2+2),18:30,07h 15m,01:45,Mapusa
+438,Jolly Tours and Travels,INR 1499,3.6,24 Seats available,A/C Sleeper (2+1),18:30,07h 15m,01:45,Mapusa
+439,Amrutyog Travels,INR 599,4.9,47 Seats available,A/C Sleeper (2+1),19:00,07h 30m,02:30,Mapusa
+440,Atmaram Travels (Pawan),INR 666,4.1,22 Seats available,A/C Sleeper (2+1),19:00,06h 45m,01:45,Mapusa
+441,PSR Travels Goa,INR 999,3.6,21 Seats available,A/C Sleeper (2+1),19:15,05h 45m,01:00,Mapusa
+442,Atmaram Travels (Humsafar),INR 750,4.1,15 Seats available,Bharat Benz A/C Sleeper (2+1),19:30,06h 00m,01:30,Panjim
+443,Laxmi Queen Prime,INR 699,3.7,22 Seats available,A/C Sleeper (2+1),19:30,06h 00m,01:30,Mapusa
+444,IntrCity SmartBus,INR 550,5.0,30 Seats available,AC Sleeper (2+1),19:30,05h 40m,01:10,Mapusa
+445,Zingbus Plus,791,4.9,31 Seats available,VE A/C Sleeper (2+1),19:40,06h 00m,01:40,Mapusa
+446,PSR Travels Goa,INR 899,3.9,16 Seats available,A/C Sleeper (2+1),19:45,06h 15m,02:00,Porvorim
+447,Atmaram Gobus,INR 2000,4.1,20 Seats available,NON A/C Sleeper (2+1),19:45,07h 15m,03:00,Mapusa
+448,Laxmi Empress Stellar,INR 649,3.9,21 Seats available,NON A/C Sleeper (2+1),19:45,06h 00m,01:45,Mapusa
+449,Ashray Travels,INR 350,4.0,27 Seats available,Non A/C Seater / Sleeper (2+1),20:00,05h 30m,01:30,Mapusa
+450,IntrCity SmartBus,INR 629,4.4,28 Seats available,AC Sleeper (2+1),20:00,05h 40m,01:40,Mapusa
+451,Atmaram Travels (Shreyas),INR 599,4.1,20 Seats available,Bharat Benz A/C Sleeper (2+1),20:03,06h 00m,02:03,Mapusa
+452,Indumati Travels,INR 600,4.2,19 Seats available,A/C Sleeper (2+1),20:15,05h 45m,02:00,Mapusa
+453,Zingbus Plus,782,4.3,27 Seats available,VE A/C Sleeper (2+1),20:25,05h 30m,01:55,Mapusa
+454,Laxmi Queen Asta,INR 699,4.8,20 Seats available,A/C Sleeper (2+1),20:30,05h 30m,02:00,Mapusa
+455,IntrCity SmartBus,INR 799,4.6,21 Seats available,AC Sleeper (2+1),21:00,05h 30m,02:30,Madgaon
+456,Indumati Travels,INR 600,3.3,24 Seats available,A/C Sleeper (2+1),21:00,05h 45m,02:45,Madgaon
+457,Atmaram Travels ( Gogte ),INR 600,3.1,21 Seats available,NON A/C Sleeper (2+1),21:15,06h 00m,03:15,Mapusa
+458,Atmaram Travels(KVT Narmada Red),INR 600,4.4,31 Seats available,Bharat Benz A/C Sleeper (2+1),21:16,06h 45m,04:01,Mapusa
+459,IntrCity SmartBus,INR 700,4.4,30 Seats available,AC Sleeper (2+1),21:30,05h 45m,03:15,Madgaon
+460,Zingbus Plus,555,4.5,30 Seats available,Bharat Benz A/C Sleeper (2+1),21:30,05h 15m,02:45,Panjim
+461,Prasanna Purple Big Bus,828,3.3,,VE A/C Sleeper (2+1),22:00,06h 00m,04:00,
+462,Prasanna Purple Grand,828,4.2,,A/C Sleeper (2+1),22:15,06h 00m,04:15,
+463,PSR Travels (Vaibhav),INR 849,4.6,,A/C Sleeper (2+1),22:30,05h 00m,03:30,
+464,Atmaram Travels Goa,INR 899,4.1,,A/C Sleeper (2+1),22:31,05h 30m,04:01,
+465,Hans Travels (I) Private Limited,INR 600,2.8,,A/C Sleeper (2+1),12:30,06h 20m,18:50,
+466,Gujarat Travels,1425,1.5,,AC Sleeper (2+1),12:40,06h 15m,18:55,
+467,Maa tours & Travels,INR 1000,1.8,,A/C Seater (2+2),16:00,07h 15m,23:15,
+468,Manish Sharma Travels,INR 850,2.7,,A/C Sleeper (2+1),17:30,08h 30m,02:00,
+469,Naik Tours And Travels,INR 2000,2.1,,NON A/C Sleeper (2+1),17:40,06h 15m,23:55,
+470,Anand Travels,639,2.8,,NON A/C Sleeper (2+1),18:00,08h 00m,02:00,
+471,Atmaram Travels ( Dolphin ),INR 700,2.8,,AC Sleeper (2+1),18:30,06h 15m,00:45,
+472,Laxmi-Princess Nova,INR 399,2.5,,Non A/C Seater / Sleeper (2+1),19:00,06h 30m,01:30,
+473,Manish Roshan Travels,INR 850,2.7,,A/C Sleeper (2+1),19:00,08h 30m,03:30,
+474,Om Sri Tours and Travels,1849,2.4,,Volvo Multi-Axle A/C Sleeper (2+1),20:00,03h 55m,23:55,
+475,VRL Travels,INR 1100,3.4,,A/C Sleeper (2+1),17:00,06h 45m,23:45,
+476,VRL Travels,INR 900,3.4,,A/C Sleeper (2+1),19:30,06h 30m,02:00,
+477,Kadamba Transport Corporation Limited (KTCL) - 60996,INR 490,3.9,28 Seats available,Non AC Seater 2+2,19:00,09h 00m,04:00,Vasco
+478,Vaibhav Travels,INR 600,3.3,14 Seats available,A/C Sleeper (2+1),20:00,09h 40m,05:40,Verna
+479,Neeta tours and travels,INR 499,1.0,32 Seats available,AC Sleeper (2+1),10:30,07h 50m,18:20,Panjim
+480,Konkan Tours & Travels,INR 3000,3.5,23 Seats available,NON A/C Sleeper (2+1),17:00,08h 25m,01:25,Mapusa
+481,Humsafar Travels,INR 1350,4.0,24 Seats available,A/C Sleeper (2+1),19:00,06h 30m,01:30,Mapusa
+482,Om Sri Tours and Travels,1849,1.6,,Volvo Multi-Axle A/C Sleeper (2+1),20:00,07h 40m,03:40,
+483,Atmaram Gobus,INR 750,4.7,27 Seats available,VE A/C Sleeper (2+1),22:30,07h 40m,06:10,Mapusa
+484,Ashray Travels,INR 790,4.8,27 Seats available,Volvo Multi-Axle A/C Sleeper (2+1),21:00,09h 30m,06:30,Mapusa
+485,IntrCity SmartBus,INR 700,4.5,27 Seats available,AC Sleeper (2+1),21:30,07h 55m,05:25,Mapusa
+486,Ashray Grand,INR 1000,4.5,29 Seats available,Volvo Multi-Axle A/C Sleeper (2+1),22:00,09h 30m,07:30,Mapusa
+487,Atmaram Travels ( Gogte ),INR 600,4.1,20 Seats available,NON A/C Sleeper (2+1),21:15,08h 30m,05:45,Mapusa
+488,Ashray Travels,INR 749,4.7,20 Seats available,Bharat Benz A/C Sleeper (2+1),22:30,09h 30m,08:00,Mapusa
+489,Atmaram Travels(M.Dev),INR 808,5.0,26 Seats available,A/C Sleeper (2+1),22:00,08h 50m,06:50,Mapusa
+490,Anand Travels,639,4.1,19 Seats available,NON A/C Sleeper (2+1),18:00,09h 30m,03:30,Madgaon
+491,Atmaram Gobus,INR 599,4.4,20 Seats available,NON A/C Sleeper (2+1),19:45,09h 40m,05:25,Mapusa
+492,Indumati Travels,INR 600,4.2,15 Seats available,A/C Sleeper (2+1),20:15,08h 15m,04:30,Panjim
+493,Laxmi Queen Prime,INR 699,4.7,30 Seats available,A/C Sleeper (2+1),19:30,09h 30m,05:00,Mapusa
+494,Atmaram Travels(KVT Narmada Red),INR 600,4.1,21 Seats available,Bharat Benz A/C Sleeper (2+1),21:16,09h 15m,06:31,Mapusa
+495,Zingbus Plus,555,3.8,28 Seats available,Bharat Benz A/C Sleeper (2+1),21:30,07h 45m,05:15,Mapusa
+496,Prasanna Purple Grand,828,4.2,19 Seats available,A/C Sleeper (2+1),22:15,07h 30m,05:45,Mapusa
+497,Indumati Travels,INR 600,3.1,16 Seats available,A/C Sleeper (2+1),21:00,08h 00m,05:00,Porvorim
+498,Sangitam Travels Tanzanite,INR 571,3.7,26 Seats available,A/C Sleeper (2+1),21:00,07h 30m,04:30,Mapusa
+499,Amrutyog Travels,INR 599,3.8,25 Seats available,A/C Sleeper (2+1),19:00,10h 00m,05:00,Madgaon
+500,Atmaram Travels ( Ashray ),INR 599,3.0,23 Seats available,A/C Sleeper (2+1),22:01,09h 30m,07:31,Mapusa
+501,Hans Travels (I) Private Limited,INR 600,1.2,22 Seats available,A/C Sleeper (2+1),12:30,09h 15m,21:45,Mapusa
+502,Zingbus Plus,782,4.3,25 Seats available,VE A/C Sleeper (2+1),20:25,08h 00m,04:25,Mapusa
+503,Zingbus Plus,791,4.3,27 Seats available,VE A/C Sleeper (2+1),19:40,08h 15m,03:55,Mapusa
+504,IntrCity SmartBus,INR 899,4.3,28 Seats available,AC Sleeper (2+1),17:30,08h 30m,02:00,Mapusa
+505,IntrCity SmartBus,INR 719,4.3,20 Seats available,AC Sleeper (2+1),18:30,08h 05m,02:35,Mapusa
+506,IntrCity SmartBus,INR 759,4.3,20 Seats available,AC Sleeper (2+1),19:30,07h 40m,03:10,Mapusa
+507,Atmaram Travels Goa,INR 899,4.1,29 Seats available,A/C Sleeper (2+1),22:31,08h 30m,07:01,Mapusa
+508,Atmaram Travels ( Dolphin ),INR 799,4.1,27 Seats available,A/C Sleeper (2+1),14:00,09h 30m,23:30,Mapusa
+509,Atmaram Travels ( Dolphin ),INR 750,4.1,28 Seats available,A/C Sleeper (2+1),16:30,09h 30m,02:00,Mapusa
+510,Atmaram Travels (Humsafar),INR 750,4.1,15 Seats available,Bharat Benz A/C Sleeper (2+1),19:30,08h 15m,03:45,Mapusa
+511,Atmaram Travels ( Dolphin ),INR 660,4.1,28 Seats available,A/C Sleeper (2+1),17:30,09h 15m,02:45,Mapusa
+512,Atmaram Gobus,INR 750,4.1,24 Seats available,VE A/C Sleeper (2+1),21:32,07h 45m,05:17,Mapusa
+513,Atmaram Travels ( Dolphin ),INR 750,4.1,6 Seats available,A/C Sleeper (2+1),15:30,09h 30m,01:00,Mapusa
+514,Atmaram Gobus,INR 499,4.1,47 Seats available,NON A/C Sleeper (2+1),18:59,09h 30m,04:29,Mapusa
+515,Ashray Travels,INR 799,4.0,32 Seats available,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),20:00,09h 30m,05:30,Mapusa
+516,Ashray Travels,INR 350,4.0,26 Seats available,Non A/C Seater / Sleeper (2+1),20:00,07h 00m,03:00,Mapusa
+517,Laxmi-Princess Nova,INR 399,3.9,20 Seats available,Non A/C Seater / Sleeper (2+1),19:00,09h 00m,04:00,Mapusa
+518,Laxmi Empress Stellar,INR 649,3.9,22 Seats available,NON A/C Sleeper (2+1),19:45,08h 30m,04:15,Mapusa
+519,Prasanna Purple Big Bus,828,3.9,23 Seats available,VE A/C Sleeper (2+1),22:00,07h 30m,05:30,Porvorim
+520,Laxmi Queen Asta,INR 699,3.9,20 Seats available,A/C Sleeper (2+1),20:30,09h 00m,05:30,Panjim
+521,PSR Travels Goa,INR 999,3.6,27 Seats available,A/C Sleeper (2+1),19:15,07h 45m,03:00,Mapusa
+522,"National Travels,Goa",INR 499,3.6,23 Seats available,NON A/C Sleeper (2+1),19:00,08h 30m,03:30,Mapusa
+523,PSR Travels (Vaibhav),INR 849,3.6,33 Seats available,A/C Sleeper (2+1),22:30,07h 00m,05:30,Mapusa
+524,Atmaram Travels (Shreyas),INR 599,3.9,30 Seats available,NON A/C Sleeper (2+1),20:30,08h 30m,05:00,Mapusa
+525,Ashray Travels,INR 2000,4.5,26 Seats available,Volvo Multi-Axle A/C Sleeper (2+1),21:30,09h 30m,07:00,Mapusa
+526,Giroba Travels (ST.CHRISTOPHER),INR 350,3.3,21 Seats available,Non AC Seater (2+2),18:30,09h 30m,04:00,Mapusa
+527,Zingbus Plus,791,4.3,27 Seats available,Bharat Benz A/C Sleeper (2+1),18:10,08h 05m,02:15,Mapusa
+528,Atmaram Travels ( Dolphin ),INR 700,4.1,21 Seats available,AC Sleeper (2+1),18:30,09h 30m,04:00,Mapusa
+529,Atmaram Travels (Pawan),INR 666,4.1,21 Seats available,A/C Sleeper (2+1),19:00,09h 15m,04:15,Mapusa
+530,Atmaram Travels (Unity),INR 666,4.1,21 Seats available,A/C Sleeper (2+1),20:00,08h 45m,04:45,Madgaon
+531,Atmaram Travels (Shreyas),INR 599,4.1,49 Seats available,Bharat Benz A/C Sleeper (2+1),20:03,08h 00m,04:03,Panjim
+532,Manish Sharma Travels,INR 850,2.7,29 Seats available,A/C Sleeper (2+1),17:30,10h 30m,04:00,Madgaon
+533,Jay khodiyar travels,INR 4000,3.7,30 Seats available,VE A/C Sleeper (2+1),15:00,08h 59m,23:59,Madgaon
+534,Maa tours & Travels,INR 1800,1.7,26 Seats available,A/C Seater (2+2),15:30,11h 30m,03:00,Porvorim
+535,Jolly Tours and Travels,1449,3.6,29 Seats available,VE A/C Sleeper (2+1),17:30,08h 00m,01:30,Panjim
+536,Jolly Tours and Travels,INR 1499,3.6,36 Seats available,A/C Sleeper (2+1),18:30,08h 00m,02:30,Madgaon
+537,PSR Travels Goa,INR 899,3.6,28 Seats available,A/C Sleeper (2+1),19:45,08h 15m,04:00,Madgaon
+538,Giroba Travels,INR 3000,3.3,30 Seats available,A/C Sleeper (2+1),15:30,12h 30m,04:00,Madgaon
+539,Giroba Travels,INR 3000,3.3,32 Seats available,VE A/C Sleeper (2+1),19:30,08h 30m,04:00,Mapusa
+540,Gujarat Travels,1425,3.3,30 Seats available,AC Sleeper (2+1),12:40,08h 40m,21:20,Malkapur(Kolhapur)
+541,Giroba Travels (Kelkar),INR 350,3.3,29 Seats available,NON A/C Seater/ Sleeper (2+1),17:45,10h 45m,04:30,Madgaon
+542,Manish Roshan Travels,INR 850,2.7,22 Seats available,A/C Sleeper (2+1),19:00,10h 30m,05:30,Panjim
+543,Naik Tours And Travels,INR 2000,2.6,,NON A/C Sleeper (2+1),17:40,08h 40m,02:20,
+544,Naik Tours And Travels,INR 2500,2.6,,Bharat Benz A/C Sleeper (2+1),00:50,25h 15m,02:05,
+545,VRL Travels,INR 1100,3.4,,A/C Sleeper (2+1),17:00,08h 30m,01:30,
+546,VRL Travels,INR 900,3.4,,A/C Sleeper (2+1),19:30,08h 30m,04:00,
+547,Kadamba Transport Corporation Limited (KTCL) - 99708,INR 150,3.7,,AC Seater (2+2),07:30,01h 01m,08:31,
+548,Kadamba Transport Corporation Limited (KTCL) - 151354,INR 150,3.7,,Volvo AC Seater 2+2,08:00,01h 01m,09:01,
+549,Kadamba Transport Corporation Limited (KTCL) - 99707,INR 150,3.7,,AC Seater (2+2),13:45,01h 01m,14:46,
+550,Kadamba Transport Corporation Limited (KTCL) - 158948,INR 200,4.4,,A/C Seater (2+3),13:30,01h 00m,14:30,
+551,Kadamba Transport Corporation Limited (KTCL) - 61005,INR 735,3.3,26 Seats available,Non AC Seater 2+2,21:15,12h 45m,10:00,Bus Stand
+552,Konkan Tours & Travels,INR 3000,3.5,32 Seats available,NON A/C Sleeper (2+1),20:10,10h 50m,07:00,Pandharpur Bus Stand
+553,Kadamba Transport Corporation Limited (KTCL) - 61005,INR 850,3.3,26 Seats available,Non AC Seater 2+2,20:00,14h 00m,10:00,Sholapur
+554,Humsafar Travels,INR 1550,3.4,16 Seats available,A/C Sleeper (2+1),23:30,09h 30m,09:00,"Vinayak Humsafar Travels,Mech..."
+555,S R Travels,INR 800,3.3,30 Seats available,A/C Seater/Sleeper (2+1),18:45,12h 15m,07:00,Solapur
+556,Om Sri Tours and Travels,1942,2.4,21 Seats available,Volvo Multi-Axle A/C Sleeper (2+1),23:55,10h 35m,10:30,Solapur
+557,Konkan Tours & Travels,INR 3000,3.5,32 Seats available,NON A/C Sleeper (2+1),18:50,12h 10m,07:00,Solapur Bypass
+558,Kadamba Transport Corporation Limited (KTCL) - 99719,INR 200,4.8,,AC Seater (2+2),18:30,01h 30m,20:00,
+559,Kadamba Transport Corporation Limited (KTCL) - 99718,INR 200,4.0,,AC Seater (2+2),15:30,01h 45m,17:15,
+560,Kadamba Transport Corporation Limited (KTCL) - 78627,INR 200,3.9,,Volvo AC Seater 2+2,13:30,01h 45m,15:15,
+561,Kadamba Transport Corporation Limited (KTCL) - 99716,INR 200,3.3,,AC Seater (2+2),10:00,01h 45m,11:45,

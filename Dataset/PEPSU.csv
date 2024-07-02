@@ -1,0 +1,515 @@
+,Names,Bus_fare,Ratings,Seats,Bus_types,Starting_time,Duration,Ending_time,Starting_point
+0,Yolo Bus,INR 460,4.5,16 Seats available,VE A/C Seater / Sleeper (2+1),22:11,08h 17m,06:28,Alpha One Mall
+1,IntrCity SmartBus,INR 432,4.6,30 Seats available,A/C Seater / Sleeper (2+1),21:30,08h 55m,06:25,Railway Station
+2,Yolo Bus,INR 449,4.5,29 Seats available,VE A/C Seater / Sleeper (2+1),19:56,09h 04m,05:00,Alpha One Mall
+3,AdIntrCity SmartBus,INR 463,4.3,23 Seats available,A/C Seater / Sleeper (2+1),20:45,09h 15m,05:55,Railway Station
+4,Laxmi holidays,518,4.5,33 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),19:30,09h 30m,05:00,Railway Station
+5,Laxmi holidays,656,4.4,19 Seats available,Bharat Benz A/C Sleeper (2+1),22:30,09h 00m,07:30,Railway Station
+6,Laxmi holidays,570,4.4,33 Seats available,Bharat Benz A/C Sleeper (2+1),21:50,08h 40m,06:30,Railway Station
+7,AdIntrCity SmartBus,410,4.3,28 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),22:15,08h 45m,06:30,Railway Station
+8,R S YADAV SMART BUS PRIVATE LIMITED,INR 699,4.5,13 Seats available,Volvo Multi Axle B11R AC Seater\Sleeper (2+1),21:25,07h 15m,05:10,Alpha One Mall
+9,IntrCity SmartBus,INR 432,4.4,30 Seats available,A/C Seater / Sleeper (2+1),22:30,08h 45m,06:45,Railway Station
+10,Zingbus Plus,403,4.4,31 Seats available,Scania A/C Semi Sleeper (2+2),21:10,08h 50m,06:05,Railway Station
+11,IntrCity SmartBus,410,4.3,36 Seats available,A/C Seater / Sleeper (2+1),23:00,08h 20m,06:50,Railway Station
+12,Laxmi holidays,570,4.2,27 Seats available,VE A/C Sleeper (2+1),21:30,09h 30m,07:00,Railway Station
+13,FlixBus,INR 470,4.4,14 Seats available,A/C Sleeper (2+1),22:00,08h 35m,06:35,Amritsar (ISBT/Mahan Singh Gate)
+14,Muskan Tour And Travels private Limited,600,4.1,31 Seats available,Volvo Multi-Axle A/C Semi Sleeper (2+2),22:15,07h 40m,05:55,Railway Station
+15,Golden Temple Express Volvo,599,4.1,30 Seats available,Volvo Multi-Axle A/C Semi Sleeper (2+2),22:15,08h 05m,06:20,Railway Station
+16,IntrCity SmartBus,410,3.9,20 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),21:15,09h 30m,06:45,Railway Station
+17,ADTC tour and Travels,INR 600,4.1,30 Seats available,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),21:20,07h 50m,05:10,Railway Station
+18,Laxmi holidays,442,4.1,33 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),21:00,09h 20m,06:20,Railway Station
+19,IntrCity SmartBus,433,3.6,29 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),22:00,08h 45m,06:40,Railway Station
+20,Golden Temple Express Volvo,499,4.3,25 Seats available,A/C Seater / Sleeper (2+2),20:45,08h 35m,05:20,Railway Station
+21,IntrCity SmartBus,651,3.8,20 Seats available,AC Sleeper (2+1),22:45,08h 30m,07:10,Railway Station
+22,Golden Temple Express Volvo,549,3.2,29 Seats available,A/C Seater / Sleeper (2+2),21:00,08h 20m,05:20,Railway Station
+23,Prince Travels,INR 499,3.6,36 Seats available,A/C Seater / Sleeper (2+2),22:10,07h 50m,06:00,Railway Station
+24,NueGo,427,3.9,35 Seats available,Electric A/C Seater/Sleeper (2+1),22:45,09h 40m,08:25,Alpha One Mall
+25,IntrCity SmartBus,INR 570,3.0,19 Seats available,A/C Seater / Sleeper (2+1),19:45,10h 35m,05:05,Railway Station
+26,Golden Temple Express Volvo,499,3.8,30 Seats available,A/C Seater / Sleeper (2+2),22:30,08h 20m,06:50,Railway Station
+27,IntrCity SmartBus,INR 627,3.3,28 Seats available,A/C Seater / Sleeper (2+1),20:30,09h 30m,05:45,Railway Station
+28,NueGo,474,3.6,37 Seats available,Electric A/C Seater/Sleeper (2+1),21:45,09h 40m,07:25,Alpha One Mall
+29,ADTC tour and Travels,INR 550,1.9,20 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),21:45,07h 30m,05:15,Railway Station
+30,Banjara Satguru Travels,496,2.7,30 Seats available,A/C Seater / Sleeper (2+2),23:05,08h 35m,07:55,Shop no.123 city centre sanga...
+31,K.S Travels,INR 700,3.1,48 Seats available,A/C Seater / Sleeper (2+2),22:30,07h 00m,05:30,Alpha One Mall
+32,Golden Temple Express Volvo,549,3.6,34 Seats available,A/C Seater / Sleeper (2+2),22:40,07h 50m,06:30,Railway Station
+33,Shri Bawa Lal Tour and Travels,INR 449,3.0,28 Seats available,A/C Seater / Sleeper (2+1),22:25,07h 30m,06:25,Railway station near sai travels
+34,SHREE SATGURU TRAVELS,INR 599,2.2,38 Seats available,A/C Seater / Sleeper (2+2),22:05,07h 55m,06:00,Railway Station
+35,Banjara Satguru Travels,719,4.3,35 Seats available,A/C Seater / Sleeper (2+2),22:50,08h 25m,07:15,Shop no.123 city centre sanga...
+36,IntrCity SmartBus,INR 465,2.9,35 Seats available,VE A/C Seater / Sleeper (2+1),21:45,08h 55m,06:40,Railway Station
+37,Golden Temple Volvo Bus Service,INR 686,3.8,41 Seats available,A/C Seater / Sleeper (2+1),22:30,08h 50m,07:00,Alpha One Mall
+38,Golden Temple Express Volvo,449,2.9,33 Seats available,A/C Seater / Sleeper (2+2),22:30,08h 20m,06:50,Railway Station
+39,CALL2TRIP,719,2.9,18 Seats available,A/C Seater / Sleeper (2+2),22:15,07h 45m,06:00,Amritsar Railway Station
+40,CALL2TRIP,719,,18 Seats available,A/C Seater / Sleeper (2+2),22:25,07h 45m,06:10,Amritsar Railway Station
+41,PEPSU (Punjab) - 67121,INR 1216,3.8,39 Seats available,Volvo AC Seater (2+2),21:50,10h 30m,08:20,Karnal by pass delhi
+42,Yolo Bus,INR 400,4.6,20 Seats available,VE A/C Seater / Sleeper (2+1),22:33,08h 31m,07:04,Majnu Ka Tilla
+43,Laxmi holidays,570,4.5,24 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),22:40,08h 25m,07:05,Majnu Ka Tilla
+44,AdZingbus Plus,422,4.5,15 Seats available,Scania A/C Semi Sleeper (2+2),22:50,08h 25m,07:35,Majnu Ka Tilla
+45,R S YADAV SMART BUS PRIVATE LIMITED,INR 699,4.5,16 Seats available,Volvo Multi Axle B11R AC Seater\Sleeper (2+1),22:40,08h 30m,07:10,Majnu Ka Tilla
+46,Yolo Bus,INR 549,4.5,28 Seats available,VE A/C Seater / Sleeper (2+1),23:59,08h 06m,08:05,Majnu Ka Tilla
+47,IntrCity SmartBus,INR 387,4.5,31 Seats available,A/C Seater / Sleeper (2+1),23:58,09h 12m,09:10,Majnu Ka Tilla
+48,AdMuskan Tour And Travels private Limited,739,4.1,28 Seats available,Volvo Multi-Axle A/C Semi Sleeper (2+2),22:55,07h 35m,06:30,Majnu Ka Tilla
+49,IntrCity SmartBus,INR 387,4.5,27 Seats available,A/C Seater / Sleeper (2+1),21:45,10h 35m,08:20,Red Fort (Lal Quila)
+50,Laxmi holidays,599,4.4,34 Seats available,VE A/C Sleeper (2+1),23:20,09h 25m,08:45,Majnu Ka Tilla
+51,Laxmi holidays,599,4.4,30 Seats available,Bharat Benz A/C Sleeper (2+1),23:55,09h 05m,09:00,Majnu Ka Tilla
+52,Laxmi holidays,665,4.3,28 Seats available,Bharat Benz A/C Sleeper (2+1),23:50,09h 25m,09:15,Majnu Ka Tilla
+53,Apex Bus Travels,799,4.1,35 Seats available,A/C Seater / Sleeper (2+2),23:00,07h 30m,06:30,Majnu Ka Tilla
+54,Laxmi holidays,532,4.0,32 Seats available,VE A/C Seater / Sleeper (2+1),22:20,09h 25m,07:45,Majnu Ka Tilla
+55,ADTC tour and Travels,INR 600,4.0,39 Seats available,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),22:35,07h 50m,06:25,Majnu Ka Tilla
+56,IntrCity SmartBus,INR 408,4.0,34 Seats available,A/C Seater / Sleeper (2+1),22:30,09h 15m,07:45,Majnu Ka Tilla
+57,IntrCity SmartBus,INR 432,3.8,26 Seats available,A/C Seater / Sleeper (2+1),21:30,09h 35m,07:05,Majnu Ka Tilla
+58,Golden Temple Express Volvo,599,3.8,12 Seats available,Volvo Multi-Axle A/C Semi Sleeper (2+2),23:20,08h 00m,07:10,Majnu Ka Tilla
+59,IntrCity SmartBus,INR 387,3.8,33 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),22:45,08h 40m,07:25,Majnu Ka Tilla
+60,Golden Temple Express Volvo,549,4.4,6 Seats available,A/C Seater / Sleeper (2+2),23:15,08h 11m,07:18,Majnu Ka Tilla
+61,IntrCity SmartBus,INR 450,4.0,27 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),22:15,10h 35m,08:50,Red Fort (Lal Quila)
+62,Golden Temple Express Volvo,499,3.7,2 Seats available,A/C Seater / Sleeper (2+2),23:20,08h 05m,07:15,Majnu Ka Tilla
+63,IntrCity SmartBus,INR 752,4.2,30 Seats available,A/C Seater / Sleeper (2+1),23:15,09h 15m,08:30,Majnu Ka Tilla
+64,IntrCity SmartBus,598,4.3,22 Seats available,AC Sleeper (2+1),23:35,09h 30m,09:05,Majnu Ka Tilla
+65,IntrCity SmartBus,INR 511,3.1,18 Seats available,A/C Seater / Sleeper (2+1),23:40,09h 00m,08:40,Majnu Ka Tilla
+66,CALL2TRIP,594,2.5,41 Seats available,A/C Seater / Sleeper (2+2),22:59,08h 11m,07:10,Majnu Ka Tilla
+67,Classic Travels,INR 690,2.7,16 Seats available,A/C Seater / Sleeper (2+2),21:00,09h 15m,06:15,ISBT Kashmiri Gate
+68,NueGo,474,2.4,20 Seats available,Electric A/C Seater/Sleeper (2+1),22:25,08h 40m,07:00,Majnu Ka Tilla
+69,Banjara Satguru Travels,550,3.0,31 Seats available,A/C Seater / Sleeper (2+2),23:20,07h 40m,07:00,Karnal Bypass
+70,Golden Temple Volvo Bus Service,INR 686,2.8,36 Seats available,A/C Seater / Sleeper (2+1),00:10,08h 40m,08:50,Majnu Ka Tilla
+71,CALL2TRIP,594,3.4,44 Seats available,A/C Seater / Sleeper (2+2),22:40,08h 20m,07:00,Majnu Ka Tilla
+72,ADTC tour and Travels,INR 500,4.1,19 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),22:50,07h 40m,06:30,Sanjay Gandhi Transport Nagar
+73,K.S Travels,INR 700,1.5,27 Seats available,A/C Seater / Sleeper (2+2),22:40,08h 00m,06:40,Majnu Ka Tilla
+74,NueGo,474,4.3,29 Seats available,Electric A/C Seater/Sleeper (2+1),23:55,09h 30m,09:20,Majnu Ka Tilla
+75,IntrCity SmartBus,387,4.3,23 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),21:30,09h 35m,07:05,Majnu Ka Tilla
+76,IntrCity SmartBus,INR 418,3.1,31 Seats available,A/C Seater / Sleeper (2+1),22:10,08h 50m,07:00,Majnu Ka Tilla
+77,New National Travels,INR 543,3.6,34 Seats available,A/C Seater / Sleeper (2+2),23:30,07h 30m,07:00,Majnu Ka Tilla
+78,Shri Bawa Lal Tour and Travels,INR 400,3.4,31 Seats available,A/C Seater / Sleeper (2+1),23:05,07h 25m,06:30,Majnu Ka Tilla
+79,ADTC tour and Travels,INR 600,3.4,11 Seats available,Bharat Benz A/C Seater / Sleeper (2+2),22:45,07h 45m,06:30,Majnu Ka Tilla
+80,NEW KING BUS SERVICE,INR 499,4.4,26 Seats available,A/C Seater / Sleeper (2+2),23:20,07h 10m,06:30,Majnu Ka Tilla
+81,FlixBus,INR 1007,2.6,7 Seats available,A/C Sleeper (2+1),23:25,08h 30m,07:55,Shop no 11 jamna bazar red fo...
+82,Banjara Satguru Travels,550,1.3,33 Seats available,A/C Seater / Sleeper (2+2),00:00,07h 25m,07:25,
+83,Travel Point World LLP,759,,17 Seats available,A/C Seater / Sleeper (2+2),22:15,08h 15m,06:30,
+84,Indo Canadian Transport Pvt. Ltd.,INR 2500,4.0,51 Seats available,A/C Semi Sleeper (2+2),18:35,10h 25m,05:00,Phagwara
+85,Indo Canadian Transport Pvt. Ltd.,INR 3000,4.0,42 Seats available,A/C Sleeper (2+1),14:45,10h 25m,01:10,Phagwara
+86,Indo Canadian Transport Pvt. Ltd.,INR 3850,4.0,42 Seats available,A/C Sleeper (2+1),14:35,10h 25m,01:00,Phagwara
+87,Indo Canadian Transport Pvt. Ltd.,INR 2500,4.0,44 Seats available,A/C Semi Sleeper (2+2),14:35,08h 25m,23:00,Phagwara
+88,Indo Canadian Transport Pvt. Ltd.,INR 2500,4.0,51 Seats available,A/C Semi Sleeper (2+2),16:35,08h 25m,01:00,Phagwara
+89,Indo Canadian Transport Pvt. Ltd.,INR 2500,4.0,44 Seats available,A/C Semi Sleeper (2+2),18:35,08h 25m,03:00,Phagwara
+90,Indo Canadian Transport Pvt. Ltd.,INR 2500,4.0,42 Seats available,A/C Semi Sleeper (2+2),22:35,08h 25m,07:00,Phagwara
+91,Indo Canadian Transport Pvt. Ltd.,INR 3850,4.0,29 Seats available,A/C Sleeper (2+1),14:35,10h 25m,01:00,Phagwara
+92,Indo Canadian Transport Pvt. Ltd.,INR 3300,4.0,44 Seats available,A/C Semi Sleeper (2+2),23:35,10h 25m,10:00,Phagwara
+93,Indo Canadian Transport Pvt. Ltd.,INR 2500,4.0,44 Seats available,A/C Semi Sleeper (2+2),16:43,08h 25m,01:08,Phagwara
+94,Indo Canadian Transport Pvt. Ltd.,INR 3000,4.0,30 Seats available,A/C Sleeper (2+1),14:35,08h 25m,23:00,Phagwara
+95,Indo Canadian Transport Pvt. Ltd.,INR 3000,4.0,,A/C Semi Sleeper (2+2),16:35,08h 25m,01:00,
+96,Indo Canadian Transport Pvt. Ltd.,INR 3000,4.0,,A/C Sleeper (2+1),20:35,08h 25m,05:00,
+97,Indo Canadian Transport Pvt. Ltd.,INR 3000,4.0,,A/C Sleeper (2+1),14:35,08h 25m,23:00,
+98,Chandigarh Transport Undertaking (CTU) - 165965,INR 371.43,3.7,24 Seats available,HVAC Seater (2+3),15:10,05h 30m,20:40,Karan filling station indian ...
+99,Orbit Aviation Pvt. Ltd.,INR 500,3.6,25 Seats available,A/C Seater (2+2),14:50,04h 05m,18:55,Near Shree Angeetha Sahib Gur...
+100,NEW FATEH BUS SERVICE,510,4.5,20 Seats available,Volvo A/C Semi Sleeper (2+2),16:25,03h 50m,20:15,Karan filling station indian ...
+101,Orbit Aviation Pvt. Ltd.,INR 600,3.3,29 Seats available,A/C Seater (2+2),16:55,03h 45m,20:40,Angeetha Sahib Gurdwara Secto...
+102,Orbit Aviation Pvt. Ltd.,INR 600,3.7,16 Seats available,A/C Seater (2+2),14:05,04h 15m,18:20,Angeetha Sahib Gurdwara Secto...
+103,Orbit Aviation Pvt. Ltd.,INR 500,4.2,,A/C Seater (2+2),15:25,04h 05m,19:30,
+104,RATHORE TRAVELS AGENCY,INR 850,4.8,,AC Sleeper (2+1),18:30,04h 45m,23:15,
+105,Rajpreet Travels and cargo,INR 950,3.5,,A/C Sleeper (2+1),19:00,04h 00m,23:00,
+106,Zimindara Travels,INR 810,4.1,,AC Sleeper (2+1),20:00,05h 30m,01:30,
+107,Rajpreet Travels and cargo,INR 666,3.5,,A/C Sleeper (2+1),20:00,05h 15m,01:15,
+108,Zimindara Travels,INR 810,4.1,,AC Sleeper (2+1),20:30,05h 20m,01:50,
+109,Rajpreet Travels and cargo,INR 858,3.5,,A/C Sleeper (2+1),20:40,05h 20m,02:00,
+110,Rajpreet Travels and cargo,INR 905,3.5,,A/C Sleeper (2+1),21:00,04h 30m,01:30,
+111,Indo Canadian Transport Pvt. Ltd.,INR 3850,4.0,35 Seats available,A/C Sleeper (2+1),18:00,11h 00m,05:00,Pick by shared cab from amrit...
+112,Indo Canadian Transport Pvt. Ltd.,INR 3300,4.0,48 Seats available,A/C Semi Sleeper (2+2),16:00,13h 00m,05:00,Pick by shared cab from amrit...
+113,Indo Canadian Transport Pvt. Ltd.,INR 3000,4.0,30 Seats available,A/C Semi Sleeper (2+2),21:55,13h 10m,11:05,Pick by shared cab from amrit...
+114,Indo Canadian Transport Pvt. Ltd.,INR 3300,4.0,51 Seats available,A/C Semi Sleeper (2+2),21:55,13h 00m,10:55,Pick by shared cab from amrit...
+115,Indo Canadian Transport Pvt. Ltd.,INR 3300,4.0,44 Seats available,A/C Semi Sleeper (2+2),21:00,13h 00m,10:00,Pick by shared cab from amrit...
+116,Indo Canadian Transport Pvt. Ltd.,INR 2500,4.0,30 Seats available,A/C Sleeper (2+1),21:55,11h 00m,08:55,Pick by shared cab from amrit...
+117,Indo Canadian Transport Pvt. Ltd.,INR 3000,4.0,30 Seats available,A/C Sleeper (2+1),21:55,11h 00m,08:55,Pick by shared cab from amrit...
+118,Indo Canadian Transport Pvt. Ltd.,INR 3300,4.0,38 Seats available,A/C Semi Sleeper (2+2),14:00,11h 00m,01:00,Pick by shared cab from amrit...
+119,Zingbus Plus,1234,4.3,28 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),17:20,08h 20m,01:40,T3 IGI Airport Arrival Gate
+120,Zingbus Plus,844,4.3,19 Seats available,Scania A/C Semi Sleeper (2+2),19:50,09h 00m,04:50,T3 IGI Airport Arrival Gate
+121,Indo Canadian Transport Pvt. Ltd.,INR 3300,4.0,41 Seats available,A/C Semi Sleeper (2+2),23:30,10h 15m,09:45,"Igi terminal3 arrival,gate no..."
+122,Indo Canadian Transport Pvt. Ltd.,INR 2500,4.0,44 Seats available,A/C Semi Sleeper (2+2),23:30,07h 15m,06:45,"Igi terminal3 arrival,gate no..."
+123,Indo Canadian Transport Pvt. Ltd.,INR 3000,4.0,51 Seats available,A/C Sleeper (2+1),13:30,07h 15m,20:45,"Igi terminal3 arrival,gate no..."
+124,Indo Canadian Transport Pvt. Ltd.,INR 2500,4.0,51 Seats available,A/C Semi Sleeper (2+2),13:15,10h 15m,23:30,"Igi terminal3 arrival,gate no..."
+125,Indo Canadian Transport Pvt. Ltd.,INR 3300,4.0,44 Seats available,A/C Semi Sleeper (2+2),19:30,10h 15m,05:45,"Igi terminal3 arrival,gate no..."
+126,Indo Canadian Transport Pvt. Ltd.,INR 3300,4.0,51 Seats available,A/C Semi Sleeper (2+2),16:30,10h 15m,02:45,"Igi terminal3 arrival,gate no..."
+127,Indo Canadian Transport Pvt. Ltd.,INR 2500,4.0,51 Seats available,A/C Semi Sleeper (2+2),23:30,07h 30m,07:00,"Igi terminal3 arrival,gate no..."
+128,Indo Canadian Transport Pvt. Ltd.,INR 2500,4.0,40 Seats available,A/C Semi Sleeper (2+2),17:00,10h 15m,03:15,"Igi terminal3 arrival,gate no..."
+129,Indo Canadian Transport Pvt. Ltd.,INR 3000,4.0,42 Seats available,A/C Sleeper (2+1),13:30,07h 30m,21:00,"Igi terminal3 arrival,gate no..."
+130,Indo Canadian Transport Pvt. Ltd.,INR 2500,4.0,51 Seats available,A/C Semi Sleeper (2+2),17:30,07h 15m,00:45,"Igi terminal3 arrival,gate no..."
+131,Indo Canadian Transport Pvt. Ltd.,INR 3000,4.0,,A/C Sleeper (2+1),13:30,07h 15m,20:45,
+132,Indo Canadian Transport Pvt. Ltd.,INR 3850,4.0,,A/C Sleeper (2+1),22:00,10h 15m,08:15,
+133,Indo Canadian Transport Pvt. Ltd.,INR 3300,4.0,,A/C Semi Sleeper (2+2),16:00,10h 15m,02:15,
+134,Indo Canadian Transport Pvt. Ltd.,INR 3300,4.0,,A/C Semi Sleeper (2+2),15:30,10h 15m,01:45,
+135,PEPSU (Punjab) - 67135,INR 1078,3.8,33 Seats available,Volvo AC Seater (2+2),14:22,11h 11m,01:33,"Bus stand, kapurthala"
+136,PEPSU (Punjab) - 66689,INR 692,4.2,28 Seats available,Volvo AC Seater (2+2),15:25,05h 00m,20:25,ISBT Kashmiri Gate
+137,PEPSU (Punjab) - 66667,INR 692,4.1,,Volvo AC Seater (2+2),17:30,05h 00m,22:30,
+138,PEPSU (Punjab) - 67103,INR 440,3.4,,AC Seater Hvac 2+2,22:30,05h 30m,04:00,
+139,PEPSU (Punjab) - 67140,INR 440,2.7,,AC Seater Hvac 2+2,16:30,05h 30m,22:00,
+140,Indo Canadian Transport Pvt. Ltd.,INR 3300,4.1,43 Seats available,A/C Semi Sleeper (2+2),18:00,11h 00m,05:00,Jalandhar
+141,Indo Canadian Transport Pvt. Ltd.,INR 3300,4.1,27 Seats available,A/C Semi Sleeper (2+2),16:00,09h 00m,01:00,Jalandhar
+142,Indo Canadian Transport Pvt. Ltd.,INR 3850,4.1,41 Seats available,A/C Sleeper (2+1),20:00,09h 00m,05:00,Jalandhar
+143,Indo Canadian Transport Pvt. Ltd.,INR 3850,4.1,18 Seats available,A/C Sleeper (2+1),14:00,11h 00m,01:00,Jalandhar
+144,Indo Canadian Transport Pvt. Ltd.,INR 3300,4.1,34 Seats available,A/C Semi Sleeper (2+2),23:00,11h 00m,10:00,Jalandhar
+145,Indo Canadian Transport Pvt. Ltd.,INR 2500,4.0,51 Seats available,A/C Semi Sleeper (2+2),13:15,09h 00m,22:15,"Igi terminal3 arrival,gate no..."
+146,Indo Canadian Transport Pvt. Ltd.,INR 3000,4.0,51 Seats available,A/C Sleeper (2+1),13:30,06h 00m,19:30,"Igi terminal3 arrival,gate no..."
+147,Indo Canadian Transport Pvt. Ltd.,INR 3000,4.0,42 Seats available,A/C Sleeper (2+1),13:30,06h 00m,19:30,"Igi terminal3 arrival,gate no..."
+148,Indo Canadian Transport Pvt. Ltd.,INR 3000,4.0,51 Seats available,A/C Sleeper (2+1),13:30,06h 00m,19:30,"Igi terminal3 arrival,gate no..."
+149,Indo Canadian Transport Pvt. Ltd.,INR 3000,4.0,51 Seats available,A/C Sleeper (2+1),13:30,06h 00m,19:30,"Igi terminal3 arrival,gate no..."
+150,Indo Canadian Transport Pvt. Ltd.,INR 2500,4.0,42 Seats available,A/C Semi Sleeper (2+2),15:30,09h 00m,00:30,"Igi terminal3 arrival,gate no..."
+151,Indo Canadian Transport Pvt. Ltd.,INR 3300,4.0,51 Seats available,A/C Semi Sleeper (2+2),15:30,09h 00m,00:30,"Igi terminal3 arrival,gate no..."
+152,Indo Canadian Transport Pvt. Ltd.,INR 3300,4.0,44 Seats available,A/C Semi Sleeper (2+2),16:00,09h 00m,01:00,"Igi terminal3 arrival,gate no..."
+153,Indo Canadian Transport Pvt. Ltd.,INR 3300,4.0,44 Seats available,A/C Semi Sleeper (2+2),16:30,09h 00m,01:30,"Igi terminal3 arrival,gate no..."
+154,Indo Canadian Transport Pvt. Ltd.,INR 2500,4.0,44 Seats available,A/C Semi Sleeper (2+2),17:30,06h 00m,23:30,"Igi terminal3 arrival,gate no..."
+155,Indo Canadian Transport Pvt. Ltd.,INR 3300,4.0,,A/C Semi Sleeper (2+2),19:30,09h 00m,04:30,
+156,Indo Canadian Transport Pvt. Ltd.,INR 3000,4.0,,A/C Sleeper (2+1),22:00,09h 00m,07:00,
+157,Indo Canadian Transport Pvt. Ltd.,INR 3300,4.0,,A/C Semi Sleeper (2+2),23:30,09h 00m,08:30,
+158,Indo Canadian Transport Pvt. Ltd.,INR 2500,4.0,,A/C Semi Sleeper (2+2),23:30,06h 00m,05:30,
+159,Indo Canadian Transport Pvt. Ltd.,INR 2500,4.0,,A/C Semi Sleeper (2+2),23:30,06h 00m,05:30,
+160,Indo Canadian Transport Pvt. Ltd.,INR 2500,4.0,,A/C Semi Sleeper (2+2),23:30,09h 00m,08:30,
+161,Yolo Bus,INR 569,4.7,28 Seats available,VE A/C Seater / Sleeper (2+1),23:30,06h 59m,06:29,Red Fort
+162,IntrCity SmartBus,INR 387,4.7,31 Seats available,A/C Seater / Sleeper (2+1),23:05,08h 50m,07:55,ISBT Kashmiri Gate
+163,IntrCity SmartBus,INR 387,4.7,27 Seats available,A/C Seater / Sleeper (2+1),21:45,09h 05m,06:50,Red Fort (Lal Quila)
+164,AdGolden Temple Express Volvo,599,4.2,12 Seats available,Volvo Multi-Axle A/C Semi Sleeper (2+2),22:50,07h 27m,06:17,Red Fort
+165,Yolo Bus,INR 400,4.6,18 Seats available,VE A/C Seater / Sleeper (2+1),22:00,07h 42m,05:42,Red Fort
+166,Laxmi holidays,570,4.5,24 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),22:20,07h 20m,05:40,ISBT Kashmiri Gate
+167,Zingbus Plus,428,4.6,15 Seats available,Scania A/C Semi Sleeper (2+2),22:50,06h 55m,05:45,Majnu Ka Tilla
+168,AdNew Navyug Travels,608,4.1,18 Seats available,A/C Sleeper (2+1),22:45,07h 25m,06:10,Karnal bypass
+169,IntrCity SmartBus,INR 387,4.5,33 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),21:30,08h 40m,06:10,ISBT Kashmiri Gate
+170,Laxmi holidays,527,4.4,32 Seats available,VE A/C Seater / Sleeper (2+1),22:00,08h 20m,06:20,ISBT Kashmiri Gate
+171,Laxmi holidays,665,4.3,28 Seats available,Bharat Benz A/C Sleeper (2+1),23:30,08h 00m,07:30,ISBT Kashmiri Gate
+172,Zingbus Plus,695,4.3,22 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),19:45,07h 00m,02:45,Majnu Ka Tilla
+173,Laxmi holidays,599,4.1,34 Seats available,VE A/C Sleeper (2+1),23:00,08h 20m,07:20,ISBT Kashmiri Gate
+174,IntrCity SmartBus,INR 579,4.2,18 Seats available,AC Sleeper (2+1),22:30,08h 40m,07:10,ISBT Kashmiri Gate
+175,IntrCity SmartBus,INR 408,4.2,34 Seats available,A/C Seater / Sleeper (2+1),21:15,09h 10m,06:25,Red Fort (Lal Quila)
+176,Laxmi holidays,599,4.1,30 Seats available,Bharat Benz A/C Sleeper (2+1),23:40,07h 50m,07:30,ISBT Kashmiri Gate
+177,IntrCity SmartBus,INR 432,4.0,26 Seats available,A/C Seater / Sleeper (2+1),20:30,09h 15m,05:45,Red Fort (Lal Quila)
+178,ADTC tour and Travels,INR 600,4.4,40 Seats available,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),22:25,06h 35m,05:00,Red Fort
+179,R S YADAV SMART BUS PRIVATE LIMITED,INR 699,4.4,18 Seats available,Volvo Multi Axle B11R AC Seater\Sleeper (2+1),22:30,07h 21m,05:51,ISBT Kashmiri Gate
+180,Laxmi holidays,1900,4.7,21 Seats available,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:30,07h 30m,02:00,ISBT Kashmiri Gate
+181,FlixBus,INR 789,4.8,9 Seats available,A/C Sleeper (2+1),21:00,08h 00m,05:00,Delhi RK Ashram (Flixbus Lounge)
+182,FlixBus,INR 977,3.9,10 Seats available,A/C Sleeper (2+1),18:00,08h 00m,02:00,Delhi RK Ashram (Flixbus Lounge)
+183,Apex Bus Travels,799,4.0,35 Seats available,A/C Seater / Sleeper (2+2),22:40,06h 50m,05:30,ISBT Kashmiri Gate
+184,CAPITAL HOLIDAYS,719,4.6,51 Seats available,A/C Seater / Sleeper (2+2),20:30,07h 30m,04:00,Shop No 9 Capital Holidays
+185,CAPITAL HOLIDAYS,629,3.4,38 Seats available,A/C Seater / Sleeper (2+2),15:30,07h 30m,23:00,Shop No 9 Capital Holidays
+186,CAPITAL HOLIDAYS,584,4.8,38 Seats available,A/C Seater / Sleeper (2+2),17:00,07h 30m,00:30,Shop No 9 Capital Holidays
+187,CAPITAL HOLIDAYS,719,4.9,14 Seats available,A/C Seater / Sleeper (2+2),22:30,07h 30m,06:00,IFFCO Chowk -Boarding Zone
+188,IntrCity SmartBus,INR 511,3.1,2 Seats available,A/C Seater / Sleeper (2+1),22:00,09h 10m,07:10,Red Fort
+189,Golden Temple Express Volvo,499,5.0,27 Seats available,A/C Seater / Sleeper (2+2),22:58,06h 57m,05:55,Red Fort (Lal Quila)
+190,IntrCity SmartBus,INR 450,3.7,22 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),22:15,09h 20m,07:35,Red Fort (Lal Quila)
+191,IntrCity SmartBus,585,4.5,30 Seats available,AC Sleeper (2+1),23:00,08h 50m,07:50,IFFCO Chowk -Boarding Zone
+192,IntrCity SmartBus,INR 752,3.9,20 Seats available,A/C Seater / Sleeper (2+1),21:15,09h 50m,07:05,RK Ashram
+193,Yolo Bus,INR 640,2.4,6 Seats available,A/C Seater/Sleeper (2+1),19:15,07h 55m,03:10,ISBT Kashmiri Gate
+194,Ram Dalal Holidays,621,2.2,6 Seats available,A/C Seater/Sleeper (2+1),18:30,07h 30m,02:00,Red Fort
+195,Golden Temple Express Volvo,549,1.9,21 Seats available,A/C Seater / Sleeper (2+2),22:55,07h 20m,06:15,Majnu Ka Tilla
+196,Zingbus Plus,662,2.9,28 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),17:55,07h 50m,01:45,Redfort
+197,Muskan Tour And Travels private Limited,739,2.6,26 Seats available,Volvo Multi-Axle A/C Semi Sleeper (2+2),22:40,06h 30m,05:10,Majnu Ka Tilla
+198,Zingbus Plus,769,2.2,15 Seats available,A/C Sleeper (2+1),21:45,08h 05m,05:50,Munirka
+199,India Tours & Travels (GetBookCab),INR 639,1.6,31 Seats available,A/C Semi Sleeper / Sleeper (2+2),21:45,08h 25m,06:10,Shop no.10 /a near nagpal da...
+200,Banjara Satguru Travels,550,4.4,20 Seats available,A/C Seater / Sleeper (2+2),22:50,07h 00m,05:50,"NueGo Lounge, Kashmiri Gate"
+201,NueGo,523,4.4,29 Seats available,Electric A/C Seater/Sleeper (2+1),22:00,07h 40m,05:40,"NueGo Lounge, Kashmiri Gate"
+202,NueGo,523,4.2,44 Seats available,Electric A/C Seater/Sleeper (2+1),23:30,08h 25m,07:55,Red Fort
+203,CALL2TRIP,594,3.8,16 Seats available,A/C Seater / Sleeper (2+2),22:25,07h 05m,05:30,ISBT Kashmiri Gate
+204,Armaan Tour & Travels,594,3.6,36 Seats available,A/C Seater / Sleeper (2+1),14:00,09h 05m,23:05,RED FORT JAMNA BAZAR (Pickup ...
+205,Classic Travels,INR 790,3.5,31 Seats available,A/C Seater / Sleeper (2+2),21:00,08h 15m,05:15,IFFCO Chowk -Boarding Zone
+206,Golden Temple Volvo Bus Service,INR 686,3.5,23 Seats available,A/C Seater / Sleeper (2+1),23:20,07h 50m,07:10,Red Fort (Lal Quila)
+207,IntrCity SmartBus,INR 418,3.5,25 Seats available,A/C Seater / Sleeper (2+1),20:30,08h 50m,05:20,ISBT Kashmiri Gate
+208,IntrCity SmartBus,380,3.5,28 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),20:00,09h 45m,05:45,Sanjay Gandhi Transport Nagar
+209,R S YADAV SMART BUS PRIVATE LIMITED,INR 699,3.2,31 Seats available,VE A/C Seater / Sleeper (2+1),19:40,07h 50m,03:30,Red fort metro gate no 2 delhi
+210,K.S Travels,INR 700,3.0,34 Seats available,A/C Seater / Sleeper (2+2),22:40,07h 15m,05:55,Red Fort
+211,Shri Bawa Lal Tour and Travels,INR 400,2.0,30 Seats available,A/C Seater / Sleeper (2+1),22:30,07h 00m,05:30,Redfort
+212,New National Travels,INR 543,2.9,33 Seats available,A/C Seater / Sleeper (2+2),23:00,07h 00m,06:00,Jamna Bazar -Red fort
+213,Lavish Travels,450,2.1,42 Seats available,A/C Seater / Sleeper (2+2),18:50,08h 40m,03:30,Redfort
+214,Ashok Bus Service,474,2.5,33 Seats available,VE A/C Seater / Sleeper (2+1),17:50,08h 55m,02:45,Shop no.10 /a near nagpal da...
+215,Goel Tourist (Regd),INR 550,2.7,20 Seats available,A/C Seater / Sleeper (2+2),20:50,07h 00m,03:50,Redfort
+216,Banjara Satguru Travels,550,4.7,26 Seats available,A/C Seater / Sleeper (2+2),23:25,06h 30m,05:55,"Nagpal dairy,jamna bazar"
+217,Ashok Travels,INR 699,4.4,22 Seats available,A/C Seater / Sleeper (2+2),22:35,06h 10m,04:45,Red Fort
+218,Ashok Travels,INR 659,2.9,40 Seats available,A/C Seater / Sleeper (2+2),17:25,06h 10m,23:35,Majnu Ka Tilla
+219,NEW KING BUS SERVICE,INR 499,2.9,36 Seats available,A/C Seater / Sleeper (2+2),22:50,06h 45m,05:35,ISBT Kashmiri Gate
+220,Big Bus,INR 659,2.9,24 Seats available,A/C Seater / Sleeper (2+2),17:35,06h 10m,23:45,RK Ashram
+221,ADTC tour and Travels,INR 500,4.1,32 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),22:40,06h 20m,05:00,Jama Masjid Metro Station Gat...
+222,Big Bus,INR 659,3.9,41 Seats available,A/C Seater / Sleeper (2+2),22:30,05h 00m,03:30,Red Fort
+223,Shiv Mohan Travels,INR 1400,2.7,35 Seats available,AC Sleeper (2+1),20:10,09h 05m,05:15,Gate no 2 redfort metro station
+224,IntrCity SmartBus,INR 816,3.6,11 Seats available,VE A/C Seater / Sleeper (2+1),23:40,08h 00m,07:40,Red Fort
+225,RK Holiday,1139,3.6,20 Seats available,A/C Seater / Sleeper (2+2),22:20,07h 00m,05:20,Munirka
+226,CALL2TRIP,594,2.9,24 Seats available,A/C Seater / Sleeper (2+2),22:40,07h 00m,05:40,Majnu Ka Tilla
+227,Banjara Satguru Travels,719,2.2,39 Seats available,A/C Seater / Sleeper (2+1),22:40,07h 26m,06:06,Mori gate goal curcal shop no...
+228,ADTC tour and Travels,INR 600,2.2,13 Seats available,Bharat Benz A/C Seater / Sleeper (2+2),22:30,06h 30m,05:00,ISBT Kashmiri Gate
+229,India Tours & Travels (GetBookCab),INR 499,2.2,38 Seats available,A/C Seater / Sleeper (2+2),21:30,08h 30m,06:00,Gate no 2 redfort metro station
+230,Northern Travels,INR 999,2.2,35 Seats available,Bharat Benz A/C Sleeper (2+1),16:15,08h 15m,00:30,Redfort (Pickup Van/Bus)
+231,Travel Point,949,2.2,40 Seats available,A/C Seater / Sleeper (2+2),21:00,06h 21m,03:21,Redfort (Pickup Van/Bus)
+232,City Land Travels,1450,1.7,37 Seats available,Volvo A/C Semi Sleeper (2+2),18:00,07h 05m,01:05,Red Fort Metro Station Gate No 1
+233,Banjara Satguru Travels,719,1.6,29 Seats available,A/C Seater / Sleeper (2+2),22:40,07h 26m,06:06,Sindhu
+234,Big Bus,INR 659,,17 Seats available,A/C Seater / Sleeper (2+2),15:30,06h 10m,21:40,Shop no 11 jamna bazar red fo...
+235,Ashok Travels,INR 795,,,A/C Seater / Sleeper (2+2),19:00,06h 30m,01:30,
+236,Ashok Travels,INR 659,,,A/C Seater / Sleeper (2+2),15:15,06h 10m,21:25,
+237,Ashok Travels,INR 799,,,A/C Seater / Sleeper (2+2),20:00,06h 30m,02:30,
+238,Big Bus,INR 659,,,A/C Seater / Sleeper (2+2),20:30,06h 00m,02:30,
+239,Maheshwaram Travels,INR 666,,,A/C Seater / Sleeper (2+2),21:00,08h 05m,05:05,
+240,Travel Point World LLP,759,,,A/C Seater / Sleeper (2+2),22:15,06h 45m,05:00,
+241,IntrCity SmartBus,INR 432,4.7,30 Seats available,A/C Seater / Sleeper (2+1),23:20,07h 05m,06:25,Lovely Professional Universit...
+242,Laxmi holidays,518,4.3,33 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),21:20,07h 40m,05:00,Lovely Professional University
+243,Laxmi holidays,570,4.5,27 Seats available,VE A/C Sleeper (2+1),23:10,07h 50m,07:00,Lovely Professional University
+244,Yolo Bus,INR 459,4.8,29 Seats available,VE A/C Seater / Sleeper (2+1),21:37,07h 23m,05:00,"Opposite To Vishal Mega Mart,..."
+245,Golden Temple Express Volvo,599,4.3,30 Seats available,Volvo Multi-Axle A/C Semi Sleeper (2+2),23:40,06h 40m,06:20,Near Bus Stand
+246,Zingbus Plus,441,4.9,31 Seats available,Scania A/C Semi Sleeper (2+2),23:10,06h 50m,06:00,Vishal Mega Mart
+247,Laxmi holidays,442,4.2,33 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),22:40,07h 40m,06:20,Lovely Professional University
+248,Laxmi holidays,570,4.4,33 Seats available,Bharat Benz A/C Sleeper (2+1),23:35,06h 55m,06:30,Lovely Professional University
+249,New Navyug Travels,608,4.2,36 Seats available,A/C Sleeper (2+1),22:00,07h 30m,05:30,Phagwara Bus Stand
+250,IntrCity SmartBus,INR 610,4.4,18 Seats available,AC Sleeper (2+1),21:55,07h 50m,05:45,Lovely Professional Universit...
+251,NueGo,523,3.8,37 Seats available,Electric A/C Seater/Sleeper (2+1),23:25,08h 00m,07:25,LPU University
+252,IntrCity SmartBus,390,4.4,20 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),23:05,07h 40m,06:45,Lovely Professional Universit...
+253,Muskan Tour And Travels private Limited,600,3.8,31 Seats available,Volvo Multi-Axle A/C Semi Sleeper (2+2),23:55,06h 00m,05:55,Phagwara
+254,IntrCity SmartBus,INR 570,3.9,19 Seats available,A/C Seater / Sleeper (2+1),21:55,08h 25m,06:20,Lovely Professional Universit...
+255,IntrCity SmartBus,433,4.2,29 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),23:59,06h 46m,06:45,"Canara Bank, Sondhi Chowk"
+256,IntrCity SmartBus,INR 627,4.1,28 Seats available,A/C Seater / Sleeper (2+1),22:35,07h 25m,06:00,Lovely Professional Universit...
+257,IntrCity SmartBus,INR 463,3.8,23 Seats available,A/C Seater / Sleeper (2+1),22:45,07h 15m,06:00,Lovely Professional Universit...
+258,Golden Temple Express Volvo,499,3.2,28 Seats available,A/C Seater / Sleeper (2+2),22:45,06h 35m,05:20,Near Bus Stand
+259,Vijay Tour and Travels,INR 800,2.5,32 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),17:00,06h 50m,23:50,Phagwara
+260,ADTC tour and Travels,INR 600,3.3,32 Seats available,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),22:55,06h 15m,05:10,LPU University Gate
+261,Khurana Bus Service,849,2.4,22 Seats available,Volvo A/C (2+2),18:55,07h 45m,02:40,Near Bus Stand
+262,Golden Temple Express Volvo,499,2.0,8 Seats available,A/C Seater / Sleeper (2+2),23:55,06h 55m,06:50,Near Bus Stand
+263,India Tours & Travels (GetBookCab),INR 499,3.8,22 Seats available,A/C Semi Sleeper / Sleeper (2+2),00:30,06h 00m,06:30,Near Bus Stand
+264,Golden Temple Express Volvo,649,3.7,36 Seats available,A/C Seater / Sleeper (2+2),22:40,06h 40m,05:20,Near Bus Stand
+265,Prince Travels,INR 1099,3.2,34 Seats available,A/C Seater / Sleeper (2+2),23:55,06h 05m,06:00,Lovely Professional Universit...
+266,Golden Temple Express Volvo,549,2.3,35 Seats available,A/C Seater / Sleeper (2+2),23:57,06h 33m,06:30,Near Bus Stand
+267,IntrCity SmartBus,INR 465,4.4,39 Seats available,VE A/C Seater / Sleeper (2+1),23:40,07h 00m,06:40,Phagwara
+268,India Tours & Travels (GetBookCab),INR 499,3.8,31 Seats available,A/C Seater / Sleeper (2+2),00:15,05h 45m,06:00,Near Bus Stand
+269,Khurana Bus Service,INR 549,2.4,20 Seats available,Bharat Benz A/C Semi Sleeper (2+2),14:50,06h 40m,21:30,Lovely Professional University
+270,Golden Temple Express Volvo,549,3.7,38 Seats available,A/C Seater / Sleeper (2+2),23:55,06h 55m,06:50,
+271,ADTC tour and Travels,INR 550,3.3,39 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),23:35,05h 40m,05:15,
+272,SHREE SATGURU TRAVELS,INR 599,2.8,,A/C Seater / Sleeper (2+2),23:58,06h 02m,06:00,
+273,Armaan Tour & Travels,624,2.4,,A/C Seater / Sleeper (2+1),21:20,08h 40m,06:00,
+274,PEPSU (Punjab) - 67101,INR 440,3.0,39 Seats available,AC Seater Hvac 2+2,15:25,05h 01m,20:26,Counter no 23 New Bus stand P...
+275,PEPSU (Punjab) - 67142,INR 692,4.0,,Volvo AC Seater (2+2),16:00,05h 25m,21:25,
+276,PEPSU (Punjab) - 66687,INR 692,3.6,,Volvo AC Seater (2+2),18:10,05h 25m,23:35,
+277,PEPSU (Punjab) - 67104,INR 440,2.9,,AC Seater Hvac 2+2,22:30,05h 01m,03:31,
+278,PEPSU (Punjab) - 67142,INR 807,3.6,44 Seats available,Volvo AC Seater (2+2),16:00,06h 40m,22:40,Pick by shared cab from patia...
+279,Indo Canadian Transport Pvt. Ltd.,INR 3000,4.0,31 Seats available,A/C Semi Sleeper (2+2),18:30,06h 30m,01:00,Pick by shared cab from patia...
+280,Indo Canadian Transport Pvt. Ltd.,INR 2500,4.0,45 Seats available,A/C Semi Sleeper (2+2),14:40,08h 30m,23:10,Pick by shared cab from patia...
+281,Indo Canadian Transport Pvt. Ltd.,INR 3850,4.0,42 Seats available,A/C Sleeper (2+1),22:30,06h 30m,05:00,Pick by shared cab from patia...
+282,Indo Canadian Transport Pvt. Ltd.,INR 3300,4.0,41 Seats available,A/C Semi Sleeper (2+2),20:30,08h 30m,05:00,Pick by shared cab from patia...
+283,Indo Canadian Transport Pvt. Ltd.,INR 3000,4.0,42 Seats available,A/C Sleeper (2+1),16:40,08h 30m,01:10,Pick by shared cab from patia...
+284,Indo Canadian Transport Pvt. Ltd.,INR 3300,4.0,44 Seats available,A/C Sleeper (2+1),16:00,09h 00m,01:00,Pick by shared cab from patia...
+285,Indo Canadian Transport Pvt. Ltd.,INR 3300,4.0,51 Seats available,A/C Semi Sleeper (2+2),14:30,08h 30m,23:00,Pick by shared cab from patia...
+286,Indo Canadian Transport Pvt. Ltd.,INR 3850,4.0,28 Seats available,A/C Sleeper (2+1),16:30,08h 30m,01:00,Pick by shared cab from patia...
+287,Indo Canadian Transport Pvt. Ltd.,INR 2500,4.0,44 Seats available,A/C Semi Sleeper (2+2),16:00,07h 00m,23:00,Pick by shared cab from patia...
+288,Indo Canadian Transport Pvt. Ltd.,INR 2500,4.0,,A/C Semi Sleeper (2+2),18:00,07h 00m,01:00,
+289,Indo Canadian Transport Pvt. Ltd.,INR 2500,4.0,,A/C Semi Sleeper (2+2),20:00,07h 00m,03:00,
+290,Indo Canadian Transport Pvt. Ltd.,INR 2500,4.0,,A/C Sleeper (2+1),22:00,07h 00m,05:00,
+291,Indo Canadian Transport Pvt. Ltd.,INR 3000,4.0,,A/C Sleeper (2+1),16:00,07h 00m,23:00,
+292,Indo Canadian Transport Pvt. Ltd.,INR 2500,4.0,,A/C Semi Sleeper (2+2),14:48,06h 20m,21:08,
+293,Indo Canadian Transport Pvt. Ltd.,INR 2500,4.0,,A/C Semi Sleeper (2+2),18:48,06h 20m,01:08,
+294,Indo Canadian Transport Pvt. Ltd.,INR 2500,4.0,,A/C Semi Sleeper (2+2),14:30,06h 30m,21:00,
+295,Indo Canadian Transport Pvt. Ltd.,INR 3000,4.0,,A/C Sleeper (2+1),16:30,06h 30m,23:00,
+296,Orbit Aviation Pvt. Ltd.,INR 200,3.0,,A/C Seater (2+2),14:50,01h 55m,16:45,
+297,Orbit Aviation Pvt. Ltd.,INR 200,2.5,,A/C Seater (2+2),13:55,01h 45m,15:40,
+298,Orbit Aviation Pvt. Ltd.,INR 200,2.4,,A/C Seater (2+2),15:25,01h 30m,16:55,
+299,Orbit Aviation Pvt. Ltd.,INR 200,2.7,,A/C Seater (2+2),16:55,01h 35m,18:30,
+300,Orbit Aviation Pvt. Ltd.,INR 850,3.7,,A/C Seater (2+2),14:05,01h 20m,15:25,
+301,NEW FATEH BUS SERVICE,510,3.2,,Volvo A/C Semi Sleeper (2+2),16:25,01h 35m,18:00,
+302,PEPSU (Punjab) - 67081,INR 954,3.1,38 Seats available,Volvo AC Seater (2+2),19:55,07h 10m,03:05,"ISBT , DELHI"
+303,Laxmi holidays,570,4.5,24 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),22:20,07h 00m,05:20,ISBT Kashmiri Gate
+304,Laxmi holidays,527,4.1,32 Seats available,VE A/C Seater / Sleeper (2+1),22:00,08h 00m,06:00,ISBT Kashmiri Gate
+305,IntrCity SmartBus,INR 408,4.8,34 Seats available,A/C Seater / Sleeper (2+1),21:15,08h 35m,05:50,Red Fort (Lal Quila)
+306,Laxmi holidays,599,4.2,30 Seats available,Bharat Benz A/C Sleeper (2+1),23:40,07h 35m,07:15,ISBT Kashmiri Gate
+307,Laxmi holidays,665,4.7,28 Seats available,Bharat Benz A/C Sleeper (2+1),23:30,07h 30m,07:00,ISBT Kashmiri Gate
+308,New Navyug Travels,608,4.3,18 Seats available,A/C Sleeper (2+1),22:45,06h 30m,05:15,Karnal bypass
+309,Zingbus Plus,696,4.7,20 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),19:45,06h 40m,02:25,Majnu Ka Tilla
+310,Yolo Bus,INR 569,4.5,28 Seats available,VE A/C Seater / Sleeper (2+1),23:30,06h 30m,06:00,Red Fort
+311,Zingbus Plus,410,4.6,18 Seats available,Scania A/C Semi Sleeper (2+2),22:50,06h 45m,05:35,Majnu Ka Tilla
+312,IntrCity SmartBus,INR 367,4.5,33 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),21:30,08h 10m,05:40,ISBT Kashmiri Gate
+313,IntrCity SmartBus,INR 367,4.9,31 Seats available,A/C Seater / Sleeper (2+1),23:05,08h 15m,07:20,ISBT Kashmiri Gate
+314,Golden Temple Express Volvo,599,4.3,17 Seats available,Volvo Multi-Axle A/C Semi Sleeper (2+2),22:50,07h 05m,05:55,Red Fort
+315,Yolo Bus,INR 400,4.3,18 Seats available,VE A/C Seater / Sleeper (2+1),22:00,07h 04m,05:04,Red Fort
+316,IntrCity SmartBus,INR 432,4.4,26 Seats available,A/C Seater / Sleeper (2+1),20:30,08h 40m,05:10,Red Fort (Lal Quila)
+317,Laxmi holidays,1900,4.7,21 Seats available,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:30,07h 10m,01:40,ISBT Kashmiri Gate
+318,IntrCity SmartBus,INR 387,4.4,28 Seats available,A/C Seater / Sleeper (2+1),21:45,08h 30m,06:15,Red Fort (Lal Quila)
+319,Ram Dalal Holidays,621,4.8,6 Seats available,A/C Seater/Sleeper (2+1),18:30,07h 10m,01:40,ISBT Kashmiri Gate
+320,IntrCity SmartBus,INR 549,3.4,18 Seats available,AC Sleeper (2+1),22:30,08h 15m,06:45,ISBT Kashmiri Gate
+321,IntrCity SmartBus,567,4.6,22 Seats available,AC Sleeper (2+1),23:00,08h 10m,07:10,Red Fort (Lal Quila)
+322,IntrCity SmartBus,INR 450,4.2,27 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),22:15,08h 30m,06:45,Red Fort (Lal Quila)
+323,Golden Temple Express Volvo,549,3.1,10 Seats available,A/C Seater / Sleeper (2+2),22:55,06h 55m,05:50,Red Fort
+324,ADTC tour and Travels,INR 600,3.6,52 Seats available,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),22:25,06h 15m,04:40,Red Fort
+325,NueGo,523,3.3,20 Seats available,Electric A/C Seater/Sleeper (2+1),22:00,07h 30m,05:30,"NueGo Lounge, Kashmiri Gate"
+326,Golden Temple Express Volvo,499,3.7,2 Seats available,A/C Seater / Sleeper (2+2),22:58,06h 42m,05:40,Red Fort
+327,NueGo,523,1.7,29 Seats available,Electric A/C Seater/Sleeper (2+1),23:30,08h 10m,07:40,"NueGo Lounge, Kashmiri Gate"
+328,Muskan Tour And Travels private Limited,739,2.9,32 Seats available,Volvo Multi-Axle A/C Semi Sleeper (2+2),22:40,05h 50m,04:30,Redfort
+329,Classic Travels,INR 790,2.7,16 Seats available,A/C Seater / Sleeper (2+2),21:00,07h 30m,04:30,ISBT Kashmiri Gate
+330,Banjara Satguru Travels,550,2.0,31 Seats available,A/C Seater / Sleeper (2+2),22:50,06h 30m,05:20,Shop no.10 /a near nagpal da...
+331,Zingbus Plus,584,4.7,23 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),17:55,07h 40m,01:35,Majnu Ka Tilla
+332,Zingbus Plus,766,4.7,27 Seats available,A/C Sleeper (2+1),21:45,07h 45m,05:30,Majnu Ka Tilla
+333,IntrCity SmartBus,393,4.5,24 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),20:00,09h 10m,05:10,Red Fort (Lal Quila)
+334,IntrCity SmartBus,INR 511,4.5,18 Seats available,A/C Seater / Sleeper (2+1),22:00,08h 50m,06:50,IFFCO Chowk -Boarding Zone
+335,IntrCity SmartBus,INR 752,4.5,30 Seats available,A/C Seater / Sleeper (2+1),21:15,09h 30m,06:45,IFFCO Chowk -Boarding Zone
+336,IntrCity SmartBus,INR 418,4.5,31 Seats available,A/C Seater / Sleeper (2+1),20:30,08h 30m,05:00,IFFCO Chowk -Boarding Zone
+337,R S YADAV SMART BUS PRIVATE LIMITED,INR 999,4.4,33 Seats available,VE A/C Sleeper (2+1),22:30,06h 51m,05:21,ISBT Kashmiri Gate
+338,Yolo Bus,INR 660,4.4,21 Seats available,A/C Seater/Sleeper (2+1),19:15,07h 25m,02:40,RK Ashram
+339,India Tours & Travels (GetBookCab),INR 639,3.8,15 Seats available,A/C Semi Sleeper / Sleeper (2+2),21:45,07h 55m,05:40,Munirka
+340,Shri Bawa Lal Tour and Travels,INR 400,3.6,31 Seats available,A/C Seater / Sleeper (2+1),22:30,06h 30m,05:00,Red fort metro gate no 2 delhi
+341,Goel Tourist (Regd),INR 550,3.5,42 Seats available,A/C Seater / Sleeper (2+2),20:50,06h 25m,03:15,Redfort
+342,Lavish Travels,450,3.5,33 Seats available,A/C Seater / Sleeper (2+2),18:50,08h 25m,03:15,Redfort
+343,Banjara Satguru Travels,550,1.4,33 Seats available,A/C Seater / Sleeper (2+2),23:25,06h 00m,05:25,Shop no.10 /a near nagpal da...
+344,IntrCity SmartBus,INR 816,4.5,24 Seats available,VE A/C Seater / Sleeper (2+1),23:40,07h 40m,07:20,RK Ashram
+345,RK Holiday,1139,2.9,32 Seats available,A/C Seater / Sleeper (2+2),22:20,06h 30m,04:50,Jama Masjid Metro Station Gat...
+346,CALL2TRIP,594,2.9,44 Seats available,A/C Seater / Sleeper (2+2),22:40,06h 30m,05:10,Red Fort
+347,CALL2TRIP,594,2.9,44 Seats available,A/C Seater / Sleeper (2+2),22:25,06h 35m,05:00,Red Fort
+348,Northern Travels,INR 999,2.7,20 Seats available,Bharat Benz A/C Sleeper (2+1),16:15,07h 44m,23:59,Munirka
+349,India Tours & Travels (GetBookCab),INR 499,3.8,36 Seats available,A/C Seater / Sleeper (2+2),21:30,08h 00m,05:30,RED FORT JAMNA BAZAR (Pickup ...
+350,Golden Temple Volvo Bus Service,INR 686,2.1,38 Seats available,A/C Seater / Sleeper (2+1),23:20,07h 35m,06:55,Gate no 2 redfort metro station
+351,Banjara Satguru Travels,719,1.7,13 Seats available,A/C Seater / Sleeper (2+1),22:40,07h 06m,05:46,ISBT Kashmiri Gate
+352,City Land Travels,1450,3.6,24 Seats available,Volvo A/C Semi Sleeper (2+2),18:00,06h 35m,00:35,Red Fort
+353,ADTC tour and Travels,INR 500,3.6,40 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),22:40,06h 05m,04:45,Red Fort
+354,ADTC tour and Travels,INR 600,3.6,38 Seats available,Bharat Benz A/C Seater / Sleeper (2+2),22:30,06h 15m,04:45,Gate no 2 redfort metro station
+355,Banjara Satguru Travels,719,1.7,29 Seats available,A/C Seater / Sleeper (2+2),22:40,07h 06m,05:46,Red Fort Metro Station
+356,Maheshwaram Travels,INR 666,1.7,,A/C Seater / Sleeper (2+2),19:40,09h 20m,05:00,
+357,PEPSU (Punjab) - 66995,INR 304,3.8,,Non AC Seater (2+3),14:50,04h 00m,18:50,
+358,Jujhar Travels,INR 600,4.4,,Volvo A/C Semi Sleeper (2+2),16:20,04h 25m,20:45,
+359,Laxmi holidays,570,4.5,27 Seats available,VE A/C Sleeper (2+1),23:55,07h 05m,07:00,Ludhiana Samrala Chowk Chandi...
+360,Yolo Bus,INR 519,4.4,31 Seats available,VE A/C Seater / Sleeper (2+1),22:27,06h 33m,05:00,Sherpur Chowk
+361,NueGo,524,3.8,20 Seats available,Electric A/C Seater (2+2),23:15,05h 50m,05:05,"Railway Station, Ludhiana"
+362,AdArmaan Tour & Travels,524,3.5,32 Seats available,A/C Seater / Sleeper (2+1),22:50,07h 10m,06:00,Dhyan Singh Complex
+363,NueGo,428,3.4,19 Seats available,Electric A/C Seater (2+2),18:00,05h 50m,23:50,Sherpur Chowk - Boarding Zone
+364,IntrCity SmartBus,INR 570,4.1,25 Seats available,A/C Seater / Sleeper (2+1),22:45,07h 35m,06:20,Sherpur Chownk(Ludhiana)
+365,Golden Temple Express Volvo,499,4.1,30 Seats available,A/C Seater / Sleeper (2+2),23:25,05h 55m,05:20,Sherpur Chownk(Ludhiana)
+366,New Navyug Travels,608,3.8,23 Seats available,A/C Sleeper (2+1),23:00,06h 30m,05:30,Sherpur Chowk - Boarding Zone
+367,IntrCity SmartBus,INR 463,4.1,30 Seats available,A/C Seater / Sleeper (2+1),23:40,06h 20m,06:00,Sherpur Chownk(Ludhiana)
+368,NueGo,428,2.7,28 Seats available,Electric A/C Seater (2+2),13:15,05h 35m,18:50,Sherpur Chowk - Boarding Zone
+369,Golden Temple Express Volvo,599,3.3,32 Seats available,Volvo Multi-Axle A/C Semi Sleeper (2+2),23:58,06h 22m,06:20,Ludhiana
+370,IntrCity SmartBus,INR 627,3.7,32 Seats available,A/C Seater / Sleeper (2+1),23:45,06h 15m,06:00,Jagrawa Pul
+371,ADTC tour and Travels,INR 600,3.7,8 Seats available,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),23:40,05h 30m,05:10,Sherpur Chownk(Ludhiana)
+372,Golden Temple Express Volvo,499,3.7,35 Seats available,A/C Seater / Sleeper (2+2),23:57,06h 53m,06:50,Ludhiana
+373,India Tours & Travels (GetBookCab),INR 499,3.2,22 Seats available,A/C Semi Sleeper / Sleeper (2+2),00:55,05h 35m,06:30,Ludhiana
+374,Vijay Tour and Travels,INR 800,2.2,38 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),17:50,06h 00m,23:50,Sherpur Chownk(Ludhiana)
+375,NueGo,428,3.2,38 Seats available,Electric A/C Seater (2+2),00:05,05h 50m,05:55,Ludhiana
+376,Golden Temple Express Volvo,649,4.0,34 Seats available,A/C Seater / Sleeper (2+2),23:30,05h 50m,05:20,Jagrawa Pul
+377,Classic Travels,INR 389,2.6,36 Seats available,A/C Seater / Sleeper (2+2),23:55,07h 00m,06:55,Sherpur chowk ludhiana pb
+378,Classic Travels,INR 389,2.5,20 Seats available,A/C Seater / Sleeper (2+2),23:30,07h 00m,06:30,
+379,Golden Temple Express Volvo,549,2.4,31 Seats available,A/C Seater / Sleeper (2+2),23:59,06h 31m,06:30,
+380,Prince Travels,INR 1099,3.2,26 Seats available,A/C Seater / Sleeper (2+2),00:50,05h 10m,06:00,
+381,ADTC tour and Travels,INR 550,2.7,39 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),23:55,05h 20m,05:15,
+382,Khurana Bus Service,INR 700,3.2,,Bharat Benz A/C Semi Sleeper (2+2),15:25,06h 05m,21:30,
+383,NAYAR TRAVELS (OPC) PVT LTD,INR 1899,2.3,,A/C Sleeper (2+1),14:30,08h 00m,22:30,
+384,Golden Temple Express Volvo,549,3.7,,A/C Seater / Sleeper (2+2),23:57,06h 53m,06:50,
+385,Travel Point,949,3.6,,A/C Seater / Sleeper (2+2),23:25,05h 55m,05:20,
+386,India Tours & Travels (GetBookCab),INR 499,3.2,,A/C Seater / Sleeper (2+2),00:40,05h 20m,06:00,
+387,Zingbus Plus,1123,4.3,25 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),17:20,09h 25m,02:45,T3 IGI Airport Arrival Gate
+388,Zingbus Plus,878,4.3,19 Seats available,Scania A/C Semi Sleeper (2+2),19:50,09h 55m,05:45,T3 IGI Airport Arrival Gate
+389,Indo Canadian Transport Pvt. Ltd.,INR 2500,3.7,44 Seats available,A/C Semi Sleeper (2+2),23:30,11h 45m,11:15,"Igi terminal3 arrival,gate no..."
+390,Indo Canadian Transport Pvt. Ltd.,INR 3000,3.7,51 Seats available,A/C Semi Sleeper (2+2),17:00,11h 45m,04:45,"Igi terminal3 arrival,gate no..."
+391,Indo Canadian Transport Pvt. Ltd.,INR 3300,3.7,49 Seats available,A/C Semi Sleeper (2+2),13:15,11h 45m,01:00,"Igi terminal3 arrival,gate no..."
+392,Indo Canadian Transport Pvt. Ltd.,INR 2500,3.7,51 Seats available,A/C Semi Sleeper (2+2),19:30,11h 45m,07:15,"Igi terminal3 arrival,gate no..."
+393,Indo Canadian Transport Pvt. Ltd.,INR 3850,3.7,40 Seats available,A/C Sleeper (2+1),22:00,11h 45m,09:45,"Igi terminal3 arrival,gate no..."
+394,Indo Canadian Transport Pvt. Ltd.,INR 3000,3.7,30 Seats available,A/C Semi Sleeper (2+2),16:00,11h 45m,03:45,"Igi terminal3 arrival,gate no..."
+395,Indo Canadian Transport Pvt. Ltd.,INR 3300,3.7,51 Seats available,A/C Semi Sleeper (2+2),23:30,11h 45m,11:15,"Igi terminal3 arrival,gate no..."
+396,Indo Canadian Transport Pvt. Ltd.,INR 2500,3.7,51 Seats available,A/C Semi Sleeper (2+2),15:30,11h 45m,03:15,"Igi terminal3 arrival,gate no..."
+397,Indo Canadian Transport Pvt. Ltd.,INR 3000,3.7,44 Seats available,A/C Sleeper (2+1),13:30,08h 45m,22:15,"Igi terminal3 arrival,gate no..."
+398,Indo Canadian Transport Pvt. Ltd.,INR 2500,3.7,51 Seats available,A/C Semi Sleeper (2+2),23:30,08h 45m,08:15,"Igi terminal3 arrival,gate no..."
+399,Indo Canadian Transport Pvt. Ltd.,INR 3000,3.7,,A/C Sleeper (2+1),13:30,08h 45m,22:15,
+400,Indo Canadian Transport Pvt. Ltd.,INR 3000,3.7,,A/C Sleeper (2+1),13:30,08h 45m,22:15,
+401,Indo Canadian Transport Pvt. Ltd.,INR 3300,3.7,,A/C Semi Sleeper (2+2),16:30,11h 45m,04:15,
+402,IntrCity SmartBus,INR 432,4.7,30 Seats available,A/C Seater / Sleeper (2+1),23:10,07h 15m,06:25,PAP Chowk
+403,Zingbus Plus,395,4.6,30 Seats available,Scania A/C Semi Sleeper (2+2),22:50,07h 10m,06:00,PAP Chowk
+404,Yolo Bus,INR 460,4.5,15 Seats available,VE A/C Seater / Sleeper (2+1),23:26,07h 02m,06:28,Jal Mahal
+405,AdNew Navyug Travels,608,4.0,30 Seats available,A/C Sleeper (2+1),21:50,07h 40m,05:30,Lovely Professional University
+406,Laxmi holidays,518,4.4,33 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),21:05,07h 55m,05:00,PAP Chowk
+407,Yolo Bus,INR 459,4.4,29 Seats available,VE A/C Seater / Sleeper (2+1),21:11,07h 49m,05:00,Jal Mahal
+408,Laxmi holidays,570,4.4,27 Seats available,VE A/C Sleeper (2+1),23:05,07h 55m,07:00,PAP Chowk
+409,Golden Temple Express Volvo,599,4.5,30 Seats available,Volvo Multi-Axle A/C Semi Sleeper (2+2),23:30,06h 50m,06:20,PAP Chowk
+410,IntrCity SmartBus,INR 430,4.4,23 Seats available,A/C Seater / Sleeper (2+1),22:30,07h 30m,06:00,PAP Chowk
+411,Laxmi holidays,570,4.4,33 Seats available,Bharat Benz A/C Sleeper (2+1),23:25,07h 05m,06:30,PAP Chowk
+412,IntrCity SmartBus,410,4.1,21 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),22:55,07h 50m,06:45,PAP Chowk
+413,IntrCity SmartBus,INR 432,4.0,30 Seats available,A/C Seater / Sleeper (2+1),23:55,07h 20m,07:15,PAP Chowk
+414,FlixBus,INR 885,4.1,6 Seats available,A/C Sleeper (2+1),23:30,07h 05m,06:35,Jalandhar (PAP Chowk)
+415,Laxmi holidays,656,4.4,19 Seats available,Bharat Benz A/C Sleeper (2+1),23:55,07h 35m,07:30,PAP Chowk
+416,IntrCity SmartBus,456,4.2,29 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),23:35,07h 10m,06:45,PAP Chowk
+417,R S YADAV SMART BUS PRIVATE LIMITED,INR 699,4.1,13 Seats available,Volvo Multi Axle B11R AC Seater\Sleeper (2+1),22:45,05h 55m,04:40,pap chowk jalandhar (pb)
+418,Laxmi holidays,442,4.2,33 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),22:35,07h 45m,06:20,PAP Chowk
+419,IntrCity SmartBus,INR 570,3.6,19 Seats available,A/C Seater / Sleeper (2+1),21:20,09h 00m,06:20,ISBT Jalandhar
+420,Golden Temple Express Volvo,499,4.5,25 Seats available,A/C Seater / Sleeper (2+2),22:30,06h 50m,05:20,PAP Chowk
+421,Muskan Tour And Travels private Limited,600,4.2,31 Seats available,Volvo Multi-Axle A/C Semi Sleeper (2+2),23:35,06h 20m,05:55,Jalandhar Byepass
+422,IntrCity SmartBus,INR 627,3.7,28 Seats available,A/C Seater / Sleeper (2+1),22:15,07h 45m,06:00,ISBT Jalandhar
+423,NueGo,523,3.0,37 Seats available,Electric A/C Seater/Sleeper (2+1),23:10,08h 15m,07:25,PAP Chowk
+424,ADTC tour and Travels,INR 600,3.9,30 Seats available,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),22:40,06h 30m,05:10,PAP Chowk
+425,Khurana Bus Service,849,4.6,26 Seats available,Volvo A/C (2+2),18:35,08h 05m,02:40,PAP Chowk
+426,India Tours & Travels (GetBookCab),INR 499,2.4,8 Seats available,A/C Semi Sleeper / Sleeper (2+2),00:15,06h 15m,06:30,PAP Chowk
+427,Vijay Tour and Travels,INR 800,3.9,30 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),16:20,07h 30m,23:50,Jal Mahal
+428,Golden Temple Express Volvo,549,2.7,21 Seats available,A/C Seater / Sleeper (2+2),22:30,06h 50m,05:20,PAP Chowk
+429,Lavish Travels,649,1.8,32 Seats available,A/C Seater / Sleeper (2+2),23:40,06h 00m,05:40,PAP Chowk
+430,Golden Temple Express Volvo,499,3.0,36 Seats available,A/C Seater / Sleeper (2+2),23:50,07h 00m,06:50,PAP Chowk
+431,Prince Travels,INR 1099,4.3,28 Seats available,A/C Seater / Sleeper (2+2),23:45,06h 15m,06:00,Pap chowk
+432,IntrCity SmartBus,410,3.9,28 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),23:40,07h 20m,07:00,PAP Chowk
+433,Khurana Bus Service,INR 549,3.6,34 Seats available,Bharat Benz A/C Semi Sleeper (2+2),14:25,07h 05m,21:30,Jal Mahal
+434,Shri Bawa Lal Tour and Travels,INR 449,3.1,39 Seats available,A/C Seater / Sleeper (2+1),23:40,06h 15m,05:55,PAP Chowk
+435,Golden Temple Express Volvo,549,3.7,20 Seats available,A/C Seater / Sleeper (2+2),23:54,06h 36m,06:30,Pap Chowk Jalandhar
+436,India Tours & Travels (GetBookCab),INR 499,2.8,39 Seats available,A/C Seater / Sleeper (2+2),23:55,06h 05m,06:00,Pap chowk jalandhar
+437,ADTC tour and Travels,INR 550,3.3,26 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),23:10,06h 05m,05:15,PAP Chowk
+438,Armaan Tour & Travels,624,2.7,38 Seats available,A/C Seater / Sleeper (2+1),21:00,09h 00m,06:00,PAP Chowk
+439,Travel Point,949,1.3,35 Seats available,A/C Seater / Sleeper (2+2),22:25,06h 55m,05:20,PAP Chowk
+440,SHREE SATGURU TRAVELS,INR 599,4.3,31 Seats available,A/C Seater / Sleeper (2+2),23:50,06h 10m,06:00,PAP Chowk
+441,IntrCity SmartBus,INR 465,3.9,52 Seats available,VE A/C Seater / Sleeper (2+1),23:25,07h 15m,06:40,PAP Chowk
+442,Golden Temple Express Volvo,549,2.5,22 Seats available,A/C Seater / Sleeper (2+2),23:50,07h 00m,06:50,PAP Chowk Jalandhar
+443,Ashok Travels,INR 759,2.4,24 Seats available,A/C Seater / Sleeper (2+2),23:00,07h 00m,06:00,Jal Mahal
+444,K.S Travels,INR 700,3.6,28 Seats available,A/C Seater / Sleeper (2+2),23:30,06h 00m,05:30,
+445,City Land Travels,650,2.6,,Volvo A/C Semi Sleeper (2+2),23:50,07h 25m,07:15,
+446,Big Bus,INR 799,,,A/C Seater / Sleeper (2+2),23:00,06h 30m,05:30,
+447,Yolo Bus,INR 529,4.6,29 Seats available,VE A/C Seater / Sleeper (2+1),23:30,05h 54m,05:24,Red Fort
+448,Laxmi holidays,599,4.4,30 Seats available,Bharat Benz A/C Sleeper (2+1),23:40,07h 00m,06:40,ISBT Kashmiri Gate
+449,Laxmi holidays,570,4.4,24 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),22:20,06h 40m,05:00,ISBT Kashmiri Gate
+450,Laxmi holidays,665,4.3,28 Seats available,Bharat Benz A/C Sleeper (2+1),23:30,07h 00m,06:30,ISBT Kashmiri Gate
+451,Laxmi holidays,599,4.2,34 Seats available,VE A/C Sleeper (2+1),23:00,07h 50m,06:50,ISBT Kashmiri Gate
+452,Yolo Bus,INR 400,4.4,18 Seats available,VE A/C Seater / Sleeper (2+1),22:00,06h 28m,04:28,Red Fort
+453,IntrCity SmartBus,INR 408,4.1,34 Seats available,A/C Seater / Sleeper (2+1),21:15,07h 50m,05:05,Red Fort (Lal Quila)
+454,Zingbus Plus,410,4.2,19 Seats available,Scania A/C Semi Sleeper (2+2),22:50,06h 00m,04:50,Majnu Ka Tilla
+455,Golden Temple Express Volvo,599,4.2,12 Seats available,Volvo Multi-Axle A/C Semi Sleeper (2+2),22:50,06h 16m,05:06,Red Fort
+456,Zingbus Plus,695,4.5,17 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),19:45,05h 55m,01:40,Majnu Ka Tilla
+457,IntrCity SmartBus,INR 387,4.3,28 Seats available,A/C Seater / Sleeper (2+1),21:45,07h 50m,05:35,Red Fort (Lal Quila)
+458,IntrCity SmartBus,INR 432,4.7,26 Seats available,A/C Seater / Sleeper (2+1),20:30,08h 00m,04:30,Red Fort (Lal Quila)
+459,IntrCity SmartBus,INR 387,4.3,33 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),21:30,07h 35m,05:05,ISBT Kashmiri Gate
+460,IntrCity SmartBus,INR 387,4.2,31 Seats available,A/C Seater / Sleeper (2+1),23:05,07h 30m,06:35,ISBT Kashmiri Gate
+461,NueGo,428,3.4,18 Seats available,Electric A/C Seater (2+2),13:25,06h 00m,19:25,ISBT Kashmiri Gate
+462,IntrCity SmartBus,INR 579,4.2,10 Seats available,AC Sleeper (2+1),22:30,07h 35m,06:05,Delhi RK Ashram (Flixbus Lounge)
+463,FlixBus,INR 619,3.9,2 Seats available,A/C Sleeper (2+1),21:00,07h 00m,04:00,Delhi Kashmere Gate (FlixBus ...
+464,FlixBus,INR 1103,2.8,10 Seats available,A/C Sleeper (2+1),23:00,06h 25m,05:25,Delhi RK Ashram (Flixbus Lounge)
+465,FlixBus,INR 839,2.7,35 Seats available,A/C Sleeper (2+1),18:00,07h 00m,01:00,ISBT Kashmiri Gate
+466,Apex Bus Travels,799,3.9,30 Seats available,A/C Seater / Sleeper (2+2),22:40,05h 50m,04:30,IFFCO Chowk -Boarding Zone
+467,IntrCity SmartBus,INR 752,3.2,28 Seats available,A/C Seater / Sleeper (2+1),21:15,08h 50m,06:05,"NueGo Lounge, Kashmiri Gate"
+468,NueGo,428,3.5,28 Seats available,Electric A/C Seater (2+2),23:50,06h 25m,06:15,"NueGo Lounge, Kashmiri Gate"
+469,NueGo,428,3.1,6 Seats available,Electric A/C Seater (2+2),23:00,06h 25m,05:25,Red Fort
+470,Golden Temple Express Volvo,549,3.3,28 Seats available,A/C Seater / Sleeper (2+2),22:55,06h 15m,05:10,"NueGo Lounge, Kashmiri Gate"
+471,NueGo,475,3.3,27 Seats available,Electric A/C Seater/Sleeper (2+1),23:30,06h 40m,06:10,Red Fort (Lal Quila)
+472,IntrCity SmartBus,INR 450,3.2,20 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),22:15,07h 50m,06:05,"NueGo Lounge, Kashmiri Gate"
+473,NueGo,475,2.8,16 Seats available,Electric A/C Seater/Sleeper (2+1),22:00,06h 10m,04:10,ISBT Kashmiri Gate
+474,Classic Travels,INR 790,2.2,19 Seats available,A/C Seater / Sleeper (2+2),21:00,07h 00m,04:00,IFFCO Chowk -Boarding Zone
+475,IntrCity SmartBus,INR 511,1.3,39 Seats available,A/C Seater / Sleeper (2+1),22:00,08h 10m,06:10,Red Fort
+476,ADTC tour and Travels,INR 600,2.0,32 Seats available,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),22:25,05h 35m,04:00,Redfort
+477,Muskan Tour And Travels private Limited,739,4.4,31 Seats available,Volvo Multi-Axle A/C Semi Sleeper (2+2),22:40,05h 20m,04:00,Shop no.10 /a near nagpal da...
+478,Armaan Tour & Travels,552,4.1,36 Seats available,A/C Seater / Sleeper (2+1),14:00,08h 05m,22:05,RED FORT JAMNA BAZAR (Pickup ...
+479,Banjara Satguru Travels,550,4.2,27 Seats available,A/C Seater / Sleeper (2+2),22:50,06h 00m,04:50,Majnu Ka Tilla
+480,Golden Temple Volvo Bus Service,INR 686,4.2,18 Seats available,A/C Seater / Sleeper (2+1),23:20,06h 25m,05:45,Karnal bypass
+481,Zingbus Plus,729,4.2,31 Seats available,A/C Sleeper (2+1),21:45,07h 00m,04:45,IFFCO Chowk -Boarding Zone
+482,New Navyug Travels,608,3.8,22 Seats available,A/C Sleeper (2+1),22:45,05h 45m,04:30,Red Fort (Lal Quila)
+483,IntrCity SmartBus,INR 418,3.6,24 Seats available,A/C Seater / Sleeper (2+1),20:30,07h 50m,04:20,Red Fort (Lal Quila)
+484,IntrCity SmartBus,585,2.9,11 Seats available,AC Sleeper (2+1),23:00,07h 25m,06:25,Red Fort
+485,IntrCity SmartBus,393,3.5,31 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),20:00,08h 30m,04:30,Red fort metro gate no 2 delhi
+486,Golden Temple Express Volvo,499,3.8,24 Seats available,A/C Seater / Sleeper (2+2),22:58,06h 22m,05:20,"NueGo Lounge, Kashmiri Gate"
+487,Shri Bawa Lal Tour and Travels,INR 400,3.3,42 Seats available,A/C Seater / Sleeper (2+1),22:30,06h 00m,04:30,Redfort
+488,NueGo,428,3.2,26 Seats available,Electric A/C Seater (2+2),18:00,06h 25m,00:25,"Nagpal dairy,jamna bazar"
+489,Goel Tourist (Regd),INR 550,2.8,30 Seats available,A/C Seater / Sleeper (2+2),20:50,05h 40m,02:30,Sanjay Gandhi Transport Nagar
+490,NEW KING BUS SERVICE,INR 499,3.2,20 Seats available,A/C Seater / Sleeper (2+2),22:50,05h 45m,04:35,Munirka
+491,K.S Travels,INR 700,1.7,34 Seats available,A/C Seater / Sleeper (2+2),22:40,06h 45m,05:25,Red Fort
+492,India Tours & Travels (GetBookCab),INR 499,2.0,15 Seats available,A/C Seater / Sleeper (2+2),21:30,07h 00m,04:30,Munirka
+493,New National Travels,INR 543,4.2,33 Seats available,A/C Seater / Sleeper (2+2),23:00,06h 00m,05:00,Shop no.10 /a near nagpal da...
+494,India Tours & Travels (GetBookCab),INR 639,2.9,29 Seats available,A/C Semi Sleeper / Sleeper (2+2),21:45,06h 55m,04:40,Sindhu
+495,Banjara Satguru Travels,550,2.9,24 Seats available,A/C Seater / Sleeper (2+2),23:25,05h 30m,04:55,RK Ashram
+496,Maheshwaram Travels,INR 666,2.9,44 Seats available,A/C Seater / Sleeper (2+2),21:00,07h 00m,04:00,Red Fort
+497,IntrCity SmartBus,INR 816,1.5,32 Seats available,VE A/C Seater / Sleeper (2+1),23:40,07h 00m,06:40,Jama Masjid Metro Station Gat...
+498,CALL2TRIP,594,3.6,44 Seats available,A/C Seater / Sleeper (2+2),22:25,06h 05m,04:30,Red Fort
+499,RK Holiday,1139,3.6,38 Seats available,A/C Seater / Sleeper (2+2),22:20,05h 50m,04:10,Gate no 2 redfort metro station
+500,CALL2TRIP,594,3.2,50 Seats available,A/C Seater / Sleeper (2+2),22:40,06h 00m,04:40,Mori gate goal curcal shop no...
+501,Banjara Satguru Travels,719,3.2,22 Seats available,A/C Seater / Sleeper (2+1),22:40,06h 06m,04:46,Red Fort
+502,City Land Travels,1450,1.5,40 Seats available,Volvo A/C Semi Sleeper (2+2),18:00,05h 35m,23:35,Red Fort
+503,Travel Point,949,1.6,39 Seats available,A/C Seater / Sleeper (2+2),21:00,05h 21m,02:21,Gate no 2 redfort metro station
+504,ADTC tour and Travels,INR 500,1.4,28 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),22:40,05h 20m,04:00,Shop no 11 jamna bazar red fo...
+505,ADTC tour and Travels,INR 600,,22 Seats available,Bharat Benz A/C Seater / Sleeper (2+2),22:30,05h 25m,03:55,Red fort
+506,Banjara Satguru Travels,719,,,A/C Seater / Sleeper (2+2),22:40,06h 06m,04:46,
+507,Travel Point World LLP,759,,,A/C Seater / Sleeper (2+2),22:15,05h 45m,04:00,
+508,RAO SAHAB TRAVELS PRIVATE LIMITED,INR 1099,,,A/C Seater / Sleeper (2+1),23:55,06h 10m,06:05,
+509,Indo Canadian Transport Pvt. Ltd.,INR 3850,4.0,42 Seats available,A/C Sleeper (2+1),15:29,09h 31m,01:00,Ludhiana
+510,Indo Canadian Transport Pvt. Ltd.,INR 3300,4.0,19 Seats available,A/C Semi Sleeper (2+2),17:29,07h 31m,01:00,Ludhiana
+511,Indo Canadian Transport Pvt. Ltd.,INR 3850,4.0,30 Seats available,A/C Sleeper (2+1),21:29,07h 31m,05:00,Ludhiana
+512,Indo Canadian Transport Pvt. Ltd.,INR 3300,4.0,47 Seats available,A/C Semi Sleeper (2+2),19:29,09h 31m,05:00,Ludhiana
+513,Indo Canadian Transport Pvt. Ltd.,INR 3300,4.0,41 Seats available,A/C Sleeper (2+1),15:29,09h 31m,01:00,Ludhiana

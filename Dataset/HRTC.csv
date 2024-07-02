@@ -1,0 +1,1213 @@
+,Names,Bus_fare,Ratings,Seats,Bus_types,Starting_time,Duration,Ending_time,Starting_point
+0,Ram Dalal Holidays,1452,4.8,18 Seats available,Volvo 9600 Multi Axle Semi-Sleeper (2+2),21:45,09h 20m,07:05,Majnu Ka Tilla
+1,Bedi Travels,1116,4.8,17 Seats available,Volvo 9600 Multi Axle Semi-Sleeper (2+2),21:00,09h 45m,06:45,ISBT Kashmiri Gate
+2,Ram Dalal Holidays,1295,4.8,18 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),19:30,10h 20m,05:50,ISBT Kashmiri Gate
+3,Laxmi holidays,1424,4.7,24 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),22:00,10h 30m,08:30,ISBT Kashmiri Gate
+4,Zingbus Plus,1079,4.7,24 Seats available,Volvo A/C Semi Sleeper (2+2),21:30,09h 00m,06:30,Majnu Ka Tilla
+5,Laxmi holidays,1234,4.7,28 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),19:00,10h 15m,05:15,ISBT Kashmiri Gate
+6,Bedi Travels,1152,4.6,17 Seats available,Volvo A/C Semi Sleeper (2+2 ),21:45,09h 45m,07:30,ISBT Kashmiri Gate
+7,Laxmi holidays,1329,4.6,27 Seats available,Volvo Multi-Axle A/C Semi Sleeper (2+2),20:00,10h 25m,06:25,ISBT Kashmiri Gate
+8,FlixBus,INR 1769,4.5,1 Seat available,A/C Seater (2+2),19:00,11h 30m,06:30,Delhi RK Ashram (Flixbus Lounge)
+9,Raghukul Holidays,1259,4.5,37 Seats available,Volvo A/C Semi Sleeper (2+2),20:30,10h 55m,07:25,Manju ka tila potala ground ...
+10,Laxmi holidays,1377,4.4,15 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),21:00,09h 30m,06:30,ISBT Kashmiri Gate
+11,Bedi Travels,1332,4.6,17 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),20:15,10h 00m,06:15,ISBT Kashmiri Gate
+12,Zingbus Plus,1278,4.6,39 Seats available,Volvo Multi-Axle A/C Semisleeper (2+2),22:05,09h 35m,07:40,Majnu Ka Tilla
+13,Laxmi holidays,1234,4.7,25 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),19:00,10h 10m,05:10,ISBT Kashmiri Gate
+14,Laxmi holidays,1149,4.6,24 Seats available,Volvo A/C Semi Sleeper (2+2),20:00,10h 30m,06:30,ISBT Kashmiri Gate
+15,Ram Dalal Holidays,1249,3.5,6 Seats available,Volvo A/C Semi Sleeper (2+2),20:00,09h 15m,05:15,ISBT Kashmiri Gate
+16,New Himalaya Travels,INR 1030,4.3,28 Seats available,Volvo A/C Semi Sleeper (2+2),20:00,09h 10m,05:10,ISBT Kashmiri Gate
+17,City Land Travels,1019,3.4,25 Seats available,Volvo A/C Semi Sleeper (2+2),20:30,08h 30m,05:00,ISBT Kashmiri Gate
+18,Triptara tour & Travel,1100,2.4,29 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),20:30,09h 30m,06:00,Majnu Ka Tilla
+19,Bharmani Travels,1619,2.6,11 Seats available,Volvo A/C Semi Sleeper (2+2),20:15,09h 00m,05:15,ISBT Kashmiri Gate
+20,Northern Travels,INR 1089,2.6,23 Seats available,Volvo A/C Semi Sleeper (2+2),20:00,11h 00m,07:00,Majnu Ka Tilla
+21,City Land Travels,870,2.3,12 Seats available,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),22:20,08h 30m,06:50,ISBT Kashmiri Gate
+22,City Land Travels,1039,4.0,17 Seats available,Volvo A/C Semi Sleeper (2+2),19:55,09h 15m,05:10,ISBT Kashmiri Gate
+23,A N Holidays,949,3.2,19 Seats available,Bharat Benz A/C Semi Sleeper (2+2),19:30,10h 00m,06:00,Majnu Ka Tilla
+24,New Himalaya Travels,INR 1040,2.5,27 Seats available,Volvo A/C Semi Sleeper (2+2),21:15,08h 00m,05:15,Majnu Ka Tilla
+25,City Land Travels,1838,3.2,32 Seats available,Volvo A/C Semi Sleeper (2+2),22:30,08h 30m,07:00,Majnu Ka Tilla
+26,Raghukul Holidays,1079,1.6,23 Seats available,Volvo A/C Semi Sleeper (2+2),20:00,10h 25m,06:25,Majnu ka tilla Potala Ground ...
+27,Bharmani Travels,1079,,31 Seats available,Volvo A/C Semi Sleeper (2+2),19:40,10h 30m,06:10,ISBT Kashmiri Gate
+28,Ram Dalal Holidays,971,,27 Seats available,Volvo A/C Semi Sleeper (2+2),22:45,09h 20m,08:05,Majnu Ka Tilla
+29,Ram Dalal Holidays,1202,,53 Seats available,Bharat Benz (2+2),21:20,09h 40m,07:00,Majnu ka tilla Potala Ground ...
+30,HRTC - 1511,INR 938,4.3,9 Seats available,Himmani Deluxe 2+2 Non AC Seater,17:50,12h 45m,06:35,Sec 43
+31,HRTC - 1512,INR 766,4.6,37 Seats available,Ordinary 3+2 Non AC Seater,19:00,14h 00m,09:00,CHANDIGARH
+32,HRTC - 1509,INR 768,4.4,29 Seats available,Ordinary 3+2 Non AC Seater,18:00,12h 20m,06:20,Sec 43
+33,HRTC - 2080051,INR 938,3.8,31 Seats available,Himmani Deluxe 2+2 Non AC Seater,16:50,12h 50m,05:40,Sec 43
+34,New Himalaya Travels,INR 870,4.7,11 Seats available,Volvo A/C Semi Sleeper (2+2),19:35,10h 40m,06:15,Palampur
+35,Bedi Travels,747,4.6,17 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),19:05,10h 55m,06:00,By Pass (Near Income Tax Office)
+36,Ram Dalal Holidays,823,4.6,8 Seats available,Volvo A/C Semi Sleeper (2+2),19:30,10h 30m,06:00,Bus Stand near chandan hotel
+37,AdCity Land Travels,889,3.6,20 Seats available,Volvo A/C Semi Sleeper (2+2),19:30,10h 30m,06:00,Palampur Bus Stand
+38,Laxmi holidays,854,4.5,43 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),19:20,10h 40m,06:00,Palampur Near bus stand
+39,Laxmi holidays,1149,4.5,11 Seats available,Volvo A/C Semi Sleeper (2+2),20:50,10h 40m,07:30,Palampur Near bus stand
+40,Ram Dalal Holidays,879,4.5,18 Seats available,Volvo A/C Semi Sleeper (2+2),18:50,10h 40m,05:30,Holta
+41,Laxmi holidays,854,4.4,29 Seats available,Volvo A/C Semi Sleeper (2+2),18:15,11h 15m,05:30,Palampur Near bus stand
+42,Bharmani Travels,1079,4.0,26 Seats available,Volvo A/C Semi Sleeper (2+2),21:10,09h 20m,06:30,Palampur
+43,Northern Travels,INR 989,3.4,19 Seats available,Volvo A/C Semi Sleeper (2+2),18:45,10h 30m,05:15,Palampur
+44,Bharmani Travels,899,4.0,31 Seats available,Volvo A/C Semi Sleeper (2+2),19:55,10h 05m,06:00,Palampur
+45,Northern Travels,INR 795,2.0,28 Seats available,Volvo A/C Semi Sleeper (2+2),19:45,10h 00m,05:45,Palampur
+46,Chandigarh Transport Undertaking (CTU) - 165851,INR 695,4.1,24 Seats available,HVAC Seater (2+3),08:20,10h 00m,18:20,Sec 43
+47,Zingbus Plus,1299,4.7,30 Seats available,Volvo A/C Semi Sleeper (2+2),23:15,06h 10m,05:25,Tribune Chowk Sector 31B
+48,Laxmi holidays,1234,4.7,20 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),22:50,06h 10m,05:00,Opp. ISBT Sector 43 Near HP P...
+49,AdGLOBAL HOLIDAYS ADVENTURE TOURS,855,3.5,29 Seats available,A/C Semi Sleeper (2+2),22:25,08h 35m,07:00,Tribune Chowk Sector 31B
+50,Laxmi holidays,1234,4.8,34 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),23:30,06h 50m,06:20,Tribune Chowk Sector 31B
+51,Laxmi holidays,1234,4.5,24 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),23:45,06h 45m,06:30,Sector 43 Hp Petrol Pump Opp ...
+52,City Land Travels,588,4.3,12 Seats available,Volvo A/C Semi Sleeper (2+2),14:30,08h 15m,22:45,Tribune Chowk Sector 31B
+53,AdRajdhani Travels,INR 899,2.9,36 Seats available,Bharat Benz A/C Seater (2+2),23:50,07h 00m,06:50,Tribune Chowk
+54,Laxmi holidays,1054,4.1,29 Seats available,Volvo Multi-Axle A/C Semi Sleeper (2+2),23:20,06h 40m,06:00,Sector 42 IndianOil Petrol Pump
+55,Deltin Travels,INR 1420,4.0,35 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),23:59,07h 01m,07:00,Chandni Chowk
+56,City Land Travels,1238,3.5,4 Seats available,Volvo A/C Semi Sleeper (2+2),22:15,08h 15m,06:30,Chandigarh
+57,Reo India Travels,1197,3.6,13 Seats available,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),23:59,07h 26m,07:25,Opp. ISBT Sector 43 Near HP P...
+58,SHRI BALAJII TRAVELS,INR 2000,3.0,17 Seats available,Volvo A/C Semi Sleeper (2+2),23:55,06h 05m,06:00,Chandigarh Sohana Gurudwara M...
+59,GLOBAL HOLIDAYS ADVENTURE TOURS,989,4.7,22 Seats available,A/C Semi Sleeper (2+2),22:35,08h 35m,07:10,Chandigarh
+60,Malana Travels,INR 1299,4.5,10 Seats available,Volvo A/C Semi Sleeper (2+2),23:58,05h 32m,05:30,Chandni Chowk
+61,Subh Yatri Holidays,1223,3.4,21 Seats available,Volvo A/C Semi Sleeper (2+2),23:45,05h 45m,05:30,Chandni Chowk
+62,Abtc Tour and Travels,750,1.9,25 Seats available,Bharat Benz A/C Semi Sleeper (2+2),01:00,06h 00m,07:00,Sohana sahib gurudwara mohali
+63,Himgiri Adventure Tour,764,1.6,27 Seats available,Bharat Benz A/C Semi Sleeper (2+2),22:00,09h 15m,07:15,Chandni Chowk
+64,City Land Travels,638,1.9,41 Seats available,Volvo A/C Semi Sleeper (2+2),13:40,08h 15m,21:55,Sec 43 Chandigarh
+65,Everest Holidays,674,4.4,9 Seats available,Volvo A/C Semi Sleeper (2+2),23:55,07h 05m,07:00,Chandigarh University Sahibza...
+66,R S YADAV SMART BUS PRIVATE LIMITED,1093,3.7,13 Seats available,VE A/C Semi Sleeper (2+2),00:08,08h 47m,08:55,Chandni Chowk
+67,Metahills holidays,1350,3.5,10 Seats available,Scania A/C Semi Sleeper (2+2),23:51,08h 39m,08:30,Tribune Chowk Near Shiv Mandir
+68,HIMALAYAN HOLIDAYS,INR 1399,3.4,17 Seats available,Volvo A/C Semi Sleeper (2+2 ),23:59,07h 01m,07:00,Sector 42 IndianOil Petrol Pump
+69,TANISHQ HOLIDAYS TOUR,1259,2.9,21 Seats available,Volvo A/C Semi Sleeper (2+2),23:30,08h 00m,07:30,Chandni Chowk
+70,Abtc Tour and Travels,750,2.8,14 Seats available,Bharat Benz A/C Semi Sleeper (2+2),23:45,07h 15m,07:00,Chandigarh
+71,ABHI TRAVELS,1139,3.6,45 Seats available,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),23:58,06h 32m,06:30,SUHANA SAHAB GURUDWARA
+72,City Land Travels,1438,3.6,29 Seats available,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),14:30,08h 15m,22:45,SUHANA SAHAB GURUDWARA
+73,City Land Travels,1438,3.6,47 Seats available,Volvo A/C Seater (2+2),22:15,08h 45m,07:00,SUHANA SAHAB GURUDWARA
+74,City Land Travels,1238,3.5,41 Seats available,Volvo A/C Semi Sleeper (2+2),22:45,08h 15m,07:00,Chandigarh Zirakhpur
+75,HIMALAYAN HOLIDAYS,INR 1399,3.3,40 Seats available,Volvo A/C Semi Sleeper (2+2 ),23:50,06h 50m,06:45,Chandni Chowk
+76,Subh Yatri Holidays,749,3.2,8 Seats available,Volvo A/C Semi Sleeper (2+2),23:45,08h 15m,08:00,Chandni Chowk
+77,Travel Zap India Pvt LTD.,INR 1599,3.2,49 Seats available,Mercedes benz a/c Seater (2+2),23:59,07h 06m,07:05,
+78,Travel Zap India Pvt LTD.,INR 1099,3.2,26 Seats available,Volvo Multi-Axle B9R A/c Semi Sleeper (2+2),23:14,07h 36m,06:50,
+79,Travel Zap India Pvt LTD.,INR 1099,2.9,,Volvo Multi-Axle A/C (2+2),23:24,07h 06m,06:30,
+80,PAL Travel Lines,799,2.5,,Volvo A/C Semi Sleeper (2+2),23:45,08h 40m,08:25,
+81,Yatrabybus.com,INR 2199,2.3,,Bharat Benz A/C Semi Sleeper (2+2),22:20,06h 40m,05:00,
+82,Himachal Travels Height,INR 1349,1.2,,Volvo A/C Semi Sleeper (2+2),23:45,09h 05m,08:50,
+83,Vee Kay Travels,INR 899,,,Volvo A/C Semi Sleeper (2+2),23:05,0-17h 00m,06:05,
+84,Ram Dalal Holidays,925,4.8,45 Seats available,Volvo 9600 Multi Axle Semi-Sleeper (2+2),20:38,09h 52m,06:30,Dharamsala
+85,Laxmi holidays,1044,4.8,18 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),21:50,10h 40m,08:30,Bharat Petrol Pump
+86,Zingbus Plus,819,4.7,29 Seats available,Volvo A/C Semi Sleeper (2+2),19:35,09h 30m,05:05,Bharat Petrol Pump
+87,AdA N Holidays,999,4.8,26 Seats available,Volvo A/C Semi Sleeper (2+2),20:35,09h 40m,06:15,Dharamshala
+88,Laxmi holidays,949,4.7,23 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),21:00,09h 30m,06:30,Bharat Petrol Pump
+89,Laxmi holidays,1044,4.7,27 Seats available,Volvo Multi-Axle A/C Semi Sleeper (2+2),20:00,10h 20m,06:20,Bharat Petrol Pump
+90,Laxmi holidays,1044,4.8,18 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),21:45,10h 45m,08:30,Dharamshala Bharat Petrol Pump
+91,AdRaghukul Holidays,764,4.5,24 Seats available,Volvo A/C Semi Sleeper (2+2),19:00,10h 00m,05:00,Dharamshala
+92,Bedi Travels,765,4.7,19 Seats available,Volvo 9600 Multi Axle Semi-Sleeper (2+2),19:00,10h 30m,05:30,Bharat Petrol Pump (Mann Fill...
+93,Ram Dalal Holidays,768,4.7,15 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),19:30,10h 15m,05:45,dharamshala
+94,Laxmi holidays,1044,4.7,18 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),18:25,11h 05m,05:30,Dharamshala Bharat Petrol Pump
+95,FlixBus,INR 1246,4.8,15 Seats available,A/C Seater (2+2),18:00,11h 20m,05:20,Dharamshala (Maximus Mall)
+96,Zingbus Plus,828,4.7,29 Seats available,Volvo A/C Semi Sleeper (2+2),19:30,09h 35m,05:05,McLeod Ganj
+97,Ram Dalal Holidays,925,4.6,45 Seats available,Volvo 9600 Multi Axle Semi-Sleeper (2+2),20:30,10h 00m,06:30,dharamshala
+98,Ram Dalal Holidays,768,4.6,15 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),19:48,09h 57m,05:45,Dharamsala
+99,Laxmi holidays,1044,4.6,18 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),18:30,11h 00m,05:30,Bharat Petrol Pump
+100,Bedi Travels,738,4.7,22 Seats available,Volvo A/C Semi Sleeper (2+2 ),21:15,10h 15m,07:30,Bharat Petrol Pump (Mann Fill...
+101,Laxmi holidays,1044,4.7,27 Seats available,Volvo Multi-Axle A/C Semi Sleeper (2+2),19:55,10h 25m,06:20,Dharamshala Bharat Petrol Pump
+102,Laxmi holidays,949,4.6,23 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),20:55,09h 35m,06:30,Dharamshala Bharat Petrol Pump
+103,Bedi Travels,738,4.4,22 Seats available,Volvo A/C Semi Sleeper (2+2 ),21:00,10h 30m,07:30,McleodGanj (Pick/Drop - Dhara...
+104,Zingbus Plus,730,4.4,32 Seats available,Volvo Multi-Axle A/C Semisleeper (2+2),21:35,09h 20m,06:55,Bharat Petrol Pump
+105,Bedi Travels,765,4.6,21 Seats available,Volvo 9600 Multi Axle Semi-Sleeper (2+2),18:45,10h 45m,05:30,McleodGanj (Pick/Drop - Dhara...
+106,New Himalaya Travels,INR 700,4.4,24 Seats available,Volvo A/C Semi Sleeper (2+2),19:30,10h 50m,06:20,MANN FILLING STATION DHARAMSHALA
+107,Zingbus Plus,738,3.9,32 Seats available,Volvo Multi-Axle A/C Semisleeper (2+2),21:30,09h 25m,06:55,McLeod Ganj
+108,City Land Travels,669,4.3,22 Seats available,Volvo A/C Semi Sleeper (2+2),20:40,10h 10m,06:50,Bharat Petrol Pump
+109,New Himalaya Travels,INR 700,3.7,24 Seats available,Volvo A/C Semi Sleeper (2+2),19:35,10h 45m,06:20,Maan Filling Station Dharamshala
+110,City Land Travels,699,3.6,22 Seats available,Volvo A/C Semi Sleeper (2+2),20:30,10h 20m,06:50,HRTC Workshop Dharamshala Byp...
+111,City Land Travels,650,4.5,27 Seats available,Volvo A/C Semi Sleeper (2+2),19:00,10h 10m,05:10,Bharat Petrol Pump
+112,Raghukul Holidays,764,2.8,24 Seats available,Volvo A/C Semi Sleeper (2+2),19:05,09h 55m,05:00,Bharat Petrol Pump
+113,A N Holidays,1249,3.0,15 Seats available,Bharat Benz A/C Semi Sleeper (2+2),19:00,11h 15m,06:15,McLeod Ganj Bus Stop
+114,Raghukul Holidays,719,3.1,33 Seats available,Volvo A/C Semi Sleeper (2+2),21:05,10h 30m,07:35,Dhramsala
+115,Raghukul Holidays,719,2.4,33 Seats available,Volvo A/C Semi Sleeper (2+2),21:00,10h 35m,07:35,Dharamshala
+116,A N Holidays,1249,3.5,15 Seats available,Bharat Benz A/C Semi Sleeper (2+2),19:30,10h 45m,06:15,Dharamshala
+117,City Land Travels,650,3.2,27 Seats available,Volvo A/C Semi Sleeper (2+2),18:50,10h 20m,05:10,HRTC Workshop Dharamshala Byp...
+118,A N Holidays,999,1.7,26 Seats available,Volvo A/C Semi Sleeper (2+2),20:00,10h 15m,06:15,Dharamshala Bharat Petrol Pump
+119,Asian's Shina Tour & Travels (Swoyambhu Manjushree Yatayat P. LTD),INR 1499,,38 Seats available,VE A/C Seater (2+2),19:30,10h 30m,06:00,Near Bus Stand
+120,City Land Travels,1338,3.6,21 Seats available,Volvo A/C Semi Sleeper (2+2),13:40,07h 30m,21:10,Tribune Chowk Near Shiv Mandir
+121,City Land Travels,538,3.9,20 Seats available,Volvo A/C Semi Sleeper (2+2),14:30,07h 30m,22:00,Opp. ISBT Sector 43 Near HP P...
+122,City Land Travels,1438,3.6,14 Seats available,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),14:30,07h 30m,22:00,Sector 42 IndianOil Petrol Pump
+123,City Land Travels,1438,3.6,29 Seats available,Volvo A/C Seater (2+2),22:15,07h 45m,06:00,Tribune Chowk Sector 31B
+124,GLOBAL HOLIDAYS ADVENTURE TOURS,855,3.7,24 Seats available,A/C Semi Sleeper (2+2),22:25,07h 35m,06:00,Sec 43
+125,City Land Travels,1238,3.6,34 Seats available,Volvo A/C Semi Sleeper (2+2),22:45,07h 15m,06:00,Tribune Chowk Sector 31B
+126,Laxmi holidays,1234,4.5,22 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),22:50,05h 25m,04:15,Chandigarh
+127,Zingbus Plus,1299,4.7,39 Seats available,Volvo A/C Semi Sleeper (2+2),23:15,05h 10m,04:25,Tribune Chowk Sector 31B
+128,Laxmi holidays,1234,4.9,5 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),23:30,06h 10m,05:40,Chandigarh
+129,Subh Yatri Holidays,1223,3.3,24 Seats available,Volvo A/C Semi Sleeper (2+2),23:45,05h 30m,05:15,Sector 43 Hp Petrol Pump Opp ...
+130,Laxmi holidays,1234,4.5,45 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),23:45,06h 00m,05:45,Chandni Chowk
+131,Subh Yatri Holidays,749,3.3,31 Seats available,Volvo A/C Semi Sleeper (2+2),23:45,07h 15m,07:00,Sohana sahib gurudwara mohali
+132,Rajdhani Travels,INR 899,3.1,25 Seats available,Bharat Benz A/C Seater (2+2),23:50,05h 30m,05:20,Chandni Chowk
+133,HIMALAYAN HOLIDAYS,INR 1399,3.5,17 Seats available,Volvo A/C Semi Sleeper (2+2 ),23:50,05h 55m,05:50,Chandigarh Sohana Gurudwara M...
+134,Metahills holidays,1350,3.7,9 Seats available,Scania A/C Semi Sleeper (2+2),23:51,08h 29m,08:20,Chandni Chowk
+135,Everest Holidays,674,3.4,29 Seats available,Volvo A/C Semi Sleeper (2+2),23:55,06h 20m,06:15,Chandni Chowk
+136,Malana Travels,INR 1299,4.3,36 Seats available,Volvo A/C Semi Sleeper (2+2),23:58,05h 02m,05:00,Tribune Chowk
+137,HIMALAYAN HOLIDAYS,INR 1399,3.5,36 Seats available,Volvo A/C Semi Sleeper (2+2 ),23:59,06h 01m,06:00,Chandni Chowk
+138,Reo India Travels,1197,3.7,21 Seats available,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),23:59,06h 31m,06:30,Sector 42 IndianOil Petrol Pump
+139,Deltin Travels,INR 1420,4.6,29 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),23:59,06h 26m,06:25,Tribune Chowk Sector 31B
+140,R S YADAV SMART BUS PRIVATE LIMITED,1567,4.4,6 Seats available,VE A/C Semi Sleeper (2+2),00:08,08h 11m,08:19,Sec 43 Chandigarh
+141,Himgiri Adventure Tour,764,2.2,13 Seats available,Bharat Benz A/C Semi Sleeper (2+2),22:00,08h 45m,06:45,Chandigarh University Sahibza...
+142,City Land Travels,1238,2.6,10 Seats available,Volvo A/C Semi Sleeper (2+2),22:15,07h 15m,05:30,Chandigarh Zirakhpur
+143,Vee Kay Travels,INR 899,1.2,1 Seat available,Volvo A/C Semi Sleeper (2+2),23:05,0-18h 0-50m,05:15,Chandni Chowk
+144,Laxmi holidays,1025,2.7,26 Seats available,Volvo Multi-Axle A/C Semi Sleeper (2+2),23:20,05h 55m,05:15,Chandigarh
+145,TANISHQ HOLIDAYS TOUR,1259,2.8,39 Seats available,Volvo A/C Semi Sleeper (2+2),23:30,07h 00m,06:30,Chandni Chowk
+146,Abtc Tour and Travels,750,2.9,10 Seats available,Bharat Benz A/C Semi Sleeper (2+2),23:45,06h 25m,06:10,
+147,PAL Travel Lines,999,2.9,49 Seats available,Volvo A/C Semi Sleeper (2+2),23:45,08h 30m,08:15,
+148,Himachal Travels Height,INR 1349,2.3,,Volvo A/C Semi Sleeper (2+2),23:45,06h 20m,06:05,
+149,ABHI TRAVELS,1139,2.8,,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),23:58,05h 32m,05:30,
+150,Abtc Tour and Travels,750,2.9,,Bharat Benz A/C Semi Sleeper (2+2),01:00,05h 10m,06:10,
+151,Yatrabybus.com,INR 2199,2.5,,Bharat Benz A/C Semi Sleeper (2+2),22:20,06h 15m,04:35,
+152,Malana Travels,INR 2099,4.7,2 Seats available,Volvo 9600 Multi Axle Semi-Sleeper (2+2),21:30,10h 00m,07:30,ISBT Kashmiri Gate
+153,Ram Dalal Holidays,1647,4.7,15 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),20:25,10h 25m,06:50,Majnu Ka Tilla
+154,Laxmi holidays,1899,4.7,32 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),23:00,13h 30m,12:30,ISBT Kashmiri Gate
+155,AdZingbus Plus,1180,4.2,18 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),23:40,10h 10m,09:50,Majnu Ka Tilla
+156,Laxmi holidays,1424,4.7,16 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),19:00,12h 00m,07:00,ISBT Kashmiri Gate
+157,IntrCity SmartBus,INR 1347,4.7,24 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),18:40,12h 25m,07:05,RK Ashram
+158,Deltin Travels,INR 1600,4.6,20 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),20:30,11h 30m,08:00,ISBT Kashmiri Gate
+159,AdZingbus Plus,1206,4.3,27 Seats available,Volvo A/C Semi Sleeper (2+2),21:10,11h 30m,08:40,Majnu Ka Tilla
+160,Deltin Travels,INR 1690,4.6,21 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),21:50,11h 20m,09:10,ISBT Kashmiri Gate
+161,Laxmi holidays,1329,4.6,30 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),17:00,12h 00m,05:00,ISBT Kashmiri Gate
+162,Zingbus Plus,1180,4.6,20 Seats available,Volvo A/C Semi Sleeper (2+2),21:55,10h 45m,08:40,Majnu Ka Tilla
+163,Laxmi holidays,1804,4.6,12 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),22:00,12h 15m,10:15,ISBT Kashmiri Gate
+164,Laxmi holidays,1766,4.6,17 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),20:00,12h 00m,08:00,ISBT Kashmiri Gate
+165,IntrCity SmartBus,INR 1314,4.7,18 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),20:30,11h 50m,08:20,Majnu Ka Tilla
+166,Laxmi holidays,1329,4.6,34 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),18:30,12h 00m,06:30,ISBT Kashmiri Gate
+167,IntrCity SmartBus,INR 1704,4.6,18 Seats available,Volvo A/C Semi Sleeper (2+2),21:55,11h 10m,09:05,Majnu Ka Tilla
+168,Zingbus Plus,1439,4.6,24 Seats available,Volvo A/C Semi Sleeper (2+2),17:55,11h 30m,05:25,Majnu Ka Tilla
+169,Zingbus Plus,1062,4.5,25 Seats available,Volvo A/C Semi Sleeper (2+2),22:55,10h 15m,09:10,Majnu Ka Tilla
+170,Laxmi holidays,1709,4.5,20 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),21:00,13h 00m,10:00,ISBT Kashmiri Gate
+171,Zingbus Plus,1180,4.7,31 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),22:05,11h 00m,09:05,Majnu Ka Tilla
+172,Yolo Bus,INR 999,4.5,26 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),23:16,11h 52m,11:08,RK Ashram
+173,Zingbus Plus,1033,4.5,25 Seats available,Volvo A/C Semi Sleeper (2+2),21:25,10h 35m,08:00,Majnu Ka Tilla
+174,Laxmi holidays,1519,4.4,21 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),20:30,12h 00m,08:30,ISBT Kashmiri Gate
+175,R S YADAV SMART BUS PRIVATE LIMITED,1329,4.4,15 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),19:15,14h 34m,09:49,RK Ashram
+176,Deltin Travels,INR 1420,4.4,36 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),19:30,11h 30m,07:00,ISBT Kashmiri Gate
+177,Zingbus Plus,1131,4.4,36 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),22:25,10h 05m,08:30,Majnu Ka Tilla
+178,R S YADAV SMART BUS PRIVATE LIMITED,1093,4.6,27 Seats available,VE A/C Semi Sleeper (2+2),19:55,13h 00m,08:55,ISBT Kashmiri Gate
+179,Zingbus Plus,1033,4.4,28 Seats available,Volvo A/C Semi Sleeper (2+2),19:10,11h 10m,06:20,Majnu Ka Tilla
+180,Laxmi holidays,1329,4.4,29 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),18:00,12h 20m,06:20,ISBT Kashmiri Gate
+181,Zingbus Plus,1376,4.3,31 Seats available,Scania A/C Semi Sleeper (2+2),20:55,10h 30m,07:25,Majnu Ka Tilla
+182,Laxmi holidays,1614,4.3,47 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),22:40,13h 15m,11:55,ISBT Kashmiri Gate
+183,Zingbus Plus,1197,4.5,25 Seats available,Volvo A/C Semi Sleeper (2+2),21:45,11h 15m,09:00,Majnu Ka Tilla
+184,Reo India Travels,1197,4.3,31 Seats available,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),19:35,11h 50m,07:25,Majnu Ka Tilla
+185,Zingbus Plus,1386,4.7,29 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),22:40,11h 00m,09:40,Majnu Ka Tilla
+186,FlixBus,INR 1972,4.1,2 Seats available,A/C Seater (2+2),22:00,12h 10m,10:10,Delhi Kashmere Gate (FlixBus ...
+187,FlixBus,INR 1972,4.1,2 Seats available,A/C Seater (2+2),18:30,12h 25m,06:55,Delhi Kashmere Gate (FlixBus ...
+188,SHRI BALAJII TRAVELS,INR 1149,4.2,4 Seats available,Volvo A/C Semi Sleeper (2+2),19:01,10h 59m,06:00,Majnu Ka Tilla
+189,Yolo Bus,INR 999,4.2,41 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),22:33,10h 42m,09:15,ISBT Kashmiri Gate
+190,Laxmi holidays,1671,4.3,25 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),19:30,12h 00m,07:30,ISBT Kashmiri Gate
+191,Zingbus Plus,1256,4.1,36 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),23:55,11h 05m,11:00,Majnu Ka Tilla
+192,Shivay Holidays,INR 1189,4.4,27 Seats available,Volvo A/C Semi Sleeper (2+2),20:00,11h 00m,07:00,Kashmiri Gate Metro Gate No. 5
+193,Laxmi holidays,1140,3.9,28 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),21:20,13h 30m,10:50,ISBT Kashmiri Gate
+194,Laxmi holidays,1054,3.7,12 Seats available,Volvo Multi-Axle A/C Semi Sleeper (2+2),17:30,12h 30m,06:00,ISBT Kashmiri Gate
+195,Malana Travels,INR 1299,4.2,17 Seats available,Volvo A/C Semi Sleeper (2+2),19:00,10h 30m,05:30,Majnu Ka Tilla
+196,Deltin Travels,INR 1230,3.7,39 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),23:00,11h 30m,10:30,ISBT Kashmiri Gate
+197,City Land Travels,1238,4.1,29 Seats available,Volvo A/C Semi Sleeper (2+2),16:30,14h 00m,06:30,ISBT Kashmiri Gate
+198,Himalayan Nomad KTC,1395,3.6,10 Seats available,Volvo A/C Semi Sleeper (2+2),19:31,11h 29m,07:00,RK Ashram
+199,City Land Travels,1339,3.9,37 Seats available,Volvo A/C Semi Sleeper (2+2),09:00,13h 45m,22:45,Majnu Ka Tilla
+200,Deltin Travels,INR 1440,4.5,47 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),23:00,11h 30m,10:30,ISBT Kashmiri Gate
+201,City Land Travels,919,3.0,42 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),18:40,13h 35m,08:15,Majnu Ka Tilla
+202,City Land Travels,1038,3.7,13 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),23:55,13h 25m,13:20,Majnu Ka Tilla
+203,Zingbus Plus,1082,3.7,1 Seat available,Volvo A/C Semi Sleeper (2+2),22:55,10h 15m,09:10,Kashmiri Gate Metro Gate no.4
+204,G.T.SHolidays,INR 799,3.1,5 Seats available,Bharat Benz A/C Semi Sleeper (2+2),19:30,12h 00m,07:30,Majnu Ka Tilla
+205,TRAVELLING INDIA,1071,4.1,24 Seats available,Volvo A/C Semi Sleeper (2+2),19:20,13h 00m,08:20,Majnu Ka Tilla
+206,Reo India Travels,1197,4.0,18 Seats available,Volvo A/C Semi Sleeper (2+2),22:15,12h 45m,11:00,ISBT Kashmiri Gate
+207,PAL Travel Lines,999,4.1,41 Seats available,Volvo A/C Semi Sleeper (2+2),21:30,11h 00m,08:30,ISBT Kashmiri Gate
+208,Metahills holidays,1350,3.9,30 Seats available,Scania A/C Semi Sleeper (2+2),19:30,13h 00m,08:30,ISBT Kashmiri Gate
+209,BT Travels,1092,3.1,16 Seats available,Bharat Benz A/C Semi Sleeper (2+2),19:45,12h 30m,08:15,ISBT Kashmiri Gate
+210,Metahills holidays,1350,3.8,42 Seats available,Scania A/C Semi Sleeper (2+2),21:00,13h 00m,10:00,Majnu Ka Tilla
+211,Ram Dalal Holidays,1489,4.7,39 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),21:55,10h 25m,08:20,Majnu Ka Tilla
+212,City Land Travels,1149,3.9,5 Seats available,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),23:00,13h 25m,12:25,RK Ashram
+213,Himalayan Nomad KTC,1395,2.9,20 Seats available,Volvo A/C Semi Sleeper (2+2),19:15,12h 15m,07:30,ISBT Kashmiri Gate
+214,Zingbus Plus,1599,3.3,12 Seats available,Volvo A/C Semi Sleeper (2+2),21:00,11h 10m,08:10,RK Ashram
+215,Himalayan Nomad KTC,1395,3.2,27 Seats available,Volvo A/C Semi Sleeper (2+2),20:00,14h 30m,10:30,ISBT Kashmiri Gate
+216,City Land Travels,1038,3.9,23 Seats available,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),19:25,12h 20m,07:45,Majnu Ka Tilla
+217,Reo India Travels,1197,3.6,26 Seats available,Volvo A/C Semi Sleeper (2+2),21:55,12h 35m,10:30,ISBT Kashmiri Gate
+218,City Land Travels,1019,3.1,8 Seats available,Volvo A/C Semi Sleeper (2+2),21:20,13h 25m,10:45,Majnu Ka Tilla
+219,HIMALAYAN HOLIDAYS,INR 1399,4.4,16 Seats available,Volvo A/C Semi Sleeper (2+2 ),20:00,11h 00m,07:00,KASHMIRE GATE No04 NEAR HP PE...
+220,ROYAL SAFARI INDIA TRAVELS,1439,4.0,19 Seats available,Bharat Benz A/C Semi Sleeper (2+2),21:00,11h 30m,08:30,Civil Lines
+221,JN HOLIDAYS,970,3.8,31 Seats available,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),20:00,11h 00m,07:00,ISBT Kashmiri Gate
+222,City Land Travels,889,3.5,41 Seats available,Volvo A/C Seater (2+2),23:30,12h 20m,11:50,Majnu Ka Tilla
+223,City Land Travels,938,3.7,22 Seats available,Volvo A/C Semi Sleeper (2+2),22:40,13h 25m,12:05,RK Ashram
+224,Subh Yatri Holidays,1223,3.9,26 Seats available,Volvo A/C Semi Sleeper (2+2),18:00,11h 30m,05:30,ISBT Kashmiri Gate
+225,SPEED BUS,INR 1330,2.5,17 Seats available,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),20:00,12h 00m,08:00,Majnu Ka Tilla
+226,ABHI TRAVELS,1139,3.4,5 Seats available,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),19:30,11h 00m,06:30,RK Ashram
+227,Subh Yatri Holidays,1023,2.9,8 Seats available,Volvo A/C Semi Sleeper (2+2),21:00,11h 15m,08:15,Majnu Ka Tilla
+228,SIDDHI VINAYAK TRAVELS,998,2.6,19 Seats available,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),19:30,13h 30m,09:00,Majnu Ka Tilla
+229,Travel hub,1080,2.9,38 Seats available,Volvo A/C Semi Sleeper (2+2),18:45,12h 30m,07:15,Majnu Ka Tilla
+230,City Land Travels,1249,3.3,32 Seats available,Volvo A/C Semi Sleeper (2+2),08:10,13h 45m,21:55,ISBT Kashmiri Gate
+231,Holiday Appeal Private Limited,1045,2.8,36 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),23:00,11h 00m,10:00,Majnu Ka Tilla
+232,City Land Travels,850,1.1,6 Seats available,Volvo A/C Seater (2+2),22:00,12h 20m,10:20,Nirmal Hriday Church MajnuTila
+233,Suswagtam Tours,INR 1899,4.5,45 Seats available,Volvo A/C Semi Sleeper (2+2),19:30,13h 00m,08:30,RK Ashram
+234,Cab India Travels,1100,3.7,32 Seats available,Volvo A/C Semi Sleeper (2+2),19:20,13h 10m,08:30,Majnu Ka Tilla
+235,RAO TRAVELS INDIA PVT LTD.,INR 1234,3.3,5 Seats available,Mercedes Benz A/C (2+2),19:00,12h 00m,07:00,RK Ashram
+236,Zingbus Plus,1197,3.1,13 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),20:40,11h 35m,08:15,ISBT Kashmiri Gate
+237,Subh Yatri Holidays,1123,3.6,1 Seat available,Volvo A/C Semi Sleeper (2+2),21:00,12h 00m,09:00,Majnu Ka Tilla
+238,PAL Travel Lines,1649,4.1,5 Seats available,Volvo A/C Semi Sleeper (2+2),23:00,10h 05m,09:05,Majnu Ka Tilla
+239,PAL Travel Lines,999,3.3,47 Seats available,Volvo A/C Semi Sleeper (2+2),19:15,13h 10m,08:25,Majnu Ka Tilla
+240,Rao Travel Heights,1549,3.1,5 Seats available,Volvo A/C Semi Sleeper (2+2),19:30,11h 30m,07:00,Majnu Ka Tilla
+241,Travel Zap India Pvt LTD.,INR 1599,3.1,26 Seats available,Mercedes benz a/c Seater (2+2),20:30,10h 35m,07:05,Majnu Ka Tilla
+242,Shree Balaji Travels,INR 1699,2.9,28 Seats available,Volvo A/C Semi Sleeper (2+2),19:20,11h 30m,06:50,Majnu Ka Tilla
+243,Northern Travels,INR 1300,3.7,37 Seats available,Volvo A/C Semi Sleeper (2+2),20:30,12h 15m,08:45,Majnu Ka Tilla
+244,Travel Zap India Pvt LTD.,INR 1449,3.5,27 Seats available,Volvo Multi-Axle A/C (2+2),20:00,10h 30m,06:30,Majnu Ka Tilla
+245,Kartar Travels Private Limited,949,2.6,33 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),23:30,11h 30m,11:00,Majnu Ka Tilla
+246,Travel Zap India Pvt LTD.,INR 1499,2.4,15 Seats available,Volvo Multi-Axle B9R A/c Semi Sleeper (2+2),19:30,11h 20m,06:50,ISBT Kashmiri Gate
+247,Sugam Yatra,INR 1400,2.4,26 Seats available,Bharat Benz A/C Semi Sleeper (2+2),19:15,12h 45m,08:00,Majnu Ka Tilla
+248,PAL Travel Lines,1149,3.2,21 Seats available,Volvo A/C Semi Sleeper (2+2),21:30,11h 10m,08:40,ISBT Kashmiri Gate
+249,Himachal Travels Height,INR 1349,1.1,35 Seats available,Volvo A/C Semi Sleeper (2+2),19:05,13h 45m,08:50,RK Ashram
+250,Travel hub,1080,1.5,40 Seats available,Volvo A/C Semi Sleeper (2+2),21:30,15h 00m,12:30,ISBT Kashmiri Gate
+251,Subh Yatri Holidays,1416,2.1,14 Seats available,Volvo A/C Semi Sleeper (2+2),22:00,11h 30m,09:30,ISBT Kashmiri Gate
+252,Vee Kay Travels,INR 999,4.1,29 Seats available,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),21:05,10h 50m,07:55,ISBT Kashmiri Gate
+253,City Land Travels,1238,2.5,45 Seats available,Volvo A/C Semi Sleeper (2+2),17:00,14h 00m,07:00,Majnu Ka Tilla
+254,City Land Travels,838,3.7,15 Seats available,Volvo A/C Seater (2+2),20:00,12h 20m,08:20,Majnu Ka Tilla
+255,HIMALAYAN HOLIDAYS,INR 1399,3.6,5 Seats available,Volvo A/C Semi Sleeper (2+2 ),19:40,11h 05m,06:45,RK Ashram
+256,SIDDHI VINAYAK TRAVELS,1614,3.6,45 Seats available,Volvo A/C Semi Sleeper (2+2),18:30,13h 30m,08:00,ISBT Kashmiri Gate
+257,Subh Yatri Holidays,949,3.6,33 Seats available,Volvo A/C Semi Sleeper (2+2),18:00,14h 00m,08:00,Majnu Ka Tilla
+258,City Land Travels,1429,3.6,21 Seats available,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),09:00,13h 45m,22:45,ISBT Kashmiri Gate
+259,City Land Travels,938,3.5,30 Seats available,Volvo A/C Seater (2+2),19:40,12h 20m,08:00,ISBT Kashmiri Gate
+260,City Land Travels,940,3.4,33 Seats available,Volvo A/C Seater (2+2),23:50,13h 25m,13:15,Majnu Ka Tilla
+261,City Land Travels,1438,3.4,30 Seats available,Volvo A/C Seater (2+2),17:00,14h 00m,07:00,Majnu Ka Tilla
+262,SPEED BUS,INR 1977,3.3,29 Seats available,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),22:00,12h 30m,10:30,RK Ashram
+263,Holiday Appeal Private Limited,1994,3.2,37 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),22:00,11h 00m,09:00,ISBT GATE NUMBER 3
+264,Holiday Appeal Private Limited,1994,3.0,14 Seats available,Bharat Benz A/C Semi Sleeper (2+2),21:30,11h 00m,08:30,Majnu Ka Tilla
+265,Leo Travel heights,INR 1300,3.0,13 Seats available,Volvo A/C Semi Sleeper (2+2),18:00,14h 40m,08:40,ISBT Kashmiri Gate
+266,Hari Das Tour &Travels,759,2.8,13 Seats available,Bharat Benz A/C Seater (2+2),20:00,11h 25m,07:25,Majnu Ka Tilla
+267,PAL Travel Lines,849,2.8,49 Seats available,Scania A/C Semi Sleeper (2+2),20:30,13h 10m,09:40,Majnu Ka Tilla
+268,PAL Travel Lines,1349,2.6,1 Seat available,Volvo Multi-Axle A/C Semi Sleeper (2+2),20:30,11h 00m,07:30,Majnu Ka Tilla
+269,TANISHQ HOLIDAYS TOUR,1259,2.6,29 Seats available,Volvo A/C Semi Sleeper (2+2),19:30,12h 00m,07:30,Majnu Ka Tilla
+270,TANISHQ HOLIDAYS TOUR,1619,2.6,27 Seats available,Volvo Multi-Axle A/C Semi Sleeper (2+2),21:00,13h 00m,10:00,Majnu Ka Tilla
+271,Royal Travels Hills,INR 1599,2.6,4 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),22:30,11h 30m,10:00,Majnu Ka Tilla
+272,Royal Travels Hills,INR 1299,2.5,49 Seats available,Volvo A/C Semi Sleeper (2+2),22:30,12h 30m,11:00,Majnu Ka Tilla
+273,Royal Travels Hills,INR 1499,1.7,37 Seats available,Volvo A/C Semi Sleeper (2+2),19:30,12h 00m,07:30,RK Ashram
+274,Royal Travels Hills,INR 1299,1.1,29 Seats available,Bharat Benz A/C Seater (2+2),22:00,12h 00m,10:00,Majnu Ka Tilla
+275,Yatrabybus.com,INR 2199,,,Bharat Benz A/C Semi Sleeper (2+2),19:00,10h 00m,05:00,
+276,Heera Himachal Holidays,INR 1399,,,Mercedes Multi-Axle Semi Sleeper (2+2),18:30,13h 00m,07:30,
+277,Vee Kay Travels,INR 1399,,,Volvo A/C Semi Sleeper (2+2),19:15,10h 50m,06:05,
+278,City Land Travels,1450,2.9,26 Seats available,Volvo A/C Semi Sleeper (2+2),20:00,11h 15m,07:15,BUS STAND DALHOUSIE
+279,Travel Point,1519,2.0,26 Seats available,A/C Seater / Sleeper (2+2),16:00,13h 20m,05:20,Dalhousie to basohli jammu ka...
+280,Laxmi holidays,1139,4.6,38 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),23:55,05h 20m,05:15,Tribune Chowk Sector 31B
+281,Laxmi holidays,1139,4.7,39 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),23:55,05h 15m,05:10,Tribune Chowk Sector 31B
+282,Laxmi holidays,1139,3.7,44 Seats available,VE A/C Semi Sleeper (2+2),23:50,05h 00m,04:50,Tribune Chowk Sector 31B
+283,City Land Travels,938,1.0,41 Seats available,Bharat Benz (2+2),23:30,06h 00m,05:30,Sector 42 IndianOil Petrol Pump
+284,A N Holidays,949,1.7,19 Seats available,Bharat Benz A/C Semi Sleeper (2+2),23:59,06h 01m,06:00,Sohana Gurudwara chandigarh
+285,HRTC - 100,INR 1499,4.1,7 Seats available,Himsuta AC Seater Volvo/Scania 2+2,17:40,15h 20m,09:00,CHAMBA
+286,HRTC - 1024,INR 879,3.1,19 Seats available,A/C Executive (2+3),16:20,15h 40m,08:00,CHAMBA
+287,HRTC - 1017,INR 796,4.0,37 Seats available,Ordinary 3+2 Non AC Seater,12:50,17h 10m,06:00,CHAMBA
+288,HRTC - 1002,INR 862,3.0,36 Seats available,Ordinary 3+2 Non AC Seater,15:00,17h 30m,08:30,CHAMBA
+289,Laxmi holidays,1329,4.5,50 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),23:30,08h 30m,08:00,ISBT Kashmiri Gate
+290,Bedi Travels,791,4.6,16 Seats available,Volvo A/C Semi Sleeper (2+2 ),23:00,09h 00m,08:00,ISBT Kashmiri Gate
+291,Ram Dalal Holidays,1082,4.5,29 Seats available,Mercedes Multi-Axle Semi Sleeper (2+2),23:00,08h 10m,07:10,Majnu Ka Tilla
+292,AdZingbus Plus,870,4.4,29 Seats available,Volvo A/C Semi Sleeper (2+2),22:55,08h 30m,07:25,Majnu Ka Tilla
+293,Laxmi holidays,1139,4.5,25 Seats available,Volvo A/C Semi Sleeper (2+2),23:25,08h 35m,08:00,ISBT Kashmiri Gate
+294,FlixBus,INR 977,4.3,15 Seats available,A/C Seater (2+2),23:55,08h 40m,08:35,Delhi Kashmere Gate (FlixBus ...
+295,Ram Dalal Holidays,712,4.0,23 Seats available,Volvo A/C Semi Sleeper (2+2),21:50,09h 50m,07:40,Mahipalpur
+296,City Land Travels,583,3.9,30 Seats available,Volvo A/C Semi Sleeper (2+2),09:40,09h 50m,19:30,ISBT Kashmiri Gate
+297,Laxmi holidays,997,3.2,26 Seats available,Bharat Benz A/C Semi Sleeper (2+2),22:50,08h 50m,07:40,Majnu Ka Tilla
+298,City Land Travels,1338,3.3,12 Seats available,Volvo A/C Semi Sleeper (2+2),23:00,08h 00m,07:00,"NueGo Lounge, Kashmiri Gate"
+299,NueGo,949,3.9,39 Seats available,Electric A/C Seater (2+2),23:00,08h 55m,07:55,Majnu Ka Tilla
+300,City Land Travels,529,3.6,20 Seats available,Volvo A/C Semi Sleeper (2+2),09:15,09h 50m,19:05,Majnu Ka Tilla
+301,City Land Travels,1110,3.1,23 Seats available,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),23:55,07h 30m,07:25,"NueGo Lounge, Kashmiri Gate"
+302,City Land Travels,1238,2.5,33 Seats available,Volvo A/C Semi Sleeper (2+2),22:30,07h 30m,06:00,Vasant Vihar Rao Tula Ram Marg
+303,NueGo,664,2.0,4 Seats available,Electric A/C Seater (2+2),21:30,08h 55m,06:25,Civil Lines
+304,RAO TRAVELS INDIA PVT LTD.,INR 1500,1.1,,AC Seater (2+2),21:00,10h 30m,07:30,
+305,Royal Travels Hills,INR 1499,,,Bharat Benz A/C Seater (2+2),22:00,09h 00m,07:00,
+306,FlixBus,INR 600,,,A/C Seater (2+2),07:20,08h 40m,16:00,
+307,Chandigarh Transport Undertaking (CTU) - 165843,INR 364.77,4.2,,HVAC Seater (2+3),08:50,04h 30m,13:20,
+308,Bedi Travels,1332,4.6,17 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),20:15,11h 30m,07:45,ISBT Kashmiri Gate
+309,Laxmi holidays,1234,4.5,24 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),19:00,11h 00m,06:00,ISBT Kashmiri Gate
+310,Ram Dalal Holidays,1249,4.5,6 Seats available,Volvo A/C Semi Sleeper (2+2),20:00,11h 15m,07:15,ISBT Kashmiri Gate
+311,AdBharmani Travels,1619,3.6,11 Seats available,Volvo A/C Semi Sleeper (2+2),20:15,10h 45m,07:00,ISBT Kashmiri Gate
+312,New Himalaya Travels,INR 1030,4.5,27 Seats available,Volvo A/C Semi Sleeper (2+2),20:00,11h 15m,07:15,ISBT Kashmiri Gate
+313,Laxmi holidays,1149,4.4,24 Seats available,Volvo A/C Semi Sleeper (2+2),20:00,11h 00m,07:00,ISBT Kashmiri Gate
+314,Ram Dalal Holidays,1323,4.5,6 Seats available,Volvo A/C Semi Sleeper (2+2),21:20,10h 40m,08:00,ISBT Kashmiri Gate
+315,Laxmi holidays,1329,4.1,31 Seats available,Volvo A/C Semi Sleeper (2+2),21:00,11h 15m,08:15,ISBT Kashmiri Gate
+316,Northern Travels,INR 1089,3.6,23 Seats available,Volvo A/C Semi Sleeper (2+2),20:00,11h 30m,07:30,Majnu Ka Tilla
+317,City Land Travels,1039,3.3,17 Seats available,Volvo A/C Semi Sleeper (2+2),19:55,10h 05m,06:00,ISBT Kashmiri Gate
+318,Bharmani Travels,1079,3.8,29 Seats available,Volvo A/C Semi Sleeper (2+2),19:40,11h 40m,07:20,ISBT Kashmiri Gate
+319,Northern Travels,INR 1300,2.3,32 Seats available,Volvo A/C Semi Sleeper (2+2),20:35,10h 05m,06:40,ISBT Kashmiri Gate
+320,Ram Dalal Holidays,1202,,53 Seats available,Bharat Benz (2+2),21:20,11h 40m,09:00,Majnu ka tilla Potala Ground ...
+321,Ram Dalal Holidays,823,4.8,8 Seats available,Volvo A/C Semi Sleeper (2+2),21:40,08h 20m,06:00,Near bus stand
+322,Laxmi holidays,854,4.4,26 Seats available,Volvo A/C Semi Sleeper (2+2),20:20,09h 10m,05:30,Hamirpur
+323,Northern Travels,INR 795,3.6,28 Seats available,Volvo A/C Semi Sleeper (2+2),21:45,08h 00m,05:45,Hamirpur
+324,Laxmi holidays,1424,4.7,20 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),21:00,06h 10m,03:10,Private Bus Stand
+325,Laxmi holidays,1519,4.5,33 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),22:00,05h 30m,03:30,Private Bus Stand
+326,Laxmi holidays,1234,4.7,32 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),16:00,07h 00m,23:00,Private Bus Stand Manali
+327,AdGLOBAL HOLIDAYS ADVENTURE TOURS,989,3.2,38 Seats available,Volvo A/C Semi Sleeper (2+2),19:45,09h 00m,04:45,Private Bus Stand
+328,Zingbus Plus,578,4.6,39 Seats available,Volvo A/C Semi Sleeper (2+2),16:00,07h 00m,23:00,zingbus Lounge Manali 200 m F...
+329,Laxmi holidays,1424,4.5,27 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),21:30,05h 45m,03:15,Private Bus Stand
+330,Zingbus Plus,1088,4.6,30 Seats available,Volvo A/C Semi Sleeper (2+2),21:30,05h 30m,03:00,Private Bus Stand
+331,Laxmi holidays,1139,4.4,42 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),17:30,06h 25m,23:55,Private Bus Stand
+332,Laxmi holidays,1529,4.8,21 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),20:00,06h 30m,02:30,Private Bus Stand
+333,Laxmi holidays,1234,4.8,40 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),18:00,06h 30m,00:30,Private Bus Stand
+334,City Land Travels,1338,3.8,18 Seats available,Volvo A/C Semi Sleeper (2+2),15:30,06h 50m,22:20,Private Bus Stand
+335,Laxmi holidays,1424,4.7,35 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),21:40,05h 50m,03:30,Private Bus Stand Manali
+336,Zingbus Plus,1201,4.3,31 Seats available,Volvo A/C Semi Sleeper (2+2),17:00,06h 25m,23:25,zingbus Lounge Manali 200 m F...
+337,Yolo Bus,INR 1149,4.3,35 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),21:10,05h 45m,02:55,zingbus Lounge Manali 200 m F...
+338,Yolo Bus,INR 1149,3.8,13 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),21:45,05h 18m,03:03,Private Bus Stand
+339,Laxmi holidays,1002,4.3,25 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),20:20,06h 30m,02:50,zingbus Lounge Manali 200 m F...
+340,GLOBAL HOLIDAYS ADVENTURE TOURS,738,3.0,35 Seats available,Volvo A/C Semi Sleeper (2+2),19:45,09h 00m,04:45,zingbus Lounge Manali 200 m F...
+341,Zingbus Plus,989,4.6,42 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),18:15,06h 25m,00:40,Private Bus Stand
+342,Zingbus Plus,989,4.1,31 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),18:30,06h 10m,00:40,zingbus Lounge Manali 200 m F...
+343,IntrCity SmartBus,INR 1385,4.9,26 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),18:15,06h 55m,01:10,Manali
+344,Zingbus Plus,1201,4.1,47 Seats available,Volvo A/C Semi Sleeper (2+2),17:45,06h 40m,00:25,Private Bus Stand
+345,Zingbus Plus,1197,4.7,29 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),21:00,06h 20m,03:20,zingbus Lounge Manali 200 m F...
+346,Deltin Travels,INR 1370,4.4,12 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),19:30,06h 30m,02:00,Private Bus Stand
+347,Zingbus Plus,1073,4.7,6 Seats available,Scania A/C Semi Sleeper (2+2),19:30,05h 50m,01:20,Private Bus Stand
+348,Laxmi holidays,1329,4.4,16 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),17:00,06h 30m,23:30,Private Bus Stand
+349,Ram Dalal Holidays,1240,5.0,30 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),19:00,06h 25m,01:25,zingbus Lounge Manali 200 m F...
+350,City Land Travels,1579,4.2,1 Seat available,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),19:30,05h 45m,01:15,MANALI
+351,Zingbus Plus,1127,3.8,23 Seats available,Volvo A/C Semi Sleeper (2+2),19:00,06h 35m,01:35,Private Bus Stand
+352,City Land Travels,1338,3.4,22 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),08:30,06h 50m,15:20,Private Bus Stand
+353,City Land Travels,1438,2.7,12 Seats available,Volvo A/C Semi Sleeper (2+2),14:30,06h 30m,21:00,Private Bus Stand
+354,FlixBus,INR 1348,5.0,36 Seats available,A/C Seater (2+2),20:30,07h 00m,03:30,Private Bus Stand
+355,FlixBus,INR 1348,2.7,33 Seats available,A/C Seater (2+2),18:30,07h 10m,01:40,Private Bus Stand
+356,IntrCity SmartBus,INR 1838,4.9,49 Seats available,Volvo A/C Semi Sleeper (2+2),19:30,07h 05m,02:35,Private Bus Stand
+357,City Land Travels,1338,4.8,22 Seats available,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),11:15,06h 50m,18:05,zingbus Lounge Manali 200 m F...
+358,Zingbus Plus,989,2.7,12 Seats available,Volvo A/C Semi Sleeper (2+2),21:30,06h 20m,03:50,Manali
+359,SPEED BUS,860,2.5,46 Seats available,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),18:45,07h 25m,02:10,zingbus Lounge Manali 200 m F...
+360,City Land Travels,1338,3.7,29 Seats available,Volvo A/C Semi Sleeper (2+2),13:30,07h 00m,20:30,zingbus Lounge Manali 200 m F...
+361,Himgiri Adventure Tour,719,3.2,35 Seats available,Bharat Benz A/C Semi Sleeper (2+2),19:50,0-16h 0-50m,04:00,zingbus Lounge Manali 200 m F...
+362,Deltin Travels,INR 1400,3.1,32 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),17:00,06h 59m,23:59,zingbus Lounge Manali 200 m F...
+363,Abtc Tour and Travels,699,1.7,32 Seats available,Bharat Benz A/C Semi Sleeper (2+2),20:30,08h 00m,04:30,Private Bus Stand
+364,IntrCity SmartBus,INR 1414,2.8,26 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),17:00,07h 05m,00:05,Private Bus Stand
+365,Deltin Travels,INR 1470,4.4,41 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),20:30,05h 30m,02:00,Private Bus Stand
+366,City Land Travels,1400,4.4,53 Seats available,Volvo A/C Semi Sleeper (2+2),20:10,08h 20m,04:30,Private Bus Stand
+367,R S YADAV SMART BUS PRIVATE LIMITED,1804,4.3,3 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),17:50,08h 55m,02:45,Private Bus Stand
+368,R S YADAV SMART BUS PRIVATE LIMITED,1093,4.3,35 Seats available,VE A/C Semi Sleeper (2+2),18:50,08h 55m,03:45,Private Bus Stand
+369,Zingbus Plus,989,4.3,35 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),20:30,06h 25m,02:55,Private Bus Stand
+370,Malana Travels,INR 1399,4.3,35 Seats available,Volvo 9600 Multi Axle Semi-Sleeper (2+2),20:00,07h 00m,03:00,Private Bus Stand
+371,Zingbus Plus,1286,4.3,33 Seats available,Volvo A/C Semi Sleeper (2+2),18:45,06h 10m,00:55,Manali
+372,Zingbus Plus,1201,4.3,37 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),20:15,06h 05m,02:20,Private Bus Stand
+373,Zingbus Plus,1637,3.5,49 Seats available,Volvo A/C Semi Sleeper (2+2),19:05,06h 25m,01:30,Private Bus Stand
+374,Zingbus Plus,1186,4.0,28 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),19:45,06h 10m,01:55,Zingbus Lounge Manali
+375,City Land Travels,1738,4.0,30 Seats available,Volvo A/C Semi Sleeper (2+2),22:00,06h 00m,04:00,Private Bus Stand
+376,Om Sidh Express,1439,4.2,21 Seats available,Volvo A/C (2+2),19:00,06h 00m,01:00,Private Bus Stand
+377,Holiday Appeal Private Limited,1899,3.9,30 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),18:00,08h 00m,02:00,Manali privet parking
+378,Laxmi holidays,1529,3.9,2 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),19:00,07h 00m,02:00,Manali
+379,Reo India Travels,1197,3.9,49 Seats available,Volvo A/C Semi Sleeper (2+2),17:25,06h 34m,23:59,zingbus Lounge Manali 200 m F...
+380,Himalayan Nomad KTC,1485,3.9,27 Seats available,Volvo A/C Semi Sleeper (2+2),18:00,09h 30m,03:30,Manali
+381,Himalayan Nomad KTC,1485,3.9,34 Seats available,Volvo A/C Semi Sleeper (2+2),16:30,09h 00m,01:30,Private Bus Stand
+382,Himalayan Nomad KTC,1485,3.9,27 Seats available,Volvo A/C Semi Sleeper (2+2),17:30,09h 30m,03:00,Manali
+383,Himalayan Nomad KTC,1395,3.8,39 Seats available,Volvo A/C Semi Sleeper (2+2),20:30,07h 00m,03:30,Private Bus Stand
+384,Reo India Travels,1197,3.8,42 Seats available,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),19:25,07h 20m,02:45,Private Bus Stand
+385,Deltin Travels,INR 1520,3.7,19 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),22:00,05h 00m,03:00,Private Bus Stand
+386,City Land Travels,1190,3.7,6 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),21:00,06h 00m,03:00,Private Bus Stand
+387,Shivay Holidays,INR 1069,3.6,8 Seats available,Volvo A/C Semi Sleeper (2+2),17:30,06h 45m,00:15,Private Bus Stand
+388,Metahills holidays,1350,3.5,5 Seats available,Scania A/C Semi Sleeper (2+2),19:30,07h 30m,03:00,Private Bus Stand
+389,City Land Travels,879,5.0,53 Seats available,Volvo A/C Semi Sleeper (2+2),17:00,07h 30m,00:30,Manali
+390,TRAVELLING INDIA,963,3.2,48 Seats available,Volvo A/C Semi Sleeper (2+2),18:00,08h 15m,02:15,Manali
+391,Ram Dalal Holidays,1258,4.3,17 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),21:00,06h 50m,03:50,Private Bus Stand
+392,City Land Travels,1438,2.5,22 Seats available,Volvo A/C Semi Sleeper (2+2),15:00,06h 30m,21:30,Private Bus Parking Manali
+393,Zingbus Plus,1292,3.2,35 Seats available,Volvo A/C Semi Sleeper (2+2),20:45,05h 50m,02:35,Manali
+394,Rajdhani Travels,INR 1099,1.7,26 Seats available,Bharat Benz A/C Seater (2+2),14:00,07h 15m,21:15,Private Bus Stand
+395,Zakir Flights,1079,1.9,53 Seats available,Volvo A/C Semi Sleeper (2+2),18:30,06h 25m,00:55,Private Bus Stand
+396,Himgiri Adventure Tour,719,3.0,49 Seats available,Bharat Benz A/C Semi Sleeper (2+2),13:40,0-16h 0-50m,21:50,Manali
+397,City Land Travels,1538,2.9,37 Seats available,Volvo A/C Semi Sleeper (2+2),23:10,07h 05m,06:15,Manali
+398,Golden Temple Volvo Bus Service,INR 786,2.9,45 Seats available,Volvo B11R Multi Axle Seater (2+2),20:00,07h 20m,03:20,Manali
+399,JN HOLIDAYS,1018,2.9,14 Seats available,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),19:00,06h 30m,01:30,Manali
+400,PAL Travel Lines,999,2.9,53 Seats available,Volvo A/C Semi Sleeper (2+2),17:30,07h 45m,01:15,Manali
+401,PAL Travel Lines,899,4.0,51 Seats available,Volvo A/C Semi Sleeper (2+2),21:15,08h 00m,05:15,Manali
+402,PAL Travel Lines,999,4.0,27 Seats available,Scania A/C Semi Sleeper (2+2),18:05,07h 45m,01:50,Manali
+403,Holiday Appeal Private Limited,1899,3.9,43 Seats available,Volvo Multi-Axle A/C Seater (2+2),21:00,08h 00m,05:00,Private Bus Stand
+404,Holiday Appeal Private Limited,1899,3.9,41 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),19:00,08h 00m,03:00,Private Bus Stand
+405,Reo India Travels,1197,3.9,33 Seats available,Volvo A/C Semi Sleeper (2+2),17:40,07h 20m,01:00,Private Bus Stand
+406,Reo India Travels,1197,2.6,16 Seats available,Volvo A/C Semi Sleeper (2+2),19:35,06h 45m,02:20,Manali
+407,Himalayan Nomad KTC,1485,2.3,29 Seats available,Volvo A/C Semi Sleeper (2+2),17:00,09h 00m,02:00,Manali
+408,Kartar Travels Private Limited,807,2.3,30 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),20:00,06h 45m,02:45,Manali
+409,RAO TRAVELS INDIA PVT LTD.,INR 1494,3.7,53 Seats available,Mercedes Benz A/C (2+2),17:00,08h 30m,01:30,Manali
+410,ROYAL SAFARI INDIA TRAVELS,1394,3.7,41 Seats available,A/C Semi Sleeper (2+2),21:00,07h 15m,04:15,Private Bus Stand
+411,Metahills holidays,1350,3.6,49 Seats available,Scania A/C Semi Sleeper (2+2),22:00,07h 30m,05:30,Private Bus Stand
+412,SPEED BUS,997,3.5,13 Seats available,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),13:00,07h 30m,20:30,Private Bus Stand
+413,City Land Travels,1338,3.5,18 Seats available,Volvo A/C Semi Sleeper (2+2),11:30,06h 50m,18:20,Manali
+414,HIMALAYAN HOLIDAYS,INR 1399,3.3,17 Seats available,Volvo A/C Semi Sleeper (2+2 ),17:30,08h 30m,02:00,Private Bus Stand
+415,HIMALAYAN HOLIDAYS,INR 1099,3.3,25 Seats available,Volvo A/C Semi Sleeper (2+2 ),18:00,08h 15m,02:15,Manali
+416,Subh Yatri Holidays,923,3.3,17 Seats available,Volvo A/C Semi Sleeper (2+2),18:30,05h 25m,23:55,MANALI
+417,Subh Yatri Holidays,923,3.3,31 Seats available,Volvo A/C Semi Sleeper (2+2),18:30,05h 25m,23:55,Private Bus Stand
+418,Subh Yatri Holidays,923,3.2,21 Seats available,Volvo A/C Semi Sleeper (2+2),17:30,06h 25m,23:55,
+419,Subh Yatri Holidays,923,3.2,41 Seats available,Volvo A/C Semi Sleeper (2+2),17:30,06h 25m,23:55,
+420,Travel Zap India Pvt LTD.,INR 999,3.2,,Volvo Multi-Axle A/C (2+2),20:00,07h 40m,03:40,
+421,Travel Zap India Pvt LTD.,INR 999,3.2,,Mercedes benz a/c Seater (2+2),20:30,07h 40m,04:10,
+422,Hari Das Tour &Travels,802,3.0,,Bharat Benz A/C Seater (2+2),19:00,05h 45m,00:45,
+423,Travel Zap India Pvt LTD.,INR 999,2.8,,Volvo Multi-Axle B9R A/c Semi Sleeper (2+2),19:00,06h 15m,01:15,
+424,Golden Temple Volvo Bus Service,INR 1499,2.8,,Bharat Benz A/C Semi Sleeper (2+2),19:50,07h 30m,03:20,
+425,TANISHQ HOLIDAYS TOUR,1349,2.7,,Volvo A/C Semi Sleeper (2+2),18:00,08h 00m,02:00,
+426,Cab India Travels,1200,2.7,,Volvo A/C Semi Sleeper (2+2),17:00,10h 00m,03:00,
+427,Northern Travels,INR 1500,2.5,,Volvo A/C Semi Sleeper (2+2),17:30,07h 45m,01:15,
+428,Travel hub,989,2.5,,Volvo A/C Semi Sleeper (2+2),16:00,08h 00m,00:00,
+429,Yatrabybus.com,INR 1599,2.4,,Bharat Benz A/C Semi Sleeper (2+2),16:00,07h 10m,23:10,
+430,Yatrabybus.com,INR 1599,2.3,,Scania Multi-Axle AC Semi Sleeper (2+2),17:00,07h 30m,00:30,
+431,SIDDHI VINAYAK TRAVELS,1044,2.3,,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),17:30,08h 05m,01:35,
+432,RAO TRAVELS INDIA PVT LTD.,INR 1234,2.3,,Mercedes Benz A/C (2+2),17:30,10h 15m,03:45,
+433,ROYAL SAFARI INDIA TRAVELS,1529,2.3,,Bharat Benz A/C Semi Sleeper (2+2),19:30,07h 15m,02:45,
+434,ROYAL SAFARI INDIA TRAVELS,1349,2.2,,Bharat Benz A/C Semi Sleeper (2+2),19:30,07h 15m,02:45,
+435,ROYAL SAFARI INDIA TRAVELS,1349,2.2,,Bharat Benz A/C Semi Sleeper (2+2),21:00,08h 00m,05:00,
+436,Himgiri Adventure Tour,1169,1.2,,Bharat Benz A/C Semi Sleeper (2+2),18:00,08h 30m,02:30,
+437,G.T.SHolidays,INR 999,,,Bharat Benz A/C Semi Sleeper (2+2),18:30,07h 30m,02:00,
+438,Vee Kay Travels,INR 1200,,,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),18:00,06h 55m,00:55,
+439,U.K Travels(India),INR 1349,,,Scania A/C Semi Sleeper (2+2),17:25,07h 40m,01:05,
+440,JN HOLIDAYS,1202,,,Volvo A/C Semi Sleeper (2+2),20:40,06h 50m,03:30,
+441,Laxmi holidays,1139,4.7,27 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),22:30,04h 50m,03:20,Kangra Lenskart Showroom
+442,Laxmi holidays,949,4.6,18 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),19:10,05h 50m,01:00,Kangra Lenskart Showroom
+443,Laxmi holidays,949,4.9,23 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),21:45,04h 50m,02:35,Kangra Lenskart Showroom
+444,Laxmi holidays,949,4.2,27 Seats available,VE A/C Semi Sleeper (2+2),19:35,04h 20m,23:55,Kangra Lenskart Showroom
+445,Laxmi holidays,949,5.0,31 Seats available,Volvo Multi-Axle A/C Semi Sleeper (2+2),20:45,05h 15m,02:00,Bus Stand
+446,Zingbus Plus,896,4.8,11 Seats available,Volvo A/C Semi Sleeper (2+2),20:10,04h 35m,00:45,Kangra By pass Near Tehsil Chowk
+447,Laxmi holidays,1149,4.8,43 Seats available,Volvo A/C Semi Sleeper (2+2),22:00,05h 20m,03:20,Kangra By pass Near Tehsil Chowk
+448,Laxmi holidays,854,4.8,27 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),20:30,05h 20m,01:50,kangra woodland showroom
+449,Raghukul Holidays,764,4.9,33 Seats available,Volvo A/C Semi Sleeper (2+2),20:00,04h 50m,00:50,kangra woodland showroom
+450,Raghukul Holidays,719,4.9,15 Seats available,Volvo A/C Semi Sleeper (2+2),21:50,05h 15m,03:05,Kangra (Bypass Bus stand)
+451,FlixBus,INR 690,4.5,35 Seats available,A/C Seater (2+2),18:40,06h 15m,00:55,Bus Stand
+452,Zingbus Plus,819,5.0,21 Seats available,Volvo Multi-Axle A/C Semisleeper (2+2),22:05,04h 40m,02:45,Old Sdm Court By Pass(Kangra)
+453,Bedi Travels,765,4.1,45 Seats available,Volvo 9600 Multi Axle Semi-Sleeper (2+2),19:45,05h 15m,01:00,Kangra
+454,Ram Dalal Holidays,925,4.6,15 Seats available,Volvo 9600 Multi Axle Semi-Sleeper (2+2),21:10,04h 45m,01:55,Kangra
+455,Ram Dalal Holidays,768,4.6,22 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),20:20,05h 10m,01:30,Kangra Bus Stand Woodland sho...
+456,City Land Travels,689,4.5,22 Seats available,Volvo A/C Semi Sleeper (2+2),21:20,05h 00m,02:20,Near Bus Stand (Gaurav Hotel)
+457,Bedi Travels,738,4.5,17 Seats available,Volvo A/C Semi Sleeper (2+2 ),22:15,04h 30m,02:45,Kangra By-Pass
+458,Bedi Travels,747,4.5,25 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),20:30,05h 15m,01:45,Woodland Showroom Kangra
+459,New Himalaya Travels,INR 700,3.7,18 Seats available,Volvo A/C Semi Sleeper (2+2),20:10,05h 05m,01:15,Kangra
+460,Ram Dalal Holidays,879,3.6,11 Seats available,Volvo A/C Semi Sleeper (2+2),20:30,04h 40m,01:10,SDM Court By-Pass Kangra
+461,New Himalaya Travels,INR 870,3.6,29 Seats available,Volvo A/C Semi Sleeper (2+2),20:45,04h 45m,01:30,Kangra Bypass
+462,Bharmani Travels,1079,3.6,27 Seats available,Volvo A/C Semi Sleeper (2+2),22:00,04h 30m,02:30,Kangra Bus Stand Woodland sho...
+463,City Land Travels,650,3.2,20 Seats available,Volvo A/C Semi Sleeper (2+2),19:40,05h 00m,00:40,Kangra ByPass
+464,City Land Travels,889,3.2,19 Seats available,Volvo A/C Semi Sleeper (2+2),20:40,04h 50m,01:30,Kangra
+465,City Land Travels,838,2.7,31 Seats available,Bharat Benz (2+2),20:00,03h 59m,23:59,Kangra Bypass
+466,A N Holidays,999,3.7,,Volvo A/C Semi Sleeper (2+2),21:15,02h 44m,23:59,
+467,A N Holidays,1249,,,Bharat Benz A/C Semi Sleeper (2+2),20:10,03h 49m,23:59,
+468,Northern Travels,INR 989,,,Volvo A/C Semi Sleeper (2+2),19:45,05h 15m,01:00,
+469,Bharmani Travels,899,,,Volvo A/C Semi Sleeper (2+2),21:05,05h 05m,02:10,
+470,HRTC - 6639,INR 595,3.7,27 Seats available,Himsuta AC Seater Volvo/Scania 2+2,20:45,06h 45m,03:30,Bus Stand
+471,HRTC - 6649,INR 322,3.7,35 Seats available,A/C Executive (2+3),13:50,06h 40m,20:30,Bus Stand
+472,HRTC - 6709,INR 325,3.9,,Ordinary 3+2 Non AC Seater,19:30,06h 15m,01:45,
+473,HRTC - 6753,INR 317,3.9,,Ordinary 3+2 Non AC Seater,10:30,07h 00m,17:30,
+474,Ram Dalal Holidays,823,4.7,8 Seats available,Volvo A/C Semi Sleeper (2+2),21:40,04h 25m,02:05,Near bus stand
+475,Laxmi holidays,854,4.0,26 Seats available,Volvo A/C Semi Sleeper (2+2),20:20,04h 55m,01:15,Hamirpur
+476,Northern Travels,INR 795,5.0,28 Seats available,Volvo A/C Semi Sleeper (2+2),21:45,03h 30m,01:15,Hamirpur
+477,NueGo,428,4.1,42 Seats available,Electric A/C Seater (2+2),07:25,04h 50m,12:15,Majnu Ka Tilla
+478,FlixBus,INR 387,3.9,14 Seats available,A/C Seater (2+2),09:00,05h 40m,14:40,Delhi Kashmere Gate (FlixBus ...
+479,NueGo,403,3.9,1 Seat available,Electric A/C Seater (2+2),09:00,05h 25m,14:25,Delhi RK Ashram (Flixbus Lounge)
+480,AdCity Land Travels,1038,3.4,39 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),23:55,04h 20m,04:15,ISBT Kashmiri Gate
+481,NueGo,428,3.4,5 Seats available,Electric A/C Seater (2+2),10:00,05h 05m,15:05,Delhi Kashmere Gate (FlixBus ...
+482,NueGo,428,3.5,29 Seats available,Electric A/C Seater (2+2),11:00,05h 25m,16:25,Majnu Ka Tilla
+483,NueGo,428,3.6,39 Seats available,Electric A/C Seater (2+2),12:00,05h 05m,17:05,"NueGo Lounge, Kashmiri Gate"
+484,AdCity Land Travels,1229,3.8,20 Seats available,Volvo A/C Semi Sleeper (2+2),18:00,05h 05m,23:05,Delhi Kashmere Gate (FlixBus ...
+485,NueGo,428,3.7,37 Seats available,Electric A/C Seater (2+2),13:00,05h 25m,18:25,ISBT Kashmiri Gate
+486,NueGo,428,3.7,36 Seats available,Electric A/C Seater (2+2),14:30,05h 05m,19:35,ISBT Kashmiri Gate
+487,NueGo,428,3.4,40 Seats available,Electric A/C Seater (2+2),15:30,05h 05m,20:35,Jamna Bazar -Red fort
+488,FlixBus,INR 411,3.8,44 Seats available,A/C Seater (2+2),16:00,05h 40m,21:40,Metro station gate no 4 near ...
+489,NueGo,428,3.9,28 Seats available,Electric A/C Seater (2+2),16:30,05h 25m,21:55,ISBT Kashmiri Gate
+490,NueGo,428,4.6,45 Seats available,Electric A/C Seater (2+2),17:30,05h 05m,22:35,ISBT Kashmiri Gate
+491,FlixBus,INR 1123,3.9,1 Seat available,A/C Seater (2+2),18:30,06h 00m,00:30,ISBT Kashmiri Gate
+492,FlixBus,INR 1407,4.2,31 Seats available,A/C Seater (2+2),19:00,06h 30m,01:30,ISBT Kashmiri Gate
+493,NueGo,428,3.9,47 Seats available,Electric A/C Seater (2+2),22:00,05h 15m,03:15,ISBT Kashmiri Gate
+494,FlixBus,INR 1308,3.2,27 Seats available,A/C Seater (2+2),22:00,05h 45m,03:45,RK Ashram
+495,Ram Dalal Holidays,1027,3.6,30 Seats available,Mercedes Multi-Axle Semi Sleeper (2+2),23:00,05h 15m,04:15,Redfort
+496,NueGo,428,3.9,37 Seats available,Electric A/C Seater (2+2),23:00,05h 35m,04:35,ISBT Kashmiri Gate
+497,FlixBus,INR 1089,3.6,20 Seats available,A/C Seater (2+2),23:55,05h 00m,04:55,ISBT Kashmiri Gate
+498,NueGo,428,4.4,28 Seats available,Electric A/C Seater (2+2),23:55,05h 15m,05:10,Majnu Ka Tilla
+499,Khurana Bus Service,550,4.6,35 Seats available,Volvo A/C (2+2),08:00,06h 20m,14:20,RK Ashram
+500,Khurana Bus Service,553,3.2,11 Seats available,Volvo A/C (2+2),08:00,06h 25m,14:25,RK Ashram
+501,City Land Travels,673,3.2,32 Seats available,Volvo A/C Semi Sleeper (2+2),08:10,05h 30m,13:40,RK Ashram
+502,City Land Travels,529,3.9,5 Seats available,Volvo A/C Semi Sleeper (2+2),09:00,05h 30m,14:30,Majnu Ka Tilla
+503,City Land Travels,529,3.2,30 Seats available,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),09:00,05h 30m,14:30,ISBT Kashmiri Gate
+504,City Land Travels,529,4.3,41 Seats available,Volvo A/C Semi Sleeper (2+2),09:15,05h 30m,14:45,Majnu Ka Tilla
+505,City Land Travels,583,4.5,49 Seats available,Volvo A/C Semi Sleeper (2+2),09:40,05h 20m,15:00,ISBT Kashmiri Gate
+506,Khurana Bus Service,INR 499,3.6,14 Seats available,Bharat Benz A/C Semi Sleeper (2+2),09:55,07h 40m,17:35,ISBT Kashmiri Gate
+507,Khurana Bus Service,INR 499,4.6,37 Seats available,Bharat Benz A/C Semi Sleeper (2+2),09:55,06h 35m,16:30,Redfort
+508,NueGo,484,3.6,19 Seats available,Electric A/C Seater (2+2),12:25,04h 50m,17:15,ISBT Kashmiri Gate
+509,City Land Travels,1238,4.3,37 Seats available,Volvo A/C Semi Sleeper (2+2),16:30,06h 00m,22:30,ISBT Kashmiri Gate
+510,IntrCity SmartBus,INR 916,4.4,24 Seats available,AC Sleeper (2+1),16:30,06h 50m,23:20,ISBT Kashmiri Gate
+511,Laxmi holidays,586,4.1,25 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),17:00,06h 05m,23:05,ISBT Kashmiri Gate
+512,City Land Travels,1238,3.5,18 Seats available,Volvo A/C Semi Sleeper (2+2),17:00,06h 00m,23:00,RK Ashram
+513,Laxmi holidays,1234,3.6,31 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),17:00,05h 50m,22:50,ISBT Kashmiri Gate
+514,City Land Travels,1438,4.3,45 Seats available,Volvo A/C Seater (2+2),17:00,05h 45m,22:45,ISBT Kashmiri Gate
+515,IntrCity SmartBus,INR 614,4.8,48 Seats available,A/C Seater / Sleeper (2+1),17:30,07h 00m,00:30,ISBT Kashmiri Gate
+516,Laxmi holidays,532,4.7,30 Seats available,Volvo Multi-Axle A/C Semi Sleeper (2+2),17:30,05h 50m,23:20,ISBT Kashmiri Gate
+517,Laxmi holidays,599,4.8,50 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),17:30,05h 30m,23:00,Metro station gate no 4 near ...
+518,Goel Tourist (Regd),INR 550,3.3,17 Seats available,A/C Seater / Sleeper (2+2),17:30,05h 45m,23:15,ISBT Kashmiri Gate
+519,Ashok Bus Service,522,3.3,36 Seats available,VE A/C Seater / Sleeper (2+1),17:50,06h 50m,00:40,ISBT Kashmiri Gate
+520,Zingbus Plus,573,3.2,45 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),17:55,05h 10m,23:05,ISBT Kashmiri Gate
+521,Zingbus Plus,802,3.6,28 Seats available,Volvo A/C Semi Sleeper (2+2),17:55,05h 20m,23:15,ISBT Kashmiri Gate
+522,Laxmi holidays,1234,4.5,28 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),18:00,05h 30m,23:30,ISBT Kashmiri Gate
+523,Malana Travels,INR 1399,4.6,19 Seats available,Bharat Benz A/C Semi Sleeper (2+2),18:00,05h 00m,23:00,Majnu ka tilla Potala Ground ...
+524,Subh Yatri Holidays,949,4.0,32 Seats available,Volvo A/C Semi Sleeper (2+2),18:00,05h 45m,23:45,ISBT Kashmiri Gate
+525,Subh Yatri Holidays,1223,4.5,8 Seats available,Volvo A/C Semi Sleeper (2+2),18:00,05h 45m,23:45,Majnu Ka Tilla
+526,Jamna Travels (Delhi),INR 699,4.8,12 Seats available,A/C Seater / Sleeper (2+2),18:00,05h 29m,23:29,Shop no-21 new lajpat rai mar...
+527,Travel Point,994,4.2,39 Seats available,A/C Seater / Sleeper (2+2),18:00,06h 15m,00:15,ISBT GATE NUMBER 3
+528,Gola Bus Service,INR 599,4.7,7 Seats available,A/C Seater/Sleeper (2+1),18:00,06h 05m,00:05,ISBT Kashmiri Gate
+529,Laxmi holidays,618,3.9,24 Seats available,Bharat Benz A/C Sleeper (2+1),18:00,05h 30m,23:30,ISBT Kashmiri Gate
+530,Holiday Appeal Private Limited,949,5.0,14 Seats available,Bharat Benz A/C Semi Sleeper (2+2),18:00,04h 45m,22:45,RK Ashram
+531,Gola Bus Service,INR 1999,4.3,41 Seats available,VE A/C Seater / Sleeper (2+1),18:00,06h 05m,00:05,Jamna Bazar -Red fort
+532,Malana Travels,INR 1499,4.5,29 Seats available,Bharat Benz A/C Semi Sleeper (2+2),18:30,05h 00m,23:30,Kashmiri Gate Metro Gate No. 5
+533,Deltin Travels,INR 550,4.5,17 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),18:30,05h 30m,00:00,ISBT Kashmiri Gate
+534,Laxmi holidays,1234,3.7,23 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),18:30,05h 15m,23:45,Majnu Ka Tilla
+535,Laxmi holidays,1520,4.6,32 Seats available,Volvo A/C Semi Sleeper (2+2),18:30,05h 00m,23:30,ISBT Kashmiri Gate
+536,IntrCity SmartBus,INR 866,3.2,32 Seats available,VE A/C Seater / Sleeper (2+1),18:30,07h 00m,01:30,ISBT Kashmiri Gate
+537,Laxmi holidays,1900,3.3,36 Seats available,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:30,05h 20m,23:50,Kashmiri gate metro station g...
+538,Ram Dalal Holidays,629,4.5,32 Seats available,A/C Seater/Sleeper (2+1),18:30,05h 05m,23:35,ISBT Kashmiri Gate
+539,Ram Dalal Holidays,1388,4.7,19 Seats available,Bharat Benz (2+2),18:30,05h 00m,23:30,ISBT Kashmiri Gate
+540,City Land Travels,919,4.0,15 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),18:40,05h 20m,00:00,Majnu Ka Tilla
+541,IntrCity SmartBus,INR 499,4.3,24 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),18:40,06h 20m,01:00,ISBT Kashmiri Gate
+542,NueGo,484,4.6,22 Seats available,Electric A/C Seater (2+2),18:40,04h 55m,23:35,ISBT Kashmiri Gate
+543,Lavish Travels,476,4.6,41 Seats available,A/C Seater / Sleeper (2+2),18:50,06h 10m,01:00,Kashmiri Gate Metro Gate No. 5
+544,Gola Bus Service,INR 599,4.4,21 Seats available,VE A/C Seater / Sleeper (2+1),19:00,05h 45m,00:45,Majnu Ka Tilla
+545,Laxmi holidays,1139,4.6,29 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),19:00,04h 55m,23:55,Majnu Ka Tilla
+546,Holiday Appeal Private Limited,1709,3.9,37 Seats available,Volvo A/C Semi Sleeper (2+2),19:00,04h 45m,23:45,Manju ka tila potala ground ...
+547,Malana Travels,INR 1299,3.9,18 Seats available,Volvo A/C Semi Sleeper (2+2),19:00,04h 59m,23:59,ISBT Kashmiri Gate
+548,Laxmi holidays,1044,3.5,26 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),19:00,04h 55m,23:55,ISBT Kashmiri Gate
+549,Laxmi holidays,1329,4.1,32 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),19:00,05h 15m,00:15,ISBT Kashmiri Gate
+550,Zingbus Plus,1033,3.4,14 Seats available,Volvo A/C Semi Sleeper (2+2),19:10,05h 10m,00:20,ISBT Kashmiri Gate
+551,R S YADAV SMART BUS PRIVATE LIMITED,1947,3.8,32 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),19:15,06h 14m,01:29,Majnu Ka Tilla
+552,Himalayan Nomad KTC,1395,4.5,34 Seats available,Volvo A/C Semi Sleeper (2+2),19:15,05h 00m,00:15,Majnu Ka Tilla
+553,Yolo Bus,INR 650,4.5,22 Seats available,A/C Seater/Sleeper (2+1),19:15,04h 48m,00:03,ISBT Kashmiri Gate
+554,TRAVELLING INDIA,1071,3.5,20 Seats available,Volvo A/C Semi Sleeper (2+2),19:20,05h 25m,00:45,ISBT Kashmiri Gate
+555,City Land Travels,1038,4.6,16 Seats available,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),19:25,05h 40m,01:05,ISBT Kashmiri Gate
+556,Deltin Travels,INR 1420,3.8,52 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),19:30,04h 29m,23:59,Lal Kila
+557,Rao Travel Heights,1549,4.1,18 Seats available,Volvo A/C Semi Sleeper (2+2),19:30,05h 20m,00:50,ISBT Kashmiri Gate
+558,Ram Dalal Holidays,1489,3.2,38 Seats available,Bharat Benz (2+2),19:30,04h 40m,00:10,ISBT Kashmiri Gate
+559,Laxmi holidays,1747,4.7,31 Seats available,Volvo A/C Semi Sleeper (2+2),19:30,04h 50m,00:20,Kashmiri gate metro station g...
+560,Goel Tourist (Regd),INR 550,3.9,48 Seats available,A/C Sleeper (2+1),19:30,05h 45m,01:15,ISBT Kashmiri Gate
+561,Ram Dalal Holidays,490,3.9,41 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),19:30,05h 35m,01:05,Majnu Ka Tilla
+562,SAFAR EXPRESS PVT LTD,523,3.7,29 Seats available,A/C Seater / Sleeper (2+2),19:30,04h 56m,00:26,Majnu Ka Tilla
+563,Laxmi holidays,665,3.6,46 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),19:30,05h 20m,00:50,Jamana Bazar Redfort
+564,A N Holidays,949,3.5,27 Seats available,Bharat Benz A/C Semi Sleeper (2+2),19:30,03h 55m,23:55,Majnu Ka Tilla
+565,Laxmi holidays,1671,4.4,26 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),19:30,05h 00m,00:30,ISBT Kashmiri Gate
+566,Himalayan Nomad KTC,1395,4.4,6 Seats available,Volvo A/C Semi Sleeper (2+2),19:31,05h 14m,00:45,ISBT Kashmiri Gate
+567,Reo India Travels,1197,3.6,28 Seats available,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),19:35,04h 24m,23:59,ISBT Kashmiri Gate
+568,Bharmani Travels,1079,3.9,25 Seats available,Volvo A/C Semi Sleeper (2+2),19:40,06h 00m,01:40,Majnu Ka Tilla
+569,City Land Travels,938,4.4,25 Seats available,Volvo A/C Seater (2+2),19:40,05h 40m,01:20,"NueGo Lounge, Kashmiri Gate"
+570,HIMALAYAN HOLIDAYS,INR 1399,4.0,23 Seats available,Volvo A/C Semi Sleeper (2+2 ),19:40,04h 10m,23:50,ISBT Kashmiri Gate
+571,R S YADAV SMART BUS PRIVATE LIMITED,INR 2099,3.8,45 Seats available,VE A/C Seater / Sleeper (2+1),19:41,05h 10m,00:51,Majnu Ka Tilla
+572,BT Travels,1092,4.1,29 Seats available,Bharat Benz A/C Semi Sleeper (2+2),19:45,05h 45m,01:30,ISBT Kashmiri Gate
+573,Travel Point,994,3.5,25 Seats available,A/C Seater / Sleeper (2+2),19:45,06h 15m,02:00,Majnu Ka Tilla
+574,City Land Travels,1039,4.4,50 Seats available,Volvo A/C Semi Sleeper (2+2),19:55,04h 45m,00:40,Metro station gate no 4 near ...
+575,R S YADAV SMART BUS PRIVATE LIMITED,1614,4.0,18 Seats available,VE A/C Semi Sleeper (2+2),19:55,04h 13m,00:08,Majnu Ka Tilla
+576,SPEED BUS,INR 1610,3.2,41 Seats available,Volvo AC Seater (2+2),20:00,05h 00m,01:00,Jamna Bazar -Red fort
+577,New Himalaya Travels,INR 1030,3.2,17 Seats available,Volvo A/C Semi Sleeper (2+2),20:00,05h 00m,01:00,ISBT Kashmiri Gate
+578,SPEED BUS,INR 860,5.0,29 Seats available,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),20:00,05h 00m,01:00,Majnu Ka Tilla
+579,HIMALAYAN HOLIDAYS,INR 1399,4.7,21 Seats available,Volvo A/C Semi Sleeper (2+2 ),20:00,03h 59m,23:59,ISBT Kashmiri Gate
+580,Raghukul Holidays,1079,3.9,38 Seats available,Volvo A/C Semi Sleeper (2+2),20:00,05h 00m,01:00,ISBT Kashmiri Gate
+581,Laxmi holidays,1709,3.6,23 Seats available,Volvo A/C Semi Sleeper (2+2),20:00,04h 30m,00:30,Mahipalpur
+582,Holiday Appeal Private Limited,1044,3.7,23 Seats available,Volvo A/C Semi Sleeper (2+2),20:00,04h 45m,00:45,Mahipalpur
+583,Jamna Travels (Delhi),INR 699,4.7,23 Seats available,A/C Seater / Sleeper (2+2),20:00,05h 29m,01:29,Majnu Ka Tilla
+584,Hari Das Tour &Travels,759,3.1,20 Seats available,Bharat Benz A/C Seater (2+2),20:00,04h 45m,00:45,Majnu Ka Tilla
+585,Ram Dalal Holidays,555,4.8,18 Seats available,Volvo A/C Semi Sleeper (2+2),20:00,05h 05m,01:05,Majnu Ka Tilla
+586,Laxmi holidays,1149,3.6,42 Seats available,Volvo A/C Semi Sleeper (2+2),20:00,05h 30m,01:30,Majnu Ka Tilla
+587,Himalayan Nomad KTC,1395,4.7,34 Seats available,Volvo A/C Semi Sleeper (2+2),20:00,06h 15m,02:15,ISBT Kashmiri Gate
+588,Ashok Bus Service,664,3.7,30 Seats available,A/C Seater / Sleeper (2+2),20:00,06h 15m,02:15,ISBT Kashmiri Gate
+589,Shivay Holidays,INR 1189,4.6,34 Seats available,Volvo A/C Semi Sleeper (2+2),20:00,05h 30m,01:30,ISBT Kashmiri Gate
+590,Laxmi holidays,1766,4.0,12 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),20:00,05h 30m,01:30,ISBT Kashmiri Gate
+591,Northern Travels,INR 1089,3.5,37 Seats available,Volvo A/C Semi Sleeper (2+2),20:00,05h 20m,01:20,ISBT Kashmiri Gate
+592,Laxmi holidays,1234,4.5,33 Seats available,Volvo Multi-Axle A/C Semi Sleeper (2+2),20:00,05h 00m,01:00,Majnu Ka Tilla
+593,City Land Travels,838,3.7,49 Seats available,Volvo A/C Seater (2+2),20:00,05h 40m,01:40,Kashmiri gate metro station g...
+594,Shiv Mohan Travels,INR 1573,4.9,23 Seats available,AC Sleeper (2+1),20:10,06h 20m,02:30,ISBT Kashmiri Gate
+595,Bharmani Travels,1259,5.0,35 Seats available,Volvo A/C Semi Sleeper (2+2),20:15,04h 55m,01:10,Majnu Ka Tilla
+596,Bedi Travels,504,3.2,39 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),20:15,05h 30m,01:45,Majnu Ka Tilla
+597,Ram Dalal Holidays,1647,4.8,26 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),20:25,05h 10m,01:35,RK Ashram
+598,City Land Travels,1019,3.6,12 Seats available,Volvo A/C Semi Sleeper (2+2),20:30,05h 00m,01:30,ISBT Kashmiri Gate
+599,Laxmi holidays,1424,4.3,36 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),20:30,05h 20m,01:50,Majnu Ka Tilla
+600,Shivay Holidays,INR 890,5.0,32 Seats available,A/C Seater / Sleeper (2+2),20:30,05h 30m,02:00,Majnu Ka Tilla
+601,IntrCity SmartBus,INR 499,4.3,20 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),20:30,05h 30m,02:00,Majnu Ka Tilla
+602,Triptara tour & Travel,1100,4.6,18 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),20:30,05h 10m,01:40,Majnu Ka Tilla
+603,Raghukul Holidays,1259,3.0,20 Seats available,Volvo A/C Semi Sleeper (2+2),20:30,05h 30m,02:00,Majnu Ka Tilla
+604,Travel Zap India Pvt LTD.,INR 1599,4.6,21 Seats available,Mercedes benz a/c Seater (2+2),20:30,03h 29m,23:59,ISBT Kashmiri Gate
+605,Laxmi holidays,1804,4.9,50 Seats available,Volvo A/C Semi Sleeper (2+2),20:30,04h 55m,01:25,Metro station gate no 4 near ...
+606,Deltin Travels,INR 1190,3.2,35 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),20:30,05h 00m,01:30,ISBT Kashmiri Gate
+607,IntrCity SmartBus,INR 766,5.0,29 Seats available,A/C Seater / Sleeper (2+1),20:30,06h 45m,03:15,Majnu Ka Tilla
+608,Ram Dalal Holidays,1758,4.3,47 Seats available,Volvo A/C Semi Sleeper (2+2),20:30,04h 40m,01:10,ISBT Kashmiri Gate
+609,Zingbus Plus,1206,3.7,41 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),20:40,05h 25m,02:05,Majnu Ka Tilla
+610,Zingbus Plus,556,4.4,27 Seats available,Scania A/C Semi Sleeper (2+2),20:55,04h 45m,01:40,Majnu Ka Tilla
+611,Laxmi holidays,1614,4.0,30 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),21:00,05h 15m,02:15,ISBT Kashmiri Gate
+612,Zingbus Plus,1599,4.3,30 Seats available,Volvo A/C Semi Sleeper (2+2),21:00,05h 00m,02:00,ISBT Kashmiri Gate
+613,Laxmi holidays,532,3.8,20 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),21:00,04h 55m,01:55,Majnu Ka Tilla
+614,Hari Das Tour &Travels,854,4.5,13 Seats available,A/C Seater / Sleeper (2+2),21:00,04h 30m,01:30,Majnu Ka Tilla
+615,Bedi Travels,1098,3.6,25 Seats available,Volvo 9600 Multi Axle Semi-Sleeper (2+2),21:00,04h 45m,01:45,Majnu Ka Tilla
+616,Laxmi holidays,1234,4.5,29 Seats available,Volvo A/C Semi Sleeper (2+2),21:00,05h 00m,02:00,Majnu Ka Tilla
+617,Metahills holidays,1350,4.7,28 Seats available,Scania A/C Semi Sleeper (2+2),21:00,04h 21m,01:21,Majnu Ka Tilla
+618,R S YADAV SMART BUS PRIVATE LIMITED,INR 2099,4.6,16 Seats available,VE A/C Seater / Sleeper (2+1),21:01,05h 10m,02:11,ISBT Kashmiri Gate
+619,Holiday Appeal Private Limited,1899,3.8,39 Seats available,Volvo A/C Semi Sleeper (2+2),21:05,04h 45m,01:50,ISBT Kashmiri Gate
+620,Zingbus Plus,556,4.8,17 Seats available,Volvo A/C Semi Sleeper (2+2),21:10,05h 25m,02:35,"NueGo Lounge, Kashmiri Gate"
+621,Awadh Travels,1079,4.0,37 Seats available,A/C Sleeper (2+2),21:10,05h 20m,02:30,Majnu Ka Tilla
+622,New Himalaya Travels,INR 1040,4.3,26 Seats available,Volvo A/C Semi Sleeper (2+2),21:15,04h 05m,01:20,Majnu Ka Tilla
+623,City Land Travels,1019,4.7,32 Seats available,Volvo A/C Semi Sleeper (2+2),21:20,04h 20m,01:40,ISBT Kashmiri Gate
+624,Ram Dalal Holidays,1323,3.6,44 Seats available,Volvo A/C Semi Sleeper (2+2),21:20,04h 40m,02:00,ISBT Kashmiri Gate
+625,Laxmi holidays,1197,4.9,26 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),21:20,04h 55m,02:15,Majnu Ka Tilla
+626,Zingbus Plus,1033,3.6,35 Seats available,Volvo A/C Semi Sleeper (2+2),21:25,04h 35m,02:00,ISBT Kashmiri Gate
+627,NueGo,683,4.9,46 Seats available,Electric A/C Seater (2+2),21:30,05h 45m,03:15,Majnu Ka Tilla
+628,Laxmi holidays,1425,5.0,29 Seats available,Volvo 9600 Multi-Axle A/C Sleeper (2+1),21:30,05h 00m,02:30,Majnu Ka Tilla
+629,Holiday Appeal Private Limited,1994,4.3,28 Seats available,Bharat Benz A/C Semi Sleeper (2+2),21:30,04h 30m,02:00,RK Ashram
+630,Malana Travels,INR 1799,4.5,25 Seats available,Volvo 9600 Multi Axle Semi-Sleeper (2+2),21:30,05h 00m,02:30,ISBT Kashmiri Gate
+631,Zingbus Plus,1079,4.7,25 Seats available,Volvo A/C Semi Sleeper (2+2),21:30,05h 00m,02:30,ISBT Kashmiri Gate
+632,Travel Point,994,4.3,31 Seats available,A/C Seater / Sleeper (2+2),21:30,05h 45m,03:15,ISBT Kashmiri Gate
+633,Ram Dalal Holidays,1452,3.9,31 Seats available,Volvo 9600 Multi Axle Semi-Sleeper (2+2),21:45,04h 30m,02:15,ISBT Kashmiri Gate
+634,Ashok Bus Service,664,4.8,50 Seats available,A/C Seater / Sleeper (2+2),21:45,05h 45m,03:30,ISBT Kashmiri Gate
+635,Bedi Travels,1152,4.4,32 Seats available,Volvo A/C Semi Sleeper (2+2 ),21:45,04h 45m,02:30,ISBT Kashmiri Gate
+636,Zingbus Plus,1197,4.5,50 Seats available,Volvo A/C Semi Sleeper (2+2),21:45,05h 10m,02:55,ISBT Kashmiri Gate
+637,Deltin Travels,INR 1690,3.6,36 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),21:50,04h 40m,02:30,ISBT Kashmiri Gate
+638,Laxmi holidays,828,3.7,25 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),21:50,05h 10m,03:00,Majnu Ka Tilla
+639,Ram Dalal Holidays,712,4.3,33 Seats available,Volvo A/C Semi Sleeper (2+2),21:50,07h 05m,04:55,Majnu Ka Tilla
+640,Ram Dalal Holidays,712,4.9,41 Seats available,Volvo A/C Semi Sleeper (2+2),21:50,06h 55m,04:45,Majnu Ka Tilla
+641,Reo India Travels,1197,4.7,41 Seats available,Volvo A/C Semi Sleeper (2+2),21:55,04h 45m,02:40,Majnu Ka Tilla
+642,Zingbus Plus,1180,4.0,36 Seats available,Volvo A/C Semi Sleeper (2+2),21:55,04h 40m,02:35,Majnu Ka Tilla
+643,IntrCity SmartBus,INR 1704,3.7,37 Seats available,Volvo A/C Semi Sleeper (2+2),21:55,05h 05m,03:00,RK Ashram
+644,Ram Dalal Holidays,1489,4.5,15 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),21:55,05h 10m,03:05,Majnu Ka Tilla
+645,City Land Travels,850,5.0,22 Seats available,Volvo A/C Seater (2+2),22:00,05h 40m,03:40,Majnu Ka Tilla
+646,SPEED BUS,INR 1977,4.8,31 Seats available,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),22:00,05h 00m,03:00,Majnu Ka Tilla
+647,Laxmi holidays,570,4.5,32 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),22:00,05h 10m,03:10,Majnu Ka Tilla
+648,Laxmi holidays,1709,3.6,14 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),22:00,05h 10m,03:10,Nirmal Hriday Church MajnuTila
+649,Laxmi holidays,1329,4.5,39 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),22:00,04h 50m,02:50,Majnu Ka Tilla
+650,Holiday Appeal Private Limited,1994,3.6,27 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),22:00,04h 30m,02:30,Majnu Ka Tilla
+651,Metahills holidays,2250,4.4,17 Seats available,Scania A/C Semi Sleeper (2+2),22:00,04h 21m,02:21,Majnu Ka Tilla
+652,Laxmi holidays,1179,3.6,29 Seats available,Bharat Benz A/C Sleeper (2+1),22:00,05h 10m,03:10,Kashmiri Gate Metro Gate no.4
+653,Zingbus Plus,556,3.9,42 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),22:05,04h 00m,02:05,Red Fort Metro Station
+654,Zingbus Plus,1055,4.7,36 Seats available,Volvo Multi-Axle A/C Semisleeper (2+2),22:05,04h 40m,02:45,Civil Lines
+655,IntrCity SmartBus,INR 732,3.6,26 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),22:10,06h 05m,04:15,ISBT Kashmiri Gate
+656,City Land Travels,850,4.8,33 Seats available,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),22:20,05h 00m,03:20,Majnu Ka Tilla
+657,Zingbus Plus,1131,4.3,42 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),22:25,04h 35m,03:00,Redfort
+658,City Land Travels,1838,4.8,39 Seats available,Volvo A/C Semi Sleeper (2+2),22:30,05h 00m,03:30,Red Fort Metro Station Gate No 1
+659,City Land Travels,1238,4.3,27 Seats available,Volvo A/C Semi Sleeper (2+2),22:30,04h 30m,03:00,Majnu Ka Tilla
+660,City Land Travels,1338,4.5,53 Seats available,Volvo A/C Semi Sleeper (2+2),22:30,05h 30m,04:00,ISBT Kashmiri Gate
+661,City Land Travels,1238,4.7,42 Seats available,Volvo A/C Semi Sleeper (2+2),22:30,04h 15m,02:45,Redfort
+662,Laxmi holidays,1072,4.6,52 Seats available,Bharat Benz A/C Sleeper (2+1),22:30,05h 15m,03:45,Shop No 9 Capital Holidays
+663,Travel Point,723,5.0,33 Seats available,A/C Seater / Sleeper (2+2),22:30,05h 45m,04:15,ISBT Kashmiri Gate
+664,Yolo Bus,INR 1349,4.3,40 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),22:33,04h 24m,02:57,Jama Masjid (Metro Station Ga...
+665,Zingbus Plus,1386,5.0,35 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),22:40,05h 00m,03:40,Red Fort
+666,Laxmi holidays,1519,4.7,50 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),22:40,05h 05m,03:45,Sunari majid parking lot near...
+667,City Land Travels,938,3.0,16 Seats available,Volvo A/C Semi Sleeper (2+2),22:40,04h 20m,03:00,KASHMIRE GATE No04 NEAR HP PE...
+668,Ram Dalal Holidays,962,5.0,42 Seats available,Volvo A/C Semi Sleeper (2+2),22:45,04h 30m,03:15,ISBT Kashmiri Gate
+669,Laxmi holidays,997,4.2,40 Seats available,Bharat Benz A/C Semi Sleeper (2+2),22:50,05h 10m,04:00,ISBT Kashmiri Gate
+670,Laxmi holidays,997,4.6,53 Seats available,Bharat Benz A/C Semi Sleeper (2+2),22:50,21h 30m,20:20,Majnu ka tilla Potala Ground ...
+671,Zingbus Plus,455,4.2,30 Seats available,Scania A/C Semi Sleeper (2+2),22:50,04h 10m,03:00,Majnu Ka Tilla
+672,Zingbus Plus,1082,4.0,25 Seats available,Volvo A/C Semi Sleeper (2+2),22:55,04h 35m,03:30,ISBT Kashmiri Gate
+673,Zingbus Plus,1062,4.5,29 Seats available,Volvo A/C Semi Sleeper (2+2),22:55,04h 35m,03:30,"NueGo Lounge, Kashmiri Gate"
+674,Zingbus Plus,870,4.7,19 Seats available,Volvo A/C Semi Sleeper (2+2),22:55,05h 20m,04:15,ISBT Kashmiri Gate
+675,City Land Travels,550,3.6,21 Seats available,A/C Seater/Sleeper (2+1),23:00,04h 50m,03:50,ISBT Kashmiri Gate
+676,Bedi Travels,791,4.6,53 Seats available,Volvo A/C Semi Sleeper (2+2 ),23:00,04h 50m,03:50,Majnu Ka Teela
+677,Deltin Travels,INR 1230,4.0,40 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),23:00,05h 19m,04:19,Majnu Ka Tilla
+678,NueGo,827,5.0,38 Seats available,Electric A/C Seater (2+2),23:00,05h 25m,04:25,Shop No 9 Capital Holidays
+679,Deltin Travels,INR 1440,4.7,20 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),23:00,05h 00m,04:00,Redfort
+680,City Land Travels,1338,4.8,14 Seats available,Volvo A/C Semi Sleeper (2+2),23:00,05h 00m,04:00,"NueGo Lounge, Kashmiri Gate"
+681,Laxmi holidays,1804,5.0,41 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),23:00,05h 10m,04:10,Majnu Ka Tilla
+682,Laxmi holidays,642,4.5,34 Seats available,Bharat Benz A/C Seater /Sleeper (2+1),23:00,04h 50m,03:50,Majnu Ka Tilla
+683,City Land Travels,1338,3.6,37 Seats available,Volvo A/C Semi Sleeper (2+2),23:00,04h 30m,03:30,Majnu Ka Tilla
+684,Laxmi holidays,599,3.6,40 Seats available,VE A/C Sleeper (2+1),23:00,05h 30m,04:30,ISBT Kashmiri Gate
+685,Holiday Appeal Private Limited,1045,4.7,,Scania Multi-Axle AC Semi Sleeper (2+2),23:00,04h 30m,03:30,
+686,Ram Dalal Holidays,1027,4.4,,Mercedes Multi-Axle Semi Sleeper (2+2),23:00,05h 25m,04:25,
+687,NueGo,484,5.0,,Electric A/C Seater (2+2),23:15,0-19h 0-10m,05:05,
+688,Yolo Bus,INR 1229,4.4,,Volvo 9600 A/C Semi Sleeper (2+2),23:16,05h 11m,04:27,
+689,Laxmi holidays,1139,4.4,,Volvo A/C Semi Sleeper (2+2),23:25,05h 15m,04:40,
+690,Laxmi holidays,1139,3.6,,Volvo A/C Semi Sleeper (2+2),23:25,05h 05m,04:30,
+691,City Land Travels,1838,4.0,,Volvo A/C Semi Sleeper (2+2),23:30,05h 35m,05:05,
+692,City Land Travels,889,3.4,,Volvo A/C Seater (2+2),23:30,05h 40m,05:10,
+693,Laxmi holidays,1234,3.5,,Scania Multi-Axle AC Semi Sleeper (2+2),23:30,05h 00m,04:30,
+694,Laxmi holidays,665,2.5,,Bharat Benz A/C Sleeper (2+1),23:30,05h 10m,04:40,
+695,Laxmi holidays,1329,2.6,,Scania Multi-Axle AC Semi Sleeper (2+2),23:30,05h 05m,04:35,
+696,Laxmi holidays,599,2.7,,Bharat Benz A/C Sleeper (2+1),23:40,05h 00m,04:40,
+697,Zingbus Plus,565,2.7,,Scania Multi-Axle AC Semi Sleeper (2+2),23:40,04h 35m,04:15,
+698,City Land Travels,880,2.6,,Volvo A/C Seater (2+2),23:50,04h 20m,04:10,
+699,City Land Travels,1110,1.9,,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),23:55,04h 30m,04:25,
+700,City Land Travels,1110,1.9,,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),23:55,04h 15m,04:10,
+701,Zingbus Plus,1256,1.7,,Scania Multi-Axle AC Semi Sleeper (2+2),23:55,05h 05m,05:00,
+702,FlixBus,INR 1025,2.4,,A/C Seater (2+2),07:20,04h 40m,12:00,
+703,Ashok Travels,INR 659,1.6,,A/C Seater / Sleeper (2+2),15:15,04h 50m,20:05,
+704,CAPITAL HOLIDAYS,629,2.7,,A/C Seater / Sleeper (2+2),15:30,06h 00m,21:30,
+705,Big Bus,INR 659,2.5,,A/C Seater / Sleeper (2+2),15:30,04h 50m,20:20,
+706,Northern Travels,INR 999,2.9,,Bharat Benz A/C Sleeper (2+1),16:15,05h 45m,22:00,
+707,CAPITAL HOLIDAYS,764,2.9,,A/C Seater / Sleeper (2+2),17:00,06h 00m,23:00,
+708,SAI GOLDEN TRAVEL,INR 1450,1.2,,A/C Sleeper (2+2),17:00,04h 45m,21:45,
+709,Ashok Travels,INR 659,2.9,,A/C Seater / Sleeper (2+2),17:25,04h 40m,22:05,
+710,Big Bus,INR 659,2.8,,A/C Seater / Sleeper (2+2),17:35,04h 50m,22:25,
+711,City Land Travels,600,2.8,,A/C Seater/Sleeper (2+1),18:00,05h 50m,23:50,
+712,City Land Travels,1559,2.8,,Volvo A/C Semi Sleeper (2+2),18:15,05h 35m,23:50,
+713,Heera Himachal Holidays,INR 1399,2.9,,A/C Seater (2+2),18:30,06h 30m,01:00,
+714,SIDDHI VINAYAK TRAVELS,1614,2.4,,Volvo A/C Semi Sleeper (2+2),18:30,05h 45m,00:15,
+715,Deepak Raj Tour and Travels,INR 1099,2.2,,VE A/C Seater / Sleeper (2+1),18:30,05h 20m,23:50,
+716,Travel hub,1080,1.7,,Volvo A/C Semi Sleeper (2+2),18:45,07h 05m,01:50,
+717,Yatrabybus.com,INR 2199,2.9,,Bharat Benz A/C Semi Sleeper (2+2),19:00,03h 20m,22:20,
+718,PAL Travel Lines,1049,2.3,,Bharat Benz A/C Semi Sleeper (2+2),19:00,04h 59m,23:59,
+719,PAL Travel Lines,799,2.7,,Volvo A/C Semi Sleeper (2+2),19:15,04h 30m,23:45,
+720,Vee Kay Travels,INR 1399,2.6,,Volvo A/C Semi Sleeper (2+2),19:15,04h 50m,00:05,
+721,Shree Balaji Travels,INR 1699,2.9,,Volvo A/C Semi Sleeper (2+2),19:20,05h 00m,00:20,
+722,Cab India Travels,1100,2.9,,Volvo A/C Semi Sleeper (2+2),19:20,05h 40m,01:00,
+723,ABHI TRAVELS,1139,1.9,,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),19:30,05h 30m,01:00,
+724,TANISHQ HOLIDAYS TOUR,1259,2.7,,Volvo A/C Semi Sleeper (2+2),19:30,04h 00m,23:30,
+725,PAL Travel Lines,999,2.3,,Volvo A/C Semi Sleeper (2+2),19:30,04h 55m,00:25,
+726,SIDDHI VINAYAK TRAVELS,998,2.5,,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),19:30,05h 45m,01:15,
+727,G.T.SHolidays,INR 666,2.1,,Bharat Benz A/C Semi Sleeper (2+2),19:30,05h 00m,00:30,
+728,Maheshwaram Travels,INR 726,2.3,,A/C Seater / Sleeper (2+2),19:40,05h 30m,01:10,
+729,JN HOLIDAYS,970,1.9,,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),20:00,05h 15m,01:15,
+730,City Land Travels,600,1.2,,A/C Seater/Sleeper (2+1),20:30,05h 20m,01:50,
+731,Northern Travels,INR 1300,2.8,,Volvo A/C Semi Sleeper (2+2),20:30,04h 45m,01:15,
+732,Apex Bus Travels,739,2.9,,A/C Seater / Sleeper (2+2),20:30,04h 30m,01:00,
+733,Big Bus,INR 659,2.9,,A/C Seater / Sleeper (2+2),20:30,04h 50m,01:20,
+734,PAL Travel Lines,849,2.9,,Scania A/C Semi Sleeper (2+2),20:30,04h 30m,01:00,
+735,PAL Travel Lines,1349,2.7,,Volvo Multi-Axle A/C Semi Sleeper (2+2),20:30,04h 45m,01:15,
+736,KVS Holidays,INR 599,2.5,,A/C Seater / Sleeper (2+2),20:30,05h 30m,02:00,
+737,CAPITAL HOLIDAYS,719,2.6,,A/C Seater / Sleeper (2+2),20:30,06h 00m,02:30,
+738,Northern Travels,INR 1300,2.5,,Volvo A/C Semi Sleeper (2+2),20:35,05h 25m,02:00,
+739,Shub Yatra Holidays,INR 799,1.5,,A/C Sleeper (2+2),21:00,04h 45m,01:45,
+740,SHAH HOLIDAY TRAVEL,INR 699,2.4,,Bharat Benz A/C Seater / Sleeper (2+2),21:00,06h 00m,03:00,
+741,YUVI HOLIDAYS,INR 990,2.6,,A/C Seater / Sleeper (2+2),21:00,06h 45m,03:45,
+742,ROYAL SAFARI INDIA TRAVELS,1439,2.6,,Bharat Benz A/C Semi Sleeper (2+2),21:00,06h 45m,03:45,
+743,Laxmi holidays,642,1.9,,Bharat Benz A/C Seater /Sleeper (2+1),21:00,04h 50m,01:50,
+744,Vee Kay Travels,INR 999,,,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),21:05,04h 50m,01:55,
+745,Ram Dalal Holidays,1202,,,Bharat Benz (2+2),21:20,05h 30m,02:50,
+746,RK Holiday,617,,,A/C Seater / Sleeper (2+2),21:30,05h 00m,02:30,
+747,PAL Travel Lines,999,,,Volvo A/C Semi Sleeper (2+2),21:30,04h 45m,02:15,
+748,NueGo,682,,,Electric A/C Seater (2+2),21:30,05h 25m,02:55,
+749,PAL Travel Lines,1699,,,Volvo A/C Semi Sleeper (2+2),21:30,04h 35m,02:05,
+750,Travel hub,1080,,,Volvo A/C Semi Sleeper (2+2),21:30,06h 35m,04:05,
+751,Yatrabybus.com,INR 1699,,,Scania Multi-Axle AC Semi Sleeper (2+2),22:00,04h 20m,02:20,
+752,Big Bus,INR 659,,,A/C Seater / Sleeper (2+2),22:30,04h 20m,02:50,
+753,CAPITAL HOLIDAYS,719,,,A/C Seater / Sleeper (2+2),22:30,06h 00m,04:30,
+754,Ashok Travels,INR 699,,,A/C Seater / Sleeper (2+2),22:35,04h 40m,03:15,
+755,NueGo,850,,,Electric A/C Seater (2+2),23:00,05h 45m,04:45,
+756,City Land Travels,1149,,,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),23:00,05h 30m,04:30,
+757,Kartar Travels Private Limited,1530,,,Scania Multi-Axle AC Semi Sleeper (2+2),23:30,05h 00m,04:30,
+758,Kartar Travels Private Limited,949,,,Scania Multi-Axle AC Semi Sleeper (2+2),23:30,04h 45m,04:15,
+759,Ashok Bus Service,712,,,A/C Seater / Sleeper (2+2),23:55,05h 40m,05:35,
+760,FlixBus,INR 907,4.7,15 Seats available,A/C Seater (2+2),18:00,06h 55m,00:55,Dharamshala (Maximus Mall)
+761,Laxmi holidays,949,4.8,20 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),18:25,06h 35m,01:00,Dharamshala Bharat Petrol Pump
+762,Laxmi holidays,949,4.7,18 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),18:30,06h 30m,01:00,Bharat Petrol Pump
+763,Bedi Travels,765,3.6,21 Seats available,Volvo 9600 Multi Axle Semi-Sleeper (2+2),18:45,06h 15m,01:00,McleodGanj (Pick/Drop - Dhara...
+764,City Land Travels,650,3.1,27 Seats available,Volvo A/C Semi Sleeper (2+2),18:50,05h 50m,00:40,HRTC Workshop Dharamshala Byp...
+765,City Land Travels,650,4.3,27 Seats available,Volvo A/C Semi Sleeper (2+2),19:00,05h 40m,00:40,Bharat Petrol Pump
+766,Laxmi holidays,949,4.9,24 Seats available,VE A/C Semi Sleeper (2+2),19:00,04h 55m,23:55,Dharamshala
+767,Raghukul Holidays,764,3.6,21 Seats available,Volvo A/C Semi Sleeper (2+2),19:00,05h 50m,00:50,Bharat Petrol Pump (Mann Fill...
+768,Bedi Travels,765,3.6,27 Seats available,Volvo 9600 Multi Axle Semi-Sleeper (2+2),19:00,06h 00m,01:00,Bharat Petrol Pump
+769,Raghukul Holidays,764,4.6,29 Seats available,Volvo A/C Semi Sleeper (2+2),19:05,05h 45m,00:50,McLeod Ganj
+770,City Land Travels,838,4.0,25 Seats available,Bharat Benz (2+2),19:15,04h 44m,23:59,MANN FILLING STATION DHARAMSHALA
+771,City Land Travels,838,5.0,15 Seats available,Bharat Benz (2+2),19:25,04h 34m,23:59,dharamshala
+772,Zingbus Plus,828,3.2,31 Seats available,Volvo A/C Semi Sleeper (2+2),19:30,05h 15m,00:45,Bharat Petrol Pump
+773,New Himalaya Travels,INR 700,4.5,24 Seats available,Volvo A/C Semi Sleeper (2+2),19:30,05h 45m,01:15,Maan Filling Station Dharamshala
+774,Ram Dalal Holidays,768,4.8,15 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),19:30,06h 00m,01:30,Dharamsala
+775,A N Holidays,1249,4.8,27 Seats available,Bharat Benz A/C Semi Sleeper (2+2),19:30,04h 29m,23:59,Dharamshala Bharat Petrol Pump
+776,Zingbus Plus,896,4.0,27 Seats available,Volvo A/C Semi Sleeper (2+2),19:35,05h 10m,00:45,Bharat Petrol Pump
+777,New Himalaya Travels,INR 700,3.2,45 Seats available,Volvo A/C Semi Sleeper (2+2),19:35,05h 40m,01:15,dharamshala
+778,Ram Dalal Holidays,768,4.9,45 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),19:48,05h 42m,01:30,Dharamsala
+779,Laxmi holidays,949,4.7,22 Seats available,Volvo Multi-Axle A/C Semi Sleeper (2+2),19:55,06h 05m,02:00,Bharat Petrol Pump
+780,A N Holidays,999,3.2,23 Seats available,Volvo A/C Semi Sleeper (2+2),20:00,03h 59m,23:59,Dharamshala Bharat Petrol Pump
+781,Laxmi holidays,949,5.0,22 Seats available,Volvo Multi-Axle A/C Semi Sleeper (2+2),20:00,06h 00m,02:00,McleodGanj (Pick/Drop - Dhara...
+782,Ram Dalal Holidays,925,3.9,33 Seats available,Volvo 9600 Multi Axle Semi-Sleeper (2+2),20:30,05h 25m,01:55,Dharamshala
+783,A N Holidays,999,4.7,23 Seats available,Volvo A/C Semi Sleeper (2+2),20:35,03h 24m,23:59,Bharat Petrol Pump
+784,Ram Dalal Holidays,925,4.9,33 Seats available,Volvo 9600 Multi Axle Semi-Sleeper (2+2),20:38,05h 17m,01:55,Dhramsala
+785,City Land Travels,689,4.7,22 Seats available,Volvo A/C Semi Sleeper (2+2),20:40,05h 40m,02:20,Bharat Petrol Pump (Mann Fill...
+786,Laxmi holidays,949,4.8,32 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),20:55,05h 40m,02:35,McLeod Ganj
+787,Bedi Travels,738,4.9,32 Seats available,Volvo A/C Semi Sleeper (2+2 ),21:00,05h 45m,02:45,Bharat Petrol Pump
+788,Raghukul Holidays,719,4.6,27 Seats available,Volvo A/C Semi Sleeper (2+2),21:00,06h 05m,03:05,Dharamshala Bharat Petrol Pump
+789,Laxmi holidays,949,4.8,18 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),21:00,05h 35m,02:35,Bharat Petrol Pump
+790,Raghukul Holidays,719,4.8,22 Seats available,Volvo A/C Semi Sleeper (2+2),21:05,06h 00m,03:05,HRTC Workshop Dharamshala Byp...
+791,Bedi Travels,738,1.8,,Volvo A/C Semi Sleeper (2+2 ),21:15,05h 30m,02:45,
+792,Zingbus Plus,738,2.9,,Volvo Multi-Axle A/C Semisleeper (2+2),21:30,05h 15m,02:45,
+793,Zingbus Plus,730,,,Volvo Multi-Axle A/C Semisleeper (2+2),21:35,05h 10m,02:45,
+794,Laxmi holidays,949,,,Volvo 9600 A/C Semi Sleeper (2+2),21:45,05h 35m,03:20,
+795,Laxmi holidays,949,,,Volvo 9600 A/C Semi Sleeper (2+2),21:50,05h 30m,03:20,
+796,A N Holidays,1249,,,Bharat Benz A/C Semi Sleeper (2+2),19:00,04h 59m,23:59,
+797,City Land Travels,699,,,Volvo A/C Semi Sleeper (2+2),20:30,05h 50m,02:20,
+798,Laxmi holidays,1139,4.5,25 Seats available,Volvo A/C Semi Sleeper (2+2),23:25,07h 25m,06:50,ISBT Kashmiri Gate
+799,Laxmi holidays,1329,4.6,50 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),23:30,07h 00m,06:30,ISBT Kashmiri Gate
+800,Ram Dalal Holidays,1082,4.6,29 Seats available,Mercedes Multi-Axle Semi Sleeper (2+2),23:00,07h 00m,06:00,Majnu Ka Tilla
+801,Zingbus Plus,1006,4.5,29 Seats available,Volvo A/C Semi Sleeper (2+2),22:55,07h 15m,06:10,Majnu Ka Tilla
+802,FlixBus,INR 392,4.6,15 Seats available,A/C Seater (2+2),07:20,07h 10m,14:30,Delhi Kashmere Gate (FlixBus ...
+803,FlixBus,INR 814,4.2,16 Seats available,A/C Seater (2+2),23:55,07h 10m,07:05,ISBT Kashmiri Gate
+804,Bedi Travels,791,4.5,23 Seats available,Volvo A/C Semi Sleeper (2+2 ),23:00,07h 45m,06:45,Mahipalpur
+805,City Land Travels,529,3.7,41 Seats available,Volvo A/C Semi Sleeper (2+2),09:40,07h 20m,17:00,Majnu Ka Tilla
+806,Ram Dalal Holidays,712,3.6,30 Seats available,Volvo A/C Semi Sleeper (2+2),21:50,08h 40m,06:30,ISBT Kashmiri Gate
+807,City Land Travels,1338,4.0,37 Seats available,Volvo A/C Semi Sleeper (2+2),23:00,07h 00m,06:00,Majnu Ka Tilla
+808,Laxmi holidays,997,3.3,20 Seats available,Bharat Benz A/C Semi Sleeper (2+2),22:50,07h 10m,06:00,Majnu Ka Tilla
+809,City Land Travels,1110,3.1,,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),23:55,06h 10m,06:05,
+810,City Land Travels,583,,,Volvo A/C Semi Sleeper (2+2),09:15,08h 15m,17:30,
+811,City Land Travels,1238,,,Volvo A/C Semi Sleeper (2+2),22:30,06h 10m,04:40,
+812,Laxmi holidays,854,4.5,37 Seats available,Volvo A/C Semi Sleeper (2+2),18:15,07h 00m,01:15,Palampur Near bus stand
+813,Northern Travels,INR 989,3.7,19 Seats available,Volvo A/C Semi Sleeper (2+2),18:45,06h 15m,01:00,Palampur
+814,Ram Dalal Holidays,879,4.9,18 Seats available,Volvo A/C Semi Sleeper (2+2),18:50,06h 20m,01:10,Holta
+815,Bedi Travels,747,4.4,17 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),19:05,06h 40m,01:45,By Pass (Near Income Tax Office)
+816,Laxmi holidays,854,4.4,43 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),19:20,06h 30m,01:50,Palampur Near bus stand
+817,City Land Travels,889,3.6,20 Seats available,Volvo A/C Semi Sleeper (2+2),19:30,06h 00m,01:30,Palampur Bus Stand
+818,Ram Dalal Holidays,823,3.7,8 Seats available,Volvo A/C Semi Sleeper (2+2),19:30,06h 35m,02:05,Bus Stand near chandan hotel
+819,New Himalaya Travels,INR 870,4.9,11 Seats available,Volvo A/C Semi Sleeper (2+2),19:35,05h 55m,01:30,Palampur
+820,Bharmani Travels,899,3.7,31 Seats available,Volvo A/C Semi Sleeper (2+2),19:55,06h 15m,02:10,Palampur
+821,Laxmi holidays,1149,4.7,11 Seats available,Volvo A/C Semi Sleeper (2+2),20:50,06h 30m,03:20,Palampur Near bus stand
+822,Northern Travels,INR 795,2.7,28 Seats available,Volvo A/C Semi Sleeper (2+2),19:45,05h 30m,01:15,Palampur
+823,Bharmani Travels,1079,2.1,27 Seats available,Volvo A/C Semi Sleeper (2+2),21:10,05h 20m,02:30,Palampur
+824,HRTC - 597,INR 1078,4.1,34 Seats available,Himsuta AC Seater Volvo/Scania 2+2,20:35,10h 05m,06:40,ISBT Kashmiri Gate
+825,HRTC - 549,INR 586,3.3,44 Seats available,A/C Executive (2+3),19:25,11h 20m,06:45,ISBT Kashmiri Gate
+826,HRTC - 541,INR 555,4.1,28 Seats available,Ordinary 3+2 Non AC Seater,19:14,08h 56m,04:10,ISBT Kashmiri Gate
+827,HRTC - 557,INR 575,3.9,37 Seats available,Ordinary 3+2 Non AC Seater,20:15,10h 55m,07:10,ISBT Kashmiri Gate
+828,HRTC - 534,INR 612,3.9,37 Seats available,Ordinary 3+2 Non AC Seater,18:05,23h 15m,17:20,ISBT Kashmiri Gate
+829,RSRTC - 192344,INR 432,3.1,,Super Luxury Volvo AC Seater Pushback 2+2,10:30,03h 30m,14:00,
+830,City Land Travels,498,4.4,,Volvo A/C Semi Sleeper (2+2),15:00,04h 30m,19:30,
+831,City Land Travels,498,3.7,,Volvo A/C Semi Sleeper (2+2),14:45,04h 20m,19:05,
+832,FlixBus,INR 364,3.3,,A/C Seater (2+2),11:30,04h 30m,16:00,
+833,GLOBAL HOLIDAYS ADVENTURE TOURS,899,2.6,27 Seats available,A/C Semi Sleeper (2+2),22:15,08h 30m,06:45,MC Parking Crossing
+834,KRISHNA TRANSPORT SHIMLA,640,3.3,,NON A/C Seater Push Back (2+2),08:20,08h 10m,16:30,
+835,Laxmi holidays,1044,4.9,18 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),22:30,10h 00m,08:30,Kangra Lenskart Showroom
+836,Ram Dalal Holidays,925,4.8,45 Seats available,Volvo 9600 Multi Axle Semi-Sleeper (2+2),21:10,09h 20m,06:30,Kangra
+837,Ram Dalal Holidays,768,4.7,15 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),20:20,09h 25m,05:45,Kangra
+838,Laxmi holidays,1044,4.7,18 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),19:10,10h 20m,05:30,Kangra Lenskart Showroom
+839,Bedi Travels,765,4.7,21 Seats available,Volvo 9600 Multi Axle Semi-Sleeper (2+2),19:45,09h 45m,05:30,Old Sdm Court By Pass(Kangra)
+840,Laxmi holidays,1044,4.7,27 Seats available,Volvo Multi-Axle A/C Semi Sleeper (2+2),20:45,09h 35m,06:20,Kangra Lenskart Showroom
+841,Ram Dalal Holidays,879,4.8,18 Seats available,Volvo A/C Semi Sleeper (2+2),20:30,09h 00m,05:30,Kangra
+842,FlixBus,INR 1173,4.6,15 Seats available,A/C Seater (2+2),18:40,10h 40m,05:20,Kangra (Bypass Bus stand)
+843,Zingbus Plus,819,4.7,29 Seats available,Volvo A/C Semi Sleeper (2+2),20:10,08h 55m,05:05,Bus Stand
+844,Laxmi holidays,949,4.8,23 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),21:45,08h 45m,06:30,Kangra Lenskart Showroom
+845,Bedi Travels,747,4.4,17 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),20:30,09h 30m,06:00,Kangra By-Pass
+846,Bedi Travels,738,4.4,22 Seats available,Volvo A/C Semi Sleeper (2+2 ),22:15,09h 15m,07:30,Near Bus Stand (Gaurav Hotel)
+847,Laxmi holidays,1149,4.7,11 Seats available,Volvo A/C Semi Sleeper (2+2),22:00,09h 30m,07:30,Kangra By pass Near Tehsil Chowk
+848,Zingbus Plus,730,4.3,32 Seats available,Volvo Multi-Axle A/C Semisleeper (2+2),22:05,08h 50m,06:55,Bus Stand
+849,Laxmi holidays,854,4.5,43 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),20:30,09h 30m,06:00,Kangra By pass Near Tehsil Chowk
+850,New Himalaya Travels,INR 700,3.6,25 Seats available,Volvo A/C Semi Sleeper (2+2),20:10,10h 10m,06:20,Woodland Showroom Kangra
+851,City Land Travels,699,4.1,22 Seats available,Volvo A/C Semi Sleeper (2+2),21:20,09h 30m,06:50,Kangra Bus Stand Woodland sho...
+852,City Land Travels,889,4.4,20 Seats available,Volvo A/C Semi Sleeper (2+2),20:40,09h 20m,06:00,Kangra ByPass
+853,New Himalaya Travels,INR 870,4.3,11 Seats available,Volvo A/C Semi Sleeper (2+2),20:45,09h 30m,06:15,SDM Court By-Pass Kangra
+854,Raghukul Holidays,764,3.8,24 Seats available,Volvo A/C Semi Sleeper (2+2),20:00,09h 00m,05:00,kangra woodland showroom
+855,A N Holidays,1249,4.4,15 Seats available,Bharat Benz A/C Semi Sleeper (2+2),20:10,10h 05m,06:15,Old SDM Court By-Pass(Kangra)
+856,Raghukul Holidays,719,2.7,33 Seats available,Volvo A/C Semi Sleeper (2+2),21:50,09h 45m,07:35,kangra woodland showroom
+857,Northern Travels,INR 989,2.9,19 Seats available,Volvo A/C Semi Sleeper (2+2),19:45,09h 30m,05:15,Kangra
+858,City Land Travels,650,2.9,27 Seats available,Volvo A/C Semi Sleeper (2+2),19:40,09h 30m,05:10,Kangra Bus Stand Woodland sho...
+859,A N Holidays,999,2.4,24 Seats available,Volvo A/C Semi Sleeper (2+2),21:15,09h 00m,06:15,Bus Stand
+860,Bharmani Travels,1079,2.2,29 Seats available,Volvo A/C Semi Sleeper (2+2),22:00,08h 30m,06:30,Kangra Bypass
+861,Bharmani Travels,899,,34 Seats available,Volvo A/C Semi Sleeper (2+2),21:05,08h 55m,06:00,Kangra Bypass
+862,RSRTC - 192348,INR 432,3.8,10 Seats available,Super Luxury Volvo AC Seater Pushback 2+2,16:30,04h 45m,21:15,Shimla
+863,Laxmi holidays,428,4.6,37 Seats available,Volvo A/C Semi Sleeper (2+2),10:30,03h 20m,13:50,Shimla (bypass MC car parking)
+864,Laxmi holidays,664,4.9,33 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),20:30,03h 05m,23:35,Shimla New Bus Stand
+865,Zingbus Plus,INR 267,4.4,20 Seats available,Volvo A/C Semi Sleeper (2+2),20:30,03h 15m,23:45,Shimla By-Pass Crossing
+866,Laxmi holidays,INR 319,4.6,24 Seats available,Bharat Benz A/C Semi Sleeper (2+2),09:30,02h 45m,12:15,Shimla New Bus Stand
+867,Ram Dalal Holidays,490,4.7,33 Seats available,Volvo A/C Semi Sleeper (2+2),22:00,03h 00m,01:00,Shimla New Bus Stand
+868,NueGo,379,4.1,24 Seats available,Electric A/C Seater (2+2),13:00,03h 05m,16:05,Shimla New Bus Stand
+869,FlixBus,INR 294,4.7,41 Seats available,A/C Seater (2+2),11:00,03h 55m,14:55,Shimla New Bus Stand
+870,FlixBus,INR 294,3.4,41 Seats available,A/C Seater (2+2),20:00,04h 10m,00:10,Shimla New Bus Stand
+871,Laxmi holidays,664,3.5,,Scania Multi-Axle AC Semi Sleeper (2+2),20:30,02h 30m,23:00,
+872,Laxmi holidays,INR 319,4.6,,Bharat Benz A/C Semi Sleeper (2+2),09:30,03h 10m,12:40,
+873,City Land Travels,710,4.1,,Volvo A/C Semi Sleeper (2+2),22:00,03h 00m,01:00,
+874,Bedi Travels,702,4.1,,Volvo A/C Semi Sleeper (2+2 ),21:30,03h 25m,00:55,
+875,NueGo,389,4.0,,Electric A/C Seater (2+2),21:00,02h 45m,23:45,
+876,NueGo,379,4.5,,Electric A/C Seater (2+2),13:00,02h 55m,15:55,
+877,NueGo,292,3.8,,Electric A/C Seater (2+2),21:00,02h 55m,23:55,
+878,City Land Travels,351,3.8,,Volvo A/C Semi Sleeper (2+2),10:00,03h 15m,13:15,
+879,City Land Travels,700,4.3,,Volvo A/C Semi Sleeper (2+2),23:00,03h 35m,02:35,
+880,City Land Travels,710,3.6,,Volvo A/C Semi Sleeper (2+2),22:00,02h 50m,00:50,
+881,City Land Travels,351,3.8,,Volvo A/C Semi Sleeper (2+2),10:00,03h 19m,13:19,
+882,City Land Travels,700,3.1,,Volvo A/C Semi Sleeper (2+2),23:00,03h 05m,02:05,
+883,City Land Travels,619,2.9,,Volvo A/C Semi Sleeper (2+2),10:30,02h 55m,13:25,
+884,City Land Travels,619,3.8,,Volvo A/C Semi Sleeper (2+2),10:30,03h 30m,14:00,
+885,City Land Travels,700,,,Volvo A/C Semi Sleeper (2+2),22:30,02h 50m,01:20,
+886,City Land Travels,700,,,Volvo A/C Semi Sleeper (2+2),22:30,02h 45m,01:15,
+887,HRTC - 1028,INR 603,3.6,35 Seats available,A/C Executive (2+3),20:15,11h 00m,07:15,CHAMBA
+888,HRTC - 100,INR 991,3.7,7 Seats available,Himsuta AC Seater Volvo/Scania 2+2,17:40,10h 20m,04:00,CHAMBA
+889,HRTC - 1007,INR 597,3.9,37 Seats available,Ordinary 3+2 Non AC Seater,19:00,10h 40m,05:40,CHAMBA
+890,HRTC - 1024,INR 619,3.4,42 Seats available,A/C Executive (2+3),16:20,11h 00m,03:20,CHAMBA
+891,HRTC - 1001,INR 613,2.6,42 Seats available,A/C Executive (2+3),17:15,10h 45m,04:00,CHAMBA
+892,HRTC - 1003,INR 631,3.8,35 Seats available,Ordinary 3+2 Non AC Seater,14:30,11h 50m,02:20,CHAMBA
+893,HRTC - 1002,INR 597,3.8,37 Seats available,Ordinary 3+2 Non AC Seater,15:00,12h 00m,03:00,CHAMBA
+894,SPEED BUS,997,3.7,30 Seats available,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),13:30,07h 00m,20:30,Kullu Bypass Near Vaishno Dev...
+895,Rajdhani Travels,INR 1099,4.4,30 Seats available,Bharat Benz A/C Seater (2+2),15:10,06h 05m,21:15,By Pass Kullu
+896,City Land Travels,879,3.6,14 Seats available,Volvo A/C Semi Sleeper (2+2),18:10,06h 20m,00:30,Kullu
+897,Subh Yatri Holidays,923,3.3,1 Seat available,Volvo A/C Semi Sleeper (2+2),18:20,05h 35m,23:55,KULLU
+898,Subh Yatri Holidays,923,3.3,2 Seats available,Volvo A/C Semi Sleeper (2+2),18:20,05h 35m,23:55,Kullu
+899,Shivay Holidays,INR 1069,3.7,5 Seats available,Volvo A/C Semi Sleeper (2+2),18:20,05h 55m,00:15,KULLU VAISHNAV TEMPLE
+900,HIMALAYAN HOLIDAYS,INR 1099,3.5,42 Seats available,Volvo A/C Semi Sleeper (2+2 ),18:50,07h 25m,02:15,Kullu
+901,SPEED BUS,INR 960,3.7,32 Seats available,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),19:15,06h 55m,02:10,Kullu
+902,TRAVELLING INDIA,963,3.5,18 Seats available,Volvo A/C Semi Sleeper (2+2),19:15,07h 00m,02:15,Kullu By Pass Indian Oil Pump
+903,Subh Yatri Holidays,923,3.3,34 Seats available,Volvo A/C Semi Sleeper (2+2),19:20,04h 35m,23:55,Kullu bypass Infront Of Vaish...
+904,Subh Yatri Holidays,923,3.3,38 Seats available,Volvo A/C Semi Sleeper (2+2),19:20,04h 35m,23:55,Kullu
+905,Zakir Flights,1079,3.2,6 Seats available,Volvo A/C Semi Sleeper (2+2),19:30,05h 25m,00:55,Shani Mandir
+906,Golden Temple Volvo Bus Service,INR 786,3.0,41 Seats available,Volvo B11R Multi Axle Seater (2+2),20:35,06h 45m,03:20,Kullu Vaishno Temple
+907,GLOBAL HOLIDAYS ADVENTURE TOURS,989,3.9,5 Seats available,Volvo A/C Semi Sleeper (2+2),20:45,08h 00m,04:45,Shani Mandir
+908,Laxmi holidays,1002,4.6,19 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),21:05,05h 45m,02:50,Kullu
+909,Yolo Bus,INR 1069,3.9,33 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),22:42,04h 21m,03:03,Kullu
+910,Travel hub,989,1.5,27 Seats available,Volvo A/C Semi Sleeper (2+2),17:00,07h 00m,00:00,Kullu
+911,PAL Travel Lines,999,2.9,35 Seats available,Volvo A/C Semi Sleeper (2+2),18:15,07h 00m,01:15,Kullu
+912,SIDDHI VINAYAK TRAVELS,1044,2.4,26 Seats available,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),18:20,07h 15m,01:35,Kullu
+913,PAL Travel Lines,999,2.9,22 Seats available,Scania A/C Semi Sleeper (2+2),18:50,07h 00m,01:50,vaishno temple
+914,JN HOLIDAYS,1018,2.9,22 Seats available,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),19:30,06h 00m,01:30,Kullu
+915,G.T.SHolidays,INR 999,2.2,27 Seats available,Bharat Benz A/C Semi Sleeper (2+2),19:30,06h 30m,02:00,"By Pass, Kullu"
+916,Himgiri Adventure Tour,719,2.2,35 Seats available,Bharat Benz A/C Semi Sleeper (2+2),20:40,07h 20m,04:00,Kullu Bypass
+917,GLOBAL HOLIDAYS ADVENTURE TOURS,729,2.6,12 Seats available,Volvo A/C Semi Sleeper (2+2),20:45,08h 00m,04:45,"By Pass, Kullu"
+918,Kartar Travels Private Limited,807,2.6,35 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),21:00,05h 45m,02:45,Kullu
+919,PAL Travel Lines,899,2.9,17 Seats available,Volvo A/C Semi Sleeper (2+2),21:40,07h 35m,05:15,"By Pass, Kullu"
+920,Abtc Tour and Travels,699,1.1,35 Seats available,Bharat Benz A/C Semi Sleeper (2+2),21:50,06h 40m,04:30,Shani Deva Temple
+921,Himgiri Adventure Tour,719,2.2,29 Seats available,Bharat Benz A/C Semi Sleeper (2+2),14:30,0-17h 0-40m,21:50,Kullu By Pass
+922,City Land Travels,1338,3.6,53 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),09:10,06h 10m,15:20,Shani mandir by pass kullu
+923,City Land Travels,1338,3.3,49 Seats available,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),11:55,06h 10m,18:05,Kullu By Pass Indian Oil Pump
+924,City Land Travels,1338,3.6,34 Seats available,Volvo A/C Semi Sleeper (2+2),12:10,06h 10m,18:20,Kullu
+925,City Land Travels,1438,3.5,45 Seats available,Volvo A/C Semi Sleeper (2+2),15:20,05h 40m,21:00,"By Pass, Kullu"
+926,City Land Travels,1438,4.4,35 Seats available,Volvo A/C Semi Sleeper (2+2),15:40,05h 50m,21:30,Shani Deva Temple
+927,City Land Travels,1338,3.6,32 Seats available,Volvo A/C Semi Sleeper (2+2),16:10,06h 10m,22:20,Kullu Bypass
+928,Laxmi holidays,1234,4.9,13 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),16:45,06h 15m,23:00,Shani Deva Temple
+929,Zingbus Plus,1286,4.7,36 Seats available,Volvo A/C Semi Sleeper (2+2),16:55,06h 05m,23:00,Kullu
+930,Himalayan Nomad KTC,1485,3.9,6 Seats available,Volvo A/C Semi Sleeper (2+2),17:30,08h 00m,01:30,Kullu bypass
+931,Zingbus Plus,1271,3.8,39 Seats available,Volvo A/C Semi Sleeper (2+2),17:45,05h 40m,23:25,Shani Deva Temple
+932,Laxmi holidays,1329,5.0,29 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),17:45,05h 45m,23:30,Shani mandir by pass kullu
+933,Deltin Travels,INR 1400,3.2,37 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),17:50,06h 09m,23:59,Kullu By Pass
+934,IntrCity SmartBus,INR 1747,4.3,49 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),17:55,06h 10m,00:05,Kullu bypass
+935,Himalayan Nomad KTC,1485,3.9,29 Seats available,Volvo A/C Semi Sleeper (2+2),18:00,08h 00m,02:00,Kullu
+936,Laxmi holidays,1234,4.2,41 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),18:20,05h 35m,23:55,Kullu By Pass Indian Oil Pump
+937,Reo India Travels,1197,3.9,3 Seats available,Volvo A/C Semi Sleeper (2+2),18:20,05h 39m,23:59,kullu .
+938,Reo India Travels,1197,3.9,26 Seats available,Volvo A/C Semi Sleeper (2+2),18:25,06h 35m,01:00,Shanidev temple kullu
+939,Himalayan Nomad KTC,1485,3.9,21 Seats available,Volvo A/C Semi Sleeper (2+2),18:30,08h 30m,03:00,Kullu Bypass
+940,Zingbus Plus,1271,3.5,42 Seats available,Volvo A/C Semi Sleeper (2+2),18:40,05h 45m,00:25,Shani Deva Temple
+941,Holiday Appeal Private Limited,1899,4.0,29 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),18:40,07h 20m,02:00,Kullu
+942,R S YADAV SMART BUS PRIVATE LIMITED,1804,4.4,22 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),18:40,08h 05m,02:45,Kullu
+943,Laxmi holidays,1234,4.4,37 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),18:45,05h 45m,00:30,Kullu Bypass
+944,HIMALAYAN HOLIDAYS,INR 1399,3.5,16 Seats available,Volvo A/C Semi Sleeper (2+2 ),18:45,07h 15m,02:00,Shani Deva Temple
+945,Himalayan Nomad KTC,1485,3.9,33 Seats available,Volvo A/C Semi Sleeper (2+2),19:00,08h 30m,03:30,Kullu
+946,Zingbus Plus,1271,4.6,41 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),19:00,05h 40m,00:40,Kullu By Pass Indian Oil Pump
+947,IntrCity SmartBus,INR 1716,4.3,27 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),19:10,06h 00m,01:10,Kullu Bypass Near Vaishno Dev...
+948,Zingbus Plus,1271,4.4,33 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),19:30,05h 10m,00:40,Kullu ByPass
+949,FlixBus,INR 1348,4.3,46 Seats available,A/C Seater (2+2),19:30,06h 10m,01:40,ITSP Camp
+950,Zingbus Plus,1437,4.3,29 Seats available,Volvo A/C Semi Sleeper (2+2),19:35,05h 55m,01:30,Kullu Bypass
+951,Zingbus Plus,1271,4.4,38 Seats available,Volvo A/C Semi Sleeper (2+2),19:35,05h 20m,00:55,Shani Deva Temple
+952,R S YADAV SMART BUS PRIVATE LIMITED,1804,4.0,33 Seats available,VE A/C Semi Sleeper (2+2),19:40,08h 05m,03:45,Shanidev temple kullu
+953,Holiday Appeal Private Limited,1899,4.5,37 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),19:40,07h 20m,03:00,"By Pass, Kullu"
+954,Zingbus Plus,1356,4.0,33 Seats available,Volvo A/C Semi Sleeper (2+2),19:45,05h 50m,01:35,Kullu
+955,Om Sidh Express,1439,4.8,12 Seats available,Volvo A/C (2+2),19:45,05h 15m,01:00,Shani Deva Temple
+956,Laxmi holidays,1529,4.5,29 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),19:45,06h 15m,02:00,Kullu Bypass Near Vaishno Dev...
+957,Ram Dalal Holidays,1240,3.7,28 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),19:50,05h 35m,01:25,Kullu By Pass
+958,Metahills holidays,1350,4.2,53 Seats available,Scania A/C Semi Sleeper (2+2),20:00,07h 00m,03:00,Kullu bypass Infront Of Vaish...
+959,Deltin Travels,INR 1370,4.3,32 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),20:10,05h 50m,02:00,kullu .
+960,Zingbus Plus,1295,3.9,49 Seats available,Scania A/C Semi Sleeper (2+2),20:20,05h 00m,01:20,Shani Deva Temple
+961,Reo India Travels,1197,3.9,35 Seats available,Volvo A/C Semi Sleeper (2+2),20:20,06h 00m,02:20,Shani Deva Temple
+962,Reo India Travels,1197,4.3,39 Seats available,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),20:20,06h 25m,02:45,Kullu By Pass Indian Oil Pump
+963,IntrCity SmartBus,INR 1838,4.3,40 Seats available,Volvo A/C Semi Sleeper (2+2),20:30,06h 05m,02:35,Shani Deva Temple
+964,Zingbus Plus,1298,3.0,28 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),20:35,05h 20m,01:55,Kullu Bypass Near Vaishno Dev...
+965,Golden Temple Volvo Bus Service,INR 1499,3.2,29 Seats available,Bharat Benz A/C Semi Sleeper (2+2),20:35,06h 45m,03:20,Kullu By Pass (Shani Temple)
+966,Laxmi holidays,1529,3.6,42 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),20:45,05h 45m,02:30,Kullu Bypass
+967,City Land Travels,1400,4.3,49 Seats available,Volvo A/C Semi Sleeper (2+2),20:50,07h 40m,04:30,Kullu By Pass Indian Oil Pump
+968,Malana Travels,INR 1399,4.3,31 Seats available,Volvo 9600 Multi Axle Semi-Sleeper (2+2),20:50,06h 10m,03:00,Kullu
+969,Zingbus Plus,1156,3.2,53 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),21:10,05h 45m,02:55,Kullu
+970,Deltin Travels,INR 1470,4.3,21 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),21:10,04h 50m,02:00,Kullu Shani Mandir (Pickup Va...
+971,Zingbus Plus,1298,3.7,53 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),21:20,05h 00m,02:20,Kullu
+972,Metahills holidays,1350,3.9,29 Seats available,Scania A/C Semi Sleeper (2+2),21:30,07h 00m,04:30,Kullu (Pickup Van/Bus)
+973,Himalayan Nomad KTC,1395,4.3,25 Seats available,Volvo A/C Semi Sleeper (2+2),21:30,06h 00m,03:30,Kullu Shani Temple
+974,FlixBus,INR 1348,4.2,33 Seats available,A/C Seater (2+2),21:30,06h 00m,03:30,Kullu
+975,Zingbus Plus,1298,4.0,31 Seats available,Volvo A/C Semi Sleeper (2+2),21:35,05h 00m,02:35,Kullu by pass
+976,City Land Travels,1190,4.5,18 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),21:40,05h 20m,03:00,Kullu by pass
+977,Holiday Appeal Private Limited,1899,4.5,13 Seats available,Volvo Multi-Axle A/C Seater (2+2),21:40,07h 20m,05:00,Kullu Bypass Near Vaishno Dev...
+978,Yolo Bus,INR 1149,4.3,47 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),21:46,05h 09m,02:55,Kullu Shani Mandir
+979,Ram Dalal Holidays,1258,4.0,36 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),21:50,06h 00m,03:50,Kullu by pass
+980,Zingbus Plus,1301,4.5,49 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),21:50,05h 30m,03:20,Kullu by pass
+981,Zingbus Plus,1419,4.3,17 Seats available,Volvo A/C Semi Sleeper (2+2),22:15,04h 45m,03:00,Kullu By Pass Indian Oil Pump
+982,Laxmi holidays,1424,3.6,22 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),22:15,05h 00m,03:15,Kullu
+983,Zingbus Plus,1301,5.0,41 Seats available,Volvo A/C Semi Sleeper (2+2),22:20,05h 30m,03:50,Kullu Bypass Near Vaishno Dev...
+984,City Land Travels,1538,4.8,32 Seats available,Volvo A/C Semi Sleeper (2+2),22:25,07h 50m,06:15,
+985,Laxmi holidays,1424,4.4,,Scania Multi-Axle AC Semi Sleeper (2+2),22:25,05h 05m,03:30,
+986,Deltin Travels,INR 1520,1.7,,Scania Multi-Axle AC Semi Sleeper (2+2),22:40,04h 20m,03:00,
+987,Laxmi holidays,1519,2.5,,Volvo 9600 A/C Semi Sleeper (2+2),22:45,04h 45m,03:30,
+988,City Land Travels,1338,2.5,,Volvo A/C Semi Sleeper (2+2),14:20,06h 10m,20:30,
+989,Yatrabybus.com,INR 2199,2.3,,Scania Multi-Axle AC Semi Sleeper (2+2),17:30,07h 00m,00:30,
+990,U.K Travels(India),INR 1349,2.7,,Scania A/C Semi Sleeper (2+2),18:10,06h 55m,01:05,
+991,Yatrabybus.com,INR 2599,2.2,,Bharat Benz A/C Semi Sleeper (2+2),18:20,05h 35m,23:55,
+992,RAO TRAVELS INDIA PVT LTD.,INR 1494,2.8,,Mercedes Benz A/C (2+2),18:30,07h 00m,01:30,
+993,Northern Travels,INR 1500,1.2,,Volvo A/C Semi Sleeper (2+2),18:30,06h 45m,01:15,
+994,Himgiri Adventure Tour,1169,2.3,,Bharat Benz A/C Semi Sleeper (2+2),19:00,07h 30m,02:30,
+995,TANISHQ HOLIDAYS TOUR,1349,2.3,,Volvo A/C Semi Sleeper (2+2),19:00,07h 00m,02:00,
+996,Vee Kay Travels,INR 1200,2.8,,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),19:30,05h 25m,00:55,
+997,ROYAL SAFARI INDIA TRAVELS,1349,2.3,,Bharat Benz A/C Semi Sleeper (2+2),20:00,06h 45m,02:45,
+998,ROYAL SAFARI INDIA TRAVELS,1529,2.3,,Bharat Benz A/C Semi Sleeper (2+2),20:00,06h 45m,02:45,
+999,City Land Travels,1529,2.3,,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),20:10,05h 05m,01:15,
+1000,RAO TRAVELS INDIA PVT LTD.,INR 1495,2.5,,Volvo AC Seater Pushback 2+2,20:30,08h 00m,04:30,
+1001,ROYAL SAFARI INDIA TRAVELS,1394,2.5,,A/C Semi Sleeper (2+2),21:30,06h 45m,04:15,
+1002,ROYAL SAFARI INDIA TRAVELS,1349,,,Bharat Benz A/C Semi Sleeper (2+2),21:30,07h 30m,05:00,
+1003,Laxmi holidays,1424,,,Volvo 9600 A/C Semi Sleeper (2+2),21:45,05h 25m,03:10,
+1004,JN HOLIDAYS,1202,,,Volvo A/C Semi Sleeper (2+2),21:50,05h 40m,03:30,
+1005,City Land Travels,1538,,,Volvo A/C Semi Sleeper (2+2),22:40,05h 20m,04:00,
+1006,RSRTC - 192348,INR 1103,2.3,25 Seats available,Super Luxury Volvo AC Seater Pushback 2+2,16:30,09h 30m,02:00,NEW BUS STAND ISBT
+1007,Bedi Travels,702,4.6,20 Seats available,Volvo A/C Semi Sleeper (2+2 ),21:30,08h 00m,05:30,Shimla By-Pass Crossing
+1008,Laxmi holidays,759,4.4,39 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),20:30,08h 00m,04:30,Shimla By pass Mc Car Parking
+1009,AdCity Land Travels,700,4.0,40 Seats available,Volvo A/C Semi Sleeper (2+2),22:30,07h 00m,05:30,Shimla New Bus Stand
+1010,Zingbus Plus,641,4.4,28 Seats available,Volvo A/C Semi Sleeper (2+2),20:30,08h 05m,04:35,Bypass Crossing
+1011,Laxmi holidays,428,4.2,8 Seats available,Volvo A/C Semi Sleeper (2+2),10:30,09h 00m,19:30,Shimla
+1012,FlixBus,INR 619,3.6,33 Seats available,A/C Seater (2+2),11:00,08h 40m,19:40,Shimla New Bus Stand
+1013,AdCity Land Travels,619,4.2,20 Seats available,Volvo A/C Semi Sleeper (2+2),10:30,08h 30m,19:00,Hotel Aachman Regency
+1014,Ram Dalal Holidays,648,4.1,20 Seats available,Volvo A/C Semi Sleeper (2+2),22:00,07h 30m,05:30,Shimla New Bus Stand
+1015,Laxmi holidays,INR 399,3.9,37 Seats available,Bharat Benz A/C Semi Sleeper (2+2),09:30,08h 30m,18:00,Shimla (bypass MC car parking)
+1016,City Land Travels,710,3.5,41 Seats available,Volvo A/C Semi Sleeper (2+2),22:00,07h 00m,05:00,Hotel Angan ISBT Shimla
+1017,NueGo,379,3.2,45 Seats available,Electric A/C Seater (2+2),13:00,08h 05m,21:05,Shimla
+1018,NueGo,427,3.6,,Electric A/C Seater (2+2),21:00,08h 05m,05:05,
+1019,City Land Travels,700,3.3,,Volvo A/C Semi Sleeper (2+2),23:00,08h 00m,07:00,
+1020,City Land Travels,351,5.0,,Volvo A/C Semi Sleeper (2+2),10:00,08h 30m,18:30,
+1021,FlixBus,INR 638,4.1,,A/C Seater (2+2),20:00,08h 40m,04:40,
+1022,RAO TRAVELS INDIA PVT LTD.,INR 1290,4.1,,AC Seater (2+2),10:30,08h 00m,18:30,
+1023,RAO TRAVELS INDIA PVT LTD.,INR 1375,2.0,,AC Seater (2+2),21:00,09h 00m,06:00,
+1024,Royal Travels Hills,INR 1199,,,Bharat Benz A/C Semi Sleeper (2+2),22:00,08h 00m,06:00,
+1025,Ram Dalal Holidays,1323,4.7,6 Seats available,Volvo A/C Semi Sleeper (2+2),21:20,08h 35m,05:55,ISBT Kashmiri Gate
+1026,Laxmi holidays,1329,4.4,33 Seats available,Volvo A/C Semi Sleeper (2+2),21:00,09h 10m,06:10,ISBT Kashmiri Gate
+1027,Northern Travels,INR 1300,3.3,32 Seats available,Volvo A/C Semi Sleeper (2+2),20:35,08h 20m,04:55,ISBT Kashmiri Gate
+1028,Travel Point,1519,2.3,39 Seats available,A/C Seater / Sleeper (2+2),21:00,12h 51m,09:51,Mori gate goal curcal shop no...
+1029,City Land Travels,1450,2.0,13 Seats available,Volvo A/C Semi Sleeper (2+2),18:00,11h 35m,05:35,ISBT Kashmiri Gate
+1030,Himachal Pradesh Tourism Development Corporation (HPTDC) - 49532,INR 1600,3.8,5 Seats available,AC Seater (2+2),17:30,12h 00m,05:30,Govt Bus Stand
+1031,Laxmi holidays,1519,4.6,20 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),21:00,11h 00m,08:00,Private Bus Stand
+1032,Laxmi holidays,1529,4.5,27 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),20:00,11h 00m,07:00,Private Bus Stand
+1033,AdR S YADAV SMART BUS PRIVATE LIMITED,1283,3.8,21 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),17:50,12h 51m,06:41,Private Bus Stand
+1034,IntrCity SmartBus,INR 1488,4.6,16 Seats available,Volvo A/C Semi Sleeper (2+2),19:30,11h 40m,07:10,Private Bus Stand
+1035,Laxmi holidays,1614,4.4,29 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),22:00,09h 45m,07:45,Private Bus Stand
+1036,Yolo Bus,INR 1099,4.4,27 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),21:10,09h 19m,06:29,Private Bus Stand
+1037,AdZakir Flights,1079,3.3,5 Seats available,Volvo A/C Semi Sleeper (2+2),18:30,11h 30m,06:00,Manali
+1038,Laxmi holidays,1519,4.3,38 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),21:30,10h 00m,07:30,Private Bus Stand
+1039,IntrCity SmartBus,INR 1385,4.5,13 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),18:15,11h 45m,06:00,Private Bus Stand
+1040,Ram Dalal Holidays,1240,4.4,26 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),19:00,11h 00m,06:00,Manali
+1041,Zingbus Plus,1088,4.3,39 Seats available,Volvo A/C Semi Sleeper (2+2),21:30,09h 40m,07:10,zingbus Lounge Manali 200 m F...
+1042,Malana Travels,INR 1399,4.4,41 Seats available,Volvo 9600 Multi Axle Semi-Sleeper (2+2),20:00,10h 00m,06:00,Manali
+1043,Laxmi holidays,1329,4.3,20 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),18:00,10h 45m,04:45,Private Bus Stand
+1044,Zingbus Plus,989,4.3,12 Seats available,Volvo A/C Semi Sleeper (2+2),16:00,11h 45m,03:45,zingbus Lounge Manali 200 m F...
+1045,Laxmi holidays,1519,4.3,27 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),21:40,10h 30m,08:10,Private Bus Stand
+1046,Zingbus Plus,989,4.4,31 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),18:15,11h 15m,05:30,zingbus Lounge Manali 200 m F...
+1047,IntrCity SmartBus,INR 1296,4.3,12 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),17:00,12h 05m,05:05,Private Bus Stand
+1048,Laxmi holidays,1329,4.3,20 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),17:00,11h 30m,04:30,Private Bus Stand
+1049,Zingbus Plus,989,4.3,35 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),18:30,10h 30m,05:00,zingbus Lounge Manali 200 m F...
+1050,Deltin Travels,INR 1470,4.2,36 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),20:30,10h 00m,06:30,Private Bus Stand
+1051,Laxmi holidays,1234,4.2,36 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),17:30,10h 45m,04:15,Private Bus Stand
+1052,Zingbus Plus,1197,4.2,25 Seats available,Volvo A/C Semi Sleeper (2+2),17:45,11h 15m,05:00,zingbus Lounge Manali 200 m F...
+1053,Zingbus Plus,1197,4.4,35 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),20:15,10h 30m,06:45,zingbus Lounge Manali 200 m F...
+1054,Laxmi holidays,950,4.1,18 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),20:20,11h 10m,07:30,Private Bus Stand
+1055,Laxmi holidays,1329,4.3,18 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),16:00,12h 20m,04:20,Private Bus Stand
+1056,Yolo Bus,INR 899,4.0,34 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),21:45,08h 57m,06:42,Private Bus Stand
+1057,R S YADAV SMART BUS PRIVATE LIMITED,1093,4.3,22 Seats available,VE A/C Semi Sleeper (2+2),18:50,12h 51m,07:41,Private Bus Stand
+1058,Zingbus Plus,989,4.1,29 Seats available,Volvo A/C Semi Sleeper (2+2),19:00,10h 50m,05:50,zingbus Lounge Manali 200 m F...
+1059,Zingbus Plus,1197,4.1,28 Seats available,Volvo A/C Semi Sleeper (2+2),17:00,11h 15m,04:15,zingbus Lounge Manali 200 m F...
+1060,Deltin Travels,INR 1400,4.0,24 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),17:00,11h 10m,04:10,raison
+1061,FlixBus,INR 1368,4.5,6 Seats available,A/C Seater (2+2),18:30,11h 30m,06:00,Private Bus Stand
+1062,FlixBus,INR 1368,4.5,12 Seats available,A/C Seater (2+2),20:30,11h 25m,07:55,Private Bus Stand
+1063,SHRI BALAJII TRAVELS,INR 849,3.6,16 Seats available,Volvo A/C Semi Sleeper (2+2),18:30,11h 30m,06:00,Manali
+1064,Zingbus Plus,1197,3.8,32 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),19:45,11h 10m,06:55,zingbus Lounge Manali 200 m F...
+1065,Zingbus Plus,989,3.5,29 Seats available,Scania A/C Semi Sleeper (2+2),19:30,10h 40m,06:10,zingbus Lounge Manali 200 m F...
+1066,Deltin Travels,INR 1370,3.6,42 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),19:30,10h 30m,06:00,Private Bus Stand
+1067,Zingbus Plus,1197,3.9,35 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),21:00,10h 10m,07:10,zingbus Lounge Manali 200 m F...
+1068,City Land Travels,1338,3.8,31 Seats available,Volvo A/C Semi Sleeper (2+2),15:30,12h 30m,04:00,Private Bus Stand
+1069,City Land Travels,1529,3.4,47 Seats available,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),19:30,10h 55m,06:25,Private Bus Stand
+1070,Reo India Travels,1197,3.6,35 Seats available,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),19:25,10h 55m,06:20,Manali
+1071,Laxmi holidays,1529,3.1,3 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),19:00,11h 20m,06:20,Private Bus Stand
+1072,SPEED BUS,860,3.2,1 Seat available,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),18:45,11h 45m,06:30,MANALI
+1073,Zingbus Plus,989,3.2,30 Seats available,Volvo A/C Semi Sleeper (2+2),21:30,10h 10m,07:40,zingbus Lounge Manali 200 m F...
+1074,City Land Travels,1438,3.1,36 Seats available,Volvo A/C Semi Sleeper (2+2),14:30,13h 10m,03:40,Private Bus Stand
+1075,Shivay Holidays,INR 1069,3.7,30 Seats available,Volvo A/C Semi Sleeper (2+2),17:30,11h 00m,04:30,Zingbus Lounge Manali
+1076,City Land Travels,1500,3.9,32 Seats available,Volvo A/C Semi Sleeper (2+2),13:30,13h 00m,02:30,Private Bus Stand
+1077,City Land Travels,879,4.5,30 Seats available,Volvo A/C Semi Sleeper (2+2),17:00,11h 30m,04:30,Private Bus Stand
+1078,Deltin Travels,INR 1520,3.8,47 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),22:00,10h 00m,08:00,Private Bus Stand
+1079,Zingbus Plus,1264,3.7,23 Seats available,Volvo A/C Semi Sleeper (2+2),20:45,10h 40m,07:25,zingbus Lounge Manali 200 m F...
+1080,Himalayan Nomad KTC,1395,3.1,18 Seats available,Volvo A/C Semi Sleeper (2+2),20:30,11h 30m,08:00,Private Bus Stand
+1081,Zingbus Plus,1197,3.8,32 Seats available,Volvo A/C Semi Sleeper (2+2),19:05,10h 55m,06:00,zingbus Lounge Manali 200 m F...
+1082,Ram Dalal Holidays,1258,3.6,49 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),21:00,10h 25m,07:25,Manali
+1083,City Land Travels,1338,3.6,16 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),08:30,11h 45m,20:15,Manali
+1084,Malana Travels,INR 1299,4.4,19 Seats available,Volvo A/C Semi Sleeper (2+2),18:00,11h 30m,05:30,Manali
+1085,Reo India Travels,1197,3.0,13 Seats available,Volvo A/C Semi Sleeper (2+2),17:25,10h 55m,04:20,Private Bus Stand
+1086,Himalayan Nomad KTC,1485,3.1,35 Seats available,Volvo A/C Semi Sleeper (2+2),18:00,14h 00m,08:00,Private Bus Stand
+1087,Himalayan Nomad KTC,1485,2.4,8 Seats available,Volvo A/C Semi Sleeper (2+2),16:30,13h 30m,06:00,Private Bus Stand
+1088,PAL Travel Lines,899,2.5,23 Seats available,Volvo A/C Semi Sleeper (2+2),21:15,11h 15m,08:30,Private Bus Parking Manali
+1089,Kartar Travels Private Limited,807,2.4,19 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),20:00,11h 30m,07:30,Private Bus Stand
+1090,City Land Travels,1338,3.3,6 Seats available,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),11:15,11h 45m,23:00,Private Bus Stand
+1091,JN HOLIDAYS,1018,1.9,5 Seats available,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),19:00,10h 50m,05:50,Private Bus Stand
+1092,PAL Travel Lines,999,2.5,22 Seats available,Volvo A/C Semi Sleeper (2+2),17:30,11h 00m,04:30,Manali
+1093,Leo Travel heights,INR 1300,2.3,28 Seats available,Volvo A/C Semi Sleeper (2+2),18:00,13h 55m,07:55,Private Bus Stand
+1094,BT Travels,997,3.6,2 Seats available,Bharat Benz A/C Semi Sleeper (2+2),19:00,11h 55m,06:55,Manali privet parking
+1095,Himalayan Nomad KTC,1485,1.6,53 Seats available,Volvo A/C Semi Sleeper (2+2),17:30,14h 00m,07:30,Private Bus Stand
+1096,TRAVELLING INDIA,963,4.2,53 Seats available,Volvo A/C Semi Sleeper (2+2),18:00,14h 00m,08:00,Manali
+1097,Holiday Appeal Private Limited,1899,3.0,12 Seats available,Volvo Multi-Axle A/C Seater (2+2),21:00,12h 00m,09:00,zingbus Lounge Manali 200 m F...
+1098,RAO TRAVELS INDIA PVT LTD.,INR 1494,3.6,27 Seats available,Mercedes Benz A/C (2+2),17:00,12h 00m,05:00,Private Bus Stand
+1099,Zingbus Plus,989,4.8,48 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),20:30,11h 20m,07:50,Private Bus Stand
+1100,City Land Travels,1538,3.7,35 Seats available,Volvo A/C Semi Sleeper (2+2),22:00,10h 55m,08:55,Private Bus Stand
+1101,Holiday Appeal Private Limited,1899,3.1,49 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),19:00,12h 00m,07:00,Private Bus Stand
+1102,Himalayan Nomad KTC,1485,2.5,17 Seats available,Volvo A/C Semi Sleeper (2+2),17:00,13h 30m,06:30,Manali
+1103,Holiday Appeal Private Limited,1899,3.4,28 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),18:00,12h 00m,06:00,Private Bus Stand
+1104,Reo India Travels,1197,3.6,9 Seats available,Volvo A/C Semi Sleeper (2+2),17:40,10h 50m,04:30,Private Bus Stand
+1105,City Land Travels,1190,4.1,39 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),21:00,10h 20m,07:20,Private Bus Stand
+1106,TANISHQ HOLIDAYS TOUR,1349,2.6,20 Seats available,Volvo A/C Semi Sleeper (2+2),18:00,12h 00m,06:00,Manali
+1107,City Land Travels,1538,3.2,34 Seats available,Volvo A/C Semi Sleeper (2+2),23:10,12h 05m,11:15,Private Bus Stand
+1108,Reo India Travels,1197,3.5,33 Seats available,Volvo A/C Semi Sleeper (2+2),19:35,12h 00m,07:35,Private Bus Stand
+1109,City Land Travels,1438,2.8,14 Seats available,Volvo A/C Semi Sleeper (2+2),15:00,12h 50m,03:50,Manali
+1110,Subh Yatri Holidays,923,3.8,26 Seats available,Volvo A/C Semi Sleeper (2+2),17:30,11h 15m,04:45,Private Bus Stand
+1111,HIMALAYAN HOLIDAYS,INR 1099,3.9,41 Seats available,Volvo A/C Semi Sleeper (2+2 ),18:00,12h 00m,05:50,Private Bus Stand Manali
+1112,Northern Travels,INR 1500,2.9,33 Seats available,Volvo A/C Semi Sleeper (2+2),17:30,13h 00m,06:30,Private Bus Stand
+1113,Suswagtam Tours,1799,1.8,17 Seats available,Volvo A/C Semi Sleeper (2+2),18:00,11h 55m,05:55,Private Bus Stand
+1114,Subh Yatri Holidays,923,1.6,8 Seats available,Volvo A/C Semi Sleeper (2+2),18:30,11h 15m,05:45,Manali
+1115,ROYAL SAFARI INDIA TRAVELS,1349,2.2,30 Seats available,Bharat Benz A/C Semi Sleeper (2+2),21:00,11h 30m,08:30,Manali
+1116,SIDDHI VINAYAK TRAVELS,1044,2.1,49 Seats available,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),17:30,13h 00m,06:30,Manali
+1117,Travel hub,989,2.1,53 Seats available,Volvo A/C Semi Sleeper (2+2),16:00,12h 00m,04:00,Manali
+1118,RAO TRAVELS INDIA PVT LTD.,INR 1234,1.4,27 Seats available,Mercedes Benz A/C (2+2),17:30,14h 00m,07:30,Manali
+1119,Travel Zap India Pvt LTD.,INR 999,1.8,13 Seats available,Volvo Multi-Axle A/C (2+2),20:00,11h 40m,07:40,Private Bus Stand
+1120,Hari Das Tour &Travels,802,2.9,25 Seats available,Bharat Benz A/C Seater (2+2),19:00,11h 00m,06:00,Manali
+1121,G.T.SHolidays,INR 999,1.1,43 Seats available,Bharat Benz A/C Semi Sleeper (2+2),18:30,11h 30m,06:00,Manali
+1122,Himgiri Adventure Tour,1169,1.8,25 Seats available,Bharat Benz A/C Semi Sleeper (2+2),18:00,12h 30m,06:30,Manali
+1123,Travel Zap India Pvt LTD.,INR 999,1.5,31 Seats available,Volvo Multi-Axle B9R A/c Semi Sleeper (2+2),19:00,10h 50m,05:50,Private Bus Stand
+1124,City Land Travels,1338,1.0,31 Seats available,Volvo A/C Semi Sleeper (2+2),11:30,11h 45m,23:15,Manali
+1125,Himachal Travels Height,INR 999,2.8,5 Seats available,Volvo A/C Semi Sleeper (2+2),18:00,12h 30m,06:30,Private Bus Stand
+1126,Subh Yatri Holidays,923,3.5,31 Seats available,Volvo A/C Semi Sleeper (2+2),18:30,11h 15m,05:45,Manali
+1127,Vee Kay Travels,INR 1200,3.5,33 Seats available,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),18:00,11h 30m,05:30,Private Bus Stand
+1128,PAL Travel Lines,999,3.4,26 Seats available,Scania A/C Semi Sleeper (2+2),18:05,11h 00m,05:05,MANALI
+1129,HIMALAYAN HOLIDAYS,INR 1399,2.9,27 Seats available,Volvo A/C Semi Sleeper (2+2 ),17:30,13h 00m,06:30,Private Bus Stand
+1130,Sugam Yatra,INR 1800,2.8,16 Seats available,Bharat Benz A/C Semi Sleeper (2+2),18:00,13h 00m,07:00,Private Bus Stand
+1131,SPEED BUS,997,2.5,41 Seats available,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),13:00,12h 30m,01:30,Manali
+1132,Subh Yatri Holidays,923,2.4,51 Seats available,Volvo A/C Semi Sleeper (2+2),17:30,11h 15m,04:45,Manali
+1133,Cab India Travels,1200,2.0,5 Seats available,Volvo A/C Semi Sleeper (2+2),17:00,14h 02m,07:02,Manali
+1134,Yatrabybus.com,INR 2599,1.7,14 Seats available,Bharat Benz A/C Semi Sleeper (2+2),18:00,10h 00m,04:00,Manali
+1135,Travel Zap India Pvt LTD.,INR 999,,31 Seats available,Mercedes benz a/c Seater (2+2),20:30,11h 40m,08:10,Private Bus Stand
+1136,Royal Travels Hills,INR 1399,,5 Seats available,Volvo A/C Semi Sleeper (2+2),18:00,12h 00m,06:00,MANALI
+1137,Himgiri Adventure Tour,1349,,,Volvo A/C (2+2),19:00,14h 00m,09:00,
+1138,JN HOLIDAYS,1202,,,Volvo A/C Semi Sleeper (2+2),20:40,11h 10m,07:50,
+1139,U.K Travels(India),INR 1349,,,Scania A/C Semi Sleeper (2+2),17:25,13h 05m,06:30,
+1140,Laxmi holidays,759,4.6,42 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),21:30,07h 00m,04:30,Solan Bharat Pump
+1141,Laxmi holidays,428,4.6,20 Seats available,Volvo A/C Semi Sleeper (2+2),11:45,07h 45m,19:30,Solan Bypass
+1142,Bedi Travels,702,4.6,41 Seats available,Volvo A/C Semi Sleeper (2+2 ),23:00,06h 30m,05:30,Solan bypass SD
+1143,City Land Travels,700,4.5,37 Seats available,Volvo A/C Semi Sleeper (2+2),23:45,05h 45m,05:30,Solan
+1144,FlixBus,INR 336,4.1,28 Seats available,A/C Seater (2+2),12:25,07h 15m,19:40,Solan Bypass
+1145,FlixBus,INR 429,4.3,33 Seats available,A/C Seater (2+2),21:25,07h 15m,04:40,Solan bypass SD
+1146,Zingbus Plus,471,4.6,8 Seats available,Volvo A/C Semi Sleeper (2+2),21:50,06h 45m,04:35,Solan
+1147,City Land Travels,710,2.9,45 Seats available,Volvo A/C Semi Sleeper (2+2),23:20,05h 40m,05:00,Solan Bypass
+1148,Ram Dalal Holidays,648,3.6,,Volvo A/C Semi Sleeper (2+2),23:15,06h 15m,05:30,
+1149,Laxmi holidays,INR 399,2.9,,Bharat Benz A/C Semi Sleeper (2+2),10:35,07h 25m,18:00,
+1150,City Land Travels,638,2.3,,Volvo A/C Semi Sleeper (2+2),11:50,07h 10m,19:00,
+1151,City Land Travels,351,,,Volvo A/C Semi Sleeper (2+2),11:00,07h 30m,18:30,
+1152,RAO TRAVELS INDIA PVT LTD.,INR 1375,,,AC Seater (2+2),23:00,07h 00m,06:00,
+1153,TANISHQ HOLIDAYS TOUR,1619,2.8,49 Seats available,Volvo Multi-Axle A/C Semi Sleeper (2+2),19:00,06h 30m,01:30,Majnu Ka Tilla
+1154,TANISHQ HOLIDAYS TOUR,1619,2.8,49 Seats available,Volvo Multi-Axle A/C Semi Sleeper (2+2),21:00,06h 30m,03:30,Majnu Ka Tilla
+1155,HRTC - 84,INR 1589,3.7,2 Seats available,Himsuta AC Seater Volvo/Scania 2+2,20:15,15h 15m,11:30,ISBT Kashmiri Gate
+1156,HRTC - 531,INR 796,4.1,37 Seats available,Ordinary 3+2 Non AC Seater,17:50,16h 10m,10:00,ISBT Kashmiri Gate
+1157,HRTC - 590,INR 879,3.2,42 Seats available,A/C Executive (2+3),19:00,15h 15m,10:15,ISBT Kashmiri Gate
+1158,HRTC - 578,INR 862,3.6,37 Seats available,Ordinary 3+2 Non AC Seater,22:10,20h 25m,18:35,ISBT Kashmiri Gate
+1159,HRTC - 576,INR 632,3.4,27 Seats available,Himsuta AC Seater Volvo/Scania 2+2,23:20,06h 40m,06:00,ISBT Kashmiri Gate
+1160,HRTC - 580,INR 352,3.3,37 Seats available,Ordinary 3+2 Non AC Seater,22:45,07h 15m,06:00,ISBT Kashmiri Gate
+1161,HRTC - 6754,INR 327,2.8,39 Seats available,A/C Executive (2+3),12:00,06h 40m,18:40,ISBT Kashmiri Gate
+1162,HRTC - 513,INR 331,3.2,,Ordinary 3+2 Non AC Seater,10:30,06h 30m,17:00,
+1163,HRTC - 568,INR 342,2.6,,Ordinary 3+2 Non AC Seater,21:30,09h 45m,07:15,
+1164,HRTC - 514,INR 331,3.3,,Ordinary 3+2 Non AC Seater,11:30,07h 45m,19:15,
+1165,Ram Dalal Holidays,1452,4.8,18 Seats available,Volvo 9600 Multi Axle Semi-Sleeper (2+2),21:45,10h 25m,08:10,Majnu Ka Tilla
+1166,Ram Dalal Holidays,1341,4.8,18 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),19:30,11h 10m,06:40,ISBT Kashmiri Gate
+1167,Laxmi holidays,1234,4.8,28 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),19:00,10h 50m,05:50,ISBT Kashmiri Gate
+1168,AdZingbus Plus,1079,4.5,25 Seats available,Volvo A/C Semi Sleeper (2+2),21:30,09h 40m,07:10,Majnu Ka Tilla
+1169,Laxmi holidays,1424,4.7,15 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),22:00,11h 00m,09:00,ISBT Kashmiri Gate
+1170,Laxmi holidays,1377,4.7,15 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),21:00,10h 15m,07:15,ISBT Kashmiri Gate
+1171,Bedi Travels,1098,4.7,17 Seats available,Volvo 9600 Multi Axle Semi-Sleeper (2+2),21:00,10h 45m,07:45,ISBT Kashmiri Gate
+1172,AdCity Land Travels,850,3.3,12 Seats available,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),22:20,10h 00m,08:20,ISBT Kashmiri Gate
+1173,Laxmi holidays,1329,4.6,23 Seats available,Volvo Multi-Axle A/C Semi Sleeper (2+2),20:00,10h 55m,06:55,ISBT Kashmiri Gate
+1174,Laxmi holidays,1377,4.7,15 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),21:00,11h 00m,08:00,ISBT Kashmiri Gate
+1175,Laxmi holidays,1424,4.7,15 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),22:00,10h 55m,08:55,ISBT Kashmiri Gate
+1176,Bedi Travels,1098,4.6,17 Seats available,Volvo 9600 Multi Axle Semi-Sleeper (2+2),21:00,10h 30m,07:30,ISBT Kashmiri Gate
+1177,FlixBus,INR 1530,4.6,1 Seat available,A/C Seater (2+2),19:00,12h 00m,07:00,Delhi RK Ashram (Flixbus Lounge)
+1178,Zingbus Plus,1090,4.6,24 Seats available,Volvo A/C Semi Sleeper (2+2),21:30,09h 50m,07:20,Majnu Ka Tilla
+1179,Bedi Travels,1152,4.6,17 Seats available,Volvo A/C Semi Sleeper (2+2 ),21:45,10h 45m,08:30,ISBT Kashmiri Gate
+1180,Laxmi holidays,1234,4.5,28 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),19:00,10h 35m,05:35,ISBT Kashmiri Gate
+1181,Zingbus Plus,1055,4.5,39 Seats available,Volvo Multi-Axle A/C Semisleeper (2+2),22:05,10h 15m,08:20,Majnu Ka Tilla
+1182,Laxmi holidays,1329,4.5,23 Seats available,Volvo Multi-Axle A/C Semi Sleeper (2+2),20:00,10h 53m,06:53,ISBT Kashmiri Gate
+1183,Zingbus Plus,1066,4.5,39 Seats available,Volvo Multi-Axle A/C Semisleeper (2+2),22:05,10h 20m,08:25,Majnu Ka Tilla
+1184,Bedi Travels,1152,4.3,17 Seats available,Volvo A/C Semi Sleeper (2+2 ),21:45,11h 00m,08:45,ISBT Kashmiri Gate
+1185,Triptara tour & Travel,1100,3.5,29 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),20:30,10h 50m,07:20,Majnu Ka Tilla
+1186,City Land Travels,1019,3.5,25 Seats available,Volvo A/C Semi Sleeper (2+2),20:30,10h 00m,06:30,ISBT Kashmiri Gate
+1187,City Land Travels,1019,4.0,25 Seats available,Volvo A/C Semi Sleeper (2+2),20:30,10h 30m,07:00,ISBT Kashmiri Gate
+1188,New Himalaya Travels,INR 1040,3.1,26 Seats available,Volvo A/C Semi Sleeper (2+2),21:15,10h 30m,07:45,Majnu Ka Tilla
+1189,A N Holidays,949,4.2,19 Seats available,Bharat Benz A/C Semi Sleeper (2+2),19:30,11h 15m,07:15,Majnu Ka Tilla
+1190,Raghukul Holidays,1259,3.5,37 Seats available,Volvo A/C Semi Sleeper (2+2),20:30,10h 30m,07:00,Manju ka tila potala ground ...
+1191,City Land Travels,850,3.0,12 Seats available,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),22:20,10h 30m,08:50,ISBT Kashmiri Gate
+1192,Triptara tour & Travel,1100,4.5,29 Seats available,Scania Multi-Axle AC Semi Sleeper (2+2),20:30,11h 00m,07:30,Majnu Ka Tilla
+1193,New Himalaya Travels,INR 1040,2.8,26 Seats available,Volvo A/C Semi Sleeper (2+2),21:15,10h 34m,07:49,Majnu Ka Tilla
+1194,A N Holidays,949,2.2,19 Seats available,Bharat Benz A/C Semi Sleeper (2+2),19:30,10h 40m,06:40,Majnu Ka Tilla
+1195,Raghukul Holidays,1259,1.3,37 Seats available,Volvo A/C Semi Sleeper (2+2),20:30,11h 25m,07:55,Manju ka tila potala ground ...
+1196,Asian's Shina Tour & Travels (Swoyambhu Manjushree Yatayat P. LTD),INR 999,3.6,45 Seats available,VE A/C Seater (2+2),19:45,10h 45m,06:30,Majnu Ka Tilla
+1197,City Land Travels,1838,3.5,32 Seats available,Volvo A/C Semi Sleeper (2+2),22:30,10h 30m,09:00,Majnu Ka Tilla
+1198,City Land Travels,1838,3.4,32 Seats available,Volvo A/C Semi Sleeper (2+2),22:30,10h 00m,08:30,Majnu Ka Tilla
+1199,Raghukul Holidays,1079,3.8,23 Seats available,Volvo A/C Semi Sleeper (2+2),20:00,10h 55m,06:55,Majnu ka tilla Potala Ground ...
+1200,Raghukul Holidays,1079,2.8,23 Seats available,Volvo A/C Semi Sleeper (2+2),20:00,11h 00m,07:00,Majnu ka tilla Potala Ground ...
+1201,Ram Dalal Holidays,962,,27 Seats available,Volvo A/C Semi Sleeper (2+2),22:45,10h 25m,09:10,Majnu Ka Tilla
+1202,Northern Travels,INR 795,3.1,28 Seats available,Volvo A/C Semi Sleeper (2+2),23:00,06h 45m,05:45,Ghumarwin
+1203,Chandigarh Transport Undertaking (CTU) - 165943,INR 512.39,4.4,31 Seats available,HVAC Seater (2+3),10:45,07h 00m,17:45,Sector 42 IndianOil Petrol Pump
+1204,City Land Travels,938,3.6,12 Seats available,Bharat Benz (2+2),23:30,07h 00m,06:30,Tribune Chowk Sector 31B
+1205,Laxmi holidays,1139,4.4,29 Seats available,VE A/C Semi Sleeper (2+2),23:50,05h 40m,05:30,Tribune Chowk Sector 31B
+1206,Laxmi holidays,1139,4.6,29 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),23:55,05h 55m,05:50,Tribune Chowk Sector 31B
+1207,Laxmi holidays,1139,4.6,19 Seats available,Volvo 9600 A/C Semi Sleeper (2+2),23:55,05h 40m,05:35,Sohana Gurudwara chandigarh
+1208,A N Holidays,949,3.9,31 Seats available,Bharat Benz A/C Semi Sleeper (2+2),23:59,07h 16m,07:15,Sector 42 IndianOil Petrol Pump
+1209,City Land Travels,938,1.3,19 Seats available,Bharat Benz (2+2),23:30,06h 45m,06:15,Sohana Gurudwara chandigarh
+1210,A N Holidays,949,2.4,,Bharat Benz A/C Semi Sleeper (2+2),23:59,06h 41m,06:40,
+1211,KRISHNA TRANSPORT SHIMLA,640,2.7,,NON A/C Seater Push Back (2+2),08:30,08h 45m,17:15,
